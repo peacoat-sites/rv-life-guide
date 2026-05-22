@@ -3,7 +3,7 @@ title: "Class A Vs Class B Vs Class C Rv"
 date: 2026-05-21T02:10:53.642537+00:00
 draft: false
 description: "Discover the key differences between Class A, Class B, and Class C RVs to find the perfect motorhome for your lifestyle, budget, and travel needs."
-image: "https://images.pexels.com/photos/9354566/pexels-photo-9354566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30563253/pexels-photo-30563253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["Class", "Class", "Class"]
 author: "Dan Calloway"
