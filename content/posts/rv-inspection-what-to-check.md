@@ -3,7 +3,7 @@ title: "Rv Inspection What To Check"
 date: 2026-05-21T04:12:34.341007+00:00
 draft: false
 description: "Learn what to check during an RV inspection before buying or hitting the road. From roof and plumbing to electrical systems, avoid costly surprises with this gu"
-image: "https://images.pexels.com/photos/7967373/pexels-photo-7967373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33803734/pexels-photo-33803734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["inspection", "what", "check"]
 author: "Amy Kowalski"
