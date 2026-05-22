@@ -3,7 +3,7 @@ title: "Rv Monthly Expenses Breakdown"
 date: 2026-05-21T04:24:48.421465+00:00
 draft: false
 description: "Plan your budget with confidence using our complete RV monthly expenses breakdown covering fuel, campsite fees, insurance, maintenance, and more for full-time t"
-image: "https://images.pexels.com/photos/32704921/pexels-photo-32704921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7905586/pexels-photo-7905586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["monthly", "expenses", "breakdown"]
 author: "Carlos Mendez"
