@@ -3,7 +3,7 @@ title: "Rv Living For Beginners"
 date: 2026-05-21T02:05:18.205149+00:00
 draft: false
 description: "Discover everything you need to know about RV living as a beginner, from choosing the right rig to budgeting, camping tips, and life on the open road."
-image: "https://images.pexels.com/photos/30131061/pexels-photo-30131061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5432833/pexels-photo-5432833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["living", "beginners"]
 author: "Rachel Simmons"
