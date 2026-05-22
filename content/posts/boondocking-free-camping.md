@@ -3,7 +3,7 @@ title: "Boondocking Free Camping"
 date: 2026-05-22T12:03:39.587576+00:00
 draft: false
 description: "Discover the best boondocking free camping spots, tips for dispersed camping on public lands, and essential gear needed for off-grid adventures."
-image: "https://images.pexels.com/photos/7476214/pexels-photo-7476214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34482313/pexels-photo-34482313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["boondocking", "free", "camping"]
 author: "Editorial Team"
