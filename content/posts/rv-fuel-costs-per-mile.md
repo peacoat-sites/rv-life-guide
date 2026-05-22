@@ -3,7 +3,7 @@ title: "Rv Fuel Costs Per Mile"
 date: 2026-05-21T12:31:52.944648+00:00
 draft: false
 description: "Plan your RV road trip budget with confidence. Learn how to calculate RV fuel costs per mile, factors that affect MPG, and tips to reduce your fuel expenses."
-image: "https://images.pexels.com/photos/23153100/pexels-photo-23153100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17627490/pexels-photo-17627490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["fuel", "costs", "mile"]
 author: "Dan Calloway"
