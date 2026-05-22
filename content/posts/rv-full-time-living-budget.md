@@ -3,7 +3,7 @@ title: "Rv Full Time Living Budget"
 date: 2026-05-21T04:22:09.332754+00:00
 draft: false
 description: "Plan your RV full time living budget with our complete guide. Discover real monthly costs, money-saving tips, and how to make life on the road affordable."
-image: "https://images.pexels.com/photos/17273587/pexels-photo-17273587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34005910/pexels-photo-34005910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["full", "time", "living", "budget"]
 author: "Dan Calloway"
