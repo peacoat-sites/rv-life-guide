@@ -9,6 +9,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+author = "Stephen Brenish"
   description = "Your complete guide to full-time RV living — campgrounds, systems, budgeting, route planning, and making life on the road work long-term."
   niche = "RV Life & Van Living"
   adsense_id = "ca-pub-3466203197759215"
