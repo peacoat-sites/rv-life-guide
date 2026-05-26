@@ -1,6 +1,5 @@
 googleAnalytics = "G-1ED951ZQ52"
 baseURL = "https://rv-life-guide.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "RV Life Guide"
 [pagination]
