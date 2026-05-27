@@ -34,6 +34,12 @@ author = "Stephen Brenish"
   impact_verification = ""
   impact_tracking_id  = "" 
 
+  persona_name       = "Cody & Brenna Pierce"
+  persona_title      = "Full-Time RV Writers"
+  persona_bio        = "Cody and Brenna Pierce sold their house in 2019, bought a 34-foot fifth wheel, and have been living full-time on the road ever since. They write honestly about the real costs, logistics, and lifestyle of full-time RV living — the good and the challenging."
+  persona_initials   = "CP"
+  disclaimer         = "This site shares personal experience and general research. Campground availability, road restrictions, vehicle requirements, and costs vary significantly. Always verify specifics for your route, rig, and situation."
+
 [taxonomies]
   category = "categories"
   tag = "tags"
