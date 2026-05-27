@@ -1,28 +1,38 @@
 ---
-title: "About Us"
+title: "About RV Life Guide"
 date: 2026-01-01
 draft: false
-description: "About RV Life Guide — our mission and what we cover"
+description: "About RV Life Guide — meet Cody and Brenna Pierce, full-time RVers writing about life on the road."
 ---
 
 ## About RV Life Guide
 
-RV Life Guide is an independent resource dedicated to providing clear, practical, and trustworthy information on RV lifestyle, travel, and full-time living on the road.
+RV Life Guide is a resource for anyone thinking about — or already living — the full-time RV lifestyle. We write from experience, not theory.
 
-Our content is researched and written to help everyday people make informed decisions. We cover practical topics with step-by-step guidance, expert insights, and real-world examples.
+## Meet the Writers
 
-## Our Mission
+**Cody and Brenna Pierce** are the writers behind RV Life Guide.
 
-We believe good information should be accessible to everyone. Our goal is to cut through the noise and deliver content that is accurate, actionable, and easy to understand — whether you're a beginner or looking to go deeper.
+In 2019, Cody and Brenna sold their house, put most of their belongings in storage, and moved into a 34-foot fifth wheel. They've since traveled to all 48 contiguous states, camped in national forests and full-hookup resorts, dealt with blowouts, water pump failures, and generator issues — and figured out, through trial and error, how to make full-time RV living actually work.
 
-## Editorial Standards
+RV Life Guide exists because when they started, they couldn't find straightforward answers to practical questions: How much does it actually cost per month? What do you do when you need mail? How do you handle healthcare? What's the realistic learning curve for towing? They write the guides they wish existed when they started.
 
-Every article on this Site goes through a review process to ensure accuracy and relevance. We update our content regularly to reflect the latest information.
+## What We Cover
+
+RV Life Guide covers every aspect of the full-time RV lifestyle — rig selection and buying advice, campground types and costs, route planning, maintenance basics, full-time budgeting, remote work while traveling, and the honest trade-offs of life on the road.
+
+## Our Approach
+
+We write from personal experience first and research second. When we cover something we haven't done ourselves, we say so. We'd rather give you one honest answer than five hedged ones.
+
+## Disclaimer
+
+RV Life Guide shares personal experience and general research. Campground policies, road weight limits, towing requirements, and costs vary by location, rig, and season. Always verify specifics for your route and vehicle before heading out.
 
 ## Affiliate Disclosure
 
-Some links on this Site are affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you. This never influences our editorial recommendations — we only recommend products and services we genuinely believe in.
+Some links on this site, particularly for gear and equipment, are Amazon affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you.
 
-## Contact Us
+## Contact
 
-Have a question, suggestion, or want to reach out? Visit our [Contact page](/contact).
+Questions about the RV life? [We'd love to hear from you](/contact/).
