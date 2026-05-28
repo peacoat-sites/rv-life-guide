@@ -1,4 +1,3 @@
-googleAnalytics = "G-1ED951ZQ52"
 baseURL = "https://rv-life-guide.com/"
 languageCode = "en-us"
 title = "RV Life Guide"
@@ -79,3 +78,7 @@ logo_text_1 = "RV"
   [[related.indices]]
     name   = "categories"
     weight = 50
+
+[services]
+  [services.googleAnalytics]
+    id = "G-1ED951ZQ52"
