@@ -8,11 +8,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-hero_color_4 = "#080600"
-hero_color_3 = "#f59e0b"
-hero_color_2 = "#1a1200"
-hero_color_1 = "#0d0900"
-primary_color = "#f59e0b"
 logo_text_2 = "Life Guide"
 logo_text_1 = "RV"
   description = "Your complete guide to full-time RV living — campgrounds, systems, budgeting, route planning, and making life on the road work long-term."
