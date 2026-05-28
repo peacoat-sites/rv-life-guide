@@ -12,6 +12,7 @@ title = "RV Life Guide"
 
 disableHugoGeneratorInject = true
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
