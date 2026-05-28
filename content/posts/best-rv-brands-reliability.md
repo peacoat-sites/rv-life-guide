@@ -16,7 +16,7 @@ You spend $85,000 on a brand-new Class A motorhome, pull out of the dealership l
 
 ## Why RV Quality Is So Hard to Pin Down
 
-Let's get something uncomfortable out of the way first. No RV brand is consistently excellent across all product lines. Not one. Thor, Forest River, Winnebago, Airstream — they all have lemons rolling off the same assembly lines in Elkhart, Indiana, where an estimated 80% of North American RVs are manufactured. The problem is structural: RVs are built fast, with a workforce that faces serious turnover, combining dozens of subcontracted components (appliances, chassis, slides, plumbing) that no single company fully controls.
+Let's get something uncomfortable out of the way first. No RV brand is consistently excellent across all product lines. Not one. Thor, Forest River, Winnebago, Airstream ,  they all have lemons rolling off the same assembly lines in Elkhart, Indiana, where an estimated 80% of North American RVs are manufactured. The problem is structural: RVs are built fast, with a workforce that faces serious turnover, combining dozens of subcontracted components (appliances, chassis, slides, plumbing) that no single company fully controls.
 
 That said, some brands do meaningfully better than others. And within brands, some product lines are dramatically more reliable than others. The difference between a Forest River Berkshire and a Forest River Cherokee is enormous, even though they share a parent company. So when you're researching reliability, you have to go a level deeper than brand names alone.
 
@@ -123,5 +123,5 @@ After 90,000 miles and six years, I still don't have a perfect answer to the rel
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299) — Complete home security kit with video doorbell — documents visitors and can lower home insurance premiums by up to 20%.
+- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299) ,  Complete home security kit with video doorbell ,  documents visitors and can lower home insurance premiums by up to 20%.
 
