@@ -1,6 +1,7 @@
 baseURL = "https://rv-life-guide.com/"
 languageCode = "en-us"
 title = "RV Life Guide"
+
 enableRobotsTXT = true
 enableEmoji = true
 
