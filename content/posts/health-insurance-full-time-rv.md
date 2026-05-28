@@ -3,7 +3,7 @@ title: "Health Insurance Full Time Rv"
 date: 2026-05-24T10:54:26.310792+00:00
 draft: false
 description: "Health insurance options for full-time RV living. Compare coverage plans, costs, and tips for staying insured while traveling the road full-time."
-image: "https://pixabay.com/get/g5e9389f4f6956cb7d4ad6308765fa31bff73b53875e139d5f17c6f3f5b9992de68fd56d3a264da3ae80f7e0dc3b7a8cc46859cdfbbc7c0d5429688fbf82a2440_1280.jpg"
+image: "https://images.pexels.com/photos/2398220/pexels-photo-2398220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["logistics"]
 tags: ["health", "insurance", "full", "time"]
 author: "Editorial Team"
