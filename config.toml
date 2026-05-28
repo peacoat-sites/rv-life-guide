@@ -7,6 +7,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#f8faf8"
+  nav_style = "dark"
 logo_text_2 = "Life Guide"
 logo_text_1 = "RV"
   description = "Your complete guide to full-time RV living — campgrounds, systems, budgeting, route planning, and making life on the road work long-term."
