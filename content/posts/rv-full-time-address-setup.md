@@ -3,7 +3,7 @@ title: "Rv Full Time Address Setup"
 date: 2026-05-25T12:49:24.339919+00:00
 draft: false
 description: "Full-time RV living requires establishing a legal address. Learn how to set up mail forwarding, domicile, insurance, and registration for your mobile lifestyle."
-image: "https://pixabay.com/get/gd6813fe8417d565e39e5470c701ccad421947dfc0d6ada7f142fd76fef7d0736e4777b6c32f6310496626efecdb8bd7fd1506a73fdaf0d69b3df91dfecf01439_1280.jpg"
+image: "https://images.pexels.com/photos/2398220/pexels-photo-2398220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["logistics"]
 tags: ["full", "time", "address", "setup"]
 author: "Editorial Team"
