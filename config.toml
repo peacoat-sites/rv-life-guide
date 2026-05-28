@@ -1,10 +1,11 @@
 baseURL = "https://rv-life-guide.com/"
 languageCode = "en-us"
 title = "RV Life Guide"
-[pagination]
-  pagerSize = 12
 enableRobotsTXT = true
 enableEmoji = true
+
+[pagination]
+  pagerSize = 12
 
 [params]
   page_bg = "#f3faf5"
