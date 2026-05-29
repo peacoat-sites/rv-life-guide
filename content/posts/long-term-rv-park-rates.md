@@ -108,3 +108,12 @@ The line has blurred, but generally: an RV park rents you a site, you stay in yo
 Sometimes, especially if you're driving a hard bargain or the park is motivated to fill a site. Some parks offer an "all-inclusive" monthly rate that bundles electric at a flat add-on, say $75 or $100, regardless of actual usage. If you run electric heat in winter or heavy AC in summer, an all-inclusive deal is often worth paying a bit more for the rate. If you're a light user with good solar and propane, you'll probably save money on metered electric.
 
 Long-term RV living absolutely can be affordable, sometimes dramatically more affordable than stick-and-brick housing, but only if you understand how the pricing works and aren't afraid to ask for what you want. The neighbors paying $650 at that $1,400-asking-price park didn't stumble into a deal. They knew to ask, knew to negotiate, and knew what to look for before they signed anything. That knowledge gap is the only real difference between people who make full-timing work on a budget and people who burn through savings faster than they expected.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+

@@ -146,3 +146,13 @@ For most single-AC, 30-amp rigs, the Honda EU3000iS is the sweet spot. It handle
 ---
 
 A generator isn't glamorous gear. Nobody brags about their generator setup the way they brag about solar panels or lithium batteries. But when you're 40 miles from the nearest town in August heat, or parked through a three-day rainstorm on a cloudy stretch in the Pacific Northwest where your solar is useless, a reliable generator that you understand and maintain is what keeps your trip from becoming a survival story. Take the time to size it right, maintain it consistently, and know its limits before you need it. That preparation is the whole game.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599) — 1002Wh portable power station with three 1000W AC outlets — one of the best-reviewed solar generators on Amazon.
+- **[Jackery Explorer 1000 v2 (1070Wh, 1-Hr Charge)](https://www.amazon.com/dp/B0D7PPG25F/?tag=contentportfo-20)** (~$799) — Updated Jackery Explorer 1000 with LFP battery and ultra-fast 1-hour recharge.
+
