@@ -130,3 +130,12 @@ Soft tissue injuries that feel minor initially sometimes reveal themselves to be
 ---
 
 The fall itself is the easy part to understand. What happens afterward, the documentation gaps, the comparative fault arguments, the statute of limitations deadlines you didn't know existed, that's where legitimate claims get lost. Move fast, document everything, don't assume the property owner's insurer is working in your interest, and get legal advice before you accept any settlement offer. You only get one shot at this.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299) — Complete home security kit with video doorbell — documents visitors and can lower home insurance premiums by up to 20%.
+
