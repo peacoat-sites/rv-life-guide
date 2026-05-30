@@ -1,6 +1,6 @@
 ---
 title: "What Truck To Tow Fifth Wheel"
-date: 2026-05-26T12:26:39.577273+00:00
+date: 2026-05-24T15:51:17.745817+00:00
 draft: false
 description: "Looking to tow a fifth wheel? Learn which trucks have the capacity, payload, and features needed to safely tow your fifth wheel trailer."
 image: "https://images.pexels.com/photos/1687702/pexels-photo-1687702.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

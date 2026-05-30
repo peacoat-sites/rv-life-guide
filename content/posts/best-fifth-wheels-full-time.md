@@ -1,6 +1,6 @@
 ---
 title: "Best Fifth Wheels Full Time"
-date: 2026-05-21T04:05:17.211310+00:00
+date: 2026-05-29T11:47:38.198160+00:00
 draft: false
 description: "Discover the best fifth wheels for full time living. We compare top models for comfort, durability, and space to help you find your perfect home on wheels."
 image: "https://images.pexels.com/photos/35832746/pexels-photo-35832746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

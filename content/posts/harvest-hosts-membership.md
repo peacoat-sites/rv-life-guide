@@ -1,6 +1,6 @@
 ---
 title: "Harvest Hosts Membership"
-date: 2026-05-29T21:57:25.999673+00:00
+date: 2026-05-28T07:03:58.095425+00:00
 draft: false
 description: "Join Harvest Hosts and enjoy unique overnight stays at wineries, farms, and breweries across North America. Discover membership benefits, costs, and how to sign"
 image: "https://images.pexels.com/photos/5847704/pexels-photo-5847704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

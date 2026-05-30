@@ -1,6 +1,6 @@
 ---
 title: "Boondocking Locations Free"
-date: 2026-05-29T21:47:58.089348+00:00
+date: 2026-05-25T14:07:38.184950+00:00
 draft: false
 description: "Discover the best boondocking locations for free camping across the US. Find stunning spots on public lands, national forests, and BLM land for your next advent"
 image: "https://images.pexels.com/photos/106401/pexels-photo-106401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

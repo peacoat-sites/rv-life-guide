@@ -1,6 +1,6 @@
 ---
 title: "Rv Domicile State Options"
-date: 2026-05-23T10:48:52.972269+00:00
+date: 2026-05-24T18:32:34.783525+00:00
 draft: false
 description: "Choose your RV domicile state wisely. Compare residency options, tax implications, and registration requirements to find the best state for your needs."
 image: "https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

@@ -1,6 +1,6 @@
 ---
 title: "Towing Capacity Calculator"
-date: 2026-05-27T12:34:51.302796+00:00
+date: 2026-05-26T16:25:03.498216+00:00
 draft: false
 description: "Calculate your vehicle's maximum towing capacity instantly. Determine safe towing limits based on your car, truck, or SUV specifications."
 image: "https://images.pexels.com/photos/29152225/pexels-photo-29152225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
