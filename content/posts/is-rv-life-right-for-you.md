@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Is RV Life Right for You? Take the Quiz"
 description: "Curious whether full-time or part-time RV life suits you? Take this fun 7-question quiz to see how well the road-trip lifestyle fits your habits and goals."
 slug: "is-rv-life-right-for-you"
