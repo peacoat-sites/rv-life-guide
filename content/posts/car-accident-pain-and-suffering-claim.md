@@ -130,3 +130,12 @@ Range is wide: anywhere from $3,000 to $75,000+ depending on injury severity, re
 ---
 
 Eight years of road life means I've watched the RV community get hurt twice: once in the accident, once in the settlement. The insurer's job is to close claims cheaply. Your job is to know what you're worth and hold the line long enough to get it. That combination, solid documentation, a realistic number, and the willingness to push back, is what separates people who walk away whole from people who cash a check and regret it six months later.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+

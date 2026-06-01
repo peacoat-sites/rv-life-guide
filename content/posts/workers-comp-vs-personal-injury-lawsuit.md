@@ -130,3 +130,13 @@ For simple claims with clear liability, straightforward injuries, and cooperativ
 ---
 
 Getting injured is already hard enough without stumbling into the wrong legal system. The workers' comp versus personal injury question isn't really about which one is "better," because they're designed for different situations. What matters is understanding which one applies to your circumstances, whether both might apply through a third-party claim, and moving quickly before evidence disappears and deadlines pass. If you're out here living the road life, working seasonal gigs or campground jobs, the odds of this being theoretical are lower than you'd like. Know the framework before you need it.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Victim to Victory: A Personal Injury Survival Guide](https://www.amazon.com/dp/B0DSJS714K/?tag=contentportfo-20)** (~$16) — Written by a personal injury attorney — explains the full claims process, how insurance companies calculate settlements.
+- **[Navigating Personal Injury Claims](https://www.amazon.com/dp/B0DCV3KHRH/?tag=contentportfo-20)** (~$14) — Covers the pre-litigation claims process step by step — medical documentation, negotiation tactics, and what to expect.
+
