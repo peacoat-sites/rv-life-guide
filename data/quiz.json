@@ -1,0 +1,149 @@
+{
+  "title": "Is RV Life Right for You?",
+  "intro": "Answer 7 quick questions to see how well the RV lifestyle fits your habits, goals, and comfort with the open road. This is just for fun and self-reflection, not a verdict.",
+  "questions": [
+    {
+      "q": "How do you feel about living in a small, multi-use space where the bed, kitchen, and couch are all a few steps apart?",
+      "options": [
+        {
+          "t": "Cozy and freeing, less stuff to manage",
+          "s": 3
+        },
+        {
+          "t": "I could adjust if it meant more adventure",
+          "s": 1
+        },
+        {
+          "t": "I need my room to spread out and breathe",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "When a trip plan falls apart, the campground's full, or the route closes, how do you usually react?",
+      "options": [
+        {
+          "t": "Shrug and find a Plan B, that's half the fun",
+          "s": 3
+        },
+        {
+          "t": "A little stressed, but I figure it out",
+          "s": 1
+        },
+        {
+          "t": "It really rattles me, I like things locked in",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How handy are you with fixing or maintaining things yourself?",
+      "options": [
+        {
+          "t": "I enjoy tinkering and learning to fix stuff",
+          "s": 3
+        },
+        {
+          "t": "Not a pro, but I'll watch a video and try",
+          "s": 1
+        },
+        {
+          "t": "I'd rather call someone every time",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What does your ideal vacation look like?",
+      "options": [
+        {
+          "t": "Roaming, changing scenery, nights under the stars",
+          "s": 3
+        },
+        {
+          "t": "A mix of exploring and a comfy home base",
+          "s": 1
+        },
+        {
+          "t": "A nice hotel or resort with everything handled",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about disconnecting from reliable internet and city conveniences for stretches at a time?",
+      "options": [
+        {
+          "t": "Sounds peaceful, I want less screen time anyway",
+          "s": 3
+        },
+        {
+          "t": "Fine for a while if I can reconnect when needed",
+          "s": 1
+        },
+        {
+          "t": "I need solid Wi-Fi and amenities close by",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you and the people (or pets) you'd travel with handle close quarters for days on end?",
+      "options": [
+        {
+          "t": "We genuinely enjoy each other's company",
+          "s": 3
+        },
+        {
+          "t": "Mostly good with a little space now and then",
+          "s": 1
+        },
+        {
+          "t": "We'd be at each other's throats by day two",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How ready are you to learn new skills like backing up a rig, dumping tanks, and boondocking?",
+      "options": [
+        {
+          "t": "Bring it on, I love learning by doing",
+          "s": 3
+        },
+        {
+          "t": "Nervous but willing to practice",
+          "s": 1
+        },
+        {
+          "t": "Honestly that all sounds like a lot of hassle",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "RV life might not be your easiest fit right now",
+      "body": "Your answers suggest you value comfort, space, and predictability, which is completely valid. That doesn't mean the road isn't for you, it just means a full leap could feel rough. A great way to test the waters is to rent an RV for a weekend or book a cabin-style camp stay before committing to anything bigger.",
+      "cta": "Read our RV rental and first-trip guide"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "RV life could work well for you, with a plan",
+      "body": "You've got a real mix of adventurous spirit and healthy realism, which is a strong foundation. With the right rig size, a few practiced skills, and a flexible itinerary, you could enjoy this lifestyle a lot. Start by figuring out what type of RV matches how you actually like to travel.",
+      "cta": "Explore our RV types and buying basics"
+    },
+    {
+      "min": 15,
+      "max": 18,
+      "title": "You're a strong fit for RV life",
+      "body": "Flexibility, curiosity, and a hands-on streak, you check the big boxes. You'd likely thrive whether you go part-time on weekends or dive toward full-time travel. Now it's about dialing in the details: rig setup, must-have gear, and finding your favorite places to roam.",
+      "cta": "Dive into our full-time RV and gear guides"
+    }
+  ],
+  "disclaimer": "This quiz is just for fun and self-reflection, not professional advice. Only you can decide what lifestyle is right for you."
+}
