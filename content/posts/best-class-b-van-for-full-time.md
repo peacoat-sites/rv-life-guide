@@ -10,6 +10,17 @@ author: "Rachel Simmons"
 author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "best-class-b-van-for-full-time"
 affiliate_disclosure: false
+faqs:
+  - q: "Is a Class B big enough for two people full time?"
+    a: "Yes, couples do it regularly, but 'big enough' depends entirely on the couple. If you both work from home, it gets tight fast. The vans with dedicated seating areas that convert, rather than a single dinette, give you more psychological separation during the day. Think hard about your work setup before you commit to a floor plan."
+  - q: "Should I buy new or used for full-time living?"
+    a: "Used saves money upfront but can mean inheriting someone else's deferred maintenance nightmares. If you go used, spend $300 to $500 on a pre-purchase inspection from an RV-specific mechanic, not just a general automotive shop. Look for units under 50,000 miles with service records. A 2019 Travato with 35,000 documented miles is often a smarter buy than a 2023 with unknown history."
+  - q: "Which platform, Sprinter or ProMaster, is better for full-time use?"
+    a: "The Sprinter diesel wins on fuel economy and long-term highway reliability. The ProMaster wins on parts availability, repair cost, and service network density. If you're traveling mostly in the western US and Canada, go Sprinter. If you're spending significant time in rural areas far from major metro repair shops, ProMaster's accessibility might matter more."
+  - q: "Do I need a tow vehicle with a Class B?"
+    a: "Most full-timers don't tow with a Class B. The platform isn't designed for heavy towing, and adding a car on a tow dolly changes your driving and parking dramatically. Some people tow a small car or motorcycle. If you expect to need a separate vehicle regularly (for urban exploration, mostly), factor in the added complexity and fuel cost."
+  - q: "How do I handle mail and domicile as a full-timer?"
+    a: "Your three most popular options are South Dakota, Texas, and Florida, all of which have favorable domicile laws for full-time travelers. South Dakota is the most popular for straightforward registration and no state income tax. Use a mail forwarding service like Escapees Mail Service or America's Mailbox. This is a bureaucratic headache you should solve before you hit the road, not after."
 ---
 
 Six years ago I handed over the keys to my 2,400-square-foot house in Columbus, Ohio, drove to a dealership in Indiana, and came home in a 24-foot Class B motorhome. I thought I'd done my research. I had not. Three blown tires, two failed inverters, one terrifying moment on a mountain pass in Colorado, and roughly 90,000 miles later, I can tell you that choosing the *right* van makes or breaks full-time living in ways no YouTube walkthrough will fully prepare you for.

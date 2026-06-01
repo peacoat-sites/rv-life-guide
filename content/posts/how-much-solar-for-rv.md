@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-solar-for-rv"
 affiliate_disclosure: false
+faqs:
+  - q: "Can 200 watts of solar power an RV full-time?"
+    a: "No. Not unless your total daily power consumption is under 600 Wh, which means no residential fridge, no laptop work, minimal lighting, and no cooking appliances. 200 watts is appropriate for weekend trips with very light loads. Full-timers need to start the conversation at 800 watts minimum and go from there."
+  - q: "Is 400Ah of lithium battery enough for full-time RV living?"
+    a: "It depends entirely on your consumption. For a moderate full-time setup drawing 1,500-2,000 Wh per day, 400Ah at 12V gives you roughly 4,800 Wh of storage, which is 2.5 to 3 days of capacity. That's a solid buffer. If your daily load is 3,000+ Wh, you'll feel constrained on cloudy days without a generator backup."
+  - q: "Do I really need lithium batteries or will AGM work?"
+    a: "AGM works. It's heavier, has half the usable capacity per pound, charges more slowly, and doesn't tolerate deep discharges as well. If you're a weekend camper, a good AGM bank is fine and costs less upfront. If you're full-timing, the weight penalty and reduced lifespan of AGM usually make lithium the better total investment over 3-5 years. I made the switch to LiFePO4 in year three and haven't looked back."
+  - q: "What's the best solar panel brand for RVs?"
+    a: "I've had good experiences with Renogy and Rich Solar for panel quality at reasonable price points. SunPower makes excellent high-efficiency panels if roof space is your constraint. For charge controllers and monitoring, Victron is the gold standard and worth the premium. Avoid the no-name panels on discount sites. The savings aren't worth the uncertainty when you're relying on them daily."
+  - q: "Can I run air conditioning on solar?"
+    a: "Yes, but it's expensive to do right. A rooftop RV AC unit draws 1,300-1,800 watts while running and cycles frequently. Running it for 8 hours could consume 7,000-10,000+ Wh in a day. To support that on solar alone, you'd need 4,000+ watts of panels and a substantial battery bank, plus you'd need peak sun hours to align with peak cooling demand. Some full-timers make it work with large lithium banks and 3,000-4,000 watts of solar. Most use solar to offset the generator load rather than eliminate it entirely. It's a system design question, not a simple yes or no. The honest bottom line: most peo"
 ---
 
 Most people Google "how much solar do I need for my RV" and land on some manufacturer's page that tells them 200 watts is "a great starter system." Then they buy it, spend their first dry-camping weekend watching their battery voltage drop while their coffee maker sits unplugged and useless, and wonder what went wrong. What went wrong is that 200 watts might be fine for a weekend warrior charging a phone and running LED lights. It is nowhere near enough for someone actually living in their rig. The answer to "how much solar" depends almost entirely on how you use power, not on what size RV you drive.

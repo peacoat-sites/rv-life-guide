@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "rv-full-time-address-setup"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I use a family member's address as my legal domicile?"
+    a: "Technically yes, but only if you're genuinely maintaining ties to that state and intend it to be your true legal home. If you're using a relative's Ohio address while driving a South Dakota-registered RV with a South Dakota driver's license, you have conflicting domicile signals that can cause problems with the IRS and insurance companies. Simplicity wins here. Pick one state and be consistent across all records."
+  - q: "Do I have to pay income tax in every state I travel through?"
+    a: "Generally no. Driving through or camping in a state briefly doesn't trigger income tax obligations there. You pay income tax (if any) in your domicile state. The exception is if you're physically working in a state for extended periods, particularly more than 30 consecutive days. Remote workers who simply receive a paycheck from an employer back home typically don't have this problem, but consult a tax professional if you spend months at a time in high-tax states."
+  - q: "What happens if I'm already domiciled somewhere and want to change states?"
+    a: "You'll need to physically visit the new state's DMV, establish your mail forwarding address there first, and surrender your old license for a new one. You'll also need to re-register your vehicles. Update your insurance records, bank accounts, and voter registration. It's a half-day of work plus one trip, but many full-timers switch once and never look back."
+  - q: "Will digital mail forwarding satisfy official address requirements for the IRS and banks?"
+    a: "The digital scanning part is for your convenience, but what matters to official agencies is the physical street address your mail forwarding service provides. As long as that address is a real street address (not a P.O. Box designation), it typically satisfies requirements for the IRS, banks, and insurers. Confirm with your specific provider that their address format is accepted for government correspondence."
+  - q: "How do full-time RVers handle jury duty?"
+    a: "Once you're registered to vote in your domicile state, you can be called for jury duty there. Most full-timers handle this by requesting a postponement (standard practice) and then, if called again, explaining their situation in writing. Some states have provisions for hardship exemptions for people who live full time outside the area. It rarely becomes a serious problem, but don't ignore summons hoping they'll disappear."
 ---
 
 You just found the perfect rig, you've mapped out your first few destinations, and then someone asks: "So what's your address?" Suddenly the excitement stalls. It's a deceptively simple question with surprisingly complicated answers. Your address affects your driver's license, vehicle registration, voting rights, taxes, insurance rates, and even your ability to open a bank account. Getting this wrong costs people hundreds or thousands of dollars every year. Getting it right is one of the most important logistical moves you'll make before hitting the road full time.

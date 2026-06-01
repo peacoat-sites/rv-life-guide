@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "leveling-rv-guide"
 affiliate_disclosure: false
+faqs:
+  - q: "How do I know if my RV is level enough without a level tool?"
+    a: "Your refrigerator is actually a decent indicator. If the door swings open or closed on its own, you're off-level enough to matter. A glass of water on a flat counter surface is another rough check. But honestly, a bubble level costs $8 and removes all guesswork. It's one of the first things I'd put in any new RVer's kit."
+  - q: "Can I use my RV's stabilizer jacks to level the rig?"
+    a: "No. Stabilizer jacks are designed to reduce rocking and sway once you're parked, not to raise or lower the RV for leveling. Using them to level puts stress on the frame that they're not designed to handle. For a trailer, you correct side-to-side with blocks under the tires. For a motorhome, the leveling jacks (usually larger and hydraulically operated) do that job."
+  - q: "My RV has an automatic leveling system. Do I still need leveling blocks?"
+    a: "Yes, sometimes. Auto-leveling works within a certain range, usually around 6 inches of total correction. If you're parked on a steep site or on soft ground, you may need blocks under certain tires to get close to level before the system can do the rest. Even with auto-leveling, rubber jack pads on soft ground are smart insurance."
+  - q: "Does leveling really affect my RV fridge that much?"
+    a: "Yes, and more quickly than most people expect. Running an absorption fridge significantly off-level for even a few hours can begin to affect performance. Running it off-level for days can cause permanent damage to the cooling unit. When I've had to park on a sloped site temporarily, I either use a portable cooler for perishables or make absolutely sure the fridge is my top priority to level first."
+  - q: "How much do I need to level before putting out my slide-outs?"
+    a: "Most manufacturers recommend getting reasonably level before extending slides, usually within a bubble or so on a standard level. Extending slides before leveling isn't dangerous in most situations, but it puts extra strain on the slide mechanism over time and can make your final level check inaccurate because the slides shift the weight distribution. Level first, extend slides second, then do a final level verification."
 ---
 
 You've just pulled into a campsite after a long drive, it's getting dark, and you can feel the RV is sitting at an angle. Your coffee will pool to one side of the mug, your refrigerator's cooling efficiency is already dropping (most RV fridges need to be within 3 degrees of level to work properly), and tonight you'll wake up at 2 a.m. feeling like you're slowly sliding toward the wall. Getting your RV level isn't just about comfort. It's about protecting your appliances, your sleep, and honestly, your sanity.

@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "backing-up-rv-guide"
 affiliate_disclosure: false
+faqs:
+  - q: "How do I keep my trailer straight while backing?"
+    a: "Use very small steering inputs and look at your mirrors more than your camera. The most common cause of a trailer going sideways is overcorrection: you correct right, overcorrect left, then you're in a jackknife. When the trailer starts to angle, apply a small correction in the opposite direction of where you want the trailer nose, then straighten the wheel. Think in degrees, not quarter turns."
+  - q: "What's the best way to back in solo without a spotter?"
+    a: "Walk the site completely before you attempt anything. Then back in stages: move 15 feet, get out and check your angle and clearance, get back in and continue. It takes longer, but you'll have zero surprises. A wireless backup camera with a phone app connection so your passenger (or you, standing outside) can monitor from behind the rig is a solid solo-backing upgrade."
+  - q: "Should I back in driver's side or passenger's side?"
+    a: "Driver's side whenever possible. You have a direct line of sight out your window to the rear of the rig. Passenger's side backing is a blind-side maneuver and requires more reliance on your spotter or more out-of-cab checks. Most experienced drivers will choose a site based on this if they have options."
+  - q: "My trailer jackknifes almost every time I try to back up. What's wrong?"
+    a: "Almost always a speed problem combined with overcorrection. You feel the trailer going wrong, you make a large correction, it goes more wrong in the other direction, you overcorrect again. The fix: back slower and make tiny steering adjustments. If you feel a jackknife starting, pull forward immediately and reset rather than trying to steer out of it."
+  - q: "How do toad (dinghy) vehicles affect backing a motorhome?"
+    a: "Significantly. A flat-towed vehicle behind a motorhome behaves similarly to a trailer, but with less control because it's connected with a tow bar, not a fifth wheel or ball hitch. Most experienced tower simply disconnect the toad before attempting a back-in. It takes five minutes and eliminates an enormous amount of complexity. Don't try to back a motorhome with a toad attached unless you've specifically practiced it and have someone spotting the toad."
 ---
 
 Most RV accidents happen at under 5 mph. That stat sounds almost funny until it's your rear corner wrapped around a concrete bollard you never saw. Backing up a rig, whether it's a 40-foot Class A or a 24-foot travel trailer, is where confidence gets built or destroyed fast. Most guides online treat it like a parallel parking tutorial for sedans. It isn't. The physics are different, the consequences are more expensive, and the stakes include other people's campsites, sewer hookups, and occasionally their lawn chairs.

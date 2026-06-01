@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "rv-domicile-state-options"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I stay domiciled in my home state if I go full-time?"
+    a: "Technically yes, if your home state allows it and you maintain the required ties. But if your home state has a high income tax rate, you're leaving money on the table. Most full-timers find that formally establishing domicile in a no-income-tax state is worth the effort within the first year."
+  - q: "Do I have to physically visit my domicile state every year?"
+    a: "South Dakota has no minimum annual visit requirement. Texas and Florida also have no hard annual return requirement, though you're expected to maintain genuine intent to make the state your permanent home. Spending zero time there over several years can create documentation problems if your domicile is ever challenged."
+  - q: "What address do I use for my domicile if I don't own property there?"
+    a: "A mail forwarding service provides a physical street address you can use for your driver's license, vehicle registration, and mailing address. Services like Americas Mailbox in South Dakota or Escapees' Rainbow's End location in Livingston, Texas, are built specifically for this purpose."
+  - q: "Can two spouses have different domicile states?"
+    a: "Legally yes, but it's complicated. Married couples filing jointly typically share a domicile state for tax purposes. If spouses have different domicile states, it can create filing issues and potential audit triggers. Most couples choose one state and both establish domicile there together."
+  - q: "What happens if I get pulled over in a state that's not my domicile state?"
+    a: "Nothing unusual. You present your license and registration from your domicile state, just like any out-of-state driver would. The issue only arises if an officer or state agency believes you've been living in their state long enough to require local registration, which is typically more than 90 days in most states."
 ---
 
 You sold your house, packed everything into a 36-foot motorhome, and you're ready to hit the road full time. Then someone asks: "So where do you *live*?" It's a question that stops a lot of new full-timers cold. The answer matters more than you'd think. Your domicile state determines your income tax burden, vehicle registration costs, health insurance options, and even your jury duty obligations. Pick the wrong state and you could owe thousands in unexpected taxes. Pick the right one and you might save $4,000 to $8,000 a year or more, depending on your income.

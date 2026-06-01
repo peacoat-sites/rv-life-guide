@@ -10,6 +10,17 @@ author: "Amy Kowalski"
 author_bio: "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."
 slug: "rv-inspection-what-to-check"
 affiliate_disclosure: false
+faqs:
+  - q: "How much does a professional RV inspection cost?"
+    a: "A certified inspector from the National RV Inspectors Association typically charges between $200 and $450 depending on the size and class of the vehicle. For any purchase over $20,000, this is money that makes complete sense to spend. Some inspectors will travel to the seller's location for an additional fee, usually $50 to $100."
+  - q: "Can I do an RV inspection myself, or do I need a professional?"
+    a: "You can absolutely do a thorough preliminary inspection yourself using the steps above. You'll catch most major red flags: roof condition, slide operation, water intrusion, tire age, appliance function. What you'll miss is anything behind walls, inside the engine mechanical systems, or related to complex electrical faults. For a high-dollar purchase, do both: your own inspection first, then a professional if the rig passes your eye test."
+  - q: "What is delamination and how do I spot it?"
+    a: "Delamination happens when the fiberglass outer skin separates from the foam substrate underneath due to water intrusion, age, or factory defects. Stand back 10 to 15 feet and look for bubbling, waviness, or separation along the lower sidewalls. Up close, press firmly on the fiberglass. If it flexes, crinkles, or feels hollow, it's delaminated. Minor delamination can sometimes be repaired; large sections are often structurally compromised and extremely expensive to fix properly."
+  - q: "Should I be worried about a rig that's been in storage for a year or more?"
+    a: "Yes, and specifically about three things: tires (check those date codes), the propane system (rodents love to chew gas lines in storage), and the slide room seals (they dry out and crack when not regularly operated). Run the generator for a full hour under load after extended storage, not just the 10-minute demo that sellers always offer. A lot of problems only show up when systems have been running long enough to get to operating temperature."
+  - q: "What's the single most important thing to check on a used RV?"
+    a: "The roof. Every time. A bad roof means water damage, and water damage compounds every year it goes untreated. I've seen rigs with beautiful interiors and shiny exteriors that were essentially totaled because the roof sealant hadn't been maintained and the structure was rotted from the top down. If the roof checks out, you have a solid starting point. If it doesn't, factor in substantial repair costs or walk away."
 ---
 
 A couple in Tennessee bought a used Class A motorhome for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.

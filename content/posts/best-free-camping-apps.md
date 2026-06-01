@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-free-camping-apps"
 affiliate_disclosure: false
+faqs:
+  - q: "Are BLM and National Forest dispersed camping spots actually free?"
+    a: "Most of them, yes. On BLM land, dispersed camping is typically free with a 14-day stay limit at any single spot before you need to move at least 25 miles. National Forest rules vary by forest and district, with most allowing free dispersed camping unless posted otherwise. Some popular areas have transitioned to permit systems or fee sites. Always verify with the specific land management office before assuming free."
+  - q: "Can I trust the GPS coordinates in these apps?"
+    a: "Usually, but not always. I've had coordinates drop me 200 feet from the actual site entrance, which doesn't sound like much until it's a narrow forest road and you've overshot the turn. Use coordinates as a general guide and watch for physical markers. Screenshots of approach notes from the app are often more useful than the pin itself."
+  - q: "What's the difference between dispersed camping and boondocking?"
+    a: "They're often used interchangeably but technically dispersed camping refers specifically to camping on public land outside of designated campgrounds, while boondocking is the broader term for any camping without hookups, including Walmart lots and casino parking. Both are covered by the apps above, just in different sections."
+  - q: "Is it safe to camp alone at free sites?"
+    a: "I've done it for years, including as a solo woman. Most dispersed sites are safe. Common sense applies: tell someone your coordinates and check-in plan, keep your phone charged, and trust your gut about a spot. If another vehicle is parked in a way that makes you uncomfortable, move on. The apps often have comments about whether a spot felt safe, and those notes are worth reading."
+  - q: "What should I do if a spot listed as free now has a fee or is closed?"
+    a: "Report it in the app. Every major app has a 'suggest edit' or comment function. The whole system works because people contribute updates. If you find a closed gate or a new fee station, spending 90 seconds to update the listing is how you pay it forward to the next person who searches that spot."
 ---
 
 You're sitting in a Walmart parking lot at 9 PM, your tank is almost full, the next paid campground is $65 a night, and you're staring at your phone trying to remember which app your buddy mentioned at the rally in Quartzsite. Sound familiar? I've been there more times than I care to admit, and I've watched newer full-timers burn through a week's grocery budget on campground fees simply because they didn't know where to look. Free camping is out there, a lot of it, but finding it reliably means knowing which tools actually work in the field versus which ones look great in a YouTube video and disappoint you when you're tired and need a spot.

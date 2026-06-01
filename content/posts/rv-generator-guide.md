@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "rv-generator-guide"
 affiliate_disclosure: false
+faqs:
+  - q: "How long can I run my generator continuously?"
+    a: "Most portable generators are designed for 8-12 hours of continuous run time before they need a cooldown or refuel. Built-in Onan units in motorhomes can typically run for longer stretches, but the manufacturer usually recommends against running them indefinitely without periodic rest. In practice, running a portable 6-8 hours during the day and letting it rest overnight works well for most dry-camping setups."
+  - q: "Can I run my RV's generator while driving?"
+    a: "In a motorhome with a built-in generator, yes, many people do this to keep the interior cool for pets or passengers. In a towed RV or fifth-wheel, this isn't applicable since you're not in the living space while driving. For motorhomes, running the generator while moving is generally fine mechanically, though it does draw from the vehicle's fuel supply."
+  - q: "Why does my generator run but my AC won't start?"
+    a: "This is almost always a surge issue. Your generator can handle the running load of the AC but can't supply enough starting watts to kick the compressor over. The fix is usually a soft-start capacitor kit installed on the AC unit. The SoftStartRV and Micro-Air Easy Start are the two products most commonly used for this, and both work well. This is also occasionally a low-oil or low-voltage generator issue worth ruling out first."
+  - q: "How do I quiet a loud portable generator?"
+    a: "Short of replacing it with an inverter model, you have a few options. A generator muffler baffle box, essentially an insulated enclosure open on one end for airflow, can drop the noise significantly. Positioning the exhaust end away from your living area and neighboring campsites helps. Distance helps too: a 25-foot extension cord lets you place the generator further from the campsite without losing much power on a short run."
+  - q: "What's the best generator for a 30-amp RV?"
+    a: "For most single-AC, 30-amp rigs, the Honda EU3000iS is the sweet spot. It handles 3,000 running watts, starts a standard 13,500 BTU AC without a soft-start kit, is quiet enough for most campgrounds, and Honda's long-term reliability is hard to argue with. It runs around $2,000, which is real money, but for full-time or frequent boondocking use, it's the one I'd recommend without hesitation. Budget option with a soft-start kit on the AC: the Honda EU2200i at around $1,000."
 ---
 
 You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. I've been in that exact situation, and the difference between "inconvenience" and "dangerous" came down to whether I actually understood my generator setup before I needed it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.

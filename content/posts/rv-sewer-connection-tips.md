@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "rv-sewer-connection-tips"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I leave my RV sewer hose connected all the time at a full-hookup site?"
+    a: "You can leave the hose physically connected, yes. But as covered above, leave the black tank valve closed and only open it to dump every few days. Leaving the gray valve open for continuous drainage is fine. The hose itself being connected 24/7 isn't a problem as long as your fittings are secure."
+  - q: "What's the right length for a sewer hose?"
+    a: "A 20-foot hose handles the vast majority of campsites. Carry a 5-foot extension as backup for those awkward sites where the pedestal is far from your dump outlet or positioned at an odd angle. I've needed more than 25 feet combined exactly once in eight years."
+  - q: "Why does my RV smell like sewer even after a fresh dump?"
+    a: "Check your P-traps first (pour water down all drains), then inspect the toilet seal for drying or cracking, then verify your hose connection at the pedestal is actually sealed. If all three check out and you still have odor, your black tank vent may be obstructed. A blocked roof vent forces gases back into the cabin instead of out through the top of the rig."
+  - q: "Do I need to add chemicals to my black tank every time?"
+    a: "Not every single time. A good enzyme-based treatment like Happy Campers or Unique RV Digest-It helps with odor and breaks down solids, but you don't need a full dose at every dump. A reasonable routine is treating after each dump when staying on hookups, or every few days when boondocking. Overuse doesn't hurt anything, but it's unnecessary expense."
+  - q: "What do I do if my sewer hose comes apart mid-dump?"
+    a: "Close your black valve immediately. Then your gray. Assess the spill before touching anything. If it's contained to your site, most campgrounds have a dump station hose you can use to rinse the area, and you should tell the camp host. Don't try to reconnect a failed fitting under flow. Stop the source, then fix the connection, then resume. Keep a spare set of hose-end fittings in your wet bay. They're $5 and they've saved me twice."
 ---
 
 Most RV guides spend three paragraphs on sewer connections and then pivot to campground food recommendations. Meanwhile, you're standing in a gravel site at 7 PM trying to figure out why raw sewage is pooling around your boot. Let's skip the fluff and talk about what actually matters when you're hooking up to a sewer connection, because getting this wrong isn't just unpleasant. It's a health hazard, and it can destroy your tank sensors, your seals, and your dignity in front of the entire campground.

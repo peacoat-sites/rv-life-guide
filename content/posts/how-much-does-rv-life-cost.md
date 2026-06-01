@@ -10,6 +10,17 @@ author: "Rachel Simmons"
 author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "how-much-does-rv-life-cost"
 affiliate_disclosure: false
+faqs:
+  - q: "Is RV life actually cheaper than living in a house?"
+    a: "Sometimes, but not automatically. If you're coming from renting in a high cost-of-living city like San Francisco or New York, yes, RV life can absolutely be cheaper. If you're coming from a paid-off house in rural Ohio with a $700 monthly mortgage, probably not. Run your actual numbers against your actual current expenses before assuming you'll save money."
+  - q: "What's the most common budget mistake new full-timers make?"
+    a: "Underestimating repairs and maintenance by a huge margin. People budget $50 a month and then spend $3,000 in the first six months fixing problems the previous owner didn't disclose. Buy the most thoroughly inspected used rig you can, or a new one with a warranty, and budget at least $200 a month for things breaking."
+  - q: "Can a couple live full time on $2,000 a month in an RV?"
+    a: "It's possible but tight, and it requires a paid-off rig, heavy reliance on free camping, no health insurance problems, and cooking virtually every meal. I've done months at $1,340 as mentioned above, but not consistently, and not without the foundation of equipment (solar, paid-off rig) that required upfront investment."
+  - q: "How much did you spend setting up your RV for full-time life?"
+    a: "Between the rig itself (I bought a used 2015 Class C for $58,000), solar installation, a new mattress, storage upgrades, the surge protector, a quality water filter system, and the first-year surprise repairs, I spent about $72,000 in year one. That's not typical for everyone, but it's honest."
+  - q: "Does RV life get cheaper after the first year?"
+    a: "Yes, meaningfully so. The first year has a learning tax: gear you buy and don't need, campgrounds you pay for while you learn boondocking, repairs that expose hidden problems in a used rig, memberships you try and cancel. By year two or three, most experienced full-timers have systems dialed in and costs drop 20% to 30% from that chaotic first year."
 ---
 
 My first month on the road, I spent $6,800. My best month ever cost $1,340. Both were real, both were full-time RV life, and neither number tells the whole story. If you've been Googling "how much does RV life cost" and getting answers that range from $1,500 to $5,000 a month with no real explanation of why, you're not crazy for being confused. The range is that wide because the variables are enormous, and most people writing about this have a vested interest in making it sound either thrillingly affordable or comfortably manageable.

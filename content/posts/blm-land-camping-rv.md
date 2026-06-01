@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "blm-land-camping-rv"
 affiliate_disclosure: false
+faqs:
+  - q: "How long can I stay on BLM land?"
+    a: "The standard limit is 14 consecutive days in a single location. After that, you must move at least 25 miles before returning to the same area. Some field offices in high-demand areas run shorter limits, as low as 7 days. Check the specific field office rules for your destination. The BLM website lists each state's field offices with contact info."
+  - q: "Can I have a campfire on BLM land?"
+    a: "It depends entirely on current fire conditions. During fire season, which runs roughly May through October across most of the West, many BLM areas post fire restrictions ranging from no ground fires to no open flames at all. Check InciWeb and the specific field office before you assume a fire ring means fires are allowed. Violations carry fines and can result in being banned from the area."
+  - q: "Do I need any permits or passes for BLM dispersed camping?"
+    a: "For most dispersed camping, no permit is required. A handful of popular BLM areas have instituted permit systems to manage overcrowding, including parts of the Eastern Sierra and some Utah canyon areas. Call the field office or check recreation.gov for your target area before assuming you can show up without advance arrangements."
+  - q: "Is BLM land safe for solo campers?"
+    a: "Reasonably, yes, with preparation. The biggest risks are practical: mechanical breakdown with no cell service to call for help, medical emergencies in remote locations, and getting a rig stuck. Carry a satellite communicator like a Garmin inReach or Zoleo if you're going remote. Have a tow plan. Tell someone your rough location and check-in schedule. Personal safety from other people is rarely the concern most newcomers imagine it to be."
+  - q: "Can I bring my pets to BLM land?"
+    a: "Yes. BLM land generally allows pets, with no restrictions on numbers or breeds, which is a real advantage over many state parks and campgrounds. Dogs must be under control, and in some areas leash rules apply. Rattlesnakes, cactus, and extreme heat are the actual hazards. Keep pets out of dry washes and arroyos, especially during monsoon season in the Southwest, and check paws after walks on rocky terrain."
 ---
 
 Most RV coverage about BLM camping reads like a brochure written by someone who spent one weekend at a developed campground and called it "dispersed." They'll tell you it's free, it's beautiful, and you just need to "check the rules." What they skip: the road conditions that will destroy your rig if you pick the wrong site, the 14-day clock that catches beginners off guard, and the fact that "free" camping still carries real costs if you're not set up for it. Here's what actually matters.

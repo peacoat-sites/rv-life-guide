@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "mail-forwarding-full-time-rv"
 affiliate_disclosure: false
+faqs:
+  - q: "Can I use my mail forwarding address as my legal home address?"
+    a: "Yes, in most states that are RV-friendly. South Dakota, Texas, and Florida all allow a commercial mail forwarding address to serve as your legal domicile address. You'll need it to be a real street address rather than a PO Box number. Services like Escapees and America's Mailbox provide street addresses specifically for this reason."
+  - q: "How often should I request mail forwarding?"
+    a: "Most full-timers request forwarding every one to two weeks. If you go paperless on almost everything, every three to four weeks is manageable. The key is not letting time-sensitive mail sit. If you're using a scanning service, you see it digitally immediately and can request physical forwarding only for what actually matters."
+  - q: "What happens to my mail during the transition before I set up a forwarding address?"
+    a: "File a USPS temporary hold first. You can hold mail at your local post office for up to 30 days for free online. That buys you time to set up your forwarding service and file the official change of address without losing anything in the gap."
+  - q: "Do I need to notify the IRS of my new address?"
+    a: "Yes. File IRS Form 8822 to update your address with the federal tax agency. This ensures any correspondence, refund checks, or notices reach you. The IRS does not automatically update based on your tax return filing address, so this is a separate step many people miss."
+  - q: "Will my health insurance change if I change my domicile state?"
+    a: "It can, significantly. ACA marketplace plans are state-specific, so changing your domicile state means you'll shop on a different state's exchange. Some states have much better plan options than others. South Dakota's ACA marketplace has limited insurer participation, so many full-timers who use SD as their domicile state opt for short-term health plans, health sharing ministries, or nationwide plans designed for travelers. Review your options carefully before finalizing your domicile choice."
 ---
 
 You just signed the lease on your apartment for the last time, sold most of your furniture on Facebook Marketplace, and your RV is parked out front ready to go. Then your phone buzzes. It's your bank, flagging a suspicious address change. Your insurance renewal is sitting in a mailbox you no longer own. And your new driver's license? It needs a physical address. Welcome to one of the most overlooked logistics problems in full-time RV living: mail forwarding.

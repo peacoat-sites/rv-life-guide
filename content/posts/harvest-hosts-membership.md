@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "harvest-hosts-membership"
 affiliate_disclosure: false
+faqs:
+  - q: "Is Harvest Hosts really free, or are there hidden fees?"
+    a: "The membership costs $99 per year (standard) or $135 for the Plus tier. The stays themselves have no nightly fee charged through Harvest Hosts. The implicit expectation is that you purchase something from the host business, which typically runs $15 to $40 depending on the location. There's no booking fee, no reservation deposit, nothing beyond the annual membership."
+  - q: "Can I bring my pets to Harvest Hosts locations?"
+    a: "Many hosts are pet-friendly, but it varies by location. The listing page for each host shows their pet policy. In my experience, wineries and farms in particular tend to be pet-welcoming, but always check before you show up with three dogs. Some hosts have livestock and a strange dog off-leash would be genuinely disruptive."
+  - q: "What if a host cancels or the stay isn't what the listing described?"
+    a: "This happens occasionally. A host might close unexpectedly, or the parking situation might be different than pictured. The Harvest Hosts support team is responsive, and the reviews usually surface issues fairly quickly. If a stay doesn't match the listing, you can report it and Harvest Hosts will follow up with the host. Have a backup plan for the night whenever you can."
+  - q: "Do you actually have to buy something, or can you just park?"
+    a: "Technically nobody is going to chase you down if you don't buy anything. But the entire program is built on the social contract that you will. Hosts can leave you a review too, and they can remove themselves from the program if guests routinely show up and don't patronize the business. If the host's business genuinely doesn't have anything you want, at minimum have a conversation and be a friendly, respectful guest. The 'buy something' expectation is real and you should honor it."
+  - q: "Can I use Harvest Hosts in a van or smaller rig, or is it only for big RVs?"
+    a: "Van dwellers and small rig travelers are fully welcome. In fact, at some locations with tighter access, a smaller rig is actually an advantage. The only requirement is that you're self-contained. If you're in a converted van with a composting toilet and a small solar setup, you qualify. Some of the best Harvest Hosts stays I've heard about from the van living community were at small urban breweries where a large Class A simply couldn't have fit."
 ---
 
 Most people assume Harvest Hosts is basically a fancy campground discount club. I thought the same thing when a fellow full-timer mentioned it at a dump station in eastern Tennessee about five years ago. I nodded politely and kept doing what I was doing. Six months later, broke down in rural New Mexico and killing time scrolling forums at 11pm, I finally looked it up properly. What I found was nothing like what I'd assumed, and I'll be honest: skipping it for those six months was a genuine mistake.

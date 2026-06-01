@@ -10,6 +10,17 @@ author: "Rachel Simmons"
 author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "rv-campground-fees"
 affiliate_disclosure: false
+faqs:
+  - q: "How far in advance do I need to book popular campgrounds?"
+    a: "For national park campgrounds in peak season, six months is not an overkill. Recreation.gov releases many reservations exactly six months ahead and the best sites go within minutes. Yosemite, Glacier, Zion: plan half a year out. For private parks in normal shoulder season, two to four weeks is usually sufficient. BLM and dispersed camping require no reservation at all, which is part of the appeal."
+  - q: "Are campground fees tax deductible if I live in my RV full-time?"
+    a: "If your RV is your primary residence, you may be able to deduct the interest on your RV loan as mortgage interest, but campground fees themselves are generally not deductible as a housing expense unless you use a dedicated work area in your RV and can demonstrate home office use. Talk to a CPA who works with full-time RVers. It's a specialized situation that general tax advice gets wrong."
+  - q: "What's the cheapest way to camp long-term in the same region?"
+    a: "The cheapest legal long-term option is stringing together BLM 14-day stays on adjacent plots of land, essentially moving a few miles every two weeks to reset the clock. This requires research and works best in the West where BLM land is abundant. The next cheapest is a seasonal permit at a state forest or national forest where they're available. A Corps of Engineers monthly rate is often the best of both worlds: cheap and legal for longer stays."
+  - q: "Do campground prices vary significantly by region?"
+    a: "Yes, dramatically. The Pacific Coast, the Northeast, and popular mountain regions in Colorado run among the highest rates. The Southeast, Midwest, and most of Texas tend to run cheaper. I paid $28 a night for a full hookup site in rural Mississippi that would have been $75 in coastal Maine."
+  - q: "Can you negotiate campground fees?"
+    a: "More than most people think. Monthly rates are almost always negotiable, especially in the off-season or if you're filling a site that's been sitting empty. Extended stays in spring or fall at seasonal parks sometimes come with discounts if you ask. You won't get anywhere at a packed-out summer park, but during shoulder season, calling the owner directly rather than booking through an app opens up conversations that the booking platform never would."
 ---
 
 The $12-a-night campground I found outside Moab in 2021 felt like winning the lottery. Flat desert site, no hookups, dead quiet, and a sky so full of stars it looked fake. Two years later, I drove the same route and that same spot was $34 a night, booked three weeks out, and had a 72-hour cancellation policy. That's not an anomaly. Campground fees across North America have fundamentally shifted since 2020, and if you're planning an RV trip, or trying to live full-time on the road like I do, understanding what you're actually paying for, and why, can save you hundreds of dollars per month.
