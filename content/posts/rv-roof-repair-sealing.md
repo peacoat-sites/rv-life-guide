@@ -3,7 +3,7 @@ title: "Rv Roof Repair Sealing"
 date: 2026-06-02T12:56:11.429548+00:00
 draft: false
 description: "Learn how to repair and seal your RV roof with expert tips on the best materials, step-by-step methods, and how to prevent costly leaks and water damage."
-image: "https://images.pexels.com/photos/7967373/pexels-photo-7967373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9143458/pexels-photo-9143458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["roof", "repair", "sealing"]
 author: "Maria Vasquez"

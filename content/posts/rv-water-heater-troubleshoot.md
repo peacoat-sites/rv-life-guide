@@ -3,7 +3,7 @@ title: "Rv Water Heater Troubleshoot"
 date: 2026-06-03T14:13:23.003411+00:00
 draft: false
 description: "Learn how to troubleshoot common RV water heater problems with our step-by-step guide. Fix issues fast and get your hot water running again on the road."
-image: "https://images.pexels.com/photos/23153100/pexels-photo-23153100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8147181/pexels-photo-8147181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["water", "heater", "troubleshoot"]
 author: "Alex Reeves"

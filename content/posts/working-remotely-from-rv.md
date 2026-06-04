@@ -3,7 +3,7 @@ title: "Working Remotely From Rv"
 date: 2026-06-02T12:53:54.401507+00:00
 draft: false
 description: "Discover tips for working remotely from an RV, including the best gear, internet solutions, and productivity hacks to make your mobile office life a success."
-image: "https://images.pexels.com/photos/17273587/pexels-photo-17273587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6946132/pexels-photo-6946132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 tags: ["working", "remotely", "from"]
 author: "Claire Novak"
