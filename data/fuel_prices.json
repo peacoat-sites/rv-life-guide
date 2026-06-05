@@ -1,0 +1,8 @@
+{
+  "title": "U.S. Average Fuel Prices",
+  "date": "2026-06-01",
+  "source": "U.S. Energy Information Administration (EIA)",
+  "note": "SEED VALUES \u2014 auto-updated weekly once EIA_API_KEY secret is added",
+  "gas": 3.16,
+  "diesel": 3.62
+}

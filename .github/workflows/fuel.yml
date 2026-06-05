@@ -1,0 +1,26 @@
+name: Fuel Prices (EIA)
+on:
+  schedule:
+    - cron: '30 11 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fuel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Fetch EIA fuel prices
+        env:
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+        run: python pipeline/fetch_eia_fuel.py
+      - name: Commit refreshed prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fuel_prices.json
+          git diff --staged --quiet || git commit -m "data: refresh EIA fuel prices"
+          git push

@@ -1,0 +1,60 @@
+{{/* RV trip fuel-cost calculator. National avg prices from EIA (data/fuel_prices.json). Usage: {{< fuel-calc >}} */}}
+{{ $d := site.Data.fuel_prices }}
+{{ $gas := 3.20 }}{{ $diesel := 3.65 }}{{ $date := "recently" }}{{ $src := "U.S. EIA" }}
+{{ with $d }}{{ $gas = .gas }}{{ $diesel = .diesel }}{{ $date = .date }}{{ $src = .source }}{{ end }}
+<div class="fuelcalc" style="margin:32px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
+  <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">RV Trip Fuel Cost Calculator</div>
+  <div style="padding:20px">
+    <div style="display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px">
+      <div style="flex:1;min-width:150px;background:var(--surface2,#f5f2ec);border-radius:10px;padding:12px 14px">
+        <div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase;letter-spacing:.05em">Avg Regular Gas</div>
+        <div style="font-size:1.5rem;font-weight:800;color:var(--accent,#c2410c)">${{ printf "%.2f" $gas }}<span style="font-size:13px;font-weight:500;color:var(--muted,#6b7280)">/gal</span></div>
+      </div>
+      <div style="flex:1;min-width:150px;background:var(--surface2,#f5f2ec);border-radius:10px;padding:12px 14px">
+        <div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase;letter-spacing:.05em">Avg Diesel</div>
+        <div style="font-size:1.5rem;font-weight:800;color:var(--accent,#c2410c)">${{ printf "%.2f" $diesel }}<span style="font-size:13px;font-weight:500;color:var(--muted,#6b7280)">/gal</span></div>
+      </div>
+    </div>
+    <p style="font-size:12px;color:var(--muted,#6b7280);margin:0 0 18px">National averages for the week of {{ $date }} · Source: {{ $src }}. Prices update weekly — adjust the price field below for your local pumps.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
+      <label style="font-size:13px;font-weight:600;display:block">Trip distance (miles)
+        <input id="fc-miles" type="number" value="500" min="0" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box"></label>
+      <label style="font-size:13px;font-weight:600;display:block">RV fuel economy (MPG)
+        <input id="fc-mpg" type="number" value="10" min="1" step="0.5" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box"></label>
+      <label style="font-size:13px;font-weight:600;display:block">Fuel type
+        <select id="fc-type" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box">
+          <option value="gas">Regular gas</option><option value="diesel">Diesel</option></select></label>
+      <label style="font-size:13px;font-weight:600;display:block">Price per gallon ($)
+        <input id="fc-price" type="number" value="{{ printf "%.2f" $gas }}" min="0" step="0.01" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box"></label>
+    </div>
+    <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:20px">
+      <div style="flex:1;min-width:110px;text-align:center;padding:14px;border:1px solid var(--border,#e7e5e4);border-radius:10px">
+        <div style="font-size:12px;color:var(--muted,#6b7280)">Fuel needed</div>
+        <div id="fc-gal" style="font-size:1.4rem;font-weight:800">&mdash;</div></div>
+      <div style="flex:1;min-width:110px;text-align:center;padding:14px;border:1px solid var(--border,#e7e5e4);border-radius:10px">
+        <div style="font-size:12px;color:var(--muted,#6b7280)">Total fuel cost</div>
+        <div id="fc-cost" style="font-size:1.4rem;font-weight:800;color:var(--accent,#c2410c)">&mdash;</div></div>
+      <div style="flex:1;min-width:110px;text-align:center;padding:14px;border:1px solid var(--border,#e7e5e4);border-radius:10px">
+        <div style="font-size:12px;color:var(--muted,#6b7280)">Cost per mile</div>
+        <div id="fc-cpm" style="font-size:1.4rem;font-weight:800">&mdash;</div></div>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var GAS={{ $gas }}, DIESEL={{ $diesel }};
+  var miles=document.getElementById('fc-miles'),mpg=document.getElementById('fc-mpg'),
+      type=document.getElementById('fc-type'),price=document.getElementById('fc-price'),
+      gal=document.getElementById('fc-gal'),cost=document.getElementById('fc-cost'),cpm=document.getElementById('fc-cpm');
+  function calc(){
+    var mi=parseFloat(miles.value)||0,mg=parseFloat(mpg.value)||0,pr=parseFloat(price.value)||0;
+    var g=mg>0?mi/mg:0,c=g*pr;
+    gal.textContent=g?g.toFixed(1)+' gal':'—';
+    cost.textContent=c?'$'+c.toFixed(2):'—';
+    cpm.textContent=mi>0?'$'+(c/mi).toFixed(2):'—';
+  }
+  type.addEventListener('change',function(){price.value=(type.value==='diesel'?DIESEL:GAS).toFixed(2);calc();});
+  [miles,mpg,price].forEach(function(el){el.addEventListener('input',calc);});
+  calc();
+})();
+</script>
