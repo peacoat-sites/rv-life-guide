@@ -104,3 +104,13 @@ This depends on the state. South Dakota and Texas have no state income tax, so t
 Getting this stuff sorted in your first few months of full-time RV life is genuinely worth the effort. The people I see struggling years in are usually the ones who picked a plan in a panic and never revisited it. Open enrollment every November is your annual reset. Use it.
 
 *Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+
