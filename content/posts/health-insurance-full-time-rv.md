@@ -139,11 +139,3 @@ It's both, honestly. Health sharing ministries have worked well for a lot of hea
 Health insurance for full-time RVers isn't one-size-fits-all, but it's absolutely solvable with the right preparation. The people who struggle are usually the ones who treat it as an afterthought. Spend the time before you launch, pick a plan that actually matches your travel patterns, and revisit your coverage every open enrollment period as your situation changes. The road is more enjoyable when you're not quietly worrying about what happens if something goes wrong.
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22),  Certified pet first aid kit with step-by-step instructions,  an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32),  Vet-approved 95-piece kit for dogs and cats,  covers cuts, burns, sprains, and emergencies until you can reach a vet.
-
