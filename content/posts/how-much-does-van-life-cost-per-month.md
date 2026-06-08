@@ -114,3 +114,13 @@ No. Most experienced full-timers average maybe 30-50% paid camping nights and th
 The number that will actually matter is yours, not mine or some YouTuber's highlight reel. Pull up a spreadsheet, be brutal about what you're actually spending right now, and then figure out what you'd replace it with. The people who struggle financially in van life are usually the ones who planned for the best-case month and got surprised by the average one.
 
 *Photo: [Ana Benet](https://www.pexels.com/@ana-benet) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+
