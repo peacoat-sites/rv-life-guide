@@ -1,5 +1,5 @@
 ---
-title: "Rv Fuel Costs Per Mile"
+title: "RV Fuel Costs Per Mile"
 date: 2026-05-25T15:44:16.344869+00:00
 draft: false
 description: "Plan your RV road trip budget with confidence. Learn how to calculate RV fuel costs per mile, factors that affect MPG, and tips to reduce your fuel expenses."

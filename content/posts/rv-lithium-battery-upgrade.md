@@ -1,5 +1,5 @@
 ---
-title: "Rv Lithium Battery Upgrade"
+title: "RV Lithium Battery Upgrade"
 date: 2026-05-21T10:57:16.709894+00:00
 draft: false
 description: "Upgrade your RV with a lithium battery for longer trips, faster charging, and reduced weight. Discover top options, installation tips, and cost comparisons insi"

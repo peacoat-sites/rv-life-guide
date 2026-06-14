@@ -1,5 +1,5 @@
 ---
-title: "Rv Solar Panel Setup"
+title: "RV Solar Panel Setup"
 date: 2026-05-28T07:28:55.966855+00:00
 draft: false
 description: "Discover how to set up solar panels on your RV with our step-by-step guide. Learn about equipment, installation tips, and maximizing energy efficiency on the ro"

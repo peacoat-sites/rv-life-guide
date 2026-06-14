@@ -1,5 +1,5 @@
 ---
-title: "Rv Living For Beginners"
+title: "RV Living For Beginners"
 date: 2026-05-25T04:43:44.288530+00:00
 draft: false
 description: "Discover everything you need to know about RV living as a beginner, from choosing the right rig to budgeting, camping tips, and life on the open road."

@@ -1,5 +1,5 @@
 ---
-title: "South Dakota Rv Domicile"
+title: "South Dakota RV Domicile"
 date: 2026-05-25T17:50:58.642951+00:00
 draft: false
 description: "Establish your RV domicile in South Dakota and enjoy low registration costs, no state income tax, and simplified vehicle titling for full-time travelers."

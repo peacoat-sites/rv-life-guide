@@ -1,5 +1,5 @@
 ---
-title: "Rv Electric Hookup 30 Amp 50 Amp"
+title: "RV Electric Hookup 30 Amp 50 Amp"
 date: 2026-05-27T05:30:45.040165+00:00
 draft: false
 description: "Learn the differences between 30 amp and 50 amp RV electric hookups, how to connect safely, and which service your RV needs for the best camping experience."

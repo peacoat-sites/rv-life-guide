@@ -1,5 +1,5 @@
 ---
-title: "Class A Vs Class B Vs Class C Rv"
+title: "Class A Vs Class B Vs Class C RV"
 date: 2026-05-28T06:53:15.835480+00:00
 draft: false
 description: "Discover the key differences between Class A, Class B, and Class C RVs to find the perfect motorhome for your lifestyle, budget, and travel needs."

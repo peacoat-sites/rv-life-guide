@@ -1,5 +1,5 @@
 ---
-title: "Rv Monthly Expenses Breakdown"
+title: "RV Monthly Expenses Breakdown"
 date: 2026-05-23T18:05:31.824136+00:00
 draft: false
 description: "Plan your budget with confidence using our complete RV monthly expenses breakdown covering fuel, campsite fees, insurance, maintenance, and more for full-time t"

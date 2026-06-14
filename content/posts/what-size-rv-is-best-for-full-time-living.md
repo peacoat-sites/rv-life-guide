@@ -1,5 +1,5 @@
 ---
-title: "What Size Rv Is Best For Full-Time Living"
+title: "What Size RV Is Best For Full-Time Living"
 date: 2026-06-11T21:11:26.381908+00:00
 draft: false
 description: "Discover the best RV sizes for full-time living, from compact van conversions to spacious Class A motorhomes, and find the perfect fit for your lifestyle and bu"

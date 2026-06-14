@@ -1,5 +1,5 @@
 ---
-title: "Full-Time Rv Living Vs Van Life Pros And Cons"
+title: "Full-Time RV Living Vs Van Life Pros And Cons"
 date: 2026-06-06T20:03:04.095458+00:00
 draft: false
 description: "Discover the key differences between full-time RV living and van life. Compare costs, freedom, comfort, and lifestyle to find the best option for your adventure"

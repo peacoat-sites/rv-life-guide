@@ -1,5 +1,5 @@
 ---
-title: "Best Rv Parks For Monthly Long-Term Stays"
+title: "Best RV Parks For Monthly Long-Term Stays"
 date: 2026-06-09T20:53:03.358738+00:00
 draft: false
 description: "Discover the best RV parks for monthly long-term stays with affordable rates, full hookups, great amenities, and welcoming communities perfect for full-time RV "

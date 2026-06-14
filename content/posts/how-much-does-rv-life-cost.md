@@ -1,5 +1,5 @@
 ---
-title: "How Much Does Rv Life Cost"
+title: "How Much Does RV Life Cost"
 date: 2026-05-25T22:53:07.512845+00:00
 draft: false
 description: "Discover the real costs of RV living, from campsite fees and fuel to maintenance and insurance. Learn how to budget smartly and embrace the open road affordably"

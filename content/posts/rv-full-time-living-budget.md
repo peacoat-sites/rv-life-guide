@@ -1,5 +1,5 @@
 ---
-title: "Rv Full Time Living Budget"
+title: "RV Full Time Living Budget"
 date: 2026-05-27T04:40:50.962845+00:00
 draft: false
 description: "Plan your RV full time living budget with our complete guide. Discover real monthly costs, money-saving tips, and how to make life on the road affordable."
