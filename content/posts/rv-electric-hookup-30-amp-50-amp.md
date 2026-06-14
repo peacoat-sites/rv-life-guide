@@ -6,8 +6,6 @@ description: "Learn the differences between 30 amp and 50 amp RV electric hookup
 image: "https://images.pexels.com/photos/30131061/pexels-photo-30131061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["electric", "hookup"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "rv-electric-hookup-30-amp-50-amp"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In eight years, I've had a surge protector save my rig's electronics twice. Campground pedestals get wired by people having bad days, get struck by lightning, and accumulate corrosion that causes intermittent ground problems. A miswired outlet with an open ground can destroy sensitive electronics without tripping a breaker. Buy the protector."
   - q: "Do I need a different extension cord for 30 amp vs. 50 amp service?"
     a: "Yes, absolutely. The cords, connectors, and wire gauges are different and not interchangeable. A 30 amp RV extension cord uses a 10-gauge or heavier wire with a TT-30 connector. A 50 amp extension cord uses a heavier 6-gauge wire with a 14-50 or CS6364 connector. Using an undersized cord is a fire hazard. Always match the cord to your rig's service rating."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most people assume upgrading from 30 amp to 50 amp service is a straightforward "more power, no problem" situation. I thought the same thing until I blew a pedestal breaker at a campground in the Texas Hill Country because I didn't understand what was actually happening inside those two very different electrical systems. Here's what I wish someone had explained to me before I spent three summers just plugging in and hoping for the best.

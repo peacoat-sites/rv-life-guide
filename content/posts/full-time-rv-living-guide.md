@@ -6,8 +6,6 @@ description: "Discover everything you need to know about full time RV living, fr
 image: "https://images.pexels.com/photos/34358639/pexels-photo-34358639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["full", "time", "living", "guide"]
-author: "Amy Kowalski"
-author_bio: "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."
 slug: "full-time-rv-living-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The Freecampsites.net app and the Campendium app are both solid starting points. BLM (Bureau of Land Management) land in the western United States is the single largest source of free dispersed camping in the country. Download the Avenza Maps app with BLM map layers before you go. iOverlander is useful for international travel. The Dyrt offers a pro membership with offline maps for about $36 per year. Cross-reference multiple sources because conditions change."
   - q: "What is the single biggest mistake new full-timers make?"
     a: "Moving too fast and buying too much rig. Almost universally, the people I've met who burned out in year one were driving rigs over 36 feet that they felt obligated to keep moving to justify the fuel cost. They never stayed anywhere long enough to settle. Full-time RV life is not a permanent vacation. It's a lifestyle that requires the same patience and routine-building as any other. The destinations are better than an apartment. The daily reality is still just daily life, with more maintenance."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 The day we handed over our house keys in October 2019, I had $847 in our checking account, a 28-foot travel trailer hitched to a Ford F-250 I barely knew how to drive, and absolutely no idea what I was walking into. Six years and 90,000 miles later, I can tell you this: almost everything the internet told me about full-time RV life was either optimistic to the point of dishonesty or so surface-level it was useless. This guide is neither of those things.

@@ -6,8 +6,6 @@ description: "Learn how to drive an RV safely with our comprehensive guide. Mast
 image: "https://images.pexels.com/photos/20396250/pexels-photo-20396250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["learning", "drive"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "learning-to-drive-rv"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Pull over safely and breathe. Seriously. Most mistakes look worse in the moment than they actually are. If you've bumped something, stay calm, assess the damage, and document it for insurance. Don't let one bad moment spiral into a bigger one by making rushed decisions. Every experienced RVer has a story about something they did in year one that they laugh about now."
   - q: "How do I practice backing up a trailer?"
     a: "Start in an empty parking lot with cones. The key insight: when backing a trailer, you steer in the opposite direction you want the trailer to go. Turn the wheel right and the trailer goes left. Practice in short sessions, 20 minutes at a time, so frustration doesn't set in. Once you have the concept, move to longer practice runs. A backup camera helps enormously here too."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Most people freeze up the first time they climb into the driver's seat of a 35-foot Class A motorhome. The mirrors look huge, the steering wheel feels foreign, and the parking lot outside seems to have shrunk by half. That feeling is completely normal. The good news: driving an RV is a learnable skill, and thousands of people master it every year without any commercial driving experience. The key is knowing what to practice, in what order, and where to go when you mess up.

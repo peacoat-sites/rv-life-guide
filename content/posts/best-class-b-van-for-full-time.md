@@ -6,8 +6,6 @@ description: "Discover the best Class B vans for full-time living. Compare top m
 image: "https://images.pexels.com/photos/36077294/pexels-photo-36077294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "Class", "full", "time"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "best-class-b-van-for-full-time"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most full-timers don't tow with a Class B. The platform isn't designed for heavy towing, and adding a car on a tow dolly changes your driving and parking dramatically. Some people tow a small car or motorcycle. If you expect to need a separate vehicle regularly (for urban exploration, mostly), factor in the added complexity and fuel cost."
   - q: "How do I handle mail and domicile as a full-timer?"
     a: "Your three most popular options are South Dakota, Texas, and Florida, all of which have favorable domicile laws for full-time travelers. South Dakota is the most popular for straightforward registration and no state income tax. Use a mail forwarding service like Escapees Mail Service or America's Mailbox. This is a bureaucratic headache you should solve before you hit the road, not after."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Six years ago I handed over the keys to my 2,400-square-foot house in Columbus, Ohio, drove to a dealership in Indiana, and came home in a 24-foot Class B motorhome. I thought I'd done my research. I had not. Three blown tires, two failed inverters, one terrifying moment on a mountain pass in Colorado, and roughly 90,000 miles later, I can tell you that choosing the *right* van makes or breaks full-time living in ways no YouTube walkthrough will fully prepare you for.

@@ -6,8 +6,6 @@ description: "Learn what to check during an RV inspection before buying or hitti
 image: "https://images.pexels.com/photos/33803734/pexels-photo-33803734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["inspection", "what", "check"]
-author: "Amy Kowalski"
-author_bio: "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."
 slug: "rv-inspection-what-to-check"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and specifically about three things: tires (check those date codes), the propane system (rodents love to chew gas lines in storage), and the slide room seals (they dry out and crack when not regularly operated). Run the generator for a full hour under load after extended storage, not just the 10-minute demo that sellers always offer. A lot of problems only show up when systems have been running long enough to get to operating temperature."
   - q: "What's the single most important thing to check on a used RV?"
     a: "The roof. Every time. A bad roof means water damage, and water damage compounds every year it goes untreated. I've seen rigs with beautiful interiors and shiny exteriors that were essentially totaled because the roof sealant hadn't been maintained and the structure was rotted from the top down. If the roof checks out, you have a solid starting point. If it doesn't, factor in substantial repair costs or walk away."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 A couple in Tennessee bought a used Class A motorhome for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.

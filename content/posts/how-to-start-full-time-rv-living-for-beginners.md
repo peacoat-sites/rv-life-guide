@@ -6,8 +6,6 @@ description: "Discover how to start full-time RV living with our beginner's guid
 image: "https://images.pexels.com/photos/38021445/pexels-photo-38021445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["start", "full-time", "living", "beginners"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-start-full-time-rv-living-for-beginners"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Boondocking on BLM (Bureau of Land Management) land, which is free with no time limit beyond 14 days in one spot in most areas, is genuinely the cheapest option. The American Southwest has enormous BLM land access. You'll need an off-grid power setup and enough water storage to make it work, but plenty of people keep their camping costs under $200/month this way."
   - q: "Is full-time RV living legal everywhere?"
     a: "The RV itself is legal on public roads everywhere. The complications arise with residency laws (you need a legal domicile state), some city or county ordinances that restrict where RVs can be parked overnight, and HOA rules if you're parking on private property. Living long-term on public streets in a motorhome is restricted or actively enforced against in many urban areas. BLM land, state forests, national forests, and private campgrounds all have their own rules, so check before you park."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Most advice about starting full-time RV living begins with the wrong question. Everyone asks "which RV should I buy?" when the thing that will actually determine whether you last six months or six years is whether you've thought through the non-glamorous stuff: mail, health insurance, your domicile state, where your money is coming from, and what happens when the water pump dies at 9pm on a Saturday in Amarillo.

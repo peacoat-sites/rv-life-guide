@@ -6,8 +6,6 @@ description: "Discover the best RV parks for monthly long-term stays with afford
 image: "https://images.pexels.com/photos/8154305/pexels-photo-8154305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["campgrounds"]
 tags: ["best", "parks", "monthly", "long-term", "stays"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "best-rv-parks-for-monthly-long-term-stays"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Many parks, especially nicer resort-style parks, have a 10-year rule: rigs older than 10 years may be denied or required to pass an inspection. Some enforce it strictly, some not at all. If your rig is a 2010 or older, call ahead. This policy exists because parks don't want permanent-looking older trailers on their sites, not for any safety reason they'll admit to."
   - q: "Is it worth joining Thousand Trails or a similar membership club for long-term stays?"
     a: "If you're staying in the same region for a few months and there are multiple Thousand Trails parks within 50-100 miles, yes, the math works out. If you're moving constantly or mostly in regions without coverage, probably not. The $600-700/year Camping Pass pays for itself in under a month of stays. The parks aren't luxurious, but they're reliable and the membership has no blackout dates for base membership zones."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most coverage of "best RV parks for long-term stays" is just a listicle of resort-style parks with pool photos and no mention of what a monthly stay actually costs, what the neighbors are like at 11pm, or whether you can even get reliable mail delivery. Let's fix that.

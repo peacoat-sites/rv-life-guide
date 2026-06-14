@@ -6,8 +6,6 @@ description: "Discover the ultimate guide to BLM land camping with your RV. Lear
 image: "https://images.pexels.com/photos/32290416/pexels-photo-32290416.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["land", "camping"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "blm-land-camping-rv"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Reasonably, yes, with preparation. The biggest risks are practical: mechanical breakdown with no cell service to call for help, medical emergencies in remote locations, and getting a rig stuck. Carry a satellite communicator like a Garmin inReach or Zoleo if you're going remote. Have a tow plan. Tell someone your rough location and check-in schedule. Personal safety from other people is rarely the concern most newcomers imagine it to be."
   - q: "Can I bring my pets to BLM land?"
     a: "Yes. BLM land generally allows pets, with no restrictions on numbers or breeds, which is a real advantage over many state parks and campgrounds. Dogs must be under control, and in some areas leash rules apply. Rattlesnakes, cactus, and extreme heat are the actual hazards. Keep pets out of dry washes and arroyos, especially during monsoon season in the Southwest, and check paws after walks on rocky terrain."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Most RV coverage about BLM camping reads like a brochure written by someone who spent one weekend at a developed campground and called it "dispersed." They'll tell you it's free, it's beautiful, and you just need to "check the rules." What they skip: the road conditions that will destroy your rig if you pick the wrong site, the 14-day clock that catches beginners off guard, and the fact that "free" camping still carries real costs if you're not set up for it. Here's what actually matters.

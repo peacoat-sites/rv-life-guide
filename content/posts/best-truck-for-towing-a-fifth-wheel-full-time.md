@@ -6,10 +6,13 @@ description: "Discover the best trucks for towing a fifth wheel full-time. Compa
 image: "https://images.pexels.com/photos/9143461/pexels-photo-9143461.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["towing"]
 tags: ["best", "truck", "towing", "fifth", "wheel"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-truck-for-towing-a-fifth-wheel-full-time"
 affiliate_disclosure: false
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Most people ask the wrong question.

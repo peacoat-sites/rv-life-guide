@@ -6,8 +6,6 @@ description: "Find the perfect RV with our complete buying checklist. covers con
 image: "https://images.pexels.com/photos/13859365/pexels-photo-13859365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["buying", "checklist"]
-author: "Dan Calloway"
-author_bio: "Full-time RVer since 2019. 90,000+ miles across 48 states. Covers budgeting, maintenance, and campground life."
 slug: "rv-buying-checklist"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Water damage tops the list, always. After that: delaminating sidewalls, failing slideout motors and seals, roof AC units that are weak or leak, dead or dying house batteries, and corroded electrical connections in the outdoor compartments. On motorhomes specifically, watch for diesel exhaust fluid system issues on diesel units and watch odometer readings relative to the service records."
   - q: "How long does a thorough pre-purchase inspection take?"
     a: "If you're doing it yourself properly, budget 2 to 3 hours minimum. A professional inspector will take 3 to 5 hours on a larger unit. Anyone who tells you that you can evaluate an RV in 30 minutes is either selling you something or has no idea what they're doing. Take the time."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 I watched a couple at a dealership in Phoenix sign papers on a 32-foot Class A motorhome in about 45 minutes flat. They were giddy. They hadn't checked the roof, hadn't run the generator, hadn't filled the fresh water tank to test for leaks. Three weeks later I crossed paths with them at a campground in New Mexico, and that rig was already sitting broken at a mobile RV repair shop with a blown-out slide room seal and a dead inverter. The repair bill was north of $4,000. The honeymoon was over before the end of the first month.

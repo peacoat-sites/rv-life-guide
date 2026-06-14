@@ -6,8 +6,6 @@ description: "Discover the best RV sizes for full-time living, from compact van 
 image: "https://images.pexels.com/photos/36297850/pexels-photo-36297850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["what", "size", "best", "full-time", "living"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "what-size-rv-is-best-for-full-time-living"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It helps, but it's not a requirement. A quality 12-volt compressor fridge like the Dometic CFX3 55 ($700-800) actually outperforms most residential units in off-grid situations and doesn't require shore power to stay cold. Residential fridges are fine when plugged in but drain your battery bank overnight faster than almost anything else in the rig."
   - q: "What RV holds its value best for full-time living?"
     a: "Airstream trailers hold value better than any other brand, consistently. A 2018 Airstream International 23FB still sells for $55,000-70,000 depending on condition. The trade-off is the curved aluminum roof complicates solar installs and the layouts sacrifice some practicality for aesthetics. Diesel Class A pushers from Tiffin, Newmar, and Entegra depreciate hard off the lot but tend to stabilize. Avoid cheap entry-level brands like Gulf Stream or Keystone Springdale if resale matters to you."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 Most people sizing their full-time RV make the same mistake: they think about square footage and then stop there. They picture themselves cooking in a bigger kitchen or stretching out in a longer bedroom, and they forget to think about the 47 other variables that will actually determine whether they're miserable or not two years in.

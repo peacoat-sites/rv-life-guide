@@ -6,8 +6,6 @@ description: "Learn how to level your RV quickly and safely with our step-by-ste
 image: "https://images.pexels.com/photos/34287638/pexels-photo-34287638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["leveling", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "leveling-rv-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and more quickly than most people expect. Running an absorption fridge significantly off-level for even a few hours can begin to affect performance. Running it off-level for days can cause permanent damage to the cooling unit. When I've had to park on a sloped site temporarily, I either use a portable cooler for perishables or make absolutely sure the fridge is my top priority to level first."
   - q: "How much do I need to level before putting out my slide-outs?"
     a: "Most manufacturers recommend getting reasonably level before extending slides, usually within a bubble or so on a standard level. Extending slides before leveling isn't dangerous in most situations, but it puts extra strain on the slide mechanism over time and can make your final level check inaccurate because the slides shift the weight distribution. Level first, extend slides second, then do a final level verification."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 You've just pulled into a campsite after a long drive, it's getting dark, and you can feel the RV is sitting at an angle. Your coffee will pool to one side of the mug, your refrigerator's cooling efficiency is already dropping (most RV fridges need to be within 3 degrees of level to work properly), and tonight you'll wake up at 2 a.m. feeling like you're slowly sliding toward the wall. Getting your RV level isn't just about comfort. It's about protecting your appliances, your sleep, and honestly, your sanity.

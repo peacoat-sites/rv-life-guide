@@ -6,8 +6,6 @@ description: "Discover the best free camping apps to find campsites, plan trips,
 image: "https://images.pexels.com/photos/6324400/pexels-photo-6324400.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["apps"]
 tags: ["best", "free", "camping", "apps"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-free-camping-apps"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "I've done it for years, including as a solo woman. Most dispersed sites are safe. Common sense applies: tell someone your coordinates and check-in plan, keep your phone charged, and trust your gut about a spot. If another vehicle is parked in a way that makes you uncomfortable, move on. The apps often have comments about whether a spot felt safe, and those notes are worth reading."
   - q: "What should I do if a spot listed as free now has a fee or is closed?"
     a: "Report it in the app. Every major app has a 'suggest edit' or comment function. The whole system works because people contribute updates. If you find a closed gate or a new fee station, spending 90 seconds to update the listing is how you pay it forward to the next person who searches that spot."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 You're sitting in a Walmart parking lot at 9 PM, your tank is almost full, the next paid campground is $65 a night, and you're staring at your phone trying to remember which app your buddy mentioned at the rally in Quartzsite. Sound familiar? I've been there more times than I care to admit, and I've watched newer full-timers burn through a week's grocery budget on campground fees simply because they didn't know where to look. Free camping is out there, a lot of it, but finding it reliably means knowing which tools actually work in the field versus which ones look great in a YouTube video and disappoint you when you're tired and need a spot.

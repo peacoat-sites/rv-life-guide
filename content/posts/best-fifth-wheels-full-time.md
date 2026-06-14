@@ -6,8 +6,6 @@ description: "Discover the best fifth wheels for full time living. We compare to
 image: "https://images.pexels.com/photos/35832746/pexels-photo-35832746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "fifth", "wheels", "full", "time"]
-author: "Amy Kowalski"
-author_bio: "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."
 slug: "best-fifth-wheels-full-time"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most full-timers establish domicile in one of three states: South Dakota, Texas, or Florida. All three are relatively straightforward for non-residents to establish residency, have no state income tax, and have vehicle registration processes that work for people without a fixed physical address. Services like America's Mailbox (South Dakota) or Escapees Mail Service provide a physical address for mail, DMV, and legal purposes. This is not optional planning. You need a legal home state before you hit the road."
   - q: "Is full-timing in a fifth wheel good for families with kids?"
     a: "It works, but it requires intentional layout choices. Look specifically for floor plans with a bunkhouse or a rear bedroom with a door that can serve as a kids' space. Families with school-age children typically use a mix of public school enrollment for short stints, homeschool curriculum, and online programs. The kids I've met who've grown up on the road are almost universally more adaptable, curious, and independent than their peers. That doesn't make it easy, but it does make it worth considering."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 The couple in front of me at a Harvest Hosts winery in Oregon had been full-timing for three years in a 42-foot fifth wheel. Their rig had a washer/dryer combo, a residential refrigerator, a king-size bed, and enough storage that their teenage daughter had her own defined "zone" with a door. I was living in a 24-foot travel trailer at the time, doing laundry at coin-ops and sleeping on a mattress I could touch from both sides without moving. That conversation changed everything I thought I knew about full-time RV living. Fifth wheels, I learned that afternoon, are a different category entirely.

@@ -6,8 +6,6 @@ description: "Discover the best full time RV income ideas to fund your nomadic l
 image: "https://images.pexels.com/photos/7476240/pexels-photo-7476240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["income"]
 tags: ["full", "time", "income", "ideas"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "full-time-rv-income-ideas"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It works better than people think if you choose the right products. Digital goods (printables, templates, patterns) are the cleanest because there's no inventory, shipping, or size constraints in a small rig. Physical handmade goods can work if you sell at markets, but the logistics of hauling materials and managing inventory in 200 square feet gets old fast."
   - q: "Do I need to establish residency somewhere specific for tax purposes as a full-timer?"
     a: "You do need a domicile state, and the choice matters a lot. South Dakota, Texas, and Florida are the three most popular among full-timers because they have no state income tax and relatively straightforward residency requirements. This is genuinely worth an hour with a CPA who works with location-independent clients before you make the move."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most people who ask me about full-time RV income are sitting somewhere between terrified and excited, and they've already done enough Googling to know the general categories: remote work, freelancing, campground hosting. What they actually need is someone to tell them which of those things are genuinely viable, which are overhyped, and what the first six months tend to look like before everything clicks.

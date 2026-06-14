@@ -6,8 +6,6 @@ description: "RV tow vehicle buying guide: Learn weight capacity, engine require
 image: "https://images.pexels.com/photos/27706384/pexels-photo-27706384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["towing"]
 tags: ["vehicle", "guide"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "rv-tow-vehicle-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on your trailer, but the Ram 3500 with the 6.7L Cummins Turbo Diesel consistently earns top marks for tow rating, payload, and engine longevity. The Ford F-350 with the 6.7L Power Stroke is a close competitor. For lighter loads in the 10,000-16,000 lb range, the Ram 2500 or F-250 diesel are excellent choices with lower operating costs. If you want a broader overview of rig types and what pulls them, the Class A vs. Class B vs. Class C RV comparison explains why some people skip the tow vehicle question entirely."
   - q: "Should I buy a tow vehicle first or a trailer first?"
     a: "Buy the trailer first, or at least decide on the trailer first. The trailer's loaded weight and type determines what tow vehicle you need. Too many buyers do it backwards, fall in love with a truck, and then are forced into a smaller trailer than they wanted. Know your trailer's loaded GVWR, calculate tongue weight, and then spec a tow vehicle with enough payload, tow capacity, and GCWR to handle it with a 10-15% safety margin."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 You pull into a campground after a long day on the road, the trailer finally parked, and the guy in the next site walks over to say, "You know that truck's overloaded, right?" That sinking feeling is something thousands of RV owners experience every year, often after they've already bought both the tow vehicle and the trailer. Matching a tow vehicle to a trailer isn't just about bragging rights or sticker numbers. It's a safety calculation, and getting it wrong can mean brake fade on a mountain descent, a blown transmission in the middle of nowhere, or a full-on jackknife on the interstate.

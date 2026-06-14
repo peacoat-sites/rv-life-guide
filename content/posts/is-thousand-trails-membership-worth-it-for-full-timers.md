@@ -6,10 +6,13 @@ description: "Thinking about full-time RV living? Discover if a Thousand Trails 
 image: "https://images.pexels.com/photos/15781024/pexels-photo-15781024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["memberships"]
 tags: ["thousand", "trails", "membership", "worth", "full-timers"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "is-thousand-trails-membership-worth-it-for-full-timers"
 affiliate_disclosure: false
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Three years ago, I paid $595 for a Thousand Trails Zone membership and spent the next six months figuring out whether that was brilliant or a colossal mistake. I'm still not sure I have a clean answer. But I've got a much better one than most of the reviews I read before I bought it, which ranged from "best thing I ever did" to "total scam" with very little useful detail in between.

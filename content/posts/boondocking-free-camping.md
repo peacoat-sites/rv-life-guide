@@ -6,8 +6,6 @@ description: "Discover the best boondocking free camping spots, tips for dispers
 image: "https://images.pexels.com/photos/34482313/pexels-photo-34482313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["boondocking", "free", "camping"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "boondocking-free-camping"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most boondocking areas have limited or no cell service, and that's part of the point for many people. If you need connectivity for work, a multi-carrier signal booster like a WeBoost Drive X RV combined with a cell plan that includes hotspot data from both Verizon and AT&T covers roughly 85-90% of BLM land near civilization. Starlink's RV plan is the other option, at around $150/month for portable service that works almost anywhere with a clear sky view."
   - q: "Is boondocking safe? What about being remote and alone?"
     a: "The realistic risk of boondocking is much lower than most people assume. Millions of people do it every year without incident. Basic precautions include telling someone your planned location and a check-in schedule, keeping a satellite communicator like a Garmin inReach for emergencies, and using good judgment about obviously sketchy areas. BLM parking areas near cities do attract occasional nuisance activity, but remote dispersed sites on public land are generally very safe."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 Imagine pulling onto a wide, flat mesa in southern Utah, cutting the engine, and realizing the only sound is wind. No campground host. No fee envelope. No neighbors 10 feet away running a generator at 11 p.m. Your spot cost exactly zero dollars, and you can stay up to 14 days. That's boondocking, and once you experience it, paying $60 a night for a crowded campsite feels almost absurd.

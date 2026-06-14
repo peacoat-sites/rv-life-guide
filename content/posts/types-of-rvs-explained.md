@@ -6,8 +6,6 @@ description: "Discover the different types of RVs available, from motorhomes and
 image: "https://images.pexels.com/photos/34234384/pexels-photo-34234384.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["types", "explained"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "types-of-rvs-explained"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A Class B+ is essentially a marketing term used by manufacturers to describe a unit built on a van or small bus chassis that's slightly larger than a standard camper van. They're typically 22 to 28 feet long and offer more living space than a true Class B, but they're not as large as a Class C. They drive more like a van but feel more like a small motorhome inside. Not every manufacturer uses the term the same way, so measure the actual vehicle and verify the chassis before buying."
   - q: "How do I know if a campground can fit my RV?"
     a: "Call the campground directly and ask for their maximum length, not just the listed site length on their website. Many state park sites were built decades ago for pop-ups and small trailers. A 40-foot fifth wheel with a 25-foot truck can't physically enter some sites even if the reservation system lets you book them. Also ask about slide-out clearance, low-hanging branches, and whether pull-through sites are available. I've shown up to beautiful campgrounds that couldn't fit my rig at all. That phone call is worth five minutes."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Before I signed the papers on my first RV, I stood in a dealership lot in Phoenix staring at 47 different units and felt absolutely paralyzed. A Class A diesel pusher sat next to a tiny teardrop trailer. A toy hauler loomed over a pop-up camper. The salesman used terms like "fifth wheel" and "Class B+" and "toy hauler slide-out" like I was supposed to already know what any of that meant. I didn't. I almost bought the wrong rig entirely. Six years and 90,000 miles later, I want to give you the breakdown I wish someone had handed me that afternoon.

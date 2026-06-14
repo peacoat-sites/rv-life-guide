@@ -6,8 +6,6 @@ description: "Discover the real pros and cons of RV life, from freedom and adven
 image: "https://images.pexels.com/photos/37659060/pexels-photo-37659060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["life", "pros", "cons"]
-author: "Amy Kowalski"
-author_bio: "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."
 slug: "rv-life-pros-and-cons"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, with caveats. Asynchronous remote work, writing, coding, graphic design, and consulting translate well. Client-facing video calls in real-time require reliable internet, which is manageable with Starlink but not guaranteed. Jobs that require periodic in-person presence are the hardest to maintain. If your income depends entirely on one employer's remote policy, have a backup plan."
   - q: "What type of RV is best for full-time living?"
     a: "There is no single right answer, but the general consensus among experienced full-timers is: go for quality over size, prioritize residential-style features (a real bed, real shower, real storage), and be wary of rigs marketed as luxury travel units that weren't designed for daily habitation. Fifth wheels and Class A motorhomes tend to offer the most livable layouts. Class B vans are ideal for solo travelers or minimalist couples. Class C motorhomes sit in the middle. Whatever you buy, have it inspected by an independent RV technician before signing anything."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 I sold my house on a Tuesday in October 2019. By Saturday, my husband and I were sleeping in a 34-foot fifth wheel in a Walmart parking lot outside Columbus, Ohio, arguing about where the propane shutoff was while the temperature dropped to 38 degrees. That is the version of full-time RV life nobody posts on Instagram. Six years and 90,000+ miles later, I can tell you honestly: this lifestyle is one of the best decisions I ever made, and also one of the hardest. Both things are completely true at the same time.

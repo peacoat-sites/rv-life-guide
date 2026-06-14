@@ -6,8 +6,6 @@ description: "Learn how much RV insurance costs, what factors affect your rates,
 image: "https://images.pexels.com/photos/31161593/pexels-photo-31161593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["insurance", "costs"]
-author: "Carlos Mendez"
-author_bio: "RV technician and full-time traveler specializing in solar systems and DIY RV maintenance."
 slug: "rv-insurance-costs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Agreed value means you and the insurer set a specific dollar amount when the policy is written. If there's a total loss, that's what you get, no depreciation argument. Actual cash value means the insurer determines the market value at the time of the claim, accounting for depreciation. On a 10-year-old rig that you paid $75,000 for, actual cash value might come back at $32,000. For full-timers, this distinction can be the difference between getting back on the road or not."
   - q: "Can I insure a van conversion or DIY build?"
     a: "Yes, but it takes more effort. Roamly and a handful of specialty brokers handle van conversions and self-builds. You'll likely need documentation of the build, photos, and potentially an appraisal. Standard carriers often decline or severely limit coverage on non-manufacturer-built units. Shop specifically for carriers experienced with conversions, and don't understate the value of your build to save on premiums. That's a gamble you'll lose. Six years in, I still review my policy every single renewal. Rates shift, my rig changes, and what I carry inside it changes. The year I added 400 watts o"
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 My first renewal quote after going full-time nearly ended the experiment before it started. I'd been paying $847 a year insuring the rig as a "recreational" vehicle while still owning the house. The moment I called to update my status to full-timer, the agent paused, typed for what felt like a full minute, and came back with $2,340. Same rig. Same driving record. Nearly three times the price. That's the number nobody puts in the glossy YouTube videos about selling everything and hitting the road.

@@ -6,8 +6,6 @@ description: "Learn how to set up an RV solar power system step by step, from ch
 image: "https://images.pexels.com/photos/27865662/pexels-photo-27865662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["solar", "power", "system", "step", "step"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-set-up-rv-solar-power-system-step-by-step"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. A Blue Sea Systems 500A battery switch costs about $35 and gives you a way to fully isolate your battery bank for storage, maintenance, or emergencies. It's a simple addition that you'll be glad exists the first time you need to work on the system without live terminals everywhere."
   - q: "How do I know if my solar system is actually working correctly?"
     a: "Your battery monitor is your primary diagnostic tool. After a full charge, your bank should be sitting at or near your charge controller's float voltage. On a clear day, panels should produce within 15-20% of their rated output during peak sun hours. If you're seeing significantly less, check for shade, check your connections with a multimeter, and verify your charge controller's settings. The Victron app logs historical production data, which makes spotting a problem much easier than guessing."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Most solar guides for RVers start with wattage calculators and end with a parts list. That's backwards. The thing that kills most DIY solar installs isn't undersizing the panels or picking the wrong wire gauge. It's installing components in the wrong order and discovering mid-project that your battery bank doesn't fit where you planned, or that your charge controller needs to be within three feet of your batteries and you've already bolted your panels to the roof.

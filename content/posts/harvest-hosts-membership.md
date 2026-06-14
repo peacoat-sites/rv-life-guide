@@ -6,8 +6,6 @@ description: "Join Harvest Hosts and enjoy unique overnight stays at wineries, f
 image: "https://images.pexels.com/photos/5847704/pexels-photo-5847704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["memberships"]
 tags: ["Harvest", "Hosts", "membership"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "harvest-hosts-membership"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically nobody is going to chase you down if you don't buy anything. But the entire program is built on the social contract that you will. Hosts can leave you a review too, and they can remove themselves from the program if guests routinely show up and don't patronize the business. If the host's business genuinely doesn't have anything you want, at minimum have a conversation and be a friendly, respectful guest. The 'buy something' expectation is real and you should honor it."
   - q: "Can I use Harvest Hosts in a van or smaller rig, or is it only for big RVs?"
     a: "Van dwellers and small rig travelers are fully welcome. In fact, at some locations with tighter access, a smaller rig is actually an advantage. The only requirement is that you're self-contained. If you're in a converted van with a composting toilet and a small solar setup, you qualify. Some of the best Harvest Hosts stays I've heard about from the van living community were at small urban breweries where a large Class A simply couldn't have fit."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Most people assume Harvest Hosts is basically a fancy campground discount club. I thought the same thing when a fellow full-timer mentioned it at a dump station in eastern Tennessee about five years ago. I nodded politely and kept doing what I was doing. Six months later, broke down in rural New Mexico and killing time scrolling forums at 11pm, I finally looked it up properly. What I found was nothing like what I'd assumed, and I'll be honest: skipping it for those six months was a genuine mistake.

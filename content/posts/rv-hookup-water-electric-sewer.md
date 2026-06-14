@@ -6,8 +6,6 @@ description: "Connect your RV to water, electric, and sewer hookups with ease. L
 image: "https://images.pexels.com/photos/14766762/pexels-photo-14766762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["hookup", "water", "electric", "sewer"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "rv-hookup-water-electric-sewer"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "At minimum, when it reaches two-thirds to three-quarters full. If you're on full hookups and staying more than a week, that's typically every three to five days for two people. Always do a tank flush after dumping if your rig has a built-in flush system. If it doesn't, a tank rinser wand that goes in through the toilet works reasonably well. (This site may earn a commission on qualifying purchases.)"
   - q: "Is it okay to drink the water from the campground hookup?"
     a: "Technically the water is generally potable, but 'potable' is a low bar. Quality varies by location, the hose and fittings sitting outside all season aren't helping anything, and some campgrounds are on municipal water systems while others run wells. I run a filter on all incoming water and use a separate gravity filter for drinking and cooking water. It's a small inconvenience that eliminates a category of problems."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 You've just pulled into a full-hookup site after a 400-mile drive. Your back hurts, the dog needs out, and your partner is already asking when dinner is happening. You spot the pedestal with the water spigot, the 30-amp outlet, and the sewer cleanout cap, and you think: *I've got this*. Then you forget the order of operations, hook up water before leveling, and spend the next twenty minutes re-doing everything while your neighbor watches from a lawn chair. I've been that person. I've also been the neighbor watching someone flood their own sewer hose connection all over a perfectly nice campsite in Moab.

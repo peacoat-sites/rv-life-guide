@@ -6,8 +6,6 @@ description: "Discover the best boondocking spots on BLM land out west for free 
 image: "https://images.pexels.com/photos/12441114/pexels-photo-12441114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["best", "boondocking", "spots", "land", "west"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-boondocking-spots-on-blm-land-out-west"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For people in Southern California, the BLM land near Borrego Springs and the Anza-Borrego area (specifically the areas just outside the state park boundaries) is accessible and relatively forgiving. For Phoenix, the Wickenburg-area BLM land is close and well-suited to beginners. Both have enough infrastructure nearby that you're not completely on your own if something goes wrong."
   - q: "Can I camp anywhere on BLM land, or are there restricted areas?"
     a: "Not anywhere. Areas with active mining claims, lands managed specifically for wildlife corridors, and some parcels adjacent to national parks have restrictions. The BLM also periodically closes areas for revegetation or archaeological site protection. The golden rule is to check the Gaia GPS ownership layer, verify you're on General Public Lands (not wilderness or specially designated areas), and when in doubt, call the field office."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Free camping on BLM land changed my financial picture in a way I didn't fully anticipate when I first hit the road. My first full year out west, I spent maybe $340 total on campground fees. That's not a typo. The rest of the time I was on Bureau of Land Management land, mostly for free, mostly alone, mostly in places that looked like screensavers.

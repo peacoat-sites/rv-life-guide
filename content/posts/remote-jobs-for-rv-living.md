@@ -6,8 +6,6 @@ description: "Find the best remote jobs for RV living and earn money while trave
 image: "https://images.pexels.com/photos/7476895/pexels-photo-7476895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["income"]
 tags: ["remote", "jobs", "living"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "remote-jobs-for-rv-living"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can, but it requires planning. Starlink plus a solid solar setup handles the connectivity and power side. I know full-timers who boondock 90% of the time while working, but they've invested $2,000-$4,000 in solar, batteries, and connectivity gear. A reliable surge protector matters too once you do plug in at campgrounds with sketchy power quality. (Affiliate link.)"
   - q: "Is remote work from an RV actually sustainable long-term, or do people burn out?"
     a: "Both happen. People who struggle usually underestimate how much self-discipline async work requires without an office structure, or they pick jobs with too much real-time availability pressure. People who thrive tend to have clearly defined work hours, reliable internet infrastructure, and jobs that genuinely flex around travel. Eight years in, I'm still doing it -- but I've also made every mistake I described above at least once."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most people think finding remote work is the hard part. It's not. The hard part is finding remote work that actually holds up when you're parked at a campground outside Moab with spotty Verizon signal, a 30-amp power limit, and a Zoom call in 40 minutes.

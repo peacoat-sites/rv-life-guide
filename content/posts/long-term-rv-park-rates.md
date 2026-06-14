@@ -6,8 +6,6 @@ description: "Discover affordable long term RV park rates, what to expect monthl
 image: "https://images.pexels.com/photos/34287641/pexels-photo-34287641.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["campgrounds"]
 tags: ["long", "term", "park", "rates"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "long-term-rv-park-rates"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The line has blurred, but generally: an RV park rents you a site, you stay in your own rig, and the expectation is that you could theoretically leave. An RV or manufactured home community often involves lot leases, sometimes permanent utility connections, and a more residential legal structure. Some people own their unit but lease the land. The permanence is higher, the flexibility is lower, and the monthly cost is often lower as well because you're taking on a longer commitment."
   - q: "Can I negotiate utilities into a flat-rate monthly fee?"
     a: "Sometimes, especially if you're driving a hard bargain or the park is motivated to fill a site. Some parks offer an 'all-inclusive' monthly rate that bundles electric at a flat add-on, say $75 or $100, regardless of actual usage. If you run electric heat in winter or heavy AC in summer, an all-inclusive deal is often worth paying a bit more for the rate. If you're a light user with good solar and propane, you'll probably save money on metered electric. Long-term RV living absolutely can be affordable, sometimes dramatically more affordable than stick-and-brick housing, but only if you understa"
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 You've just pulled into a decent-looking RV park, asked about long-term rates, and the manager quoted you $1,400 a month. Your jaw drops. That's more than some apartments. You start doing the math on whether full-timing even makes financial sense. Then a neighbor two sites over leans out of his rig and says, "You should've asked about the monthly special. I'm paying $650." Same park. Same amenities. Completely different rate. That's long-term RV park pricing in a nutshell, and if you don't know how to work the system, you will absolutely overpay.

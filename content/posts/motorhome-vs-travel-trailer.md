@@ -6,8 +6,6 @@ description: "Trying to choose between a motorhome and a travel trailer? Compare
 image: "https://images.pexels.com/photos/17789895/pexels-photo-17789895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["motorhome", "travel", "trailer"]
-author: "Carlos Mendez"
-author_bio: "RV technician and full-time traveler specializing in solar systems and DIY RV maintenance."
 slug: "motorhome-vs-travel-trailer"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Motorhomes generally have better insulation and more robust HVAC systems, especially in the four-season Class A and C models. But a well-built trailer with Arctic package insulation can handle cold temperatures surprisingly well. The bigger weather issue with trailers is wind: a parked trailer with slides out has a significant surface area that catches gusts differently than a motorhome sitting on its jacks. I've sat through 50 mph wind gusts in a trailer and it's an uncomfortable night."
   - q: "Is it cheaper to insure a motorhome or a travel trailer?"
     a: "Per unit, travel trailers are cheaper to insure because they have no engine and no collision risk while parked. But remember, you also need to insure your tow vehicle. Full-timer insurance on a motorhome, through companies like National General or Progressive's RV program, typically runs $1,200 to $2,500 per year depending on value and coverage. Trailer insurance might run $400 to $800 for the trailer alone, with your truck insurance on top. Run actual quotes before you assume one is dramatically cheaper."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 You're standing in a dealership lot on a Saturday morning, coffee going cold in your hand, staring at two very different machines. The salesperson is hovering. Your partner is already climbing into a Class A motorhome the size of a city bus. And you have absolutely no idea which direction to walk. I've been there. Six years and 90,000 miles later, I can tell you that this decision shapes almost every single day of your life on the road, and most people get it wrong because they fall in love with floor plans instead of thinking about how they actually live.

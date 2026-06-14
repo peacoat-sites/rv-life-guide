@@ -6,8 +6,6 @@ description: "Discover the key differences between full-time RV living and van l
 image: "https://images.pexels.com/photos/14577843/pexels-photo-14577843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["full-time", "living", "life", "pros", "cons"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "full-time-rv-living-vs-van-life-pros-and-cons"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can be, but it's not automatic. The lower campground costs from stealth camping and dispersed public land camping are real, but van repair costs (especially European vans like Sprinters) can be brutal. Over a five-year period, the total costs often end up closer than people expect. Your actual savings depend heavily on how much free camping you can realistically access."
   - q: "What's the biggest mistake people make choosing between the two?"
     a: "Choosing based on aesthetics instead of their actual daily life. If you work a demanding remote job, cook real food, live in a climate with weather extremes, or have any chronic health stuff that requires space and comfort, the van is going to fight you. If you're young, healthy, flexible, and genuinely love minimalism as a practice and not just a concept, the van experience is legitimately rewarding. Be honest about which person you actually are, not which person you want to be."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 My neighbor at a Flagstaff KOA once told me she'd tried both -- four years in a converted Sprinter, then switched to a 28-foot travel trailer -- and her exact words were, "Van life looks better on Instagram. RV life feels better on a Tuesday." I've thought about that a lot over eight years out here.

@@ -6,8 +6,6 @@ description: "Learn how to repair and seal your RV roof with expert tips on the 
 image: "https://images.pexels.com/photos/9143458/pexels-photo-9143458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["roof", "repair", "sealing"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "rv-roof-repair-sealing"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "EternaBond is genuinely durable when applied correctly to a clean, prepared surface. It's not a band-aid. I've seen 10-year-old EternaBond repairs still holding on roofs that had been recoated multiple times around them. That said, proper surface prep is non-negotiable. Stick it on a dusty or damp surface and it'll fail."
   - q: "What happens if I ignore a small RV roof leak?"
     a: "The honest answer is that small leaks become large structural problems faster than most people expect. Water in an RV doesn't drain the way it might in a house. It saturates the wood framing, the lauan underlayment, the subflooring. Once rot sets in, you're not fixing a leak anymore, you're doing a partial deconstruction and rebuild. A $15 tube of sealant applied at the right moment can genuinely save you several thousand dollars. This isn't an exaggeration."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 If you've noticed a soft spot near your slide-out, a brown water stain creeping across your ceiling, or a smell that's somewhere between wet cardboard and mildew, you already know something is wrong. What you might not know yet is how far along the damage actually is. Roof leaks in RVs are sneaky. By the time you see evidence on the inside, the water has often been sitting in your walls or subflooring for weeks, sometimes months. I've pulled back ceiling panels on rigs that looked totally fine from the outside and found rot that went six inches in every direction from a pinhole-sized crack in the sealant. That's the bad news. The good news is that sealing an RV roof is genuinely a DIY job, and catching it early makes an enormous difference in what you're dealing with.

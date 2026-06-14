@@ -6,8 +6,6 @@ description: "Plan your budget with confidence using our complete RV monthly exp
 image: "https://images.pexels.com/photos/7905586/pexels-photo-7905586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["monthly", "expenses", "breakdown"]
-author: "Carlos Mendez"
-author_bio: "RV technician and full-time traveler specializing in solar systems and DIY RV maintenance."
 slug: "rv-monthly-expenses-breakdown"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "ACA marketplace plans through a chosen domicile state are the most common answer. South Dakota, Texas, and Florida are popular domicile states for full-timers partly because of ACA plan availability. Some full-timers who work remotely keep employer coverage. Medsharing programs exist but carry real risks you should research carefully before relying on them."
   - q: "What's the minimum realistic monthly budget to full-time without being miserable?"
     a: "I'd say $2,000/month is survivable if you're disciplined, boondock frequently, cook most of your meals, and have a paid-off rig with no loan payment. Below that, you're cutting into your repair reserve or your health coverage, and that's a bet I wouldn't take. A paid-off rig matters enormously. A $700/month loan payment changes the math completely."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most people who ask me about full-time RV living want to know one thing before anything else: "Is it actually cheaper?" I sold my house in a Chicago suburb in the fall of 2019, bought a 38-foot fifth wheel, and hit the road thinking I'd cut my monthly expenses roughly in half. The first month cost me $4,200. I almost turned around.

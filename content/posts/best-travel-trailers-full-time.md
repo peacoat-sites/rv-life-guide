@@ -6,8 +6,6 @@ description: "Discover the best travel trailers for full time living. Compare to
 image: "https://images.pexels.com/photos/20427652/pexels-photo-20427652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "travel", "trailers", "full", "time"]
-author: "Carlos Mendez"
-author_bio: "RV technician and full-time traveler specializing in solar systems and DIY RV maintenance."
 slug: "best-travel-trailers-full-time"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Standard RV insurance policies often explicitly exclude full-time habitation. You need a policy with full-timer coverage, which typically adds liability protection similar to a homeowner's policy. National General, Progressive, and Good Sam all offer full-timer policies. Expect to pay $1,500 to $2,500 annually for comprehensive coverage."
   - q: "What's the hardest part of living in a travel trailer full-time that nobody talks about?"
     a: "Mail and domicile. You need a legal state of residence for your driver's license, vehicle registration, and taxes. South Dakota, Texas, and Florida are the three states most used by full-timers because of their policies on domicile without physical presence. Getting this sorted before you hit the road saves enormous headaches later. Services like America's Mailbox in South Dakota or Escapees in Texas handle mail forwarding and can help establish legal domicile."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 Living full-time in a travel trailer sounds romantic until you're squeezed into a 19-footer at a campground in Flagstaff in January, the furnace is cycling every eight minutes, your water hose froze overnight, and you realize you packed for a vacation, not a life. I've been there. Six years, 90,000-plus miles, and more campgrounds than I can count have taught me that picking the right travel trailer for full-time living isn't about finding the shiniest floor plan at the RV show. It's about finding something that won't break you financially, physically, or mentally over the long haul.

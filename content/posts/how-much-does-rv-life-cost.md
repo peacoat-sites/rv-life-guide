@@ -6,8 +6,6 @@ description: "Discover the real costs of RV living, from campsite fees and fuel 
 image: "https://images.pexels.com/photos/16725456/pexels-photo-16725456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["much", "does", "life", "cost"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "how-much-does-rv-life-cost"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Between the rig itself (I bought a used 2015 Class C for $58,000), solar installation, a new mattress, storage upgrades, the surge protector, a quality water filter system, and the first-year surprise repairs, I spent about $72,000 in year one. That's not typical for everyone, but it's honest."
   - q: "Does RV life get cheaper after the first year?"
     a: "Yes, meaningfully so. The first year has a learning tax: gear you buy and don't need, campgrounds you pay for while you learn boondocking, repairs that expose hidden problems in a used rig, memberships you try and cancel. By year two or three, most experienced full-timers have systems dialed in and costs drop 20% to 30% from that chaotic first year."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 My first month on the road, I spent $6,800. My best month ever cost $1,340. Both were real, both were full-time RV life, and neither number tells the whole story. If you've been Googling "how much does RV life cost" and getting answers that range from $1,500 to $5,000 a month with no real explanation of why, you're not crazy for being confused. The range is that wide because the variables are enormous, and most people writing about this have a vested interest in making it sound either thrillingly affordable or comfortably manageable.

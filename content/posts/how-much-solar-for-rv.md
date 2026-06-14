@@ -6,8 +6,6 @@ description: "Discover how much solar power your RV needs to stay off-grid. Lear
 image: "https://images.pexels.com/photos/23153100/pexels-photo-23153100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["much", "solar"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-solar-for-rv"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "I've had good experiences with Renogy and Rich Solar for panel quality at reasonable price points. SunPower makes excellent high-efficiency panels if roof space is your constraint. For charge controllers and monitoring, Victron is the gold standard and worth the premium. Avoid the no-name panels on discount sites. The savings aren't worth the uncertainty when you're relying on them daily."
   - q: "Can I run air conditioning on solar?"
     a: "Yes, but it's expensive to do right. A rooftop RV AC unit draws 1,300-1,800 watts while running and cycles frequently. Running it for 8 hours could consume 7,000-10,000+ Wh in a day. To support that on solar alone, you'd need 4,000+ watts of panels and a substantial battery bank, plus you'd need peak sun hours to align with peak cooling demand. Some full-timers make it work with large lithium banks and 3,000-4,000 watts of solar. Most use solar to offset the generator load rather than eliminate it entirely. It's a system design question, not a simple yes or no. The honest bottom line: most peo"
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Most people Google "how much solar do I need for my RV" and land on some manufacturer's page that tells them 200 watts is "a great starter system." Then they buy it, spend their first dry-camping weekend watching their battery voltage drop while their coffee maker sits unplugged and useless, and wonder what went wrong. What went wrong is that 200 watts might be fine for a weekend warrior charging a phone and running LED lights. It is nowhere near enough for someone actually living in their rig. The answer to "how much solar" depends almost entirely on how you use power, not on what size RV you drive.

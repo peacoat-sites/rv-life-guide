@@ -6,8 +6,6 @@ description: "Discover the best apps for finding free campsites across the US. S
 image: "https://images.pexels.com/photos/13061626/pexels-photo-13061626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["apps"]
 tags: ["best", "apps", "finding", "free", "campsites"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-apps-for-finding-free-campsites"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The Dyrt PRO with offline maps downloaded in advance. Download before you leave signal range. Gaia GPS is worth mentioning too, it's popular with overlanders and lets you cache large areas for offline use, though it's more navigation-focused than camp-finding."
   - q: "Do these apps work outside the United States?"
     a: "iOverlander is the strongest option internationally. It has active data in Mexico, Central America, Europe, and parts of South America. Freecampsites.net is almost entirely US-focused. The Dyrt is US and some Canada. If you're headed into Baja or beyond, iOverlander plus some offline mapping in Gaia or Maps.me is the combination I'd use."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 I've downloaded at least forty apps chasing free camps over eight years. Most are garbage. A few changed how I travel entirely.

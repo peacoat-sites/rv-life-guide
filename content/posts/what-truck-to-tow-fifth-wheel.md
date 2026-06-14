@@ -6,8 +6,6 @@ description: "Looking to tow a fifth wheel? Learn which trucks have the capacity
 image: "https://images.pexels.com/photos/37114015/pexels-photo-37114015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["towing"]
 tags: ["what", "truck", "fifth", "wheel"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "what-truck-to-tow-fifth-wheel"
 affiliate_disclosure: false
 faqs:
@@ -23,6 +21,11 @@ faqs:
     a: "Yes, but mainly for clearance. When turning sharply, the fifth wheel's overhang can strike the back of the cab on a short bed (5.5 ft). Most hitch manufacturers sell extended pin boxes or sliding hitches to solve this, but it adds cost and weight. A standard 6.5-8 ft bed avoids the problem entirely."
   - q: "How much does a good fifth wheel hitch cost?"
     a: "Plan on $800-$1,500 for a quality hitch from B&W, PullRite, or Lippert. Fifth wheel hitches are not a place to cut corners. A B&W Companion hitch is widely considered the benchmark for fit and durability. Installation typically adds $150-$300 at a shop if you're not doing it yourself. (This site may earn a commission on purchases.)"
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Most people shopping for a fifth wheel spend weeks obsessing over floor plans, slide-outs, and kitchen layouts. Then they realize, sometimes in a dealership parking lot, that the truck they drove there can't actually tow the rig they just fell in love with. It's one of the most common and expensive mistakes in the RV world. Buying the wrong truck, or buying a fifth wheel that outguns your existing truck, can mean a dangerous rig on the highway, a voided warranty, or a very uncomfortable conversation with your insurance company after an incident.

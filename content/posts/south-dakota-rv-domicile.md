@@ -6,8 +6,6 @@ description: "Establish your RV domicile in South Dakota and enjoy low registrat
 image: "https://images.pexels.com/photos/36033638/pexels-photo-36033638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["logistics"]
 tags: ["South", "Dakota", "domicile"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "south-dakota-rv-domicile"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you've done the prep work, set your mail forwarding address, updated your records, and gathered your documents, the in-person part typically takes two to four hours. Some people do it faster if they have appointments lined up. Schedule your DMV appointment in advance, because walk-in wait times can vary significantly, especially at the Sioux Falls location."
   - q: "Does South Dakota domicile affect my health insurance options?"
     a: "Yes, it can. Your listed state of residence affects which health insurance plans are available to you and at what rates. Some full-time RVers choose South Dakota specifically because plans available there offer nationwide network coverage rather than limiting you to in-network providers in a specific region. If you're shopping for health insurance, compare plans available to South Dakota residents on the federal marketplace and factor that into your domicile decision. South Dakota domicile isn't magic, and it's not right for everyone. If you have strong ties to your home state, own real estate"
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Every year, thousands of full-time RVers choose South Dakota as their legal home state without ever spending more than 24 hours there. That might sound like a loophole, but it's completely legal, and it saves many travelers hundreds of dollars per month compared to maintaining a domicile in high-tax states like California, Oregon, or New York. South Dakota has no state income tax, low vehicle registration fees, and one of the most streamlined domicile establishment processes in the country. If you're seriously considering the RV lifestyle and haven't looked into this state yet, you're leaving money on the table.

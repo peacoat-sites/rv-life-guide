@@ -6,8 +6,6 @@ description: "Explore RV healthcare options for full-time travelers. Learn about
 image: "https://images.pexels.com/photos/9761339/pexels-photo-9761339.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["logistics"]
 tags: ["healthcare", "options"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "rv-healthcare-options"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Use a national pharmacy chain and set up a mail-order option for 90-day supplies of maintenance medications. GoodRx and similar discount programs can cut costs dramatically for generic drugs, sometimes below your insurance copay. For controlled substances, be aware that some states have stricter transfer rules. Having a telehealth provider or DPC doctor who can send prescriptions electronically to any state pharmacy solves most prescription logistical headaches."
   - q: "Do I really need a domicile state if I'm just traveling part of the year?"
     a: "If you still maintain a home base and spend more than six months in one state, that state is likely still your legal domicile. The domicile question becomes critical when you sell your home and go fully mobile. At that point, you need to formally establish residency somewhere. Skipping this step creates real problems with insurance enrollment, voting, driver's license renewal, and taxes."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Imagine you're parked at a campground outside Sedona, Arizona, and you wake up with what feels like a kidney stone. The pain is real, the nearest urgent care is 12 miles away, and your insurance card lists a primary care physician back in Ohio who you haven't seen in three years. This is the moment most new full-timers never planned for, and it catches people off guard more than almost anything else about life on the road. Healthcare is the single most complicated logistical puzzle in the full-time RV world, but it's absolutely solvable if you understand your options before the emergency happens.

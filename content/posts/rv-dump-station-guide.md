@@ -6,8 +6,6 @@ description: "Find everything you need to know about RV dump stations, including
 image: "https://images.pexels.com/photos/7476214/pexels-photo-7476214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["dump", "station", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "rv-dump-station-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some Walmart locations still allow it, but call ahead. Policies vary by store and region, and many have stopped allowing it due to abuse of the courtesy. When a store does allow it, it's a privilege not a right. Dump quickly, clean up completely, and if you shop there while you're at it, that's just good manners."
   - q: "Why does my black tank still smell bad after dumping?"
     a: "Usually one of three things: you're not using enough water between uses, you're not using a tank treatment, or your tank sensors or seals have an issue. Add more water after each dump, use a quality enzyme treatment, and if the smell persists, try a dedicated tank flush treatment like Unique Tank Cleaner, which is designed to break down buildup on tank walls. Persistent sulfur smell sometimes indicates a vent pipe issue, which is worth having checked."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 If you're sitting in a campground right now with a full black tank and zero idea what happens next, take a breath. You're not the first person to pull up to a dump station and just... stare at it. I've watched experienced campers fumble with their sewer hose on a windy Tuesday morning. I've been that person. The dump station is one of those things nobody really explains to you before you drive away from the RV dealership, and yet it's something you'll deal with every single week of full-time life.

@@ -6,8 +6,6 @@ description: "Discover the best RV camping memberships that can save you hundred
 image: "https://images.pexels.com/photos/9354566/pexels-photo-9354566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["memberships"]
 tags: ["best", "camping", "memberships", "save", "money"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "best-rv-camping-memberships-to-save-money"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "At that volume, Passport America is probably the only one that makes mathematical sense. Harvest Hosts could also work well if you're self-contained and enjoy unique stops. Skip Thousand Trails entirely unless you can identify specific parks you'll use repeatedly."
   - q: "Are any of these memberships transferable if I sell my RV?"
     a: "Some are, some aren't. Good Sam is tied to a person, not a rig. Thousand Trails memberships can sometimes be transferred depending on the membership type; the older legacy memberships are transferable and actually sell on eBay. Passport America is personal. Always check the transfer policy before buying, especially for anything over $200, because a non-transferable membership is a real hit when you're changing rigs or leaving the lifestyle."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 I've spent somewhere around $40,000 on campground fees over eight years on the road. That number made me want to lie down when I actually calculated it. And the honest part? A big chunk of that was paid before I figured out which memberships were actually worth buying and which ones were just well-marketed money traps.

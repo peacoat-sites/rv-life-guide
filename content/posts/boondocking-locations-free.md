@@ -6,8 +6,6 @@ description: "Discover the best boondocking locations for free camping across th
 image: "https://images.pexels.com/photos/106401/pexels-photo-106401.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["boondocking", "locations", "free"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "boondocking-locations-free"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The most reliable source is the managing agency's website. For BLM, that's blm.gov and you navigate to your specific state and then field office. For national forests, fs.usda.gov has individual forest pages. The InciWeb site tracks active wildfire closures. You can also call the field office directly. Don't rely on apps alone; crowd-sourced data lags behind real-time closures by days or weeks."
   - q: "Can I boondock on state land?"
     a: "It depends entirely on the state. Arizona, Montana, Nevada, New Mexico, and Wyoming have state land programs that allow dispersed camping, usually with an inexpensive annual recreational permit. Other states are far more restrictive and most of their state land is closed to camping. Look up your specific state's State Land Department or equivalent agency and look for recreational use policies."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most people think free camping means roughing it in some dusty lot behind a Walmart. I thought that too, until I spent three weeks in southern Utah on Bureau of Land Management land and realized I was waking up to red rock formations that resort campers were paying $400 a night to see from a lodge window. That's the thing nobody tells you when you're just getting started: the free stuff is often the best stuff. Not always, not everywhere, but often enough that once you find your first legitimate boondocking spot, you'll wonder why you ever paid for a full-hookup site at a noisy commercial campground.

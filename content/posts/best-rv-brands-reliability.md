@@ -6,8 +6,6 @@ description: "Discover the most reliable RV brands on the market. Compare top ma
 image: "https://images.pexels.com/photos/6940962/pexels-photo-6940962.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "brands", "reliability"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "best-rv-brands-reliability"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Budget 1% to 3% of the purchase price annually for maintenance and repairs, regardless of how new or reliable the brand is. For a $75,000 trailer, that's $750 to $2,250 per year in a good year. Full-timers who put serious miles on their rigs often spend more. I personally averaged around $3,500 per year in my first three years, dropping to roughly $1,800 in year five after I'd replaced or upgraded the most failure-prone components."
   - q: "Does the extended warranty actually help with unreliable brands?"
     a: "It depends entirely on the warranty provider and how carefully you read the exclusions. Third-party warranties from companies like Good Sam or Wholesale Warranties can cover expensive repairs, but they often exclude pre-existing conditions, cosmetic issues, and wear items, which covers a surprising number of common failures. If you buy an extended warranty, read every exclusion line before signing, not after you need to use it."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 You spend $85,000 on a brand-new Class A motorhome, pull out of the dealership lot, and by mile 200 you're sitting on the side of I-40 in New Mexico waiting for a tow truck. The slideout stopped working, the generator won't start, and your cell signal is two bars of despair. I've heard this story more times than I can count, and I've lived a version of it myself. RV reliability isn't just a shopping consideration. It can define whether this lifestyle is a dream or a slow financial nightmare.

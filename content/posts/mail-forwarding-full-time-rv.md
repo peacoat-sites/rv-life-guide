@@ -6,8 +6,6 @@ description: "Full-time RV mail forwarding solutions: get a permanent address, r
 image: "https://images.pexels.com/photos/7363161/pexels-photo-7363161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["logistics"]
 tags: ["mail", "forwarding", "full", "time"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "mail-forwarding-full-time-rv"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. File IRS Form 8822 to update your address with the federal tax agency. This ensures any correspondence, refund checks, or notices reach you. The IRS does not automatically update based on your tax return filing address, so this is a separate step many people miss."
   - q: "Will my health insurance change if I change my domicile state?"
     a: "It can, significantly. ACA marketplace plans are state-specific, so changing your domicile state means you'll shop on a different state's exchange. Some states have much better plan options than others. South Dakota's ACA marketplace has limited insurer participation, so many full-timers who use SD as their domicile state opt for short-term health plans, health sharing ministries, or nationwide plans designed for travelers. Review your options carefully before finalizing your domicile choice."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 You just signed the lease on your apartment for the last time, sold most of your furniture on Facebook Marketplace, and your RV is parked out front ready to go. Then your phone buzzes. It's your bank, flagging a suspicious address change. Your insurance renewal is sitting in a mailbox you no longer own. And your new driver's license? It needs a physical address. Welcome to one of the most overlooked logistics problems in full-time RV living: mail forwarding.

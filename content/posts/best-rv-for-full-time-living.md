@@ -6,8 +6,6 @@ description: "Discover the best RVs for full time living with our expert guide. 
 image: "https://images.pexels.com/photos/27864571/pexels-photo-27864571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "full", "time", "living"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "best-rv-for-full-time-living"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but it takes planning. Cellular signal is the real variable. I use a Pepwave MAX BR1 Pro router with a WeBoost Drive Reach antenna, and I carry SIM cards from three different carriers. Even so, there are stretches of rural driving where I can't take a video call. Co-working spaces in medium-sized towns have become a genuine lifeline for remote workers who need reliability on deadline days. If your job depends on consistent high-speed internet, plan your travel routes around cell coverage maps, not just scenery."
   - q: "How do you handle mail and your legal domicile as a full-timer?"
     a: "You'll need to establish a legal domicile in a state, and the three most popular choices among full-timers are South Dakota, Texas, and Florida. All three have no state income tax, and all three have established systems for non-resident vehicle registration and mail forwarding. Services like America's Mailbox (South Dakota) or Escapees Mail Service (Texas) give you a physical street address, accept packages, and forward mail on a schedule you set. Most full-timers get their domicile set up before they hit the road."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 The day we signed the title on our 38-foot fifth wheel, I was convinced we'd made the perfect choice. Eighteen months later, we sold it at a $14,000 loss and bought something completely different. If someone had told me the truth about full-time RV selection before we started, I would have saved that money, avoided a blown tire on I-40 outside Amarillo, and skipped approximately 200 arguments about slide-room maintenance. So let me be that person for you.

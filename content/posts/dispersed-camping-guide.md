@@ -6,8 +6,6 @@ description: "Discover everything you need to know about dispersed camping, from
 image: "https://images.pexels.com/photos/8985295/pexels-photo-8985295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["dispersed", "camping", "guide"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "dispersed-camping-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Trash you pack out, full stop. There are no dumpsters at dispersed sites. Gray water is a bit more nuanced: technically you should not dump gray water on the ground, especially near water sources, as it contains food particles and soap that affect wildlife. In practice, most land management agencies look the other way on small amounts of soapy rinse water dumped far from water sources, but your black tank always needs a proper dump station. Know where the nearest one is before you set up camp."
   - q: "Is dispersed camping safe for solo women?"
     a: "I've solo camped for the majority of my 8 years on the road, and my honest answer is: it depends on how prepared you are, not on your gender. The actual risks in remote dispersed areas, wildlife, weather, vehicle breakdowns, are equal-opportunity problems. The satellite communicator matters more than anything else for solo safety. I also use a dash camera that covers the exterior of my rig at night, and I'm thoughtful about sharing my exact location publicly in real time. None of this has made me fearful of dispersed camping. It's made me feel genuinely capable."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 If you've spent three nights in a row wedged between two diesel pushers at a packed campground, paying $65 a night for the privilege of hearing someone else's generator at 10 PM, you already know why dispersed camping exists. It's free land, wide open, and nobody's telling you to quiet down by 9. But if you've never done it before, you might be wondering: where exactly do I park? Is it actually legal? What happens if something goes wrong when I'm 40 miles from the nearest town? Those questions are completely reasonable, and I want to answer all of them honestly, because dispersed camping is one of the best things about full-time RV life, and also one of the easiest ways to get into real trouble if you go in unprepared.

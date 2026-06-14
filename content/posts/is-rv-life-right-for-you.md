@@ -5,6 +5,11 @@ description: "Curious whether full-time or part-time RV life suits you? Take thi
 slug: "is-rv-life-right-for-you"
 date: 2026-05-27T10:00:00+00:00
 tags: ["rv life", "rv lifestyle", "quiz", "rv beginners", "road trip living"]
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 There's a daydream a lot of us share: waking up to a new view out the window, coffee in hand, with the freedom to point the rig wherever the road looks good. But RV life is also small spaces, dump stations, spotty Wi-Fi, and figuring out where to park for the night. The dream and the reality both deserve an honest look.

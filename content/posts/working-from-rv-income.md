@@ -6,8 +6,6 @@ description: "Discover how to earn a living while traveling full-time in your RV
 image: "https://images.pexels.com/photos/7476236/pexels-photo-7476236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["income"]
 tags: ["working", "from", "income"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "working-from-rv-income"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Freelance writing or virtual bookkeeping, in my experience. Both have low startup costs, platforms like Upwork or direct outreach can get you first clients without much infrastructure, and neither requires specialized equipment. Writing income is more variable; bookkeeping income is stickier once you have retainer clients."
   - q: "Do campgrounds have good enough wifi to work from?"
     a: "Mostly no. Treat campground wifi as a backup for light tasks only. For any work that matters, budget for your own cellular data plan. It's not optional if you're working full-time."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Most people who email me about full-timing have already figured out the "where will you sleep" problem. What stops them is the money question. Specifically: *can I actually keep income coming in while I'm doing this?*

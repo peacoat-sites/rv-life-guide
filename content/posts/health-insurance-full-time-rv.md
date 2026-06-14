@@ -6,8 +6,6 @@ description: "Health insurance options for full-time RV living. Compare coverage
 image: "https://images.pexels.com/photos/2398220/pexels-photo-2398220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["logistics"]
 tags: ["health", "insurance", "full", "time"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "health-insurance-full-time-rv"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Emergency stabilization is always covered under ACA plans regardless of network. The real risk is the follow-up care: inpatient hospital stays, specialist follow-ups, or rehabilitation. For planned procedures, most full-timers time them to coincide with visits back to their domicile state where their network is strongest. For truly serious ongoing conditions, the full-time lifestyle may require more planning around medical access than average."
   - q: "Is health sharing a real option or is it risky?"
     a: "It's both, honestly. Health sharing ministries have worked well for a lot of healthy full-timers who use minimal care. They've also failed people who had large, unexpected claims. They are not regulated the same way insurance is. If you go this route, read the membership guidelines exhaustively, understand what is and isn't shareable, and make sure you could absorb a significant bill if the sharing pool fell short."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 You've handed in your notice, sold most of your furniture, and signed the title on a used Class A motorhome. The excitement is real. Then someone at the going-away party asks, "So what are you doing for health insurance?" and the room gets quiet. It's one of the most overlooked logistical hurdles in full-time RV life, and it can genuinely derail your plans if you don't sort it out before you pull out of the driveway for the last time.

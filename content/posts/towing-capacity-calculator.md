@@ -6,8 +6,6 @@ description: "Calculate your vehicle's maximum towing capacity instantly. Determ
 image: "https://images.pexels.com/photos/29152225/pexels-photo-29152225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["towing"]
 tags: ["towing", "capacity", "calculator"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "towing-capacity-calculator"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, but it does redistribute tongue weight across all axles, which improves control and may bring your setup within safe axle limits. Some manufacturers specify that their tow ratings assume a weight distribution hitch is in use for trailers above a certain weight."
   - q: "Should I use the trailer's dry weight or GVWR when running the numbers?"
     a: "Always use the trailer's GVWR (Gross Vehicle Weight Rating) as your planning number, not the dry weight. Your tow vehicle needs to handle the trailer at its maximum loaded capacity. If the GVWR is close to or exceeds your limits, you're in a precarious position regardless of how light you actually pack."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 Most people discover their truck can't actually tow their dream trailer *after* they've already signed the purchase agreement. That moment of panic, standing in a dealership lot with a spec sheet that doesn't quite add up, is more common than you'd think. The good news: understanding how a towing capacity calculator works, and what numbers actually matter, can save you from an expensive and potentially dangerous mistake.

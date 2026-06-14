@@ -6,8 +6,6 @@ description: "Upgrade your RV with a lithium battery for longer trips, faster ch
 image: "https://images.pexels.com/photos/37177072/pexels-photo-37177072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["lithium", "battery", "upgrade"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "rv-lithium-battery-upgrade"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A good BMS will disconnect the battery before it reaches true zero, usually cutting off around 10-11.5V. If the BMS trips into low-voltage cutoff, you won't damage the battery. Just apply a charge and it will reset. If you somehow bypassed the BMS and deeply discharged a lithium cell, recovery is sometimes possible but not guaranteed. This is why BMS quality matters."
   - q: "Is a lithium battery upgrade worth it for a weekend warrior who only goes out once or twice a month?"
     a: "Honestly, it depends on how you camp. If you're always at full-hookup sites, AGM works fine and lithium is probably overkill. If you dry camp even occasionally, or if you want solar to be genuinely useful, lithium makes that experience dramatically better. For full-timers and frequent boondockers, it's one of the best investments you can make. For someone camping 15 days a year at campgrounds, maybe spend that money on a good water filter instead."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 You're parked at a beautiful dispersed site in the Sonoran Desert, three days from the nearest hookup, and by 2 PM your inverter is screaming low-voltage warnings. Your generator is loud, your neighbors are close enough to hear it, and you're rationing whether to run the coffee maker or charge your laptop. If you've been there, you already know why people obsess over lithium batteries. If you haven't been there yet, trust me, you will think about this moment when you're shopping for your next upgrade.

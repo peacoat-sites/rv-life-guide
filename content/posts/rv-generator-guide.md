@@ -6,8 +6,6 @@ description: "Learn everything about RV generators in our complete guide. Discov
 image: "https://images.pexels.com/photos/32713414/pexels-photo-32713414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["generator", "guide"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "rv-generator-guide"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Short of replacing it with an inverter model, you have a few options. A generator muffler baffle box, essentially an insulated enclosure open on one end for airflow, can drop the noise significantly. Positioning the exhaust end away from your living area and neighboring campsites helps. Distance helps too: a 25-foot extension cord lets you place the generator further from the campsite without losing much power on a short run."
   - q: "What's the best generator for a 30-amp RV?"
     a: "For most single-AC, 30-amp rigs, the Honda EU3000iS is the sweet spot. It handles 3,000 running watts, starts a standard 13,500 BTU AC without a soft-start kit, is quiet enough for most campgrounds, and Honda's long-term reliability is hard to argue with. It runs around $2,000, which is real money, but for full-time or frequent boondocking use, it's the one I'd recommend without hesitation. Budget option with a soft-start kit on the AC: the Honda EU2200i at around $1,000."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. I've been in that exact situation, and the difference between "inconvenience" and "dangerous" came down to whether I actually understood my generator setup before I needed it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.

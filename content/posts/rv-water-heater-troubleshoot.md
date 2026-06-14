@@ -6,8 +6,6 @@ description: "Learn how to troubleshoot common RV water heater problems with our
 image: "https://images.pexels.com/photos/8147181/pexels-photo-8147181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["water", "heater", "troubleshoot"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "rv-water-heater-troubleshoot"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not in a Suburban unit, no. The anode rod is sacrificial protection for the steel tank. Running without it accelerates tank corrosion significantly. You might get away with it short-term, but you're gambling with the tank itself. Atwood/Dometic units don't use anode rods (aluminum tank), so this only applies if you've got a Suburban."
   - q: "Why does my RV water heater work on propane but not electric, or vice versa?"
     a: "The propane and electric heating systems in a combination unit are almost entirely independent. They share a tank but have separate controls, thermostats, and heating components. If one mode works and the other doesn't, the failure is isolated to that side. For electric-only failure, check the element, the high-limit switch, and your shore power connection. For propane-only failure, work through the ignition sequence: gas supply, electrode, burner tube, sail switch, control board."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 My water heater stopped working outside Moab in late October, and I'll be honest: I panicked a little. Not because cold showers are the end of the world, but because I'd been on the road for three years at that point and genuinely had no idea what I was looking at when I opened that exterior access panel. Eight years later, I could diagnose most RV water heater problems in my sleep. The gap between then and now is just experience and a willingness to actually understand the system instead of immediately calling a mobile tech.

@@ -6,8 +6,6 @@ description: "Discover tips for thriving in RV life with pets. Learn about pet-f
 image: "https://images.pexels.com/photos/32704921/pexels-photo-32704921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 tags: ["life", "with", "pets"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "rv-life-with-pets"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably yes, but it takes longer than you want it to. Most cats acclimate to the moving-then-stopping rhythm after 4-6 weeks of consistent full-time travel. Short, frequent moves are harder than fewer, longer ones. The worst thing you can do is let them out to 'explore' in an unfamiliar area before they're settled. Keep them inside for the first 24 hours somewhere new."
   - q: "Do I need a specific kind of water filter if my pet drinks from the RV tap?"
     a: "Whatever filter you're using for your own water is fine for your pets too. I use an inline RV water filter on the city water hookup and a countertop Berkey for drinking water. Both are good for pets. The main thing to watch for on the road is avoiding hose water that's been sitting in a non-food-safe hose in the heat, which can leach plasticizers. Drink-safe white or blue hoses only. (Heads up: this site may earn a commission on purchases through Amazon links.)"
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 My dog Cleo has slept in the same 6-inch window of sunlight every morning for eight years, except now that window moves. Montana one week, New Mexico the next. She adjusted faster than I did.

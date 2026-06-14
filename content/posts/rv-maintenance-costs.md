@@ -6,8 +6,6 @@ description: "Regular RV maintenance costs can vary widely. Learn essential upke
 image: "https://images.pexels.com/photos/31445085/pexels-photo-31445085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["maintenance", "costs"]
-author: "Editorial Team"
-author_bio: "Content team."
 slug: "rv-maintenance-costs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on the rig and coverage terms. On diesel coaches over five years old with high component replacement costs, a warranty can pay for itself in a single repair event. On newer gas rigs still under the original manufacturer warranty, the overlap often makes an extended warranty a poor value. Always read the exclusions list carefully. Many exclude 'wear items' like seals, belts, and brake pads that account for a lot of actual repair costs."
   - q: "Can I do my own RV maintenance to save money?"
     a: "Absolutely, and most experienced full-timers do exactly that for the majority of preventive tasks. Roof sealing, water system maintenance, generator service, lubrication, and filter changes are all well within reach of a DIY-capable owner. Work that involves propane systems, chassis brakes, or structural repairs is best left to certified technicians for safety and liability reasons."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 Imagine you've just signed the paperwork on a brand-new Class A motorhome. The salesperson shook your hand, you drove off the lot giddy, and somewhere around mile 200 you started doing the math. The sticker price was $150,000. But nobody sat you down and said, "Hey, plan on spending another $3,000 to $5,000 a year just keeping this thing running right." For some owners, that annual maintenance number climbs well past $10,000 depending on age, mileage, and how far off the beaten path they roam. RV maintenance costs are one of the most underestimated line items in the full-time or part-time RV budget, and getting caught off guard by them is one of the fastest ways to sour what should be an incredible lifestyle.

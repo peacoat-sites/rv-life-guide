@@ -6,8 +6,6 @@ description: "Discover the best snowbird RV parks in Florida for winter escapes.
 image: "https://images.pexels.com/photos/2848438/pexels-photo-2848438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["campgrounds"]
 tags: ["snowbird", "parks", "Florida"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "snowbird-rv-parks-florida"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "West coast (Fort Myers, Sarasota, Naples area) has more dedicated snowbird park infrastructure and generally better winter weather. East coast parks tend to be pricier and more tourist-oriented. If cost and long-term community matter, west coast wins. If you want proximity to Miami or prefer the Atlantic, east coast has its appeal."
   - q: "Can I bring a large Class A (40 feet or more) to most Florida snowbird parks?"
     a: "Most established parks in the main snowbird corridors can handle a 40-foot rig. Always call ahead and confirm site length and pull-through versus back-in availability. Some of the older parks along the Gulf were built for smaller rigs and have genuinely tight turns. A few will cap rig age at 10 years regardless of size, so ask about both."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Florida pulls about 800,000 RVers every winter season. That number sounds abstract until you're sitting in a line of 47 rigs waiting to check in at a park in Fort Myers in early November, wondering if you should have made that reservation back in March. You probably should have.

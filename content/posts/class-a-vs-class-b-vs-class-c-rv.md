@@ -6,8 +6,6 @@ description: "Discover the key differences between Class A, Class B, and Class C
 image: "https://images.pexels.com/photos/30563253/pexels-photo-30563253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["Class", "Class", "Class"]
-author: "Dan Calloway"
-author_bio: "Full-time RVer since 2019. 90,000+ miles across 48 states. Covers budgeting, maintenance, and campground life."
 slug: "class-a-vs-class-b-vs-class-c-rv"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "More than a Class A, but it's still a heavy box truck on a standard chassis. You're not taking a Thor Chateau down a serious unmaintained forest road. For genuine dispersed camping on rough terrain, you're looking at either a high-clearance Class B on an Adventure Van build or a truck camper. The Class C is better than people give it credit for on dirt roads, but its limits are real."
   - q: "Do I need a special license to drive a Class A?"
     a: "In most U.S. states, no. Standard Class D (regular car) licenses cover motorhomes under a certain weight threshold, typically 26,000 pounds GVWR. Most Class A gas coaches fall under this limit. Diesel pushers above a certain size can get closer to that threshold, so it's worth checking your specific coach's GVWR against your state's DMV requirements before you buy. Canada has different rules province to province, so check locally if you're Canadian or planning extended travel there."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 Most people walk into an RV dealership, see a gleaming 40-foot diesel pusher in one bay and a Sprinter van conversion in the next, and immediately freeze. The salesperson is already walking over. You haven't done nearly enough research. And the price difference between those two rigs? It could be $300,000. That moment of sticker shock is exactly where bad decisions get made, and I've watched it happen to more people than I can count over six years on the road.

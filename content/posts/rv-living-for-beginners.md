@@ -6,8 +6,6 @@ description: "Discover everything you need to know about RV living as a beginner
 image: "https://images.pexels.com/photos/5432833/pexels-photo-5432833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["living", "beginners"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "rv-living-for-beginners"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Hundreds of families do this successfully. The two main options are an accredited online curriculum (Connections Academy and K12 are both free and widely accepted) or formal homeschooling through your legal domicile state's requirements. Many families find the road itself is one of the best educations: national parks, historical sites, working farms, and different regional cultures are not abstract when you're living in the middle of them."
   - q: "Is it safe to park overnight in random places?"
     a: "Mostly, yes, with common sense applied. BLM land and dispersed national forest camping are legal and generally safe. Urban overnight parking is more variable. Use apps like iOverlander, FreeRoam, and Campendium to see where others have successfully parked and whether they felt safe. Trust your gut when a spot feels wrong. Park with sight lines. Keep your doors locked. In six years and over 90,000 miles, I've had zero safety incidents, but I also don't park in places that feel sketchy just to avoid paying $35 for a campsite."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Your first blowout will happen at the worst possible time. Mine was on I-40 in New Mexico, 104 degrees outside, an 18-wheeler blaring past at 75 mph, and my husband and I staring at each other like we had absolutely no idea what we'd gotten ourselves into. We'd sold our 2,400-square-foot house in suburban Columbus six months earlier, bought a 32-foot fifth wheel, and hit the road with two cats, a lot of confidence, and nowhere near enough knowledge. That blowout cost us $340 and four hours of our lives. The real cost was the wake-up call: RV living rewards the prepared and humbles everyone else. Here's what I wish someone had handed me before I signed those closing papers.

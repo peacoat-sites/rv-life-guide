@@ -6,8 +6,6 @@ description: "Learn essential RV sewer connection tips to avoid leaks and odors.
 image: "https://images.pexels.com/photos/16284605/pexels-photo-16284605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["sewer", "connection", "tips"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "rv-sewer-connection-tips"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not every single time. A good enzyme-based treatment like Happy Campers or Unique RV Digest-It helps with odor and breaks down solids, but you don't need a full dose at every dump. A reasonable routine is treating after each dump when staying on hookups, or every few days when boondocking. Overuse doesn't hurt anything, but it's unnecessary expense."
   - q: "What do I do if my sewer hose comes apart mid-dump?"
     a: "Close your black valve immediately. Then your gray. Assess the spill before touching anything. If it's contained to your site, most campgrounds have a dump station hose you can use to rinse the area, and you should tell the camp host. Don't try to reconnect a failed fitting under flow. Stop the source, then fix the connection, then resume. Keep a spare set of hose-end fittings in your wet bay. They're $5 and they've saved me twice."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Most RV guides spend three paragraphs on sewer connections and then pivot to campground food recommendations. Meanwhile, you're standing in a gravel site at 7 PM trying to figure out why raw sewage is pooling around your boot. Let's skip the fluff and talk about what actually matters when you're hooking up to a sewer connection, because getting this wrong isn't just unpleasant. It's a health hazard, and it can destroy your tank sensors, your seals, and your dignity in front of the entire campground.

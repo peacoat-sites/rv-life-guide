@@ -6,8 +6,6 @@ description: "Stay comfortable and protected all winter long in your RV with our
 image: "https://images.pexels.com/photos/9143483/pexels-photo-9143483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["winterize", "full-time", "living"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-winterize-an-rv-for-full-time-living"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Closed. Always. Leaving a gray tank valve open in freezing weather is a reliable way to create an ice dam that will eventually block or crack your drain. Dump when the tank is 2/3 full, and do it during the warmest part of the day if temps are marginal."
   - q: "Do I need a whole new furnace for winter full-timing, or will my stock furnace work?"
     a: "Your stock furnace will work, but you need to have it inspected and cleaned before the season. A dirty furnace with a partially blocked heat exchanger or flue is both inefficient and a CO risk. Mobile RV techs will typically clean and inspect a furnace for $75-150. Worth it every year."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most winterizing guides are written for people who park their rig in October and don't think about it again until May. That's not you. And doing this wrong when you live in your RV full-time is a completely different kind of problem, because you can't just walk inside and call a plumber.

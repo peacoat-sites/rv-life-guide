@@ -6,8 +6,6 @@ description: "Start your RV life journey with confidence. Discover essential tip
 image: "https://images.pexels.com/photos/5610472/pexels-photo-5610472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["start", "life"]
-author: "Amy Kowalski"
-author_bio: "RV lifestyle writer and campground reviewer. Has stayed at 300+ campgrounds and shares honest practical reviews."
 slug: "how-to-start-rv-life"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and I say that as a woman who has done significant stretches solo. The RV community skews older and is generally watchful in a good way. Common sense applies: research your campgrounds and boondocking spots, trust your gut about situations that feel wrong, and invest in a quality door lock brace and carbon monoxide detector. Apps like iOverlander let you read reviews from other travelers. Solo women RVers have a strong online community: groups like Solo Women RV, Girls RV, and others are full of honest advice."
   - q: "What's the single biggest mistake first-time full-timers make?"
     a: "Moving too fast. New full-timers often have this urge to cover ground immediately, to see everything at once because they can. Then they're exhausted, spending a fortune on fuel, and never actually sitting still long enough to feel like anywhere is home. I drove 14,000 miles in my first four months. It nearly broke me. Now I average 500 to 800 miles a week at most, stay places for a week or more, and I feel the difference completely."
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 The moving truck pulls away, and you're standing in a driveway that is no longer yours, holding the keys to a 28-foot travel trailer. Your phone has seventeen unread texts from friends asking if you've lost your mind. Your stomach is doing something complicated. I know that feeling. I stood in almost exactly that spot in September 2019, and I've put 90,000 miles behind me since. Here's what I wish someone had told me before I ever signed a single piece of paperwork.

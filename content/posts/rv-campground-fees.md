@@ -6,8 +6,6 @@ description: "Discover everything you need to know about RV campground fees, inc
 image: "https://images.pexels.com/photos/19504830/pexels-photo-19504830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["campground", "fees"]
-author: "Rachel Simmons"
-author_bio: "Former marketing manager turned full-time RV nomad. Focuses on remote work, van life, and boondocking."
 slug: "rv-campground-fees"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, dramatically. The Pacific Coast, the Northeast, and popular mountain regions in Colorado run among the highest rates. The Southeast, Midwest, and most of Texas tend to run cheaper. I paid $28 a night for a full hookup site in rural Mississippi that would have been $75 in coastal Maine."
   - q: "Can you negotiate campground fees?"
     a: "More than most people think. Monthly rates are almost always negotiable, especially in the off-season or if you're filling a site that's been sitting empty. Extended stays in spring or fall at seasonal parks sometimes come with discounts if you ask. You won't get anywhere at a packed-out summer park, but during shoulder season, calling the owner directly rather than booking through an app opens up conversations that the booking platform never would."
+author: "Tony Reeves"
+author_slug: "tony-reeves"
+author_title: "RV Mechanic"
+author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+
 ---
 
 The $12-a-night campground I found outside Moab in 2021 felt like winning the lottery. Flat desert site, no hookups, dead quiet, and a sky so full of stars it looked fake. Two years later, I drove the same route and that same spot was $34 a night, booked three weeks out, and had a 72-hour cancellation policy. That's not an anomaly. Campground fees across North America have fundamentally shifted since 2020, and if you're planning an RV trip, or trying to live full-time on the road like I do, understanding what you're actually paying for, and why, can save you hundreds of dollars per month.

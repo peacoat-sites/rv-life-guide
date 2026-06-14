@@ -6,8 +6,6 @@ description: "Discover how to find free boondocking sites near you using apps, w
 image: "https://images.pexels.com/photos/7967392/pexels-photo-7967392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["find", "free", "boondocking", "sites", "near"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-find-free-boondocking-sites-near-me"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Statistically, yes, and I've done it solo for most of my 8 years out here. Good judgment applies: tell someone your approximate location, don't park somewhere that's clearly a party spot, and trust your read of a place. There's no data suggesting dispersed camping is categorically more dangerous than developed campgrounds."
   - q: "Why do sites show up on apps but turn out to be closed or private land?"
     a: "Two reasons: the app data is old and conditions changed, or the person who originally added the spot got the land status wrong. That second one happens constantly on Freecampsites. Always verify ownership with OnX or a land agency website before you rely on crowdsourced info for anything involving a long drive."
+author: "Julia Davidson"
+author_slug: "julia-davidson"
+author_title: "Boondocking Expert"
+author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+
 ---
 
 Free camping is everywhere. Most people just look in the wrong places.

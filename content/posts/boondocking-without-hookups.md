@@ -6,8 +6,6 @@ description: "Discover the freedom of boondocking without hookups. Learn essenti
 image: "https://images.pexels.com/photos/7967373/pexels-photo-7967373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["boondocking", "without", "hookups"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "boondocking-without-hookups"
 affiliate_disclosure: false
 faqs:
@@ -19,6 +17,11 @@ faqs:
     a: "Remember it's public land. Other people have exactly as much right to be there as you do. A friendly wave goes a long way. If someone sets up uncomfortably close when there's clearly room elsewhere, a polite conversation usually resolves it. I've rarely had real conflicts in hundreds of boondocking nights. The community self-selects for people who want space and quiet. If a spot genuinely fills up, move on. There are more spots."
   - q: "Can I boondock in a van or smaller rig, or do I need a full RV?"
     a: "Van life often makes boondocking easier, not harder. You fit on roads that 40-foot fifth wheels can't touch. You're less conspicuous. Your power and water demands are smaller. The challenges are similar: battery capacity, water storage, waste management. Many full-time van lifers run a 100Ah lithium battery, 200 watts of solar, a 15-gallon fresh tank, and a composting toilet and live off-grid comfortably. The proportions scale down, but the principles are identical."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation. I've been exactly there, parked on BLM land outside Moab with a storm rolling in and a power setup I hadn't stressed-tested hard enough. That moment taught me more about boondocking than any YouTube video ever did.

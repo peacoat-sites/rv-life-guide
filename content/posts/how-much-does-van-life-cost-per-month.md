@@ -6,8 +6,6 @@ description: "Discover the real monthly costs of van life, from fuel and food to
 image: "https://images.pexels.com/photos/8243201/pexels-photo-8243201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["much", "does", "life", "cost", "month"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-much-does-van-life-cost-per-month"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Vehicle repairs, without question. Most people budget for them but underestimate the frequency and size of the bills. I'd also add the cost of your time: being your own mechanic, researching camping spots, planning routes around weather. It's not a cash expense, but it's real."
   - q: "Do van lifers pay for camping every night?"
     a: "No. Most experienced full-timers average maybe 30-50% paid camping nights and the rest free on BLM land, national forests, Walmart/Cracker Barrel lots (where allowed), or friends' driveways. The mix shifts depending on where in the country you are and what time of year it is."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 My first month living full-time in a van cost me $1,847. My second month cost $3,200. I'd blown a wheel bearing somewhere on I-40 outside Amarillo and had to limp into a Pep Boys. Welcome to van life budgeting.

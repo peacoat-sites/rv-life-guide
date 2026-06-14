@@ -6,8 +6,6 @@ description: "Deciding between a new or used RV? Compare costs, warranties, cond
 image: "https://images.pexels.com/photos/6895381/pexels-photo-6895381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["used", "buying"]
-author: "Carlos Mendez"
-author_bio: "RV technician and full-time traveler specializing in solar systems and DIY RV maintenance."
 slug: "new-vs-used-rv-buying"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Assume 10 percent of the purchase price, especially on anything over five years old. If you buy a $30,000 fifth wheel, have $3,000 sitting ready. You might not touch it. Or you might spend every dollar of it. Having it available means the first unexpected repair doesn't derail your plans or your bank account."
   - q: "Is buying new worth it just to get the latest floorplan designs?"
     a: "Floorplans do improve over time, and some newer coach designs have genuinely better layouts than what was available five or eight years ago. But I'd argue it's rarely worth paying a 30 percent premium purely for a layout. Check if the floorplan you love is available in a three or four-year-old model year. Often it is, or something close to it, at a fraction of the cost. The right answer here is personal, and anyone who tells you otherwise is either selling something or hasn't spent enough nights dealing with a broken slide in a Walmart parking lot to know what matters. Get the inspection. Know"
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
+author_title: "Finance Writer"
+author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+
 ---
 
 A brand-new Class A motorhome rolled out of a dealership in Phoenix last spring. Sticker price: $187,000. By the time the buyer drove it 400 miles to their first campsite in Sedona, three things had already stopped working: the slide-out motor was grinding, the bathroom exhaust fan was dead, and a cabinet door had popped off its track. The dealer fixed it all under warranty, sure. But that buyer spent their first week of "freedom" on the phone with a service department instead of hiking red rocks. I've heard this story, or some version of it, more times than I can count.

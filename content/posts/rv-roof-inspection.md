@@ -6,8 +6,6 @@ description: "Learn how to perform a thorough RV roof inspection to spot leaks, 
 image: "https://images.pexels.com/photos/12709206/pexels-photo-12709206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["roof", "inspection"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "rv-roof-inspection"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The most obvious signs are water stains or soft spots on interior ceiling panels, a musty smell that doesn't go away, and visible discoloration or bubbling on walls near the ceiling. What's tricky is that the entry point is often nowhere near where the damage shows up inside, because water travels along framing before it soaks in."
   - q: "How much does a professional RV roof inspection cost?"
     a: "It varies by region and shop, but expect $100 to $250 for a dedicated inspection at an RV service center. Some dealers offer it as part of a seasonal service package. If you're buying a used RV, paying for an independent inspection from an NRVIA-certified inspector is money very well spent. I've seen inspectors catch $15,000 in roof damage on a rig that was priced as if it were clean."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 Most RV owners I've met inspect their roof exactly once: right after they buy the rig. Then they forget about it until water is dripping onto their mattress at 2 a.m. somewhere in rural New Mexico.

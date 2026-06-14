@@ -6,8 +6,6 @@ description: "Plan your RV road trip budget with confidence. Learn how to calcul
 image: "https://images.pexels.com/photos/17627490/pexels-photo-17627490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["fuel", "costs", "mile"]
-author: "Dan Calloway"
-author_bio: "Full-time RVer since 2019. 90,000+ miles across 48 states. Covers budgeting, maintenance, and campground life."
 slug: "rv-fuel-costs-per-mile"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Use a trip planning tool like GasBuddy's trip cost calculator or RV LIFE's route planner, which accounts for RV fuel economy. Enter your actual mpg (from your own tank-to-tank tracking, not the manufacturer's estimate), your tank size, and your destination. Then add 10-15% as a buffer for terrain, wind, and routing inefficiencies. Never plan a fuel budget on best-case numbers."
   - q: "What's the cheapest RV to operate per mile from a fuel standpoint?"
     a: "A well-maintained Class B campervan towing nothing is the clear winner. Something like a Ford Transit or Ram ProMaster conversion getting 20 mpg on regular gas at $3.60/gallon is running 18 cents per mile in fuel. That's a fraction of what a large Class A costs. The trade-off is living space. You're in a van. It's cozy. Some people love it; some people do it for six weeks and buy a bigger rig. There's no free lunch."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+
 ---
 
 I remember the exact moment the math hit me. It was a Tuesday in August 2021, somewhere between Amarillo and Albuquerque, and I pulled into a Flying J to fill up my 2017 Thor Ace 30.2. The pump clicked off at $187. I'd driven 241 miles. That's roughly 78 cents per mile, just in fuel, before I'd paid for a single campsite, a single repair, or a single meal. I sat in the driver's seat for a long minute staring at the receipt.

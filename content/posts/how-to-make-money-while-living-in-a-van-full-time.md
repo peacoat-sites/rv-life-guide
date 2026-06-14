@@ -6,8 +6,6 @@ description: "Discover practical ways to earn income while living the van life f
 image: "https://images.pexels.com/photos/32378667/pexels-photo-32378667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["income"]
 tags: ["make", "money", "while", "living", "full-time"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-make-money-while-living-in-a-van-full-time"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a real concern and most van lifers don't think about it until it matters. The answer is: it can be, but you have to document everything. Use accounting software (Wave is free, FreshBooks is better), issue invoices, file taxes with a Schedule C, and maintain a consistent bank account history. Lenders want to see 24 months of self-employment income on your taxes before they'll treat it as stable. Plan for that from day one."
   - q: "Does living in a van affect my taxes?"
     a: "It complicates them more than it simplifies them. You'll need to maintain a legal domicile state (South Dakota, Texas, and Florida are the three most popular among full-timers for their lack of state income tax and relatively easy domicile requirements). That's separate from where you actually sleep on any given night. Talk to a tax professional who has actual experience with full-time travelers -- not just any CPA."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 Most people who ask me about van life income are asking the wrong question. They want to know *what* jobs work. What they should be asking is: what kind of worker are you, and can you actually perform under conditions nobody talks about?

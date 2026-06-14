@@ -6,8 +6,6 @@ description: "Discover tips for living the RV life with dogs. Learn how to keep 
 image: "https://images.pexels.com/photos/18797772/pexels-photo-18797772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 tags: ["life", "with", "dogs"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "rv-life-with-dogs"
 affiliate_disclosure: false
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Sometimes. Chewy Pharmacy can fill prescriptions from any licensed vet, including a telehealth consult. For chronic medications (thyroid, allergy, etc.), have your home-base vet write a 12-month prescription you can fill anywhere. For controlled substances, each state has its own rules and it gets complicated fast."
   - q: "Is it fair to have a dog in a small RV?"
     a: "Honestly, it depends more on your lifestyle than your square footage. A dog in a 22-foot Class C who gets two hours of outdoor time daily is living better than a dog alone in a 2,000-square-foot house all day. The size of the rig matters a lot less than how much time you spend outside it."
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
+author_title: "Full-Time RVer"
+author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+
 ---
 
 My dogs have been in this rig longer than some people have owned cars. Eight years, two dogs (one passed, one current), four different rigs, and more campgrounds than I can count. Most advice you'll find about full-timing with dogs is written by people who took one camping trip. It shows.
