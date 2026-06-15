@@ -60,3 +60,13 @@ Six years of development, two editions of the National Electrical Code, a missed
 - [New 2026 RV Rule Could Leave You Without Power at Some Campgrounds – RV Travel](https://www.rvtravel.com/2026-rv-rule-rig-power/) (December 2025)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32) — Dual smoke and carbon monoxide detector with 10-year sealed battery — no battery replacement needed for a decade.
+- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89) — Whole-home 4-pack of 10-year battery-powered detectors — covers a standard 3-bedroom home.
+
