@@ -20,7 +20,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
-  geoapify_key = ""  # free key from geoapify.com -> enables the A->B route planner
+  geoapify_key = "4a136ad3efef44c5a0a79c40adf81595"  # geoapify.com, domain-restricted to rv-life-guide.com
   youtube_channel = "UCV6138gV-c5kmoFfaxNNCgg"
   page_bg = "#f3faf5"
   nav_style = "dark"
