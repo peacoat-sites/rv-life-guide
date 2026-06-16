@@ -20,6 +20,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCV6138gV-c5kmoFfaxNNCgg"
   page_bg = "#f3faf5"
   nav_style = "dark"
 logo_text_2 = "Life Guide"
