@@ -3,7 +3,7 @@ title: "How To Set Up RV Solar Power System Step By Step"
 date: 2026-06-07T20:05:14.546781+00:00
 draft: false
 description: "Learn how to set up an RV solar power system step by step, from choosing panels and batteries to wiring and installing a charge controller for off-grid living."
-image: "https://images.pexels.com/photos/27865662/pexels-photo-27865662.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33379364/pexels-photo-33379364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["solar", "power", "system", "step", "step"]
 slug: "how-to-set-up-rv-solar-power-system-step-by-step"
@@ -119,4 +119,4 @@ Finally: check your connections every six months. Vibration loosens terminals. A
 
 Eight years in, the solar setup on my current rig is the single best upgrade I've made to full-time life. Not because it's glamorous, but because shore power anxiety is gone. You can stay somewhere beautiful for a week without running a generator and without watching your battery percentage like a hawk. That's what the system is really for. The wiring is just how you get there.
 
-*Photo: [Aşkı  Erenkul](https://www.pexels.com/@aski-erenkul-1677257485) via Pexels*
+*Photo: [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009) via Pexels*

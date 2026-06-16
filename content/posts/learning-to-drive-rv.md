@@ -3,7 +3,7 @@ title: "Learning To Drive RV"
 date: 2026-05-28T19:28:43.793098+00:00
 draft: false
 description: "Learn how to drive an RV safely with our comprehensive guide. Master steering, braking, backing up, and essential tips for new RV drivers on the road."
-image: "https://images.pexels.com/photos/20396250/pexels-photo-20396250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17366856/pexels-photo-17366856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["learning", "drive"]
 slug: "learning-to-drive-rv"

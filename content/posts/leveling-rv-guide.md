@@ -3,7 +3,7 @@ title: "Leveling RV Guide"
 date: 2026-05-22T01:04:19.422042+00:00
 draft: false
 description: "Learn how to level your RV quickly and safely with our step-by-step guide. Tips on tools, techniques, and common mistakes to avoid for a perfect setup."
-image: "https://images.pexels.com/photos/34287638/pexels-photo-34287638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/21624460/pexels-photo-21624460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["leveling", "guide"]
 slug: "leveling-rv-guide"
@@ -130,4 +130,4 @@ What you don't need: an expensive app subscription for leveling, a laser level, 
 
 After eight years and somewhere north of 400 campsites, leveling is muscle memory for me. The first few times it felt like a puzzle, especially on terrible sites with no hookups and a rainstorm coming in. Now it's just part of arriving. You'll get there too. Give yourself a few trips to build the habit, and don't skip the five-minute check just because you're tired and it's dark. Your fridge, your back, and your morning coffee will all thank you.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*

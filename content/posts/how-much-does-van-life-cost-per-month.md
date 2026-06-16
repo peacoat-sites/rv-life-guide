@@ -3,7 +3,7 @@ title: "How Much Does Van Life Cost Per Month"
 date: 2026-06-08T21:10:46.053769+00:00
 draft: false
 description: "Discover the real monthly costs of van life, from fuel and food to insurance and campsites, and find out if full-time van living fits your budget."
-image: "https://images.pexels.com/photos/8243201/pexels-photo-8243201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4572212/pexels-photo-4572212.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["much", "does", "life", "cost", "month"]
 slug: "how-much-does-van-life-cost-per-month"
@@ -95,7 +95,7 @@ One thing most people don't realize until they're living it: your first six mont
 
 The number that will actually matter is yours, not mine or some YouTuber's highlight reel. Pull up a spreadsheet, be brutal about what you're actually spending right now, and then figure out what you'd replace it with. The people who struggle financially in van life are usually the ones who planned for the best-case month and got surprised by the average one.
 
-*Photo: [Ana Benet](https://www.pexels.com/@ana-benet) via Pexels*
+*Photo: [ArtHouse Studio](https://www.pexels.com/@arthousestudio) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "RV Electric Hookup 30 Amp 50 Amp"
 date: 2026-05-27T05:30:45.040165+00:00
 draft: false
 description: "Learn the differences between 30 amp and 50 amp RV electric hookups, how to connect safely, and which service your RV needs for the best camping experience."
-image: "https://images.pexels.com/photos/30131061/pexels-photo-30131061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3019714/pexels-photo-3019714.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["electric", "hookup"]
 slug: "rv-electric-hookup-30-amp-50-amp"
@@ -123,4 +123,4 @@ Solar panels can offset daytime consumption significantly, but if you're running
 
 The honest version of this conversation is that neither 30 amp nor 50 amp service is inherently better. It's about matching your rig's requirements to what's available and knowing what to do when they don't match. After years of blowing pedestal breakers, chasing voltage problems, and getting comfortable with adapters, what sticks with me is this: the campground electrical system is not your friend by default. It's an unknown you have to verify every single time. Build the habit, use the protection, and you'll sidestep most of the ugly surprises.
 
-*Photo: [Othmane Ettalbi](https://www.pexels.com/@othmane-ettalbi-2148497459) via Pexels*
+*Photo: [zvika shmaya](https://www.pexels.com/@zvika-shmaya-1391475) via Pexels*

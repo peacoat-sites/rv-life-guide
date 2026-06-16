@@ -3,7 +3,7 @@ title: "RV Roof Maintenance Checklist For Full-Timers"
 date: 2026-06-15T21:38:40.034628+00:00
 draft: false
 description: "Keep your RV roof in top shape with this full-timer maintenance checklist covering inspections, sealing, cleaning, and damage prevention tips."
-image: "https://images.pexels.com/photos/31762405/pexels-photo-31762405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7967365/pexels-photo-7967365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["roof", "maintenance", "checklist", "full-timers"]
 author: "Tony Reeves"
@@ -120,4 +120,4 @@ Mountain or northern climate: Freeze-thaw cycles are brutal on sealant. Water th
 
 Get on the roof before you think you need to. The repairs you're avoiding by skipping an inspection aren't going away. They're compounding interest.
 
-*Photo: [Gundula Vogel](https://www.pexels.com/@guvo59) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

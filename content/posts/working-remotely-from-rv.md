@@ -3,7 +3,7 @@ title: "Working Remotely From RV"
 date: 2026-06-02T12:53:54.401507+00:00
 draft: false
 description: "Discover tips for working remotely from an RV, including the best gear, internet solutions, and productivity hacks to make your mobile office life a success."
-image: "https://images.pexels.com/photos/6946132/pexels-photo-6946132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37011844/pexels-photo-37011844.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 tags: ["working", "remotely", "from"]
 slug: "working-remotely-from-rv"
@@ -126,4 +126,4 @@ The number most people underestimate is maintenance. RVs are driven vehicles tha
 
 The people who make this lifestyle work long-term aren't the ones with the prettiest Instagram accounts. They're the ones who solved the unsexy problems first: power, internet, workspace ergonomics, and a realistic budget. Get those foundations right and the pine trees and mountain light are genuinely yours to enjoy. Get them wrong and you spend your best years troubleshooting instead of living.
 
-*Photo: [Poručík Kuna Lama](https://www.pexels.com/@porucik-kuna-lama-609606908) via Pexels*
+*Photo: [Sóc Năng Động](https://www.pexels.com/@soc-nang-d-ng-2150345854) via Pexels*

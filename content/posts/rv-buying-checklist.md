@@ -3,7 +3,7 @@ title: "RV Buying Checklist"
 date: 2026-05-27T13:13:44.424163+00:00
 draft: false
 description: "Find the perfect RV with our complete buying checklist. covers condition, systems, history, and costs to help you make a confident, informed purchase decision."
-image: "https://images.pexels.com/photos/13859365/pexels-photo-13859365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7967405/pexels-photo-7967405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["buying", "checklist"]
 slug: "rv-buying-checklist"
@@ -128,4 +128,4 @@ Watch for these specific finance office moves:
 
 Go slow. The right unit for your situation is out there, and the used market is large enough that you don't have to settle or rush. The couple I mentioned in Phoenix? They eventually sorted out their rig and they're still out here rolling. But they'll tell you themselves: an extra week of homework and $500 for a professional inspection would have saved them the worst month of their RV lives. Don't skip the checklist.
 
-*Photo: [Qingju Wen](https://www.pexels.com/@wenn) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

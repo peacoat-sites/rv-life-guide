@@ -3,7 +3,7 @@ title: "RV Life With Dogs"
 date: 2026-06-05T20:46:07.154674+00:00
 draft: false
 description: "Discover tips for living the RV life with dogs. Learn how to keep your pups safe, happy, and comfortable on the road in this complete guide for pet-loving trave"
-image: "https://images.pexels.com/photos/18797772/pexels-photo-18797772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/32872983/pexels-photo-32872983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 tags: ["life", "with", "dogs"]
 slug: "rv-life-with-dogs"
@@ -111,4 +111,4 @@ For cats, always a carrier. Cats loose in a moving vehicle are a different categ
 
 Eight years in, Biscuit is currently asleep on her Big Barker bed four feet from where I'm typing this, somewhere outside Moab. She's been on this road longer than she hasn't. Whatever adjustments this life required of her, she made them. The adjustment most people underestimate is their own: learning to build a dog's whole world around your schedule, your parking spots, your decisions about where to go and when. That's the weight of it. It's also, in a strange way, the best part.
 
-*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+*Photo: [Oliver Wagenblatt](https://www.pexels.com/@oliver-wagenblatt-238537059) via Pexels*

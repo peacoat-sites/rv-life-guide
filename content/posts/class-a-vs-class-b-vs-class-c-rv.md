@@ -3,7 +3,7 @@ title: "Class A Vs Class B Vs Class C RV"
 date: 2026-05-28T06:53:15.835480+00:00
 draft: false
 description: "Discover the key differences between Class A, Class B, and Class C RVs to find the perfect motorhome for your lifestyle, budget, and travel needs."
-image: "https://images.pexels.com/photos/30563253/pexels-photo-30563253.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18191469/pexels-photo-18191469.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["Class", "Class", "Class"]
 slug: "class-a-vs-class-b-vs-class-c-rv"
@@ -116,4 +116,4 @@ Don't start with the rig. Start with these questions.
 
 Six years and 90,000 miles have made me a firm believer in one thing: the best RV is the one that matches your actual life, not the aspirational version of your life you have while watching YouTube at 11pm. Talk to people who've lived in the class you're considering for at least a year. Ask them what they'd change. Most of them will tell you something that no dealer ever will.
 
-*Photo: [PNW Production](https://www.pexels.com/@pnw-prod) via Pexels*
+*Photo: [Bryan Mendez](https://www.pexels.com/@lightskiing) via Pexels*

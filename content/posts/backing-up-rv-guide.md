@@ -3,7 +3,7 @@ title: "Backing Up RV Guide"
 date: 2026-05-27T09:13:48.779638+00:00
 draft: false
 description: "Plan the perfect RV backup with our complete guide. Learn essential tips, tools, and techniques to safely and confidently back up your RV every time."
-image: "https://images.pexels.com/photos/17273587/pexels-photo-17273587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12590448/pexels-photo-12590448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["backing", "guide"]
 slug: "backing-up-rv-guide"
@@ -140,4 +140,4 @@ For motorhome drivers: consider a wireless rear camera system with a dedicated m
 
 Eight years in, backing is the skill I've watched make or break new full-timers faster than any other. Not mechanical stuff, not route planning: the ability to put the rig where it needs to go, calmly, without an audience of concerned neighbors. It gets better with deliberate practice faster than most people expect. Set up a cone course in an empty parking lot once a month for three months and you'll be more capable than 80% of the rigs you'll share campgrounds with. The physics don't change. Your feel for them does.
 
-*Photo: [Poručík Kuna Lama](https://www.pexels.com/@porucik-kuna-lama-609606908) via Pexels*
+*Photo: [Osmany Mederos](https://www.pexels.com/@osmany-mederos-211956483) via Pexels*

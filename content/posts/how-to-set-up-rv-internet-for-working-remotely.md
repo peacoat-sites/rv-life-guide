@@ -3,7 +3,7 @@ title: "How To Set Up RV Internet For Working Remotely"
 date: 2026-06-12T20:58:11.853589+00:00
 draft: false
 description: "Discover the best RV internet options for remote work, including cellular data plans, mobile hotspots, and satellite solutions to stay connected on the road."
-image: "https://images.pexels.com/photos/6946126/pexels-photo-6946126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11280672/pexels-photo-11280672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["internet", "working", "remotely"]
 slug: "how-to-set-up-rv-internet-for-working-remotely"
@@ -95,4 +95,4 @@ The setup I've described isn't cheap upfront. Between hardware and monthly costs
 
 Get the redundancy right before you need it, not during your 9 AM Monday call with the client.
 
-*Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
+*Photo: [Lisha Dunlap](https://www.pexels.com/@lishadunlap) via Pexels*

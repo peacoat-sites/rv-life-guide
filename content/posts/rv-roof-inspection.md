@@ -3,7 +3,7 @@ title: "RV Roof Inspection"
 date: 2026-06-10T21:23:36.387695+00:00
 draft: false
 description: "Learn how to perform a thorough RV roof inspection to spot leaks, cracks, and damage early. Protect your investment and avoid costly repairs with our expert gui"
-image: "https://images.pexels.com/photos/12709206/pexels-photo-12709206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6961110/pexels-photo-6961110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["roof", "inspection"]
 slug: "rv-roof-inspection"
@@ -93,4 +93,4 @@ A [good surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvpub
 ---
 
 
-*Photo: [Osmany Mederos](https://www.pexels.com/@osmany-mederos-211956483) via Pexels*
+*Photo: [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735) via Pexels*

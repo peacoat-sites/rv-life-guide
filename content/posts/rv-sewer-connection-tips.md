@@ -3,7 +3,7 @@ title: "RV Sewer Connection Tips"
 date: 2026-05-25T15:57:54.307162+00:00
 draft: false
 description: "Learn essential RV sewer connection tips to avoid leaks and odors. Discover the right hoses, fittings, and step-by-step techniques for a clean, hassle-free dump"
-image: "https://images.pexels.com/photos/16284605/pexels-photo-16284605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5875912/pexels-photo-5875912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["sewer", "connection", "tips"]
 slug: "rv-sewer-connection-tips"
@@ -124,4 +124,4 @@ Neither option is strictly better. My first three years were almost entirely dum
 
 Eight years in, sewer connections are so routine they take me less than ten minutes. But that comfort came from learning the right sequence early, buying one good hose instead of three cheap ones, and respecting the closed-black-valve rule even when it felt inconvenient. The people I see struggling at campgrounds are almost always dealing with equipment that was never adequate or habits that were never corrected. Get the foundation right once, and this becomes the least interesting part of your day, which is exactly what it should be.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Marta Wave](https://www.pexels.com/@marta-wave) via Pexels*

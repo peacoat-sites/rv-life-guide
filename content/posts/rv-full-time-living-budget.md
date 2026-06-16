@@ -3,7 +3,7 @@ title: "RV Full Time Living Budget"
 date: 2026-05-27T04:40:50.962845+00:00
 draft: false
 description: "Plan your RV full time living budget with our complete guide. Discover real monthly costs, money-saving tips, and how to make life on the road affordable."
-image: "https://images.pexels.com/photos/34005910/pexels-photo-34005910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/12329133/pexels-photo-12329133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["full", "time", "living", "budget"]
 slug: "rv-full-time-living-budget"
@@ -132,4 +132,4 @@ Don't guess. Build a real spending plan before your first month out. Here's how 
 
 The truth about full-time RV living costs is that the budget isn't fixed and it isn't magic. It's a skill you develop over months of trial and error, of realizing you drove too much in October and overspent on sites in March, and adjusting. I've had months that cost me $1,100 and months that cost me $3,400. Most of them land somewhere in the $1,400 to $1,800 range now because I know my habits, my rig, and my priorities. You'll learn yours. Just go in with honest numbers and realistic expectations, and give yourself at least a year before you decide whether it's working.
 
-*Photo: [Poručík Kuna Lama](https://www.pexels.com/@porucik-kuna-lama-609606908) via Pexels*
+*Photo: [Melike  B](https://www.pexels.com/@mlkbnl) via Pexels*

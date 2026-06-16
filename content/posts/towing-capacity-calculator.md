@@ -3,7 +3,7 @@ title: "Towing Capacity Calculator"
 date: 2026-05-26T16:25:03.498216+00:00
 draft: false
 description: "Calculate your vehicle's maximum towing capacity instantly. Determine safe towing limits based on your car, truck, or SUV specifications."
-image: "https://images.pexels.com/photos/29152225/pexels-photo-29152225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/27099096/pexels-photo-27099096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["towing"]
 tags: ["towing", "capacity", "calculator"]
 slug: "towing-capacity-calculator"
@@ -121,4 +121,4 @@ If you're still sorting out which RV type actually fits your situation and tow v
 
 Getting the numbers right before you buy isn't obsessive, it's just smart. A towing capacity calculator won't tell you which RV to fall in love with, but it will tell you whether you can safely get it home. Run the numbers first. Then go shopping.
 
-*Photo: [Sergei Starostin](https://www.pexels.com/@sejio402) via Pexels*
+*Photo: [Tom Jackson](https://www.pexels.com/@tom-jackson-1238161) via Pexels*

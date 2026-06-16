@@ -3,7 +3,7 @@ title: "RV Solar Panel Setup"
 date: 2026-05-28T07:28:55.966855+00:00
 draft: false
 description: "Discover how to set up solar panels on your RV with our step-by-step guide. Learn about equipment, installation tips, and maximizing energy efficiency on the ro"
-image: "https://images.pexels.com/photos/9875439/pexels-photo-9875439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18306342/pexels-photo-18306342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["solar", "panel", "setup"]
 slug: "rv-solar-panel-setup"
@@ -121,4 +121,4 @@ What surprised me when I started connecting with other full-timers was how often
 
 Eight years in, I still think solar is one of the best investments you can make for full-time or serious part-time RV living. Not because it's cheap or simple, but because the freedom it buys is real. Waking up on public land in New Mexico with no hookups, no fees, and a full battery bank is a different experience than constantly chasing campgrounds with electrical pedestals. Get the battery bank right first. Size your panels honestly. Don't skip the fusing. The rest is just details.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625) via Pexels*

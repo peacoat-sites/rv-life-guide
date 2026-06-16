@@ -3,7 +3,7 @@ title: "Best RV Campgrounds Usa"
 date: 2026-05-28T12:19:46.882485+00:00
 draft: false
 description: "Discover the best RV campgrounds in the USA with our top picks for scenic routes, full hookups, and family-friendly sites perfect for your next road trip advent"
-image: "https://images.pexels.com/photos/37015984/pexels-photo-37015984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17816414/pexels-photo-17816414.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["campgrounds"]
 tags: ["best", "campgrounds"]
 slug: "best-rv-campgrounds-usa"

@@ -3,7 +3,7 @@ title: "RV Roof Repair Sealing"
 date: 2026-06-02T12:56:11.429548+00:00
 draft: false
 description: "Learn how to repair and seal your RV roof with expert tips on the best materials, step-by-step methods, and how to prevent costly leaks and water damage."
-image: "https://images.pexels.com/photos/9143458/pexels-photo-9143458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17539759/pexels-photo-17539759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["roof", "repair", "sealing"]
 slug: "rv-roof-repair-sealing"
@@ -119,4 +119,4 @@ A moisture meter is a genuinely useful tool here. You can get a basic one for un
 
 The roof is the part of your RV most people ignore until it's too late. Everything else you do to maintain your rig, your engine, your systems, your tires, can be undone by a leak that goes unaddressed for a single rainy season. Schedule the inspection like you schedule an oil change. Bring the right materials, take your time up there, and don't skip the cleaning step. The hour and a half you spend up on that roof twice a year is some of the highest-value maintenance time you'll put into this lifestyle. I've seen rigs get written off to water damage that a seasonal inspection would have caught cold. Don't let yours be one of them.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Indiana Barriopedro](https://www.pexels.com/@indiana-barriopedro-639081391) via Pexels*

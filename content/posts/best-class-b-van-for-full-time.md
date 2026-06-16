@@ -3,7 +3,7 @@ title: "Best Class B Van For Full Time"
 date: 2026-05-29T15:01:55.090129+00:00
 draft: false
 description: "Discover the best Class B vans for full-time living. Compare top models for comfort, reliability, and features to find your perfect home on wheels today."
-image: "https://images.pexels.com/photos/36077294/pexels-photo-36077294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/19003939/pexels-photo-19003939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["best", "Class", "full", "time"]
 slug: "best-class-b-van-for-full-time"
@@ -109,4 +109,4 @@ Internet is solvable but requires effort. Starlink now has an RV plan that runs 
 
 The Class B life is genuinely one of the most interesting choices you can make for how to spend your time on earth. I don't say that as cheerleading. I say it because six years in, on a Tuesday night parked on BLM land outside Moab with the windows open and the Milky Way doing something absurd overhead, I still think about that house in Columbus and feel zero regret. But I also had three months last year where I was exhausted, isolated, and living on ramen while waiting for a repair estimate. Both of those things are real. Pick the right van for your actual life, not the one that looks best in someone else's Instagram feed, and your odds get a lot better.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [MingAo WelfareCar](https://www.pexels.com/@mingao-welfarecar-555708794) via Pexels*

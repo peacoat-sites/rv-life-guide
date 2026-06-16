@@ -3,7 +3,7 @@ title: "How Much Solar For RV"
 date: 2026-05-21T22:42:55.554224+00:00
 draft: false
 description: "Discover how much solar power your RV needs to stay off-grid. Learn about panel sizes, battery banks, and energy requirements to build the perfect solar setup."
-image: "https://images.pexels.com/photos/23153100/pexels-photo-23153100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["much", "solar"]
 slug: "how-much-solar-for-rv"
@@ -119,4 +119,4 @@ Options when the roof isn't enough:
 Don't forget a quality [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=rvlifeguide-20) while you're kitting out the rig. Unrelated to solar, but every new full-timer I've met regrets not installing one sooner. The Camco inline filter is a solid, cheap start.
 
 
-*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+*Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*

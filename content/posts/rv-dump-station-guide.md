@@ -3,7 +3,7 @@ title: "RV Dump Station Guide"
 date: 2026-05-28T19:54:35.801017+00:00
 draft: false
 description: "Find everything you need to know about RV dump stations, including how to use them, where to find them, costs, and tips for a clean, hassle-free experience."
-image: "https://images.pexels.com/photos/7476214/pexels-photo-7476214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33461665/pexels-photo-33461665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["dump", "station", "guide"]
 slug: "rv-dump-station-guide"
@@ -136,4 +136,4 @@ The social rules around dump stations are real, and violating them will earn you
 
 The dump station stops being intimidating after the second or third time. It becomes routine, like filling up with diesel or checking tire pressure. A little preparation, the right gear, and knowing the sequence makes the whole thing take less than 20 minutes start to finish. Full-time RV life has plenty of genuinely hard things in it. This one, once you know it, stops being one of them.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Valeria Dominguez](https://www.pexels.com/@valeds79) via Pexels*

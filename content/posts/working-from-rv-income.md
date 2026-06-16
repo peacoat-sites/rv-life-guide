@@ -3,7 +3,7 @@ title: "Working From RV Income"
 date: 2026-06-03T14:11:05.273698+00:00
 draft: false
 description: "Discover how to earn a living while traveling full-time in your RV. Explore top remote work ideas, freelance tips, and passive income strategies for the road."
-image: "https://images.pexels.com/photos/7476236/pexels-photo-7476236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5882638/pexels-photo-5882638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["income"]
 tags: ["working", "from", "income"]
 slug: "working-from-rv-income"
@@ -105,4 +105,4 @@ The first six months on the road, don't try to grow your income. Just protect wh
 
 Eight years in, I still have months where income dips and I have to make uncomfortable calls. That's the reality. But I've also had months where I made $9,000 from a campsite in the Ozarks while my former coworkers sat in office park traffic. The life is genuinely good. You just can't stumble into the financial side of it -- you have to build it with intention, a little ahead of when you need it.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*

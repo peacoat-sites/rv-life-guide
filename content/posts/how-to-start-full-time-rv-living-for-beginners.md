@@ -3,7 +3,7 @@ title: "How To Start Full-Time RV Living For Beginners"
 date: 2026-06-13T20:10:23.955245+00:00
 draft: false
 description: "Discover how to start full-time RV living with our beginner's guide covering budgeting, choosing the right RV, essential gear, and tips for life on the road."
-image: "https://images.pexels.com/photos/38021445/pexels-photo-38021445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23153108/pexels-photo-23153108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["start", "full-time", "living", "beginners"]
 slug: "how-to-start-full-time-rv-living-for-beginners"
@@ -95,4 +95,4 @@ The loneliness issue is real and underreported. If you're coming from a tight so
 
 The first year is hard in ways you won't fully predict, and worth it in ways that are also hard to predict. Spend less on the rig than your gut says, more on reliability gear than you think you need, and build the logistics infrastructure (domicile, mail, insurance) before you leave. The scenic drives are great. Everything surrounding them is what actually determines whether this life sticks.
 
-*Photo: [Lena Netkach](https://www.pexels.com/@lena-netkach-395486) via Pexels*
+*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*

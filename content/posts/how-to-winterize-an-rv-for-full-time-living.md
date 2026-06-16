@@ -3,7 +3,7 @@ title: "How To Winterize An RV For Full-Time Living"
 date: 2026-06-06T20:05:28.667856+00:00
 draft: false
 description: "Stay comfortable and protected all winter long in your RV with our step-by-step guide covering insulation, pipe protection, heating systems, and essential cold-"
-image: "https://images.pexels.com/photos/9143483/pexels-photo-9143483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6946419/pexels-photo-6946419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["winterize", "full-time", "living"]
 slug: "how-to-winterize-an-rv-for-full-time-living"
@@ -105,4 +105,4 @@ A battery monitor is non-negotiable if you're off-grid. The Victron SmartShunt (
 
 Eight years in, I still do a pre-winter checklist every September. Not because it's become automatic, but because the specific failure points change every year as my rig ages and as I end up in different places. The goal isn't to make winter feel like summer. It's to make it feel like home, on your terms, with no unexpected $800 surprises in February.
 
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
+*Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*

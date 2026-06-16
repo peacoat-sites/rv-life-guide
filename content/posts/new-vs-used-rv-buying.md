@@ -3,7 +3,7 @@ title: "New Vs Used RV Buying"
 date: 2026-05-26T16:07:06.447808+00:00
 draft: false
 description: "Deciding between a new or used RV? Compare costs, warranties, condition, and depreciation to find the best option for your budget and travel lifestyle."
-image: "https://images.pexels.com/photos/6895381/pexels-photo-6895381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34097777/pexels-photo-34097777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["used", "buying"]
 slug: "new-vs-used-rv-buying"
@@ -104,4 +104,4 @@ Used RV financing can be trickier. Some lenders won't finance rigs older than 10
 Don't forget ongoing costs in your math: campground fees or memberships, fuel, propane, insurance (figure $1,500 to $3,000 per year for a mid-range motorhome), maintenance (budget 2 to 3 percent of the rig's value annually), and eventually, tires. A set of six tires on a Class A is $2,000 to $4,000 installed. That bill comes every five to seven years whether you want it to or not.
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Anton Massalov](https://www.pexels.com/@antonhansenphotography) via Pexels*

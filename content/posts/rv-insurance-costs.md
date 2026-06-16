@@ -3,7 +3,7 @@ title: "RV Insurance Costs"
 date: 2026-05-29T00:32:07.456916+00:00
 draft: false
 description: "Learn how much RV insurance costs, what factors affect your rates, and how to find the best coverage for your motorhome or travel trailer at an affordable price"
-image: "https://images.pexels.com/photos/31161593/pexels-photo-31161593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7731318/pexels-photo-7731318.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["insurance", "costs"]
 slug: "rv-insurance-costs"
@@ -101,7 +101,7 @@ This is the practical stuff. None of it is complicated, but it requires some leg
 7. **Consider higher deductibles on older rigs.** If your rig's agreed or actual cash value is under $40,000, paying $800 a year for comprehensive and collision with a $500 deductible may not pencil out. Do the math on how many years of premiums equal a likely claim.
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

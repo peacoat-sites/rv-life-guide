@@ -3,7 +3,7 @@ title: "California's Clean Truck Check Is Now Hitting Diesel Motorhome Owners"
 date: 2026-06-14T20:13:27.065766+00:00
 draft: false
 description: "California's new Clean Truck Check program is now affecting diesel motorhome owners. Learn what inspections are required, who's impacted, and how to stay compli"
-image: "https://images.pexels.com/photos/8147167/pexels-photo-8147167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14971465/pexels-photo-14971465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["california's", "clean", "truck", "check", "hitting"]
 author: "Barbara Mitchell"
@@ -60,4 +60,4 @@ The $32.13 fee isn't the issue. The chaos of dealing with this unprepared, in a 
 - [Your Complete Guide to California's Clean Truck Check in 2026 ,  SmogCheck.com](https://blog.smogcheck.com/posts/the-compliance-roadmap-your-complete-guide-to-californias-clean-truck-check-in-2026) (December 9, 2025)
 - [CARB Diesel Motorhome Clean Truck Check Requirements ,  Tank Specialties CA](https://tankspecialtiesca.com/motorhome-owners-how-to-comply-with-the-california-air-resources-board/) (October 9, 2025)
 
-*Photo: [ArtHouse Studio](https://www.pexels.com/@arthousestudio) via Pexels*
+*Photo: [Cyndi](https://www.pexels.com/@cyndi-378229757) via Pexels*

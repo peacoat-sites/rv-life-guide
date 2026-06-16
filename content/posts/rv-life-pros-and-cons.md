@@ -3,7 +3,7 @@ title: "RV Life Pros And Cons"
 date: 2026-05-26T22:51:58.565327+00:00
 draft: false
 description: "Discover the real pros and cons of RV life, from freedom and adventure to maintenance costs and limited space, to help you decide if full-time RV living is righ"
-image: "https://images.pexels.com/photos/37659060/pexels-photo-37659060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14766758/pexels-photo-14766758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["life", "pros", "cons"]
 slug: "rv-life-pros-and-cons"
@@ -113,4 +113,4 @@ I have watched multiple people sell their houses, buy an expensive rig, and move
 
 Six years in, I still wake up some mornings genuinely amazed that this is my life. I also still have weeks where a leak appears, the truck needs $1,200 in tires, and the nearest campsite with cell signal is 40 miles away. The lifestyle is not a solution to life's complications. It just trades one set of complications for a completely different set, many of which involve better views. That tradeoff is absolutely worth it for me. Whether it's worth it for you depends entirely on what you actually need to feel at home.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Viktoria B.](https://www.pexels.com/@viktoriab) via Pexels*

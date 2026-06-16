@@ -3,7 +3,7 @@ title: "Full-Time RV Living With A Dog Tips"
 date: 2026-06-14T20:15:58.020623+00:00
 draft: false
 description: "Discover practical tips for full-time RV living with a dog, from space-saving gear to pet-friendly campgrounds and keeping your pup happy on the road."
-image: "https://images.pexels.com/photos/9354557/pexels-photo-9354557.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8231245/pexels-photo-8231245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["lifestyle"]
 tags: ["full-time", "living", "with", "tips"]
 author: "Sandra Park"
@@ -104,4 +104,4 @@ One thing I've seen people skip that they shouldn't: a [filtered water solution]
 
 The thing I want people to take away isn't that full-timing with a dog is easy or hard -- it's that the challenges are specific and manageable once you know what they actually are. Heat logistics, vet continuity, anxiety management, finding sites with real space: those are the real variables. Figure those out before you leave, stay flexible after, and you'll have a travel companion that makes the whole thing better in ways that are pretty hard to explain to people who haven't done it.
 
-*Photo: [PNW Production](https://www.pexels.com/@pnw-prod) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

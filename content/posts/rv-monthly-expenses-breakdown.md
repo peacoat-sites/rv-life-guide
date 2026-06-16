@@ -3,7 +3,7 @@ title: "RV Monthly Expenses Breakdown"
 date: 2026-05-23T18:05:31.824136+00:00
 draft: false
 description: "Plan your budget with confidence using our complete RV monthly expenses breakdown covering fuel, campsite fees, insurance, maintenance, and more for full-time t"
-image: "https://images.pexels.com/photos/7905586/pexels-photo-7905586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7735769/pexels-photo-7735769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["monthly", "expenses", "breakdown"]
 slug: "rv-monthly-expenses-breakdown"
@@ -153,4 +153,4 @@ The median full-timer I've spoken to honestly spends around $3,200-$3,800/month.
 
 The road is genuinely one of the best things I've done with my adult life, and I say that having spent an afternoon in a repair lot in Wichita Falls, Texas watching a mechanic shake his head at my slide motor. Go in with real numbers, a funded repair reserve, and a flexibility of spirit. The sunsets are as good as advertised. The surprise invoices are too.
 
-*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

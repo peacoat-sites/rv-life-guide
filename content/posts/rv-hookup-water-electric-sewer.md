@@ -3,7 +3,7 @@ title: "RV Hookup Water Electric Sewer"
 date: 2026-05-28T04:30:20.106077+00:00
 draft: false
 description: "Connect your RV to water, electric, and sewer hookups with ease. Learn step-by-step how to set up full hookups at campgrounds for a comfortable stay."
-image: "https://images.pexels.com/photos/14766762/pexels-photo-14766762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7967386/pexels-photo-7967386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["setup"]
 tags: ["hookup", "water", "electric", "sewer"]
 slug: "rv-hookup-water-electric-sewer"
@@ -112,4 +112,4 @@ If you're serious about extended boondocking, a battery monitor and a small sola
 
 The full-hookup routine becomes genuinely automatic after a few months. You stop thinking about the order and just do it. But getting to that point means building the habit correctly from the start, with the right gear and the right sequence. Get those pieces in place and you'll spend a lot less time troubleshooting and a lot more time actually enjoying wherever you've landed. That's the whole point of this life.
 
-*Photo: [Poručík Kuna Lama](https://www.pexels.com/@porucik-kuna-lama-609606908) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

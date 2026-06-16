@@ -3,7 +3,7 @@ title: "New Shore Power Safety Rule Is Coming for All New RVs"
 date: 2026-06-15T21:41:16.392939+00:00
 draft: false
 description: "New shore power safety rules are coming for all new RVs. Learn what changes are ahead, how they affect your rig, and what it means for safer campground connecti"
-image: "https://images.pexels.com/photos/7967391/pexels-photo-7967391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/13016664/pexels-photo-13016664.png?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["shore", "power", "safety", "rule", "coming"]
 author: "Julia Davidson"
@@ -59,7 +59,7 @@ Six years of development, two editions of the National Electrical Code, a missed
 - [New RV Electrical Rule Coming: Why Future Campers May Reject Bad Campground Power – CamperFAQs](https://camperfaqs.com/new-rv-electrical-rule-coming) (June 2026)
 - [New 2026 RV Rule Could Leave You Without Power at Some Campgrounds – RV Travel](https://www.rvtravel.com/2026-rv-rule-rig-power/) (December 2025)
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Charles Criscuolo](https://www.pexels.com/@onetrillionpixels) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Full-Time RV Living Vs Van Life Pros And Cons"
 date: 2026-06-06T20:03:04.095458+00:00
 draft: false
 description: "Discover the key differences between full-time RV living and van life. Compare costs, freedom, comfort, and lifestyle to find the best option for your adventure"
-image: "https://images.pexels.com/photos/14577843/pexels-photo-14577843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34142095/pexels-photo-34142095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["full-time", "living", "life", "pros", "cons"]
 slug: "full-time-rv-living-vs-van-life-pros-and-cons"
@@ -107,4 +107,4 @@ Eight years in, I've done extended time in a Class C, a 32-foot fifth wheel, and
 
 *This post contains affiliate links. If you purchase through them, this site may earn a small commission at no extra cost to you.*
 
-*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+*Photo: [Charlie  Seidowsky](https://www.pexels.com/@charlie-seidowsky-2154710744) via Pexels*

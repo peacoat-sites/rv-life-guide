@@ -3,7 +3,7 @@ title: "How To Get Health Insurance As A Full-Time Rver"
 date: 2026-06-05T12:21:53.794841+00:00
 draft: false
 description: "Discover how full-time RVers can get health insurance coverage. Explore top options including marketplace plans, health sharing ministries, and short-term polic"
-image: "https://images.pexels.com/photos/21624458/pexels-photo-21624458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8154333/pexels-photo-8154333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["logistics"]
 tags: ["health", "insurance", "full-time", "rver"]
 slug: "how-to-get-health-insurance-as-a-full-time-rver"
@@ -85,7 +85,7 @@ For dental and vision, which health insurance rarely covers adequately anyway, I
 
 Getting this stuff sorted in your first few months of full-time RV life is genuinely worth the effort. The people I see struggling years in are usually the ones who picked a plan in a panic and never revisited it. Open enrollment every November is your annual reset. Use it.
 
-*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "RV Water Heater Troubleshoot"
 date: 2026-06-03T14:13:23.003411+00:00
 draft: false
 description: "Learn how to troubleshoot common RV water heater problems with our step-by-step guide. Fix issues fast and get your hot water running again on the road."
-image: "https://images.pexels.com/photos/8147181/pexels-photo-8147181.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11437977/pexels-photo-11437977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["maintenance"]
 tags: ["water", "heater", "troubleshoot"]
 slug: "rv-water-heater-troubleshoot"
@@ -97,4 +97,4 @@ Also: if your water heater is taking forever to produce hot water or you're cons
 
 Eight years in, I still carry a spare anode rod, a spare electrode, and a small jar of pipe cleaning brushes. Costs me maybe $40 in parts and they've saved me from cold showers more times than I can count. The water heater is one of those systems that's really not that intimidating once you understand what each piece does. Open the panel, take a look, and trust yourself to figure it out.
 
-*Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
+*Photo: [Juan Hernandez Jr](https://www.pexels.com/@r7shutter) via Pexels*

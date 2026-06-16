@@ -3,7 +3,7 @@ title: "Boondocking Without Hookups"
 date: 2026-05-29T01:18:19.073724+00:00
 draft: false
 description: "Discover the freedom of boondocking without hookups. Learn essential tips for water, power, and waste management to camp off-grid confidently anywhere."
-image: "https://images.pexels.com/photos/7967373/pexels-photo-7967373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6170833/pexels-photo-6170833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["boondocking"]
 tags: ["boondocking", "without", "hookups"]
 slug: "boondocking-without-hookups"
@@ -142,4 +142,4 @@ What I wish someone had told me at the start: build your system in stages. Start
 
 Eight years ago I pulled off a forest road in New Mexico with no hookups for the first time and spent three anxious nights watching my battery monitor and second-guessing every decision. Now those nights are the ones I look forward to most. The learning curve is real, the upfront investment stings, and there will absolutely be a cloudy week that tests your setup and your patience. But the payoff, waking up with no neighbors, no generator hum from a campground, no hookup fees, and a view that changes every two weeks, is worth every hour you put into understanding your systems. Build it right. Start smaller than you think you need. And get out there.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Sachith Ravishka Kodikara](https://www.pexels.com/@srkportraits) via Pexels*

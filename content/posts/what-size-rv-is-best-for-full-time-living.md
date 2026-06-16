@@ -3,7 +3,7 @@ title: "What Size RV Is Best For Full-Time Living"
 date: 2026-06-11T21:11:26.381908+00:00
 draft: false
 description: "Discover the best RV sizes for full-time living, from compact van conversions to spacious Class A motorhomes, and find the perfect fit for your lifestyle and bu"
-image: "https://images.pexels.com/photos/36297850/pexels-photo-36297850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29589856/pexels-photo-29589856.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["basics"]
 tags: ["what", "size", "best", "full-time", "living"]
 slug: "what-size-rv-is-best-for-full-time-living"
@@ -89,4 +89,4 @@ If this is the direction you want to go, the Airstream Bambi 16 is the worst pos
 ---
 
 
-*Photo: [Gaetan THURIN](https://www.pexels.com/@gaetanthurin) via Pexels*
+*Photo: [Dudubangbang Travel](https://www.pexels.com/@dudubangbang) via Pexels*

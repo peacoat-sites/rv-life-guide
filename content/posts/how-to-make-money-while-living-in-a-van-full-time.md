@@ -3,7 +3,7 @@ title: "How To Make Money While Living In A Van Full-Time"
 date: 2026-06-12T21:00:36.472335+00:00
 draft: false
 description: "Discover practical ways to earn income while living the van life full-time, from remote work and freelancing to selling crafts and leveraging social media monet"
-image: "https://images.pexels.com/photos/32378667/pexels-photo-32378667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7476208/pexels-photo-7476208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["income"]
 tags: ["make", "money", "while", "living", "full-time"]
 slug: "how-to-make-money-while-living-in-a-van-full-time"
@@ -99,4 +99,4 @@ On the physical setup side: a decent inverter, a battery monitor so you know you
 
 The income picture for van life is genuinely better than it was even five years ago. Remote work infrastructure is real, the tooling for running a one-person business from a parking lot has never been more accessible, and the number of people who've done it and written honestly about it (and made mistakes you can learn from) keeps growing. What's also true is that it requires more financial discipline than a conventional lifestyle, not less, because nobody is automatically withholding your taxes or forcing you to show up. That part's on you. Most people who make it work long-term are the ones who took the money side as seriously as the adventure side before they left.
 
-*Photo: [JacLou- DL](https://www.pexels.com/@jaclou-dl) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

@@ -3,7 +3,7 @@ title: "How Much Does RV Life Cost"
 date: 2026-05-25T22:53:07.512845+00:00
 draft: false
 description: "Discover the real costs of RV living, from campsite fees and fuel to maintenance and insurance. Learn how to budget smartly and embrace the open road affordably"
-image: "https://images.pexels.com/photos/16725456/pexels-photo-16725456.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34287640/pexels-photo-34287640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["costs"]
 tags: ["much", "does", "life", "cost"]
 slug: "how-much-does-rv-life-cost"
@@ -135,7 +135,7 @@ The budget traveler has a paid-off older rig, uses BLM land heavily, cooks almos
 
 Six years in, my average monthly spend across all of 2023 was $2,780 for one person. That includes everything: rig costs, insurance, food, fuel, the $1,800 slide repair in May. Some months I'm under $2,000. Some months I'm over $4,000. The honest truth is that RV life costs what you make it cost, within real constraints, and the best thing you can do before you start is build a budget around your actual numbers, not someone else's highlight reel.
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Viktoria B.](https://www.pexels.com/@viktoriab) via Pexels*
 
 ---
 
