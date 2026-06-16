@@ -723,16 +723,16 @@ html { scrollbar-gutter: stable; }
 ::selection { background: var(--accent, #c2410c); color: #fff; }
 
 
-/* -- Marquee tool promo (homepage) -- */
-.tool-promo{display:flex;align-items:center;gap:18px;width:min(1100px,calc(100% - 40px));margin:34px auto;padding:18px 24px;background:var(--accent,#c2410c);color:#fff;border-radius:16px;text-decoration:none;box-shadow:0 10px 30px rgba(0,0,0,.13);position:relative;transition:transform .15s,box-shadow .15s}
-.tool-promo:hover{transform:translateY(-2px);box-shadow:0 14px 36px rgba(0,0,0,.18)}
-.tool-promo-badge{position:absolute;top:12px;right:16px;font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;background:rgba(255,255,255,.22);padding:3px 9px;border-radius:20px}
-.tool-promo-icon{flex-shrink:0;width:54px;height:54px;border-radius:12px;background:rgba(255,255,255,.16);display:flex;align-items:center;justify-content:center}
-.tool-promo-text{flex:1;min-width:0}
-.tool-promo-title{display:block;font-family:var(--serif,Georgia,serif);font-weight:800;font-size:1.3rem;line-height:1.15}
-.tool-promo-sub{display:block;font-size:.92rem;opacity:.93;margin-top:3px}
-.tool-promo-btn{flex-shrink:0;background:#fff;color:var(--accent,#c2410c);font-weight:700;font-size:.95rem;padding:10px 20px;border-radius:30px;white-space:nowrap}
-@media(max-width:640px){.tool-promo{flex-wrap:wrap;gap:12px;padding:16px 16px 18px}.tool-promo-badge{position:static;align-self:flex-start;order:-1}.tool-promo-btn{width:100%;text-align:center}.tool-promo-sub{font-size:.85rem}}
+/* -- Marquee tool promo (in hero, under the buttons) -- */
+.tool-promo{display:flex;align-items:center;gap:13px;margin:20px 0 0;padding:13px 15px;background:var(--accent,#c2410c);color:#fff;border-radius:14px;text-decoration:none;box-shadow:0 8px 24px rgba(0,0,0,.13);flex-wrap:wrap;transition:transform .15s,box-shadow .15s}
+.tool-promo:hover{transform:translateY(-2px);box-shadow:0 12px 30px rgba(0,0,0,.18)}
+.tool-promo-icon{flex-shrink:0;width:44px;height:44px;border-radius:11px;background:rgba(255,255,255,.16);display:flex;align-items:center;justify-content:center}
+.tool-promo-text{flex:1;min-width:150px}
+.tool-promo-title{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-family:var(--serif,Georgia,serif);font-weight:800;font-size:1.1rem;line-height:1.2}
+.tool-promo-badge{font-size:9.5px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;background:rgba(255,255,255,.22);padding:2px 8px;border-radius:20px}
+.tool-promo-sub{display:block;font-size:.85rem;opacity:.93;margin-top:3px}
+.tool-promo-btn{flex-shrink:0;background:#fff;color:var(--accent,#c2410c);font-weight:700;font-size:.9rem;padding:9px 18px;border-radius:30px;white-space:nowrap;margin-left:auto}
+@media(max-width:560px){.tool-promo-btn{width:100%;text-align:center;margin-left:0}}
 /* -- Nav CTA (promoted tool link) -- */
 .site-nav a.nav-cta{background:var(--accent,#c2410c);color:#fff;padding:6px 14px;border-radius:20px;font-weight:700}
 .site-nav a.nav-cta:hover{filter:brightness(1.08)}

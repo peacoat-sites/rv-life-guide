@@ -41,6 +41,14 @@
         <a href="/search/" class="btn-hero-ghost">Search Topics</a>
         {{ with index (where .Site.RegularPages "Params.quiz_page" true) 0 }}<a href="{{ .Permalink }}" class="btn-hero-ghost">Take the Quiz</a>{{ end }}
       </div>
+      <a class="tool-promo" href="/rv-fuel-cost-calculator/">
+        <span class="tool-promo-icon" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
+        <span class="tool-promo-text">
+          <span class="tool-promo-title">RV Trip Cost Calculator <span class="tool-promo-badge">Free Tool</span></span>
+          <span class="tool-promo-sub">Map any route A&nbsp;&rarr;&nbsp;B and get live, state-by-state fuel costs.</span>
+        </span>
+        <span class="tool-promo-btn">Plan your trip&nbsp;&rarr;</span>
+      </a>
     </div>
 
     <!-- Hero Carousel: 5 daily-rotating articles (date-seeded, client-side) -->
@@ -118,17 +126,6 @@
 
   </div>
 </section>
-
-<!-- ── MARQUEE TOOL PROMO ────────────────────────── -->
-<a class="tool-promo" href="/rv-fuel-cost-calculator/">
-  <span class="tool-promo-badge">Free Tool</span>
-  <span class="tool-promo-icon" aria-hidden="true"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
-  <span class="tool-promo-text">
-    <span class="tool-promo-title">RV Trip Cost Calculator</span>
-    <span class="tool-promo-sub">Map any route A&nbsp;&rarr;&nbsp;B and get live, state-by-state fuel costs for your rig.</span>
-  </span>
-  <span class="tool-promo-btn">Plan your trip&nbsp;&rarr;</span>
-</a>
 
 <!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
