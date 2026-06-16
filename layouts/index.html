@@ -49,7 +49,7 @@
         </span>
         <span class="tool-promo-btn">Plan your trip&nbsp;&rarr;</span>
       </a>
-      <script>(function(){var a=document.querySelector(".hero-auth-actions"),p=document.querySelector(".tool-promo");if(!a||!p)return;function f(){var k=a.children,l=1/0,r=0,i,b;for(i=0;i<k.length;i++){b=k[i].getBoundingClientRect();if(b.width){if(b.left<l)l=b.left;if(b.right>r)r=b.right;}}p.style.maxWidth=(r>l)?(r-l)+"px":"";}f();addEventListener("resize",f);addEventListener("load",f);})();</script>
+      <script>(function(){var a=document.querySelector(".hero-auth-actions"),p=document.querySelector(".tool-promo");if(!a||!p)return;function f(){if(innerWidth<=700){p.style.maxWidth="";return;}var k=a.children,l=1/0,r=0,i,b;for(i=0;i<k.length;i++){b=k[i].getBoundingClientRect();if(b.width){if(b.left<l)l=b.left;if(b.right>r)r=b.right;}}p.style.maxWidth=(r>l)?(r-l)+"px":"";}f();addEventListener("resize",f);addEventListener("load",f);})();</script>
     </div>
 
     <!-- Hero Carousel: 5 daily-rotating articles (date-seeded, client-side) -->

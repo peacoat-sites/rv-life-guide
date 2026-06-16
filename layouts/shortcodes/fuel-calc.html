@@ -16,7 +16,7 @@
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent,#c2410c)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
         Plan a route &mdash; we&rsquo;ll fill in the distance
       </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px">
         <div style="position:relative">
           <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280)">From
             <input id="fc-from" type="text" autocomplete="off" placeholder="City, State" style="{{ $inp }}"></label>
@@ -48,7 +48,7 @@
     </div>
     <p style="font-size:12px;color:var(--muted,#6b7280);margin:0 0 18px" id="fc-price-note"><span id="fc-loc-label">National averages</span> for the week of {{ $date }} &middot; Source: {{ $src }}. Pick your state for a closer estimate, or edit the price for your local pumps.</p>
 
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
       <label style="font-size:13px;font-weight:600;display:block">Your state
         <select id="fc-state" style="{{ $inp }}"><option value="">National average</option></select></label>
       <label style="font-size:13px;font-weight:600;display:block">Trip distance (miles)
