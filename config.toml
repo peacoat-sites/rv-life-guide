@@ -20,6 +20,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  geoapify_key = ""  # free key from geoapify.com -> enables the A->B route planner
   youtube_channel = "UCV6138gV-c5kmoFfaxNNCgg"
   page_bg = "#f3faf5"
   nav_style = "dark"

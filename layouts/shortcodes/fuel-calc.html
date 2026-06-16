@@ -1,32 +1,67 @@
-{{/* RV trip fuel-cost calculator. National avg prices from EIA (data/fuel_prices.json). Usage: {{< fuel-calc >}} */}}
+{{/* RV trip fuel-cost calculator. Prices from EIA (data/fuel_prices.json, national + per-state).
+     Optional A->B route planner via Geoapify when site.Params.geoapify_key is set. Usage: {{< fuel-calc >}} */}}
 {{ $d := site.Data.fuel_prices }}
 {{ $gas := 3.20 }}{{ $diesel := 3.65 }}{{ $date := "recently" }}{{ $src := "U.S. EIA" }}
 {{ with $d }}{{ $gas = .gas }}{{ $diesel = .diesel }}{{ $date = .date }}{{ $src = .source }}{{ end }}
+{{ $geokey := site.Params.geoapify_key | default "" }}
+{{ $inp := "width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box" }}
 <div class="fuelcalc" style="margin:32px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
   <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">RV Trip Fuel Cost Calculator</div>
   <div style="padding:20px">
+
+    {{ if $geokey }}
+    <!-- Route planner (Geoapify) -->
+    <div style="margin-bottom:18px;padding:16px;border:1px solid var(--border,#e7e5e4);border-radius:12px;background:#fff">
+      <div style="font-size:13px;font-weight:700;margin-bottom:10px;display:flex;align-items:center;gap:7px">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--accent,#c2410c)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+        Plan a route &mdash; we&rsquo;ll fill in the distance
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+        <div style="position:relative">
+          <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280)">From
+            <input id="fc-from" type="text" autocomplete="off" placeholder="City, State" style="{{ $inp }}"></label>
+          <ul id="fc-from-sg" class="fc-suggest" style="display:none"></ul>
+        </div>
+        <div style="position:relative">
+          <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280)">To
+            <input id="fc-to" type="text" autocomplete="off" placeholder="City, State" style="{{ $inp }}"></label>
+          <ul id="fc-to-sg" class="fc-suggest" style="display:none"></ul>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:12px;margin-top:12px;flex-wrap:wrap">
+        <button id="fc-route-btn" type="button" style="background:var(--accent,#c2410c);color:#fff;border:0;border-radius:8px;padding:9px 18px;font-size:14px;font-weight:600;cursor:pointer">Calculate driving distance</button>
+        <span id="fc-route-msg" style="font-size:13px;color:var(--muted,#6b7280)"></span>
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Price cards (update when a state is selected) -->
     <div style="display:flex;gap:14px;flex-wrap:wrap;margin-bottom:10px">
       <div style="flex:1;min-width:150px;background:var(--surface2,#f5f2ec);border-radius:10px;padding:12px 14px">
         <div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase;letter-spacing:.05em">Avg Regular Gas</div>
-        <div style="font-size:1.5rem;font-weight:800;color:var(--accent,#c2410c)">${{ printf "%.2f" $gas }}<span style="font-size:13px;font-weight:500;color:var(--muted,#6b7280)">/gal</span></div>
+        <div style="font-size:1.5rem;font-weight:800;color:var(--accent,#c2410c)">$<span id="fc-card-gas">{{ printf "%.2f" $gas }}</span><span style="font-size:13px;font-weight:500;color:var(--muted,#6b7280)">/gal</span></div>
       </div>
       <div style="flex:1;min-width:150px;background:var(--surface2,#f5f2ec);border-radius:10px;padding:12px 14px">
         <div style="font-size:11px;color:var(--muted,#6b7280);text-transform:uppercase;letter-spacing:.05em">Avg Diesel</div>
-        <div style="font-size:1.5rem;font-weight:800;color:var(--accent,#c2410c)">${{ printf "%.2f" $diesel }}<span style="font-size:13px;font-weight:500;color:var(--muted,#6b7280)">/gal</span></div>
+        <div style="font-size:1.5rem;font-weight:800;color:var(--accent,#c2410c)">$<span id="fc-card-diesel">{{ printf "%.2f" $diesel }}</span><span style="font-size:13px;font-weight:500;color:var(--muted,#6b7280)">/gal</span></div>
       </div>
     </div>
-    <p style="font-size:12px;color:var(--muted,#6b7280);margin:0 0 18px">National averages for the week of {{ $date }} · Source: {{ $src }}. Prices update weekly — adjust the price field below for your local pumps.</p>
+    <p style="font-size:12px;color:var(--muted,#6b7280);margin:0 0 18px" id="fc-price-note"><span id="fc-loc-label">National averages</span> for the week of {{ $date }} &middot; Source: {{ $src }}. Pick your state for a closer estimate, or edit the price for your local pumps.</p>
+
     <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
+      <label style="font-size:13px;font-weight:600;display:block">Your state
+        <select id="fc-state" style="{{ $inp }}"><option value="">National average</option></select></label>
       <label style="font-size:13px;font-weight:600;display:block">Trip distance (miles)
-        <input id="fc-miles" type="number" value="500" min="0" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box"></label>
+        <input id="fc-miles" type="number" value="500" min="0" style="{{ $inp }}"></label>
       <label style="font-size:13px;font-weight:600;display:block">RV fuel economy (MPG)
-        <input id="fc-mpg" type="number" value="10" min="1" step="0.5" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box"></label>
+        <input id="fc-mpg" type="number" value="10" min="1" step="0.5" style="{{ $inp }}"></label>
       <label style="font-size:13px;font-weight:600;display:block">Fuel type
-        <select id="fc-type" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box">
+        <select id="fc-type" style="{{ $inp }}">
           <option value="gas">Regular gas</option><option value="diesel">Diesel</option></select></label>
       <label style="font-size:13px;font-weight:600;display:block">Price per gallon ($)
-        <input id="fc-price" type="number" value="{{ printf "%.2f" $gas }}" min="0" step="0.01" style="width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box"></label>
+        <input id="fc-price" type="number" value="{{ printf "%.2f" $gas }}" min="0" step="0.01" style="{{ $inp }}"></label>
     </div>
+
     <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:20px">
       <div style="flex:1;min-width:110px;text-align:center;padding:14px;border:1px solid var(--border,#e7e5e4);border-radius:10px">
         <div style="font-size:12px;color:var(--muted,#6b7280)">Fuel needed</div>
@@ -40,12 +75,43 @@
     </div>
   </div>
 </div>
+<style>
+.fuelcalc .fc-suggest{list-style:none;margin:2px 0 0;padding:4px;position:absolute;z-index:30;left:0;right:0;background:#fff;border:1px solid var(--border,#d6d3d1);border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.12);max-height:230px;overflow:auto}
+.fuelcalc .fc-suggest li{padding:8px 10px;font-size:13px;border-radius:6px;cursor:pointer}
+.fuelcalc .fc-suggest li:hover,.fuelcalc .fc-suggest li.act{background:var(--surface2,#f5f2ec)}
+.fuelcalc #fc-route-btn:hover{filter:brightness(.94)}
+</style>
 <script>
 (function(){
-  var GAS={{ $gas }}, DIESEL={{ $diesel }};
-  var miles=document.getElementById('fc-miles'),mpg=document.getElementById('fc-mpg'),
-      type=document.getElementById('fc-type'),price=document.getElementById('fc-price'),
-      gal=document.getElementById('fc-gal'),cost=document.getElementById('fc-cost'),cpm=document.getElementById('fc-cpm');
+  {{ with $d }}var FUEL={{ . | jsonify }};{{ else }}var FUEL={"gas":3.20,"diesel":3.65,"states":{}};{{ end }}
+  var GEOKEY={{ $geokey | jsonify }};
+  var STATES=FUEL.states||{}, NAT_GAS=FUEL.gas||3.20, NAT_DIESEL=FUEL.diesel||3.65;
+  var US={AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"Washington DC",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
+  function $(id){return document.getElementById(id);}
+  var miles=$('fc-miles'),mpg=$('fc-mpg'),type=$('fc-type'),price=$('fc-price'),
+      gal=$('fc-gal'),cost=$('fc-cost'),cpm=$('fc-cpm'),stateSel=$('fc-state'),
+      cardGas=$('fc-card-gas'),cardDiesel=$('fc-card-diesel'),locLabel=$('fc-loc-label');
+
+  // Populate state dropdown (all states; pricing falls back to national where EIA lacks data)
+  Object.keys(US).sort(function(a,b){return US[a]<US[b]?-1:1;}).forEach(function(code){
+    var o=document.createElement('option');o.value=code;o.textContent=US[code];stateSel.appendChild(o);
+  });
+
+  function curPrices(){
+    var code=stateSel.value, s=code&&STATES[code];
+    if(s){
+      var lbl=s.level==='state'?(s.name+' average'):(s.level==='region'?(s.region+' average'):'National average');
+      return {gas:s.gas,diesel:s.diesel,label:lbl};
+    }
+    return {gas:NAT_GAS,diesel:NAT_DIESEL,label:'National averages'};
+  }
+  function applyPrices(setField){
+    var p=curPrices();
+    cardGas.textContent=p.gas.toFixed(2);
+    cardDiesel.textContent=p.diesel.toFixed(2);
+    locLabel.textContent=p.label;
+    if(setField) price.value=(type.value==='diesel'?p.diesel:p.gas).toFixed(2);
+  }
   function calc(){
     var mi=parseFloat(miles.value)||0,mg=parseFloat(mpg.value)||0,pr=parseFloat(price.value)||0;
     var g=mg>0?mi/mg:0,c=g*pr;
@@ -53,8 +119,62 @@
     cost.textContent=c?'$'+c.toFixed(2):'—';
     cpm.textContent=mi>0?'$'+(c/mi).toFixed(2):'—';
   }
-  type.addEventListener('change',function(){price.value=(type.value==='diesel'?DIESEL:GAS).toFixed(2);calc();});
+  stateSel.addEventListener('change',function(){applyPrices(true);calc();});
+  type.addEventListener('change',function(){applyPrices(true);calc();});
   [miles,mpg,price].forEach(function(el){el.addEventListener('input',calc);});
+
+  // ---- Route planner (Geoapify) ----
+  if(GEOKEY){
+    var coords={from:null,to:null};
+    function setupAC(inputId,sgId,key){
+      var inp=$(inputId),sg=$(sgId),t=null;
+      inp.addEventListener('input',function(){
+        coords[key]=null; var q=inp.value.trim();
+        clearTimeout(t);
+        if(q.length<3){sg.style.display='none';return;}
+        t=setTimeout(function(){
+          fetch('https://api.geoapify.com/v1/geocode/autocomplete?text='+encodeURIComponent(q)+'&format=json&limit=5&filter=countrycode:us&apiKey='+GEOKEY)
+            .then(function(r){return r.json();})
+            .then(function(d){
+              var res=(d&&d.results)||[]; sg.innerHTML='';
+              if(!res.length){sg.style.display='none';return;}
+              res.forEach(function(it){
+                var li=document.createElement('li');li.textContent=it.formatted;
+                li.addEventListener('mousedown',function(e){
+                  e.preventDefault();inp.value=it.formatted;coords[key]=[it.lat,it.lon];sg.style.display='none';
+                });
+                sg.appendChild(li);
+              });
+              sg.style.display='block';
+            }).catch(function(){sg.style.display='none';});
+        },250);
+      });
+      inp.addEventListener('blur',function(){setTimeout(function(){sg.style.display='none';},150);});
+    }
+    setupAC('fc-from','fc-from-sg','from');
+    setupAC('fc-to','fc-to-sg','to');
+    var btn=$('fc-route-btn'),msg=$('fc-route-msg');
+    btn.addEventListener('click',function(){
+      if(!coords.from||!coords.to){msg.style.color='#b91c1c';msg.textContent='Pick both locations from the dropdown suggestions.';return;}
+      msg.style.color='var(--muted,#6b7280)';msg.textContent='Calculating…';btn.disabled=true;
+      var wp=coords.from[0]+','+coords.from[1]+'|'+coords.to[0]+','+coords.to[1];
+      fetch('https://api.geoapify.com/v1/routing?waypoints='+wp+'&mode=drive&apiKey='+GEOKEY)
+        .then(function(r){return r.json();})
+        .then(function(d){
+          btn.disabled=false;
+          var f=d&&d.features&&d.features[0];
+          if(!f||!f.properties||f.properties.distance==null){msg.style.color='#b91c1c';msg.textContent='Could not find a driving route between those points.';return;}
+          var mi=f.properties.distance/1609.344;
+          miles.value=Math.round(mi);
+          var hrs=f.properties.time?(f.properties.time/3600):0;
+          msg.style.color='var(--muted,#6b7280)';
+          msg.textContent='≈ '+Math.round(mi).toLocaleString()+' miles'+(hrs?' · ~'+hrs.toFixed(1)+' h drive':'')+' (one way)';
+          calc();
+        }).catch(function(){btn.disabled=false;msg.style.color='#b91c1c';msg.textContent='Routing failed — try again.';});
+    });
+  }
+
+  applyPrices(false);
   calc();
 })();
 </script>
