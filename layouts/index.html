@@ -119,6 +119,17 @@
   </div>
 </section>
 
+<!-- ── MARQUEE TOOL PROMO ────────────────────────── -->
+<a class="tool-promo" href="/rv-fuel-cost-calculator/">
+  <span class="tool-promo-badge">Free Tool</span>
+  <span class="tool-promo-icon" aria-hidden="true"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg></span>
+  <span class="tool-promo-text">
+    <span class="tool-promo-title">RV Trip Cost Calculator</span>
+    <span class="tool-promo-sub">Map any route A&nbsp;&rarr;&nbsp;B and get live, state-by-state fuel costs for your rig.</span>
+  </span>
+  <span class="tool-promo-btn">Plan your trip&nbsp;&rarr;</span>
+</a>
+
 <!-- ── STATS STRIP ─────────────────────────────────────────────────── -->
 <div class="stats-strip">
   <div class="stats-strip-inner">{{ $posts := where .Site.RegularPages "Section" "posts" }}{{ $questions := 0 }}{{ range $posts }}{{ with .Params.faqs }}{{ $questions = add $questions (len .) }}{{ end }}{{ end }}{{ $tot := 0 }}{{ range $posts }}{{ $tot = add $tot (int (math.Round (div .WordCount 450.0))) }}{{ end }}{{ $avg := 0 }}{{ if gt (len $posts) 0 }}{{ $avg = int (math.Round (div $tot (len $posts))) }}{{ end }}
