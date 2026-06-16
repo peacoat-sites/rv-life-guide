@@ -88,27 +88,6 @@ For your download and upload speed minimums: most video conferencing (Zoom, Team
 
 ---
 
-## FAQ
-
-### What's the cheapest way to get reliable RV internet for remote work?
-
-A single T-Mobile unlimited hotspot plan around $50/month is the lowest entry point, but it won't be reliable everywhere and almost certainly won't hold up in rural or mountainous areas. The honest minimum for actually reliable remote work is around $100-150/month, which usually means one solid unlimited data plan plus either a booster or a Starlink subscription.
-
-### Can I just use campground WiFi for work calls?
-
-Occasionally, in high-end RV resorts with dedicated fiber infrastructure, yes. Most campground WiFi is shared across dozens or hundreds of rigs and will fail you during peak hours. I'd never count on it for a client call or anything deadline-sensitive. Treat it as a bonus, not a plan.
-
-### Does Starlink work while the RV is moving?
-
-Not on the standard Roam hardware. The dish has to be stationary and set up. SpaceX does make the Starlink Flat High Performance dish that supports in-motion use, but it costs around $2,500 for hardware. Some full-timers use it; most don't. You park, you set up, you connect.
-
-### Do I need all three: Starlink, cellular, and a booster?
-
-Not necessarily. Depends on where you travel and what your work requires. Someone parked in a seasonal spot with good Verizon coverage and occasional travel probably does fine with a hotspot and a booster. Someone who chases dispersed BLM land or forests needs Starlink. The more remote your travel style, the more layers you'll want.
-
-### What cellular carrier is best for RV internet across the US?
-
-Verizon wins on raw coverage in rural areas, which matters most when you're off the beaten path. But honestly, the right answer is two carriers, not one. Verizon plus T-Mobile covers the vast majority of scenarios you'll encounter on the road in the continental US.
 
 ---
 

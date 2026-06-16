@@ -114,27 +114,6 @@ A moisture meter is a genuinely useful tool here. You can get a basic one for un
 
 ---
 
-## FAQ
-
-### How often should I reseal my RV roof?
-
-A full inspection with fresh sealant applied anywhere it looks questionable should happen every 12 months minimum. If you're a full-timer logging 20,000+ miles a year, do it every six months. The road vibration and temperature swings alone will stress sealant faster than you might expect.
-
-### Can I use regular house caulk on my RV roof?
-
-No. Standard silicone or latex caulk isn't formulated for the movement and UV exposure an RV roof experiences. It'll look fine for a few months and then crack or peel off. Use products specifically designed for RV roofing. The material compatibility issue is real, especially on EPDM rubber where silicone literally won't bond correctly.
-
-### My RV ceiling has a brown stain but the roof looks okay from outside. What's going on?
-
-The stain inside almost always means water has been entering and traveling before you see it. A roof that "looks okay" on the surface can have sealant that's cracked just enough to let water wick in during heavy rain. Check every single penetration and seam around the area above that stain. Use a hose with a helper inside while you systematically wet each section to locate the entry point.
-
-### Is EternaBond tape a permanent fix or a temporary patch?
-
-EternaBond is genuinely durable when applied correctly to a clean, prepared surface. It's not a band-aid. I've seen 10-year-old EternaBond repairs still holding on roofs that had been recoated multiple times around them. That said, proper surface prep is non-negotiable. Stick it on a dusty or damp surface and it'll fail.
-
-### What happens if I ignore a small RV roof leak?
-
-The honest answer is that small leaks become large structural problems faster than most people expect. Water in an RV doesn't drain the way it might in a house. It saturates the wood framing, the lauan underlayment, the subflooring. Once rot sets in, you're not fixing a leak anymore, you're doing a partial deconstruction and rebuild. A $15 tube of sealant applied at the right moment can genuinely save you several thousand dollars. This isn't an exaggeration.
 
 ---
 

@@ -106,27 +106,6 @@ For cats, always a carrier. Cats loose in a moving vehicle are a different categ
 
 ---
 
-## FAQ
-
-### How do I handle my dog when I'm away from the rig?
-
-This is campground-dependent. Most campgrounds don't allow unattended dogs, and leaving a dog in a hot RV in summer is genuinely dangerous (interior temps can hit 120°F+ in direct sun within 30 minutes). I work remotely and structure my schedule around Biscuit. For short errands, I use a window vent fan on high and a [Govee WiFi thermometer](https://www.amazon.com/s?k=govee+thermometer) that sends my phone an alert if the interior temp crosses 80°F. Not a perfect solution. In summer in the Southwest, I don't leave her for more than 20-30 minutes.
-
-### What's the realistic added cost of a dog on the road?
-
-Budget an extra $150-250/month depending on size, diet, and whether you're paying for pet-friendly sites. That covers food, the occasional vet visit, campground pet fees, and a pet insurance premium. Emergency care is separate. Keep $1,500-2,000 in a dedicated "dog fund" if you can.
-
-### How do I find dog-friendly trails on the road?
-
-AllTrails has a "dogs allowed" filter and it's accurate probably 85% of the time. Bring Your Pet (bringfido.com) is good for finding dog-friendly restaurants and lodging. For off-leash areas by state, the app Sniffspot lists private landowners who rent their land by the hour for dog exercise, which sounds odd but has saved me a dozen times in suburban areas.
-
-### Can I get prescription medications for my dog without a local vet relationship?
-
-Sometimes. Chewy Pharmacy can fill prescriptions from any licensed vet, including a telehealth consult. For chronic medications (thyroid, allergy, etc.), have your home-base vet write a 12-month prescription you can fill anywhere. For controlled substances, each state has its own rules and it gets complicated fast.
-
-### Is it fair to have a dog in a small RV?
-
-Honestly, it depends more on your lifestyle than your square footage. A dog in a 22-foot Class C who gets two hours of outdoor time daily is living better than a dog alone in a 2,000-square-foot house all day. The size of the rig matters a lot less than how much time you spend outside it.
 
 ---
 

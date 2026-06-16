@@ -90,27 +90,6 @@ One thing most people don't realize until they're living it: your first six mont
 
 ---
 
-## FAQ
-
-### How much money should I save before starting van life?
-
-At minimum, six months of expected monthly expenses as an emergency fund on top of your build costs. If your budget is $1,800/month, you want at least $10,800 liquid before you leave. Three months is not enough when you factor in vehicle emergencies.
-
-### Can I live in a van on $1,000 a month?
-
-Technically yes, but it requires a paid-off van, no debt, strong DIY mechanical skills, and staying in the western US where free camping is plentiful. It's a tight margin that leaves almost nothing for repairs or emergencies. Most people who claim they're doing $1,000/month aren't accounting for depreciation or maintenance reserves.
-
-### Is van life cheaper than renting an apartment?
-
-In many US cities, yes. A one-bedroom in Austin or Denver runs $1,400 to $2,200/month before utilities. A realistic van life budget of $1,500 to $2,000/month can genuinely be cheaper, especially if you're not carrying a van payment. But the comparison only holds if you're honest about all the van costs including maintenance.
-
-### What's the biggest hidden cost of van life?
-
-Vehicle repairs, without question. Most people budget for them but underestimate the frequency and size of the bills. I'd also add the cost of your time: being your own mechanic, researching camping spots, planning routes around weather. It's not a cash expense, but it's real.
-
-### Do van lifers pay for camping every night?
-
-No. Most experienced full-timers average maybe 30-50% paid camping nights and the rest free on BLM land, national forests, Walmart/Cracker Barrel lots (where allowed), or friends' driveways. The mix shifts depending on where in the country you are and what time of year it is.
 
 ---
 

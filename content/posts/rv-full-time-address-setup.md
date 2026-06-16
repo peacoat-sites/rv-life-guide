@@ -129,27 +129,6 @@ People make these errors constantly. Avoid them.
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use a family member's address as my legal domicile?
-
-Technically yes, but only if you're genuinely maintaining ties to that state and intend it to be your true legal home. If you're using a relative's Ohio address while driving a South Dakota-registered RV with a South Dakota driver's license, you have conflicting domicile signals that can cause problems with the IRS and insurance companies. Simplicity wins here. Pick one state and be consistent across all records.
-
-### Do I have to pay income tax in every state I travel through?
-
-Generally no. Driving through or camping in a state briefly doesn't trigger income tax obligations there. You pay income tax (if any) in your domicile state. The exception is if you're physically working in a state for extended periods, particularly more than 30 consecutive days. Remote workers who simply receive a paycheck from an employer back home typically don't have this problem, but consult a tax professional if you spend months at a time in high-tax states.
-
-### What happens if I'm already domiciled somewhere and want to change states?
-
-You'll need to physically visit the new state's DMV, establish your mail forwarding address there first, and surrender your old license for a new one. You'll also need to re-register your vehicles. Update your insurance records, bank accounts, and voter registration. It's a half-day of work plus one trip, but many full-timers switch once and never look back.
-
-### Will digital mail forwarding satisfy official address requirements for the IRS and banks?
-
-The digital scanning part is for your convenience, but what matters to official agencies is the physical street address your mail forwarding service provides. As long as that address is a real street address (not a P.O. Box designation), it typically satisfies requirements for the IRS, banks, and insurers. Confirm with your specific provider that their address format is accepted for government correspondence.
-
-### How do full-time RVers handle jury duty?
-
-Once you're registered to vote in your domicile state, you can be called for jury duty there. Most full-timers handle this by requesting a postponement (standard practice) and then, if called again, explaining their situation in writing. Some states have provisions for hardship exemptions for people who live full time outside the area. It rarely becomes a serious problem, but don't ignore summons hoping they'll disappear.
 
 ---
 

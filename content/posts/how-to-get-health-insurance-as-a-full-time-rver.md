@@ -80,27 +80,6 @@ For dental and vision, which health insurance rarely covers adequately anyway, I
 
 ---
 
-## FAQ
-
-### Can I use my home state's Medicaid if I'm traveling full-time?
-
-Technically you're enrolled in your domicile state's Medicaid, not your former home state's, and coverage for non-emergency services is tied to providers in that state. Emergency care is covered anywhere in the US, but if you're traveling constantly, Medicaid isn't a reliable day-to-day solution unless you're willing to travel back to your domicile state for care.
-
-### What happens if I have a medical emergency in a state where I have no in-network providers?
-
-Under federal law, insurers are required to cover emergency care at in-network rates regardless of where you receive it. This applies to ACA-compliant plans. You may still owe your deductible or cost-sharing, but you can't be billed at higher out-of-network rates for a genuine emergency. Keep your insurance card accessible and know your plan's emergency line.
-
-### Is it better to change my domicile to get cheaper insurance?
-
-Sometimes, yes. South Dakota's ACA marketplace options have historically been limited but improving. Florida and Texas have larger markets with more plan choices, and Florida in particular has strong competition that can keep premiums lower. Run the numbers on healthcare.gov for all three states using your expected income before you commit to a domicile. It's a legitimate factor in the decision.
-
-### Can I keep my employer's insurance while living in my RV?
-
-If you're still employed and your employer offers coverage, yes. Just be aware of the network problem: most employer plans are regional PPOs or HMOs that work best near company headquarters. If you're working remotely and traveling nationally, confirm your plan uses a national network before assuming it'll work wherever you park.
-
-### Do I need to file taxes in my domicile state if I'm never there?
-
-This depends on the state. South Dakota and Texas have no state income tax, so there's nothing to file. Florida has no individual income tax either. If you're domiciled somewhere with an income tax, yes, you'd generally owe taxes there on income earned anywhere. This is one reason the no-income-tax states are so popular for domicile among full-timers, and it connects directly to your overall cost picture alongside insurance.
 
 ---
 

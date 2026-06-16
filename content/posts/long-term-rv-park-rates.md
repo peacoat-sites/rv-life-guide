@@ -99,29 +99,6 @@ I've watched people sign seasonal leases and regret it within a month because th
 
 **Cell signal and WiFi.** Park-provided WiFi is usually terrible for working remotely. Check signal strength from the actual site for your carrier before you commit.
 
-## FAQ
-
-### How much should I realistically budget for a long-term RV site?
-
-A realistic budget for most of the country is $500 to $900 per month, not counting electric if it's metered separately. Add $50 to $150 for electric in climates where you'll run AC or electric heat heavily. If you're targeting popular Sun Belt destinations in peak season, budget $900 to $1,400. If you're flexible about location and willing to negotiate, $550 to $700 a month is very achievable for a decent site with full hookups.
-
-### Is it cheaper to sign a long lease or stay month-to-month?
-
-A longer lease almost always gets you a lower rate, sometimes significantly lower. The tradeoff is flexibility. If you need to leave before the lease is up, most parks will keep your prepaid money or charge a penalty. If cost is the priority and you're confident about the location, a seasonal lease usually wins. If you value the ability to move, month-to-month is worth the extra cost.
-
-### Do long-term RV parks require a rig inspection before accepting you?
-
-Yes, many do. It's called a "rig approval" or "visual inspection" and it's more common at nicer parks and 55+ communities. They're checking age (some parks exclude rigs older than 10 or 15 years), condition of the exterior, and whether it meets their standards. This isn't universal, but if you have an older rig with cosmetic issues, call ahead and ask about their policy before making the drive.
-
-### What's the difference between a long-term RV park and an RV community or manufactured home park?
-
-The line has blurred, but generally: an RV park rents you a site, you stay in your own rig, and the expectation is that you could theoretically leave. An RV or manufactured home community often involves lot leases, sometimes permanent utility connections, and a more residential legal structure. Some people own their unit but lease the land. The permanence is higher, the flexibility is lower, and the monthly cost is often lower as well because you're taking on a longer commitment.
-
-### Can I negotiate utilities into a flat-rate monthly fee?
-
-Sometimes, especially if you're driving a hard bargain or the park is motivated to fill a site. Some parks offer an "all-inclusive" monthly rate that bundles electric at a flat add-on, say $75 or $100, regardless of actual usage. If you run electric heat in winter or heavy AC in summer, an all-inclusive deal is often worth paying a bit more for the rate. If you're a light user with good solar and propane, you'll probably save money on metered electric.
-
-Long-term RV living absolutely can be affordable, sometimes dramatically more affordable than stick-and-brick housing, but only if you understand how the pricing works and aren't afraid to ask for what you want. The neighbors paying $650 at that $1,400-asking-price park didn't stumble into a deal. They knew to ask, knew to negotiate, and knew what to look for before they signed anything. That knowledge gap is the only real difference between people who make full-timing work on a budget and people who burn through savings faster than they expected.
 
 ---
 

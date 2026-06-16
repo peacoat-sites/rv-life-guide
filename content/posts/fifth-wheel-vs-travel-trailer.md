@@ -108,27 +108,6 @@ What's your honest budget, all in? Add the rig, the hitch hardware, any tow vehi
 
 ---
 
-## Frequently Asked Questions
-
-### Can I tow a fifth wheel with a half-ton truck?
-
-Technically, some half-ton trucks like the Ford F-150 and Ram 1500 are rated to tow fifth wheels in the 12,000 to 14,000 lb range. Manufacturers do build lightweight fifth wheels designed for this. But the margin for error shrinks fast, especially once you load the rig with water, gear, and food. If you're planning full-time living with a loaded fifth wheel, a three-quarter ton truck gives you real headroom. Most experienced towers recommend against the half-ton and fifth wheel combination for extended use.
-
-### Which is easier to back into a campsite?
-
-Travel trailers require you to think in reverse, which trips up most beginners. The trailer pivots opposite to the direction you steer, and longer trailers give you less room for correction. Fifth wheels actually back more predictably and respond more like a semi-truck. Many full-timers report that fifth wheel backing clicked for them faster than travel trailer backing did. Either way, expect a learning curve and practice in an empty parking lot before you're doing it with impatient neighbors watching.
-
-### Are fifth wheels more expensive to insure?
-
-Generally yes, because they're worth more and weigh more. The difference depends on your state, your driving record, and the specific unit, but expect fifth wheel premiums to run $300 to $800 per year higher on average for comparable coverage. If you're full-timing, make sure you get a policy that covers full-time use specifically. Standard RV policies often exclude full-time residency.
-
-### What does pin weight mean and why does it matter?
-
-Pin weight is the portion of the fifth wheel's total weight that presses down on the hitch in your truck bed. It's typically 15% to 25% of the trailer's gross weight. So a fifth wheel rated at 16,000 lbs might put 3,200 lbs on your truck's payload. Your truck has a separate payload rating that accounts for passengers, cargo, AND pin weight combined. Ignoring payload while focusing only on tow rating is one of the most common and dangerous mistakes new fifth wheel buyers make.
-
-### Which holds its resale value better?
-
-Fifth wheels from name brands like Grand Design, Airstream, and Montana tend to hold value better than entry-level travel trailers, mostly because they started at a higher price point and attract more serious buyers. That said, both depreciate significantly in the first two to three years, often 20% to 35%. Airstream aluminum travel trailers are the exception and hold value remarkably well, sometimes appreciating on used markets. For everyone else, the RV market moves with fuel prices, interest rates, and pandemic-era demand swings, all of which we saw dramatically between 2020 and 2023.
 
 ---
 

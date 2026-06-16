@@ -105,28 +105,5 @@ The process is simple, but there are places where people trip up.
 
 **Not telling your insurance company.** Driving an RV registered in South Dakota while still carrying insurance tied to your old state address can create coverage issues. Update your insurance as soon as your registration changes.
 
-## FAQ
-
-### Do I actually have to live in South Dakota to use it as my domicile?
-
-No. South Dakota does not require you to spend any minimum number of days in the state each year to maintain your domicile there. You need to demonstrate intent to make it your permanent legal home, which you do through your driver's license, vehicle registration, voter registration, and mailing address. Plenty of full-time RVers maintain South Dakota domicile while spending most of their time in other states or even traveling internationally.
-
-### Can I use a friend's or family member's address instead of a mail forwarding service?
-
-Technically you can, but it's not recommended. If your friend or family member lives in South Dakota and is willing to receive your mail and be listed as your address, that satisfies the legal requirement. But it creates complications for them and for you, especially if they move. Professional mail forwarding services designed for RVers handle jury duty deferrals, scan important mail, and forward packages reliably. The cost is low enough that using a professional service is almost always the better call.
-
-### Will I owe South Dakota taxes on income I earned while traveling through other states?
-
-This is a question worth putting to a CPA who specializes in RV taxes. The short answer: because South Dakota has no state income tax, you won't owe South Dakota anything on your income. Whether other states can claim tax jurisdiction over income earned within their borders is more complex and depends on the type of income, how long you were in the state, and whether you had an employer nexus there. Remote workers with out-of-state employers are generally fine. Independent contractors doing work in high-tax states should get professional advice.
-
-### How long does the entire process take when I visit South Dakota in person?
-
-If you've done the prep work, set your mail forwarding address, updated your records, and gathered your documents, the in-person part typically takes two to four hours. Some people do it faster if they have appointments lined up. Schedule your DMV appointment in advance, because walk-in wait times can vary significantly, especially at the Sioux Falls location.
-
-### Does South Dakota domicile affect my health insurance options?
-
-Yes, it can. Your listed state of residence affects which health insurance plans are available to you and at what rates. Some full-time RVers choose South Dakota specifically because plans available there offer nationwide network coverage rather than limiting you to in-network providers in a specific region. If you're shopping for health insurance, compare plans available to South Dakota residents on the federal marketplace and factor that into your domicile decision.
-
-South Dakota domicile isn't magic, and it's not right for everyone. If you have strong ties to your home state, own real estate there, or your income is primarily from a traditional employer in that state, the situation gets more complicated. But for the hundreds of thousands of people living and working on the road full time, South Dakota offers a straightforward, affordable, and well-tested path to legal domicile. Do the prep work, make the trip, and get it done. You'll be glad you did.
 
 *Photo: [Matthew Hernandez](https://www.pexels.com/@mhaltiery) via Pexels*

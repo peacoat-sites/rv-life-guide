@@ -130,27 +130,6 @@ Never buy a used full-timer without doing these steps, in this order:
 
 ---
 
-## FAQ
-
-### How much does it actually cost to live in an RV full time?
-
-It varies more than most articles admit. Our all-in monthly average over six years has been between $2,800 and $3,900, covering campsite fees, fuel, food, maintenance, insurance, and health coverage. People who boondock heavily can get that below $2,000. People who stay in full-hookup resorts every night can spend $5,000 or more. The biggest budget surprise for most new full-timers is maintenance: budget at least $200 per month as a reserve, and in years where something major breaks (roof, slide motor, chassis issue), that won't be enough.
-
-### What's the best RV brand for full-time living?
-
-No single brand is perfect, but some stand out for build quality relative to price. Grand Design consistently earns high marks for their customer service and construction. Airstream has the best long-term durability of any trailer manufacturer. For motorhomes, Tiffin and Newmar produce coaches that hold up better under full-time use than most competitors, though you'll pay for it. Avoid brands like Heartland and Forest River's lower product lines for full-timing. They're fine as vacation rigs, but they're not built for daily occupation year-round.
-
-### Is a fifth wheel or Class A better for full-time living?
-
-For most couples, a fifth wheel offers more livable space per dollar and simpler maintenance than a comparable Class A. You'll spend more on fuel over time with a diesel truck, but diesel engine longevity tends to be excellent. A Class A diesel pusher gives you the most residential feel and keeps everything in one vehicle, but repairs are more specialized and costly. If you're going full-time on a strict budget, the fifth wheel route is usually the better financial decision.
-
-### Can you really work remotely from an RV?
-
-Yes, but it takes planning. Cellular signal is the real variable. I use a Pepwave MAX BR1 Pro router with a WeBoost Drive Reach antenna, and I carry SIM cards from three different carriers. Even so, there are stretches of rural driving where I can't take a video call. Co-working spaces in medium-sized towns have become a genuine lifeline for remote workers who need reliability on deadline days. If your job depends on consistent high-speed internet, plan your travel routes around cell coverage maps, not just scenery.
-
-### How do you handle mail and your legal domicile as a full-timer?
-
-You'll need to establish a legal domicile in a state, and the three most popular choices among full-timers are South Dakota, Texas, and Florida. All three have no state income tax, and all three have established systems for non-resident vehicle registration and mail forwarding. Services like America's Mailbox (South Dakota) or Escapees Mail Service (Texas) give you a physical street address, accept packages, and forward mail on a schedule you set. Most full-timers get their domicile set up before they hit the road.
 
 ---
 

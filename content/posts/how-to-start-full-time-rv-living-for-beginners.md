@@ -90,27 +90,6 @@ The loneliness issue is real and underreported. If you're coming from a tight so
 
 ---
 
-## FAQ
-
-### How much money do I need saved before going full-time?
-
-Most experienced full-timers recommend at least $10,000 to $15,000 in accessible emergency savings before you leave, beyond whatever you spent on the rig. That covers a major repair, a gap in income, or a surprise medical bill without derailing everything.
-
-### Can I full-time in an RV with pets?
-
-Yes, and plenty of people do it with dogs, cats, and occasionally stranger animals. The practical limits are campground pet policies (some ban certain breeds or limit numbers), vet access on the road, and keeping pets comfortable in temperature extremes. A good [battery-powered fan or a small inverter-run AC](https://www.amazon.com/s?k=rv+portable+air+conditioner&tag=rvlivingguide-20) can keep a pet safe while you're out for a few hours.
-
-### Do I need a special driver's license to drive an RV?
-
-For most motorhomes and trailer combinations under a certain weight, a standard Class C driver's license is sufficient in all 50 states. Some very large Class A diesel pushers over 26,001 lbs GVWR may require a Class B non-commercial license depending on the state. Check your specific rig's GVWR before you assume.
-
-### What's the cheapest way to camp full-time?
-
-Boondocking on BLM (Bureau of Land Management) land, which is free with no time limit beyond 14 days in one spot in most areas, is genuinely the cheapest option. The American Southwest has enormous BLM land access. You'll need an off-grid power setup and enough water storage to make it work, but plenty of people keep their camping costs under $200/month this way.
-
-### Is full-time RV living legal everywhere?
-
-The RV itself is legal on public roads everywhere. The complications arise with residency laws (you need a legal domicile state), some city or county ordinances that restrict where RVs can be parked overnight, and HOA rules if you're parking on private property. Living long-term on public streets in a motorhome is restricted or actively enforced against in many urban areas. BLM land, state forests, national forests, and private campgrounds all have their own rules, so check before you park.
 
 ---
 

@@ -88,26 +88,5 @@ If this is the direction you want to go, the Airstream Bambi 16 is the worst pos
 
 ---
 
-## FAQ
-
-### How small is too small for full-time RV living?
-
-For most people living full-time, anything under 18 feet becomes genuinely difficult past the 60-day mark, especially with a partner or pet. The lack of storage for real-life belongings (not vacation belongings) wears you down faster than the space itself. Solo minimalists can make 17-20 feet work, but it takes real adjustment.
-
-### Is a 40-foot RV too big for full-time living?
-
-It depends entirely on where you plan to park. If you're sticking to full-hookup commercial campgrounds (KOA, Thousand Trails, private parks), 40 feet is manageable. If you want National Park access, boondocking, or Harvest Hosts stays, a 40-foot rig will cut you off from a significant portion of the best spots. Most experienced full-timers eventually land between 28 and 36 feet.
-
-### Can a couple really live comfortably in a Class B van full-time?
-
-Some do, and a few love it. But "comfortable" is doing a lot of work in that question. Two people in 80 square feet with no separation between sleeping, cooking, and working requires either a very compatible relationship, a lot of time spent outside, or both. Most couples who start in a van upgrade within 18 months.
-
-### Do I need a residential refrigerator for full-time living?
-
-It helps, but it's not a requirement. A quality 12-volt compressor fridge like the Dometic CFX3 55 ($700-800) actually outperforms most residential units in off-grid situations and doesn't require shore power to stay cold. Residential fridges are fine when plugged in but drain your battery bank overnight faster than almost anything else in the rig.
-
-### What RV holds its value best for full-time living?
-
-Airstream trailers hold value better than any other brand, consistently. A 2018 Airstream International 23FB still sells for $55,000-70,000 depending on condition. The trade-off is the curved aluminum roof complicates solar installs and the layouts sacrifice some practicality for aesthetics. Diesel Class A pushers from Tiffin, Newmar, and Entegra depreciate hard off the lot but tend to stabilize. Avoid cheap entry-level brands like Gulf Stream or Keystone Springdale if resale matters to you.
 
 *Photo: [Gaetan THURIN](https://www.pexels.com/@gaetanthurin) via Pexels*

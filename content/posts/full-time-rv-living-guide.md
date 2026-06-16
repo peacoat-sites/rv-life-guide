@@ -119,27 +119,6 @@ And protect your relationship, if you have one. This lifestyle amplifies everyth
 
 ---
 
-## Frequently Asked Questions
-
-### How do I handle healthcare and doctors as a full-time RVer?
-
-Find a primary care doctor in your domicile state for annual checkups and ongoing prescriptions. For everything else, urgent care clinics are scattered everywhere and handle most non-emergency needs. Telehealth has been a game-changer; services like Teladoc or direct-pay telehealth platforms cover a surprising range of issues remotely. Prescription management gets easier once you transfer everything to a national chain like CVS or Walgreens where your records follow you.
-
-### Is full-time RV living actually cheaper than renting an apartment?
-
-Sometimes, but probably not as dramatically as you hope. In high cost-of-living cities, yes, you'll likely spend less. Compared to renting a modest apartment in a mid-tier city, the difference narrows considerably once you factor in fuel, campsite fees, maintenance, and higher insurance costs. The financial case is strongest if you have reliable location-independent income and you're strategic about free camping options. Do not quit a stable job banking on saving money from the lifestyle alone.
-
-### What do I do with all my stuff?
-
-More than you think needs to go. I sold furniture, books, kitchen appliances, tools, sporting equipment, and seasonal clothing. Whatever I was unsure about, I put into a 5x10 climate-controlled storage unit at $85 per month for the first year. At the one-year mark, I'd touched nothing in that unit. I cancelled it and donated everything inside. Rent the storage unit as a one-year security blanket, not a permanent solution.
-
-### How do I find places to camp for free?
-
-The Freecampsites.net app and the Campendium app are both solid starting points. BLM (Bureau of Land Management) land in the western United States is the single largest source of free dispersed camping in the country. Download the Avenza Maps app with BLM map layers before you go. iOverlander is useful for international travel. The Dyrt offers a pro membership with offline maps for about $36 per year. Cross-reference multiple sources because conditions change.
-
-### What is the single biggest mistake new full-timers make?
-
-Moving too fast and buying too much rig. Almost universally, the people I've met who burned out in year one were driving rigs over 36 feet that they felt obligated to keep moving to justify the fuel cost. They never stayed anywhere long enough to settle. Full-time RV life is not a permanent vacation. It's a lifestyle that requires the same patience and routine-building as any other. The destinations are better than an apartment. The daily reality is still just daily life, with more maintenance.
 
 ---
 

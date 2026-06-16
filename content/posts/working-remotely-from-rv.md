@@ -121,27 +121,6 @@ The number most people underestimate is maintenance. RVs are driven vehicles tha
 
 ---
 
-## FAQ
-
-### How much internet speed do I actually need to work remotely from an RV?
-
-For video calls (Zoom, Teams, Google Meet), 5 Mbps upload is the practical minimum. 10 Mbps gives you comfortable headroom. Downloads matter less than uploads for most remote work. The problem isn't usually your plan's speed, it's signal strength. One bar of LTE delivers 1-2 Mbps; four bars of LTE on the same plan delivers 20-40 Mbps. Focus on improving signal quality before paying for a higher-tier plan.
-
-### Is Starlink worth it for full-time remote work from an RV?
-
-Yes, with qualifications. If your work involves large file transfers, video production, or you're frequently in areas with poor cellular coverage, Starlink is a legitimate game-changer. If you primarily work in tree-heavy campgrounds or camp in tight spots without a clear northern sky view, you'll be frustrated. Most serious remote-working RVers treat Starlink as one layer of a multi-carrier strategy, not a standalone solution.
-
-### What's the best RV type for remote work: van, Class B, Class C, or fifth wheel?
-
-For remote work specifically: fifth wheels and Class A/C rigs win on livability, dedicated workspace, and solar/battery capacity. Vans and Class Bs win on mobility, stealth camping options, and fuel costs. The honest answer is that your job type matters as much as the rig. If you're on video calls all day, you want a door you can close and a real desk. If you work async with occasional calls, a van is completely viable.
-
-### How do I handle time zones as a remote worker while traveling?
-
-Stay disciplined about communicating your schedule to your team. I've operated on Pacific time while physically in the Eastern time zone, which gives me mornings free and afternoons for meetings. Most remote teams care about overlap hours, not your location. Set your laptop clock to your employer's time zone to avoid confusion, and put your working hours clearly in your Slack or Teams status. After that, it's mostly a non-issue.
-
-### Can I work from an RV full-time without full hookups?
-
-Yes, but it requires real infrastructure investment. You need 200+ watts of solar, 100Ah minimum of lithium battery storage (200Ah is more realistic), and a quality inverter if you run AC-powered equipment. The laptop itself is efficient; it's your hotspot equipment, monitors, and lighting that add up. I've worked full days off-grid many times, but I keep a consistent eye on my battery monitor and I know exactly which campsites near my route have 30-amp electric hookups as a fallback.
 
 ---
 

@@ -118,27 +118,6 @@ Solar panels can offset daytime consumption significantly, but if you're running
 
 ---
 
-## FAQ
-
-### Can I run a 50 amp RV on 30 amp service without damaging anything?
-
-Yes, with caveats. Use the appropriate adapter and manage your loads carefully. The rig won't be damaged by 30 amp service, but you'll need to avoid running multiple high-draw appliances simultaneously. Think of it as camping in economy mode. One AC at a time, don't run the microwave while the AC is on high, and you'll be fine.
-
-### What happens if I plug my 30 amp RV into a 50 amp outlet without an adapter?
-
-You can't, physically. The plugs are incompatible. You'd need a 30-to-50 amp adapter, which is fine to use. Your rig will simply draw what it needs from the available supply, up to its 30 amp cord and breaker limit.
-
-### Why does my 50 amp RV keep tripping the campground breaker on 30 amp service?
-
-You're exceeding the 30 amp limit. The most common culprits are running two ACs, running an AC while someone uses the microwave, or running the electric water heater alongside a high-draw appliance. Audit what's running simultaneously and stagger your usage.
-
-### Is a surge protector really necessary, or is it marketing?
-
-In eight years, I've had a surge protector save my rig's electronics twice. Campground pedestals get wired by people having bad days, get struck by lightning, and accumulate corrosion that causes intermittent ground problems. A miswired outlet with an open ground can destroy sensitive electronics without tripping a breaker. Buy the protector.
-
-### Do I need a different extension cord for 30 amp vs. 50 amp service?
-
-Yes, absolutely. The cords, connectors, and wire gauges are different and not interchangeable. A 30 amp RV extension cord uses a 10-gauge or heavier wire with a TT-30 connector. A 50 amp extension cord uses a heavier 6-gauge wire with a 14-50 or CS6364 connector. Using an undersized cord is a fire hazard. Always match the cord to your rig's service rating.
 
 ---
 

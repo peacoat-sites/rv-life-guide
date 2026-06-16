@@ -84,27 +84,6 @@ The other thing: exercise. If your dog is getting real exercise every day, proba
 
 ---
 
-## FAQ
-
-### How do I find pet-friendly campgrounds without spending an hour researching each stop?
-
-The Campendium app lets you filter by pet policies and has user-submitted notes that are more honest than official campground listings. BringFido is also specifically built for this and has decent coverage for RV sites. I use both, plus I check AllStays Camp & RV for policy details.
-
-### Is it actually okay to leave a pet in the RV when I go explore for a few hours?
-
-It depends entirely on the temperature and whether you have reliable climate control. If it's over 75 degrees outside and you can't keep AC running, no. Don't do it. If you have a generator or shore power running AC, it's fine, though I always check temps remotely when I can. Some campgrounds explicitly prohibit leaving pets unattended, so worth reading the rules.
-
-### What vaccinations do I need to keep current for a dog that travels full-time?
-
-At minimum: rabies (required for most campgrounds), DHPP, and Bordetella if you use any boarding or dog parks. Talk to your vet about Leptospirosis if you're frequently near natural water sources, which on the road you almost certainly will be. I get a full record update every year and carry copies everywhere.
-
-### My cat is miserable every time we move. Will it get better?
-
-Probably yes, but it takes longer than you want it to. Most cats acclimate to the moving-then-stopping rhythm after 4-6 weeks of consistent full-time travel. Short, frequent moves are harder than fewer, longer ones. The worst thing you can do is let them out to "explore" in an unfamiliar area before they're settled. Keep them inside for the first 24 hours somewhere new.
-
-### Do I need a specific kind of water filter if my pet drinks from the RV tap?
-
-Whatever filter you're using for your own water is fine for your pets too. I use an [inline RV water filter](https://www.amazon.com/s?k=inline+rv+water+filter) on the city water hookup and a [countertop Berkey](https://www.amazon.com/s?k=berkey+water+filter) for drinking water. Both are good for pets. The main thing to watch for on the road is avoiding hose water that's been sitting in a non-food-safe hose in the heat, which can leach plasticizers. Drink-safe white or blue hoses only. *(Heads up: this site may earn a commission on purchases through Amazon links.)*
 
 ---
 

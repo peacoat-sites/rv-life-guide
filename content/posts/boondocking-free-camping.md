@@ -132,27 +132,6 @@ Whatever you're driving, a [surge protector](https://www.amazon.com/s?k=rv+surge
 
 ---
 
-## FAQ
-
-### Is boondocking legal everywhere on BLM land?
-
-Not automatically. Most BLM land allows dispersed camping, but some areas are restricted, closed seasonally, or require a permit. Always check the BLM's website for the specific field office managing the land you plan to visit, and look for any posted signage when you arrive. Areas near popular recreation zones, wilderness boundaries, and some sensitive desert areas have specific rules.
-
-### How long can you stay in one boondocking spot?
-
-The standard limit on BLM and National Forest land is 14 consecutive days. After that, you're required to move at least 25 miles (on BLM land) before returning to the same area. Some specific areas, like the Quartzsite Long Term Visitor Area, allow stays of up to seven months with a seasonal permit that costs around $180.
-
-### Do I need a four-wheel drive vehicle to boondock?
-
-Not always. Many excellent boondocking spots are accessible on well-graded dirt roads that a two-wheel drive truck or toad can handle. However, high clearance does matter. A travel trailer or Class A with low ground clearance will be limited to better-maintained roads. The more remote and scenic spots often do require 4WD or high clearance, so your access to the best locations expands significantly with a capable tow vehicle.
-
-### What do I do if I need cellular service while boondocking?
-
-Most boondocking areas have limited or no cell service, and that's part of the point for many people. If you need connectivity for work, a multi-carrier signal booster like a WeBoost Drive X RV combined with a cell plan that includes hotspot data from both Verizon and AT&T covers roughly 85-90% of BLM land near civilization. Starlink's RV plan is the other option, at around $150/month for portable service that works almost anywhere with a clear sky view.
-
-### Is boondocking safe? What about being remote and alone?
-
-The realistic risk of boondocking is much lower than most people assume. Millions of people do it every year without incident. Basic precautions include telling someone your planned location and a check-in schedule, keeping a satellite communicator like a Garmin inReach for emergencies, and using good judgment about obviously sketchy areas. BLM parking areas near cities do attract occasional nuisance activity, but remote dispersed sites on public land are generally very safe.
 
 ---
 

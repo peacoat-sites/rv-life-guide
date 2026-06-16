@@ -100,27 +100,6 @@ The first six months on the road, don't try to grow your income. Just protect wh
 
 ---
 
-## FAQ
-
-### How much should I have saved before going full-time?
-
-Six months of your full projected expenses minimum, not counting your rig purchase. If your monthly budget is $4,500, that's $27,000 liquid before you leave. This isn't paranoid; it's the cushion that lets you survive a slow client month or a surprise repair without making panicked decisions.
-
-### Can I really get reliable enough internet to work remotely from an RV?
-
-Yes, but you have to invest in the setup and be honest about your route. A dual-carrier cellular setup with a quality router like the Pepwave MAX BR1 Pro or Netgear M6 handles most office-type work reliably. You won't have perfect coverage everywhere, but you can plan around the gaps.
-
-### Is it legal to work remotely while traveling between states?
-
-For freelancers and self-employed people, generally yes, with some tax complexity. For W2 employees, it depends heavily on your employer's HR policies and your employment contract. Some states trigger tax obligations after 15-30 days of presence; others use different thresholds. Talk to a CPA who works with nomads before assuming it's fine.
-
-### What's the easiest income stream to start while still at home?
-
-Freelance writing or virtual bookkeeping, in my experience. Both have low startup costs, platforms like Upwork or direct outreach can get you first clients without much infrastructure, and neither requires specialized equipment. Writing income is more variable; bookkeeping income is stickier once you have retainer clients.
-
-### Do campgrounds have good enough wifi to work from?
-
-Mostly no. Treat campground wifi as a backup for light tasks only. For any work that matters, budget for your own cellular data plan. It's not optional if you're working full-time.
 
 ---
 

@@ -100,29 +100,6 @@ This is the practical stuff. None of it is complicated, but it requires some leg
 
 7. **Consider higher deductibles on older rigs.** If your rig's agreed or actual cash value is under $40,000, paying $800 a year for comprehensive and collision with a $500 deductible may not pencil out. Do the math on how many years of premiums equal a likely claim.
 
-## FAQ
-
-### How much does RV insurance cost per year for a full-timer?
-
-The honest range is wide: $1,200 on the low end for a smaller, older Class C or travel trailer with minimal personal property coverage, to $5,000 or more for a high-value Class A diesel pusher with full-timer endorsements, high personal property limits, and agreed value coverage. Most full-timers I've talked to land somewhere between $1,800 and $3,200 annually.
-
-### Do I really need a full-timer endorsement if I just live in my RV most of the time?
-
-Yes, and this is not a gray area. If you're living in your RV more than roughly 150 days a year (exact thresholds vary by carrier), you are typically required to disclose this. Filing a claim under a recreational policy while living full-time in the rig can result in a denied claim. That's a catastrophic outcome when your home is involved.
-
-### Will my regular auto insurance cover my RV?
-
-Standard auto insurance covers cars and trucks. It will not cover your motorhome or travel trailer beyond very basic liability in some cases. You need a separate RV-specific policy. If you tow a car behind your Class A on a tow dolly or four-down, ask both your RV insurer and auto insurer exactly how that towed vehicle is covered in motion.
-
-### What's the difference between agreed value and actual cash value for an RV?
-
-Agreed value means you and the insurer set a specific dollar amount when the policy is written. If there's a total loss, that's what you get, no depreciation argument. Actual cash value means the insurer determines the market value at the time of the claim, accounting for depreciation. On a 10-year-old rig that you paid $75,000 for, actual cash value might come back at $32,000. For full-timers, this distinction can be the difference between getting back on the road or not.
-
-### Can I insure a van conversion or DIY build?
-
-Yes, but it takes more effort. Roamly and a handful of specialty brokers handle van conversions and self-builds. You'll likely need documentation of the build, photos, and potentially an appraisal. Standard carriers often decline or severely limit coverage on non-manufacturer-built units. Shop specifically for carriers experienced with conversions, and don't understate the value of your build to save on premiums. That's a gamble you'll lose.
-
-Six years in, I still review my policy every single renewal. Rates shift, my rig changes, and what I carry inside it changes. The year I added 400 watts of solar and a lithium battery bank I increased my personal property coverage by $8,000. Cost me an extra $60 a year. That's the kind of adjustment that's easy to skip until you need it. Don't skip it.
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

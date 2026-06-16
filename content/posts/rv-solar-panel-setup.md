@@ -116,27 +116,6 @@ What surprised me when I started connecting with other full-timers was how often
 
 ---
 
-## FAQ
-
-### How many solar panels do I need to run a full-time RV?
-
-It genuinely depends on your consumption and whether you use AC, but for a full-time liveaboard without heavy air conditioning use, 400-600 watts of panels paired with 200Ah of LiFePO4 storage is a reasonable starting point. People running air conditioners on solar need 1,500+ watts and substantial battery storage, and even then it's tight without a generator backup.
-
-### Can I add solar panels to a 30-amp RV?
-
-Yes. Your shore power amperage has nothing to do with your solar capacity. Solar charges your battery bank directly. The two systems are separate, though they both feed your electrical loads.
-
-### Will solar panels charge my batteries while driving?
-
-Your alternator charges your batteries while driving, not your solar panels. Some converters and smart battery isolators can help optimize that alternator charging. Solar only works when parked with adequate sunlight exposure.
-
-### What's the difference between grid-tie and off-grid solar for RVs?
-
-RV solar is almost always off-grid solar. Grid-tie systems (common in homes) feed excess power back to the utility grid, which isn't relevant when you're parked in a desert in Utah. Off-grid systems store excess energy in your battery bank instead.
-
-### Do I need a permit to install solar panels on my RV?
-
-The research here is genuinely mixed depending on your state and campground. Most solar installations on RVs don't require permits the way residential installs do. Some campgrounds, particularly HOA-managed ones or seasonal parks, have appearance rules that may affect external installations. If you're in a permanent or semi-permanent spot, check local rules before you start drilling.
 
 ---
 

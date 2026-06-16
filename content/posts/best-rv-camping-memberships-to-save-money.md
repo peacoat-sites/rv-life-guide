@@ -86,27 +86,6 @@ The key is matching memberships to your actual travel pattern, not the hypotheti
 
 ---
 
-## FAQ
-
-### Is Thousand Trails worth buying for full-timers?
-
-It depends entirely on your travel geography. If you camp frequently in the Pacific Northwest, California, the Southwest, or the mid-Atlantic corridor where they have strong park clusters, it's an excellent value. If you roam widely across the South and Midwest, you'll struggle to justify the annual fee. Map their parks against your actual routes before committing.
-
-### Can I use multiple RV memberships at the same time?
-
-Yes, and you should. Most experienced full-timers stack two or three memberships because they cover different park networks. Passport America and Thousand Trails don't significantly overlap, so using both makes sense if your camping volume supports it. There's no conflict between any of the major programs.
-
-### Does Passport America work at KOA campgrounds?
-
-No. KOA runs its own loyalty program (KOA Rewards, $30/year), which gives 10% off at their locations. Passport America and KOA are entirely separate networks. If you stay at KOA frequently, their program is worth having, though I'll be honest, the price-per-night at KOA even after a 10% discount is rarely the best value on the market.
-
-### What's the best membership for occasional RVers who only camp 20-30 nights per year?
-
-At that volume, Passport America is probably the only one that makes mathematical sense. Harvest Hosts could also work well if you're self-contained and enjoy unique stops. Skip Thousand Trails entirely unless you can identify specific parks you'll use repeatedly.
-
-### Are any of these memberships transferable if I sell my RV?
-
-Some are, some aren't. Good Sam is tied to a person, not a rig. Thousand Trails memberships can sometimes be transferred depending on the membership type; the older legacy memberships are transferable and actually sell on eBay. Passport America is personal. Always check the transfer policy before buying, especially for anything over $200, because a non-transferable membership is a real hit when you're changing rigs or leaving the lifestyle.
 
 ---
 

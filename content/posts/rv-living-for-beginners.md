@@ -128,27 +128,6 @@ The Instagram version of this life skips the part where you're sitting in a Crac
 
 ---
 
-## Frequently Asked Questions
-
-### How much money do I need saved before starting full-time RV life?
-
-Beyond the cost of your rig, plan on having at least $10,000 in liquid savings before you leave. This covers the inevitable first-year surprises: repair bills, higher-than-expected campground costs, gear you didn't know you needed, and the learning curve tax. If you're working remotely and have steady income, you can get by with less cushion, but less than $5,000 leaves you in a fragile position.
-
-### Can I really work remotely from an RV?
-
-Yes, and millions of people do. The key variables are your internet reliability strategy and how disciplined you are about setting work hours in a small space. A dual-carrier cellular setup plus Starlink as backup covers most of the country. The harder part is focus: when you're parked in Zion National Park and your family wants to hike, working feels impossible. Build structure into your day or the lifestyle will eat your productivity.
-
-### What's the hardest part of full-time RV living that nobody warns you about?
-
-The loneliness is real, especially in the first year. You leave your community, your routines, your neighborhood. The RV community is warm and generous, but it's transient. People you meet on Tuesday are gone by Friday. Building meaningful ongoing friendships takes deliberate effort: rally events, online communities like Escapees or RVillage, or finding a slow travel rhythm where you stay in one area for a month at a time.
-
-### How do I handle my kids' education on the road?
-
-Hundreds of families do this successfully. The two main options are an accredited online curriculum (Connections Academy and K12 are both free and widely accepted) or formal homeschooling through your legal domicile state's requirements. Many families find the road itself is one of the best educations: national parks, historical sites, working farms, and different regional cultures are not abstract when you're living in the middle of them.
-
-### Is it safe to park overnight in random places?
-
-Mostly, yes, with common sense applied. BLM land and dispersed national forest camping are legal and generally safe. Urban overnight parking is more variable. Use apps like iOverlander, FreeRoam, and Campendium to see where others have successfully parked and whether they felt safe. Trust your gut when a spot feels wrong. Park with sight lines. Keep your doors locked. In six years and over 90,000 miles, I've had zero safety incidents, but I also don't park in places that feel sketchy just to avoid paying $35 for a campsite.
 
 ---
 

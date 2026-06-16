@@ -86,27 +86,6 @@ The 14-day limit is also enforced more actively in some areas than others. I'm n
 
 ---
 
-## Frequently Asked Questions
-
-### Do you need a permit to camp on BLM land?
-
-Most dispersed camping on BLM land is free and requires no permit, but some areas like the Quartzsite LTVA require a fee permit for stays over 14 days. Always check with the local BLM field office or the LandMapper tool online before heading to a new area, because rules change and some regions have introduced day-use or camping fees in recent years.
-
-### Is BLM land safe for solo campers?
-
-Honestly, I've felt safer solo camping on remote BLM land than in some crowded campgrounds. The bigger risks are practical ones: vehicle breakdowns miles from cell service, flash floods in slot canyon areas, and underestimating heat in summer desert regions. Tell someone your itinerary, carry extra water and food, and consider a Garmin inReach satellite communicator if you're going deep.
-
-### Can you have a campfire on BLM land?
-
-In many areas yes, but fire restrictions change seasonally and can go into effect with almost no notice during dry periods. During most of the summer across the Southwest, you're looking at Stage 1 or Stage 2 fire restrictions that prohibit or severely limit campfires. Check current restrictions at campfirepermit.org or the local field office before you plan around a fire.
-
-### What's the closest BLM boondocking to a major city for a first trip?
-
-For people in Southern California, the BLM land near Borrego Springs and the Anza-Borrego area (specifically the areas just outside the state park boundaries) is accessible and relatively forgiving. For Phoenix, the Wickenburg-area BLM land is close and well-suited to beginners. Both have enough infrastructure nearby that you're not completely on your own if something goes wrong.
-
-### Can I camp anywhere on BLM land, or are there restricted areas?
-
-Not anywhere. Areas with active mining claims, lands managed specifically for wildlife corridors, and some parcels adjacent to national parks have restrictions. The BLM also periodically closes areas for revegetation or archaeological site protection. The golden rule is to check the Gaia GPS ownership layer, verify you're on General Public Lands (not wilderness or specially designated areas), and when in doubt, call the field office.
 
 ---
 

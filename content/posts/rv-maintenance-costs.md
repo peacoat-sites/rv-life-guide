@@ -131,27 +131,6 @@ Getting a [used vs. new RV comparison](/new-vs-used-rv-buying/) is worth your ti
 
 ---
 
-## Frequently Asked Questions
-
-### How much should I budget for RV maintenance per month?
-
-A reasonable starting point is 1% to 2% of your RV's purchase price per year in maintenance costs, divided monthly. A $60,000 travel trailer might cost $600 to $1,200 annually, or $50 to $100 per month. Older or higher-mileage rigs should lean toward the higher end of that range.
-
-### What's the most expensive thing to repair on an RV?
-
-Roof and water damage is consistently the most expensive repair category. A delaminated sidewall from prolonged moisture intrusion can cost $8,000 to $20,000 to fix properly. Slideout frame damage and diesel engine work are close runners-up. All three are preventable with regular inspection and timely maintenance.
-
-### How often should I reseal my RV roof?
-
-Inspect every six months. Apply fresh lap sealant to any cracked, peeling, or compromised seams immediately regardless of schedule. Most EPDM rubber roofs benefit from a conditioning treatment with a product like 303 Aerospace Protectant two to four times per year to prevent cracking and oxidation.
-
-### Is an RV extended warranty worth the cost?
-
-It depends on the rig and coverage terms. On diesel coaches over five years old with high component replacement costs, a warranty can pay for itself in a single repair event. On newer gas rigs still under the original manufacturer warranty, the overlap often makes an extended warranty a poor value. Always read the exclusions list carefully. Many exclude "wear items" like seals, belts, and brake pads that account for a lot of actual repair costs.
-
-### Can I do my own RV maintenance to save money?
-
-Absolutely, and most experienced full-timers do exactly that for the majority of preventive tasks. Roof sealing, water system maintenance, generator service, lubrication, and filter changes are all well within reach of a DIY-capable owner. Work that involves propane systems, chassis brakes, or structural repairs is best left to certified technicians for safety and liability reasons.
 
 ---
 

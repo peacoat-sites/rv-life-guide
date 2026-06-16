@@ -103,28 +103,5 @@ Used RV financing can be trickier. Some lenders won't finance rigs older than 10
 
 Don't forget ongoing costs in your math: campground fees or memberships, fuel, propane, insurance (figure $1,500 to $3,000 per year for a mid-range motorhome), maintenance (budget 2 to 3 percent of the rig's value annually), and eventually, tires. A set of six tires on a Class A is $2,000 to $4,000 installed. That bill comes every five to seven years whether you want it to or not.
 
-## FAQ
-
-### Is it ever smart to buy a brand-new RV from a dealer?
-
-Yes. If you're buying a class of rig that's known for solid build quality (Airstream trailers and some high-end brands like Tiffin or Newmar have better reputations than the big-box manufacturers), if you plan to use it heavily and want the warranty protection, or if you're financing and want the cleanest possible title history, new can make sense. Just go in with eyes open about depreciation.
-
-### What years and mileage should I target when buying a used motorhome?
-
-A motorhome between three and eight years old with under 50,000 miles is generally a sweet spot. You're past the worst depreciation, but most major mechanical systems still have plenty of life. That said, condition matters more than age or mileage. A well-maintained 12-year-old coach beats a neglected 4-year-old one every time.
-
-### Should I buy from a dealer or private party?
-
-Both have trade-offs. Dealers often offer financing and some recourse if something goes wrong, but their prices are higher and they're motivated to sell fast. Private sellers are cheaper but you have less protection. In either case, the independent inspection is what protects you. Dealer warranty language on used units is often near-useless, so don't let that be the reason you pay a premium.
-
-### How much should I budget for repairs in the first year of used RV ownership?
-
-Assume 10 percent of the purchase price, especially on anything over five years old. If you buy a $30,000 fifth wheel, have $3,000 sitting ready. You might not touch it. Or you might spend every dollar of it. Having it available means the first unexpected repair doesn't derail your plans or your bank account.
-
-### Is buying new worth it just to get the latest floorplan designs?
-
-Floorplans do improve over time, and some newer coach designs have genuinely better layouts than what was available five or eight years ago. But I'd argue it's rarely worth paying a 30 percent premium purely for a layout. Check if the floorplan you love is available in a three or four-year-old model year. Often it is, or something close to it, at a fraction of the cost.
-
-The right answer here is personal, and anyone who tells you otherwise is either selling something or hasn't spent enough nights dealing with a broken slide in a Walmart parking lot to know what matters. Get the inspection. Know your numbers. Buy the rig that fits your real life, not your fantasy version of RV life. Those two things are sometimes the same rig, but they're often not.
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

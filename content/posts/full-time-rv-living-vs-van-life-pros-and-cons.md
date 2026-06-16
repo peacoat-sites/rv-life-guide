@@ -100,27 +100,6 @@ That's not a dealbreaker for van life. Just something to factor in if you're the
 
 ---
 
-## FAQ
-
-### Can I work remotely from either a van or an RV full-time?
-
-Yes, people do it in both, but an RV is generally easier because you can separate your workspace from your sleep space and you typically have better electrical capacity for running monitors, lighting, and charging multiple devices. In a van you'll need to be more intentional about your setup, and a dedicated power system (400+ watts solar, 100Ah+ lithium) isn't optional if you're billing real hours.
-
-### Which is better for full-timing with a partner or family?
-
-An RV, without much debate. Two adults in a van full-time is doable with the right relationship and personalities, but one sick day or one argument and that 80 square feet feels like a jail cell. Families with kids in a van is possible but I've seen it create serious strain. A 30+ foot fifth wheel or Class A gives you the breathing room that saves relationships.
-
-### How do I handle mail and my address living in either?
-
-This is the same problem regardless of vehicle. Most full-timers use a mail forwarding service like Traveling Mailbox ($15 to $30/month), America's Mailbox, or Escapees. You'll also want to establish residency in a state with no income tax and favorable vehicle registration rules -- South Dakota, Texas, and Florida are the most popular choices for this.
-
-### Is van life actually cheaper than full-time RV living?
-
-It can be, but it's not automatic. The lower campground costs from stealth camping and dispersed public land camping are real, but van repair costs (especially European vans like Sprinters) can be brutal. Over a five-year period, the total costs often end up closer than people expect. Your actual savings depend heavily on how much free camping you can realistically access.
-
-### What's the biggest mistake people make choosing between the two?
-
-Choosing based on aesthetics instead of their actual daily life. If you work a demanding remote job, cook real food, live in a climate with weather extremes, or have any chronic health stuff that requires space and comfort, the van is going to fight you. If you're young, healthy, flexible, and genuinely love minimalism as a practice and not just a concept, the van experience is legitimately rewarding. Be honest about which person you actually are, not which person you want to be.
 
 ---
 

@@ -116,27 +116,6 @@ If you're still sorting out which RV type actually fits your situation and tow v
 
 ---
 
-## Frequently Asked Questions
-
-### What's the difference between towing capacity and payload capacity?
-
-Towing capacity is the maximum weight your vehicle can pull behind it. Payload capacity is how much weight the vehicle can carry on its own frame, including passengers, cargo, and the downward force of the trailer's tongue or pin weight. Both limits apply simultaneously, and in practice, payload is often the first one you'll exceed.
-
-### Can I exceed my tow rating if I drive slowly?
-
-No. The tow rating isn't a speed-dependent limit. It reflects the structural and mechanical limits of your vehicle's frame, axles, brakes, transmission, and cooling systems. Exceeding it at any speed creates risk and can void your vehicle's warranty.
-
-### How do I find my truck's actual payload capacity?
-
-Look at the yellow sticker inside the driver's door jamb. It will list "Combined Weight of Occupants and Cargo." That number is specific to your truck's actual build and may differ from what's advertised for the model in general.
-
-### Does a weight distribution hitch increase my towing capacity?
-
-No, but it does redistribute tongue weight across all axles, which improves control and may bring your setup within safe axle limits. Some manufacturers specify that their tow ratings assume a weight distribution hitch is in use for trailers above a certain weight.
-
-### Should I use the trailer's dry weight or GVWR when running the numbers?
-
-Always use the trailer's GVWR (Gross Vehicle Weight Rating) as your planning number, not the dry weight. Your tow vehicle needs to handle the trailer at its maximum loaded capacity. If the GVWR is close to or exceeds your limits, you're in a precarious position regardless of how light you actually pack.
 
 ---
 

@@ -90,27 +90,6 @@ If you're leaving a job with a specific salary and jumping to freelance at the s
 
 ---
 
-## FAQ
-
-### What's the best remote job for someone with no tech background?
-
-Bookkeeping, copywriting, and virtual assistance are three realistic entry points. Bookkeeping especially can be self-taught through free resources and the QuickBooks certification program in a few months. Virtual assistance pays less ($15-$30/hour typically) but has a low barrier to entry and flexible hours.
-
-### Do I need to tell my employer I live in an RV full-time?
-
-Not necessarily, but you do need to disclose your state of domicile for tax withholding purposes. Some remote-friendly employers don't care where you physically are as long as your legal address is in a state where they can run payroll. Others have policies against employees living outside a specific region. Read your contract carefully and ask HR directly if it's unclear.
-
-### How much internet speed do I actually need to work remotely?
-
-For most remote jobs, 25 Mbps download and 10 Mbps upload is workable. Video calls (Zoom, Google Meet) run fine at 5 Mbps but you'll want headroom. If you're uploading large files or on video all day, aim for 50 Mbps upload. Starlink's typical speeds are more than sufficient; the issue is latency in some satellite positions and occasional outages in heavy weather.
-
-### Can I do remote work while boondocking, or do I need campground hookups?
-
-You can, but it requires planning. Starlink plus a solid solar setup handles the connectivity and power side. I know full-timers who boondock 90% of the time while working, but they've invested $2,000-$4,000 in solar, batteries, and connectivity gear. [A reliable surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlife-20) matters too once you do plug in at campgrounds with sketchy power quality. (Affiliate link.)
-
-### Is remote work from an RV actually sustainable long-term, or do people burn out?
-
-Both happen. People who struggle usually underestimate how much self-discipline async work requires without an office structure, or they pick jobs with too much real-time availability pressure. People who thrive tend to have clearly defined work hours, reliable internet infrastructure, and jobs that genuinely flex around travel. Eight years in, I'm still doing it -- but I've also made every mistake I described above at least once.
 
 ---
 

@@ -132,27 +132,6 @@ For a deeper look at the full-time living picture, including costs and logistics
 
 ---
 
-## Frequently Asked Questions
-
-### Can I tow a fifth wheel with a half-ton truck?
-
-Yes, but the short answer comes with conditions. A half-ton truck can handle lightweight fifth wheels in the 10,000-13,000 lb range if the payload rating is sufficient. The problem is most half-ton trucks have payload ratings that barely cover the king pin weight of a mid-size fifth wheel once you add passengers and gear. Check the door jamb sticker, not the marketing materials.
-
-### What's the difference between towing capacity and payload when it comes to fifth wheels?
-
-Towing capacity is the maximum weight your truck can pull behind it. Payload is how much weight the truck can carry on itself, including the pin weight transferred from the trailer. For fifth wheels, both numbers matter equally. Many people focus only on towing capacity and completely overlook payload, which is actually the more commonly exceeded limit.
-
-### Is a diesel truck worth the extra cost for fifth wheel towing?
-
-For full-timers or heavy travelers, yes. The torque advantage makes a real difference in mountainous terrain, and diesel engines typically last longer under the sustained load of towing. For occasional RVers, a capable gas-powered 3/4-ton or 1-ton truck may be more cost-effective when you factor in purchase price and maintenance.
-
-### Does bed length matter when towing a fifth wheel?
-
-Yes, but mainly for clearance. When turning sharply, the fifth wheel's overhang can strike the back of the cab on a short bed (5.5 ft). Most hitch manufacturers sell extended pin boxes or sliding hitches to solve this, but it adds cost and weight. A standard 6.5-8 ft bed avoids the problem entirely.
-
-### How much does a good fifth wheel hitch cost?
-
-Plan on $800-$1,500 for a quality hitch from B&W, PullRite, or Lippert. Fifth wheel hitches are not a place to cut corners. A [B&W Companion hitch](https://www.amazon.com/s?k=fifth+wheel+hitch+BW+companion&tag=rvliving-20) is widely considered the benchmark for fit and durability. Installation typically adds $150-$300 at a shop if you're not doing it yourself. *(This site may earn a commission on purchases.)*
 
 ---
 

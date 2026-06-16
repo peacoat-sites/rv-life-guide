@@ -117,27 +117,6 @@ One thing that surprises most people: after about 5,000 miles, an RV starts to f
 
 ---
 
-## Frequently Asked Questions
-
-### Do I need a special license to drive an RV?
-
-In most U.S. states, no. A standard Class C driver's license covers most motorhomes up to 26,000 pounds GVWR. A handful of states, including California, require a non-commercial Class B license for motorhomes over a certain weight. Always check the specific rules in your state before buying a rig. If you're looking at something like a large Class A diesel pusher, verify the GVWR and check state requirements.
-
-### How long does it take to feel comfortable driving an RV?
-
-Most people feel reasonably confident after 500 to 1,000 miles of varied driving. Backing consistently into sites takes longer, usually 30 to 50 practice sessions before it feels controlled rather than lucky. Attending an RV driving school can compress that timeline significantly.
-
-### Is it easier to drive a Class B van than a Class A motorhome?
-
-Yes, considerably. A Class B camper van drives almost exactly like a large cargo van. You can park it in a regular parking lot, fill up at any gas pump, and take it through a drive-through. If you're nervous about handling, our guide to the [best Class B vans for full-time living](/best-class-b-van-for-full-time/) is worth a read before you commit to a larger rig.
-
-### What should I do if I make a mistake while driving?
-
-Pull over safely and breathe. Seriously. Most mistakes look worse in the moment than they actually are. If you've bumped something, stay calm, assess the damage, and document it for insurance. Don't let one bad moment spiral into a bigger one by making rushed decisions. Every experienced RVer has a story about something they did in year one that they laugh about now.
-
-### How do I practice backing up a trailer?
-
-Start in an empty parking lot with cones. The key insight: when backing a trailer, you steer in the opposite direction you want the trailer to go. Turn the wheel right and the trailer goes left. Practice in short sessions, 20 minutes at a time, so frustration doesn't set in. Once you have the concept, move to longer practice runs. A backup camera helps enormously here too.
 
 ---
 

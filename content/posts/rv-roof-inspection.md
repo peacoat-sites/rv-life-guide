@@ -92,26 +92,5 @@ A [good surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvpub
 
 ---
 
-## FAQ
-
-### How often should I reseal my RV roof?
-
-Plan to reseal all penetrations and seams once a year if you're full-timing or parking in intense UV environments. In milder climates with covered storage, every 18 to 24 months may be enough. The condition of the existing sealant matters more than the calendar, so inspect first and let what you find drive the schedule.
-
-### Can I walk on my RV roof?
-
-It depends on the roof design and the age of the substrate. Many rigs, especially those with EPDM over luan plywood, aren't designed to support a person's weight concentrated in one spot. Use plywood distribution boards to spread your weight, and always check your owner's manual for the manufacturer's guidance before getting up there.
-
-### What's the best sealant for RV roof repairs?
-
-There's no single answer because the right product depends on your roof membrane type. Dicor lap sealant works well on EPDM roofs. TPO roofs need a TPO-compatible product. Using silicone on any flexible membrane is generally a mistake. When in doubt, call the manufacturer of your roofing material and ask what they recommend.
-
-### How do I know if my RV roof is already leaking?
-
-The most obvious signs are water stains or soft spots on interior ceiling panels, a musty smell that doesn't go away, and visible discoloration or bubbling on walls near the ceiling. What's tricky is that the entry point is often nowhere near where the damage shows up inside, because water travels along framing before it soaks in.
-
-### How much does a professional RV roof inspection cost?
-
-It varies by region and shop, but expect $100 to $250 for a dedicated inspection at an RV service center. Some dealers offer it as part of a seasonal service package. If you're buying a used RV, paying for an independent inspection from an NRVIA-certified inspector is money very well spent. I've seen inspectors catch $15,000 in roof damage on a rig that was priced as if it were clean.
 
 *Photo: [Osmany Mederos](https://www.pexels.com/@osmany-mederos-211956483) via Pexels*

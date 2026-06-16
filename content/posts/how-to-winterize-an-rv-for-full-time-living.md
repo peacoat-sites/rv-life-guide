@@ -100,27 +100,6 @@ A battery monitor is non-negotiable if you're off-grid. The Victron SmartShunt (
 
 ---
 
-## FAQ
-
-### Can I use RV antifreeze in my lines while still living in the rig full-time?
-
-Not really. RV antifreeze is non-toxic but it tastes awful, and flushing it completely out of your lines and pump takes time and a lot of water. If you're going to be away from the rig for more than a week in freezing temps, antifreeze in the lines is the right call. If you're living there, keep the lines warm with heat tape and a heated hose instead.
-
-### How cold is too cold to full-time in an RV?
-
-I've personally lived comfortably in sustained lows of -10°F in a well-skirted, heated rig. It takes work and attention, but it's doable. The bigger issue below -20°F is propane itself: it stops vaporizing properly below about -44°F in standard tanks, but you'll have pressure issues with vaporization well above that in very cold weather. Most full-timers I know who winter in serious cold are in the Intermountain West, not the deep north.
-
-### What's the single most important thing to winterize that people skip?
-
-The water inlet connection and the first 18 inches of hose or pipe inside the exterior hookup. That point is exposed to full wind chill and freezes faster than anything else in your system. A heated hose that stops right at the rig's exterior port, with no insulation on the inside connection, is still going to freeze at the coupling. Wrap it, heat it, and insulate the bay door.
-
-### Should I leave my gray tank open or closed in winter?
-
-Closed. Always. Leaving a gray tank valve open in freezing weather is a reliable way to create an ice dam that will eventually block or crack your drain. Dump when the tank is 2/3 full, and do it during the warmest part of the day if temps are marginal.
-
-### Do I need a whole new furnace for winter full-timing, or will my stock furnace work?
-
-Your stock furnace will work, but you need to have it inspected and cleaned before the season. A dirty furnace with a partially blocked heat exchanger or flue is both inefficient and a CO risk. Mobile RV techs will typically clean and inspect a furnace for $75-150. Worth it every year.
 
 ---
 

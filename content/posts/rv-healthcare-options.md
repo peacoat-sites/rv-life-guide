@@ -100,27 +100,6 @@ For the bigger financial picture of what full-time RV life actually costs month 
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use my current employer health insurance while living full-time in my RV?
-
-Yes, as long as you're still employed. The bigger question is whether your plan has a national network. Ask your HR department specifically whether the plan covers out-of-state non-emergency care. Many employer PPO plans through large carriers do have national access, which makes them surprisingly compatible with full-time travel. If it's an HMO, you'll likely have coverage problems outside your home network except in emergencies.
-
-### What happens if I have a medical emergency in a rural area with no nearby hospitals?
-
-Emergency care is covered by essentially all insurance plans regardless of network. Even strict HMO plans are required to cover emergency stabilization anywhere in the country. The challenge comes with follow-up care, which may not be covered out-of-network. Having a telehealth provider you can reach after the initial emergency helps bridge that gap and guides next steps.
-
-### Is health sharing a legitimate alternative to traditional insurance for full-timers?
-
-It works for many people, but it's not the right fit for everyone. If you have pre-existing conditions, take expensive medications, or would struggle financially with a large uncovered claim, traditional insurance is probably the safer choice. If you're healthy, financially stable, and willing to accept some uncertainty, many full-timers report good experiences with health share organizations. Read the membership guidelines in detail before signing up.
-
-### How do I handle prescriptions when I'm constantly moving to new states?
-
-Use a national pharmacy chain and set up a mail-order option for 90-day supplies of maintenance medications. GoodRx and similar discount programs can cut costs dramatically for generic drugs, sometimes below your insurance copay. For controlled substances, be aware that some states have stricter transfer rules. Having a telehealth provider or DPC doctor who can send prescriptions electronically to any state pharmacy solves most prescription logistical headaches.
-
-### Do I really need a domicile state if I'm just traveling part of the year?
-
-If you still maintain a home base and spend more than six months in one state, that state is likely still your legal domicile. The domicile question becomes critical when you sell your home and go fully mobile. At that point, you need to formally establish residency somewhere. Skipping this step creates real problems with insurance enrollment, voting, driver's license renewal, and taxes.
 
 ---
 

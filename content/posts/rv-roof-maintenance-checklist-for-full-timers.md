@@ -115,27 +115,6 @@ Mountain or northern climate: Freeze-thaw cycles are brutal on sealant. Water th
 
 ---
 
-## FAQ
-
-### How often should a full-timer actually clean and inspect their RV roof?
-
-Every 60 to 90 days for a physical inspection and every 90 to 120 days for a full clean, adjusted for your climate. Full-timers cover more miles and park in more varied conditions than weekenders, so quarterly minimums aren't conservative, they're realistic.
-
-### Can I walk on my RV roof without damaging it?
-
-Most RV roofs are designed to handle a person's weight if you step on structural members like rafters and cross braces, not on decking spans in between. Move carefully, keep your weight distributed, and avoid the areas directly above skylights or thin ceiling panels. When in doubt, use a section of plywood to spread your weight.
-
-### What's the best sealant for an EPDM rubber roof?
-
-Dicor Self-Leveling Lap Sealant on horizontal surfaces and Dicor Non-Sag on vertical surfaces. These are the workhorses. They bond well to EPDM, remain flexible through temperature swings, and have a proven track record over decades of real-world use.
-
-### How do I find a leak that's showing up inside but has no obvious source on the roof?
-
-Start at the highest and most upwind penetration above the interior stain, not directly above it. Water enters at one point and tracks along rafters or decking before dripping down. With a helper inside watching the ceiling, run a garden hose methodically from the back of the roof forward, pausing two to three minutes at each vent and seam. This is tedious but usually locates the source within an hour.
-
-### Is it worth paying a shop to do roof maintenance or can I do it myself?
-
-You can absolutely do this yourself, and honestly, you'll catch problems faster because you're up there more often than any shop would put eyes on it. The skills required are minimal. The materials for a full inspection, clean, and reseal run $60 to $150. The only time I'd recommend a shop is for a full membrane replacement or significant decking repair, because those jobs require equipment and temporary structural support that's impractical on the road.
 
 ---
 

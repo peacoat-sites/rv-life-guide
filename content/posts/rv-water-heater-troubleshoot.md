@@ -92,27 +92,6 @@ Also: if your water heater is taking forever to produce hot water or you're cons
 
 ---
 
-## Frequently Asked Questions
-
-### How do I reset my RV water heater?
-
-Most RV water heaters have an ECO (energy cutoff) switch that trips when the unit overheats. Look for a small button on the exterior of the unit, usually accessible from the outside access panel, or from inside the RV near the tank. Press it firmly until you feel a click. If it trips repeatedly, you have an underlying problem, usually a failed thermostat or running the heater dry.
-
-### Why is my RV water heater making a popping or rumbling sound?
-
-Sediment buildup on the bottom of the tank is almost always the cause. Mineral deposits from hard water accumulate over time and cause that noise as water heats underneath them. Flushing the tank a couple times and in stubborn cases using a tank cleaning wand can help, but on heavily scaled tanks the damage to the element or tank lining may already be done. This is more common in steel-tank Suburban units.
-
-### How long should an RV water heater take to heat up?
-
-A typical 6-gallon RV water heater on propane should reach usable temperature in 20-30 minutes from cold. On electric only, expect 45-60 minutes. If it's taking significantly longer, suspect a partially blocked burner tube, a weak element, or a thermostat issue. A tankless RV water heater (like the Girard GSWH-2) heats on demand and has no warm-up wait, which is one reason fulltimers increasingly prefer them.
-
-### Can I use my RV water heater without an anode rod installed?
-
-Not in a Suburban unit, no. The anode rod is sacrificial protection for the steel tank. Running without it accelerates tank corrosion significantly. You might get away with it short-term, but you're gambling with the tank itself. Atwood/Dometic units don't use anode rods (aluminum tank), so this only applies if you've got a Suburban.
-
-### Why does my RV water heater work on propane but not electric, or vice versa?
-
-The propane and electric heating systems in a combination unit are almost entirely independent. They share a tank but have separate controls, thermostats, and heating components. If one mode works and the other doesn't, the failure is isolated to that side. For electric-only failure, check the element, the high-limit switch, and your shore power connection. For propane-only failure, work through the ignition sequence: gas supply, electrode, burner tube, sail switch, control board.
 
 ---
 

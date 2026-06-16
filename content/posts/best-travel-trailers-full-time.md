@@ -120,27 +120,6 @@ That's $1,460 to $3,230 per month in operating costs before food, health insuran
 
 ---
 
-## FAQ
-
-### How long does a travel trailer last with full-time use?
-
-With consistent maintenance and good build quality, a well-made trailer should give you 7 to 12 years of full-time use. Budget brands pushed hard often show serious wear by year 4 or 5. Airstreams and Lance trailers consistently outperform the average. Annual roof inspections and immediate sealant repairs when needed extend life more than almost anything else.
-
-### What's the minimum length that works for a couple living full-time?
-
-Realistically, 28 feet is the practical floor for two people without going stir-crazy. It gives you enough separation between sleeping and living space. Some couples live happily in 24-foot trailers, but you'll spend a lot of time outside to compensate. Length over 35 feet gets harder to maneuver in older campgrounds and many national forest sites.
-
-### Is a single-slide trailer better than a multi-slide for full-time living?
-
-Not necessarily. Slides add living space, but every slide is a mechanical system that can fail, a seam that can leak, and an extension that takes time to deploy and retract. One well-designed slide in a living area is a good trade-off. Three or four slides adds complexity without proportional benefit for most full-timers.
-
-### Do I need a full-time use provision in my RV insurance policy?
-
-Yes. Standard RV insurance policies often explicitly exclude full-time habitation. You need a policy with full-timer coverage, which typically adds liability protection similar to a homeowner's policy. National General, Progressive, and Good Sam all offer full-timer policies. Expect to pay $1,500 to $2,500 annually for comprehensive coverage.
-
-### What's the hardest part of living in a travel trailer full-time that nobody talks about?
-
-Mail and domicile. You need a legal state of residence for your driver's license, vehicle registration, and taxes. South Dakota, Texas, and Florida are the three states most used by full-timers because of their policies on domicile without physical presence. Getting this sorted before you hit the road saves enormous headaches later. Services like America's Mailbox in South Dakota or Escapees in Texas handle mail forwarding and can help establish legal domicile.
 
 ---
 

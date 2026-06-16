@@ -84,27 +84,6 @@ Keep one marketable skill sharp enough to freelance even if you're not actively 
 
 ---
 
-## FAQ
-
-### How much money do I actually need before going full-time?
-
-Most people underestimate this. Beyond your living expenses, you want at minimum three to six months of emergency funds and ideally $5,000 to $8,000 set aside specifically for rig repairs. The first year tends to surface every deferred maintenance issue in your vehicle, and a single transmission or slide-out hydraulic repair can run $3,000 to $6,000 without blinking.
-
-### Can I really make enough income from a blog or YouTube channel about RV life?
-
-Yes, but not quickly and not without a strategy. The people doing this successfully either have a genuinely specific angle (van life with a disability, cheap full-timing on Social Security, off-grid builds documented in real detail), built an audience before going full-time, or treated it like a second job for the first two years. Expecting ad revenue to support you within six months is how people run out of money and go home.
-
-### Is workamping a good long-term income strategy?
-
-For most people, no. It's a great supplement and a useful tool for specific seasons, especially Amazon CamperForce, but the hourly rate rarely exceeds what you'd make freelancing your professional skills. Think of it as a campsite-cost strategy, not a career.
-
-### What about selling crafts or handmade goods from the road?
-
-It works better than people think if you choose the right products. Digital goods (printables, templates, patterns) are the cleanest because there's no inventory, shipping, or size constraints in a small rig. Physical handmade goods can work if you sell at markets, but the logistics of hauling materials and managing inventory in 200 square feet gets old fast.
-
-### Do I need to establish residency somewhere specific for tax purposes as a full-timer?
-
-You do need a domicile state, and the choice matters a lot. South Dakota, Texas, and Florida are the three most popular among full-timers because they have no state income tax and relatively straightforward residency requirements. This is genuinely worth an hour with a CPA who works with location-independent clients before you make the move.
 
 ---
 

@@ -104,27 +104,6 @@ For genuinely free federal land camping, don't sleep on the BLM's own website be
 
 ---
 
-## FAQ
-
-### Is Freecampsites.net actually free to use?
-
-Yes, completely free. The website and the app have no paywall, no membership fee. They run on donations and ads. If you use it regularly, throw them $5 or $10 occasionally. The data is community-maintained and it's worth supporting.
-
-### Can I find campsites for a big rig (40+ feet) using these apps?
-
-You can, but it takes more filtering. The Dyrt PRO lets you filter by rig length. Freecampsites.net reviews often include notes about length, though not always. The most reliable method is reading the full review text for any mention of turning radius, road conditions, or size limits, and then checking Google Street View on the access road if you're worried.
-
-### How do I know if a free campsite is actually still free?
-
-You don't, not with certainty. The best proxy is a recent review (within the past three to six months) from someone who confirms no fee. Call the local BLM or Forest Service field office if you're unsure. Fifteen minutes on the phone is worth it before a two-hour drive.
-
-### What's the best app if I have no cell service at all?
-
-The Dyrt PRO with offline maps downloaded in advance. Download before you leave signal range. Gaia GPS is worth mentioning too, it's popular with overlanders and lets you cache large areas for offline use, though it's more navigation-focused than camp-finding.
-
-### Do these apps work outside the United States?
-
-iOverlander is the strongest option internationally. It has active data in Mexico, Central America, Europe, and parts of South America. Freecampsites.net is almost entirely US-focused. The Dyrt is US and some Canada. If you're headed into Baja or beyond, iOverlander plus some offline mapping in Gaia or Maps.me is the combination I'd use.
 
 ---
 

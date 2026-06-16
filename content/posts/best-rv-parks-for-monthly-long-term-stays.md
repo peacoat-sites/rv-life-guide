@@ -88,27 +88,6 @@ State parks have the same ceiling issue. Most cap at 14-30 days consecutively. T
 
 ---
 
-## FAQ
-
-### How far in advance do I need to book a monthly site?
-
-For popular parks in Florida, Arizona, and Texas during peak season (November through March), three to six months out is not excessive. The best sites at well-run parks go fast. For shoulder and off-season stays, two to four weeks is usually fine, but always call rather than relying on online booking for monthly rates, since many parks negotiate monthly pricing over the phone.
-
-### Are monthly RV park rates typically all-inclusive?
-
-No, and this is one of the most expensive assumptions you can make. Electric is almost always metered separately. Water and sewer may or may not be included. Always ask exactly what the monthly rate covers before comparing two parks, because a $550/month "cheap" park with metered electric in summer can easily cost $900/month once you run the AC.
-
-### Can I use a residential address at an RV park for mail, licenses, and vehicle registration?
-
-Some parks allow it and some don't. Even parks that allow it aren't always reliable for USPS delivery. Most serious long-termers use a mail forwarding service (Escapees RV Club's mail service in Livingston, Texas, and Americas Mailbox in South Dakota are the two most used). South Dakota, Texas, and Florida are the most popular domicile states for full-timers for different tax and registration reasons.
-
-### What rig age restrictions should I watch out for?
-
-Many parks, especially nicer resort-style parks, have a 10-year rule: rigs older than 10 years may be denied or required to pass an inspection. Some enforce it strictly, some not at all. If your rig is a 2010 or older, call ahead. This policy exists because parks don't want permanent-looking older trailers on their sites, not for any safety reason they'll admit to.
-
-### Is it worth joining Thousand Trails or a similar membership club for long-term stays?
-
-If you're staying in the same region for a few months and there are multiple Thousand Trails parks within 50-100 miles, yes, the math works out. If you're moving constantly or mostly in regions without coverage, probably not. The $600-700/year Camping Pass pays for itself in under a month of stays. The parks aren't luxurious, but they're reliable and the membership has no blackout dates for base membership zones.
 
 ---
 

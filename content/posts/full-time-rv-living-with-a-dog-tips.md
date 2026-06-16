@@ -99,27 +99,6 @@ One thing I've seen people skip that they shouldn't: a [filtered water solution]
 
 ---
 
-## FAQ
-
-### How do you handle a dog that barks at neighbors in tight campgrounds?
-
-Consistent counter-conditioning from day one, and I mean from the very first site you pull into. I click-and-treat Biscuit every time she notices a neighbor and stays quiet. After years of practice she's reliable, but she wasn't at first -- we stayed in bigger, more spread-out sites when she was learning, which helped enormously.
-
-### What do you do with your dog when you have to make a long drive?
-
-Biscuit rides in the cab with me, secured with a Sleepypod Clickit Sport harness that's been crash-tested. I stop every 2-3 hours minimum for a water and stretch break. On drives over 8 hours, I book a pet-friendly motel for the night rather than push through -- she handles a good night's sleep better than 14 hours in a moving vehicle.
-
-### Are there campgrounds that don't allow dogs at all?
-
-Yes, and more than people expect. Some national park campgrounds, certain membership resorts, and a handful of state parks in specific areas either ban dogs from certain sites or from the campground entirely. Always verify before you book, not when you pull in.
-
-### How much does it actually cost to keep a dog healthy on the road?
-
-Realistically, I budget $150-200 per month for Biscuit, which covers the Banfield wellness plan, monthly flea/tick/heartworm prevention (essential because you're in so many different environments), occasional telehealth visits, and a food budget for her Purina Pro Plan. That doesn't include emergency vet visits, which I keep a $1,500 dedicated emergency fund for. She's had two significant vet visits in eight years that cost $800 and $1,100 respectively.
-
-### Can a large dog actually live comfortably in an RV?
-
-Biscuit is 65 pounds, which is solidly "large dog" territory, and she's genuinely happy. What matters far more than rig size is how much time you spend outside. If you're a screen-and-campfire person who stays parked for days at a time, a big dog will go stir-crazy regardless of how spacious your rig is. If you're active and moving, a dog that size adjusts fine -- I've met Great Dane owners doing this life who would argue the same.
 
 ---
 

@@ -110,27 +110,6 @@ A set of good [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&ta
 
 ---
 
-## FAQ
-
-### Can I stay more than one night at a national park campground?
-
-Most national park campgrounds allow stays of up to 14 consecutive nights, after which you're required to move on. Some popular campgrounds, especially in Yosemite and Yellowstone, have shorter limits during peak season, sometimes as few as 7 nights. Check the specific campground rules when you book. A few parks also have a park-wide limit of 30 days in any calendar year.
-
-### What happens if my RV is longer than the posted site limit?
-
-You may be turned away at the campground entrance, or more commonly, you'll pull in and discover your rig simply doesn't fit the site. Some campground hosts are flexible for sites that can physically accommodate a longer rig. Many are not, especially in the busiest parks. Don't assume you'll be the exception. Book a site that matches your actual length.
-
-### Are pets allowed in national park campgrounds?
-
-Generally, yes, but with restrictions. Pets are typically allowed in campgrounds and on paved roads but not on most trails, in visitor centers, or in backcountry areas. Each park has its own rules. Yellowstone is relatively pet-friendly for campgrounds but very strict about trails, for wildlife reasons. Check the specific park's pet policy before you go, not just the general NPS guidelines.
-
-### Is it possible to camp in national parks without a reservation?
-
-Yes, but it depends heavily on the park, the season, and the day of the week. Less-visited parks like Big Bend, Capitol Reef, and Guadalupe Mountains often have first-come, first-served availability mid-week outside of peak season. Highly popular parks like Yosemite and Glacier in July? Plan on a reservation or plan to be turned away. Even parks with walk-up sites often fill by mid-morning during summer.
-
-### Do national park campgrounds have Wi-Fi or cell service?
-
-Mostly no. Some parks have cell coverage in campground areas, usually AT&T or Verizon, but it's often weak and unreliable. Wi-Fi at campsites is almost nonexistent. Visitor centers sometimes have limited Wi-Fi. If you work remotely and need reliable internet, a national park campground is not your base for that week. Plan around it, download what you need before you arrive, and think of it as a forced digital detox.
 
 ---
 

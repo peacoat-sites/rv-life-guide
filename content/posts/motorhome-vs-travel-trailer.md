@@ -118,27 +118,6 @@ Buying used, specifically two to three years old with one previous owner, is alm
 
 ---
 
-## Frequently Asked Questions
-
-### Can I live in a travel trailer full-time, or is a motorhome better for that?
-
-You can absolutely live full-time in a travel trailer. Thousands of people do it comfortably. The main adjustment is that you need a dedicated tow vehicle, which becomes your daily driver, your grocery-getter, and your connection to civilization when the trailer is parked. For full-timers who stay in one spot for weeks at a time, trailers often work better because you're not driving the whole house to run errands. For people who move camps every day or two, a motorhome reduces the setup and teardown friction significantly.
-
-### Which is easier for solo travelers?
-
-Motorhomes win on solo convenience by a meaningful margin. Backing a trailer alone requires skill and either a backup camera system or a lot of trial and error. In a motorhome, you're just parking a big vehicle. That said, plenty of solo travelers tow trailers successfully. It's a skill, not an impossibility.
-
-### What's a realistic total budget to start RV life, including the tow vehicle?
-
-For a travel trailer setup, plan for $60,000 to $100,000 total if you need to buy both a truck and a trailer new. Used, you can get into a solid setup for $35,000 to $55,000 if you're patient and do your homework. For a motorhome that's genuinely livable and mechanically sound, budget at least $60,000 to $80,000 used for a Class C, more for a Class A. The rigs you see advertised for $15,000 usually need another $15,000 in repairs before they're road-worthy.
-
-### Do motorhomes or travel trailers handle bad weather better?
-
-Motorhomes generally have better insulation and more robust HVAC systems, especially in the four-season Class A and C models. But a well-built trailer with Arctic package insulation can handle cold temperatures surprisingly well. The bigger weather issue with trailers is wind: a parked trailer with slides out has a significant surface area that catches gusts differently than a motorhome sitting on its jacks. I've sat through 50 mph wind gusts in a trailer and it's an uncomfortable night.
-
-### Is it cheaper to insure a motorhome or a travel trailer?
-
-Per unit, travel trailers are cheaper to insure because they have no engine and no collision risk while parked. But remember, you also need to insure your tow vehicle. Full-timer insurance on a motorhome, through companies like National General or Progressive's RV program, typically runs $1,200 to $2,500 per year depending on value and coverage. Trailer insurance might run $400 to $800 for the trailer alone, with your truck insurance on top. Run actual quotes before you assume one is dramatically cheaper.
 
 ---
 

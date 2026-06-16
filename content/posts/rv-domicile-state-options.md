@@ -108,27 +108,6 @@ For a complete picture of what full-time RV life involves before and after choos
 
 ---
 
-## Frequently Asked Questions
-
-### Can I stay domiciled in my home state if I go full-time?
-
-Technically yes, if your home state allows it and you maintain the required ties. But if your home state has a high income tax rate, you're leaving money on the table. Most full-timers find that formally establishing domicile in a no-income-tax state is worth the effort within the first year.
-
-### Do I have to physically visit my domicile state every year?
-
-South Dakota has no minimum annual visit requirement. Texas and Florida also have no hard annual return requirement, though you're expected to maintain genuine intent to make the state your permanent home. Spending zero time there over several years can create documentation problems if your domicile is ever challenged.
-
-### What address do I use for my domicile if I don't own property there?
-
-A mail forwarding service provides a physical street address you can use for your driver's license, vehicle registration, and mailing address. Services like Americas Mailbox in South Dakota or Escapees' Rainbow's End location in Livingston, Texas, are built specifically for this purpose.
-
-### Can two spouses have different domicile states?
-
-Legally yes, but it's complicated. Married couples filing jointly typically share a domicile state for tax purposes. If spouses have different domicile states, it can create filing issues and potential audit triggers. Most couples choose one state and both establish domicile there together.
-
-### What happens if I get pulled over in a state that's not my domicile state?
-
-Nothing unusual. You present your license and registration from your domicile state, just like any out-of-state driver would. The issue only arises if an officer or state agency believes you've been living in their state long enough to require local registration, which is typically more than 90 days in most states.
 
 ---
 

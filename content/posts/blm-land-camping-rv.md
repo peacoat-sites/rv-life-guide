@@ -111,27 +111,6 @@ One more: [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=r
 
 ---
 
-## FAQ
-
-### How long can I stay on BLM land?
-
-The standard limit is 14 consecutive days in a single location. After that, you must move at least 25 miles before returning to the same area. Some field offices in high-demand areas run shorter limits, as low as 7 days. Check the specific field office rules for your destination. The BLM website lists each state's field offices with contact info.
-
-### Can I have a campfire on BLM land?
-
-It depends entirely on current fire conditions. During fire season, which runs roughly May through October across most of the West, many BLM areas post fire restrictions ranging from no ground fires to no open flames at all. Check InciWeb and the specific field office before you assume a fire ring means fires are allowed. Violations carry fines and can result in being banned from the area.
-
-### Do I need any permits or passes for BLM dispersed camping?
-
-For most dispersed camping, no permit is required. A handful of popular BLM areas have instituted permit systems to manage overcrowding, including parts of the Eastern Sierra and some Utah canyon areas. Call the field office or check recreation.gov for your target area before assuming you can show up without advance arrangements.
-
-### Is BLM land safe for solo campers?
-
-Reasonably, yes, with preparation. The biggest risks are practical: mechanical breakdown with no cell service to call for help, medical emergencies in remote locations, and getting a rig stuck. Carry a satellite communicator like a Garmin inReach or Zoleo if you're going remote. Have a tow plan. Tell someone your rough location and check-in schedule. Personal safety from other people is rarely the concern most newcomers imagine it to be.
-
-### Can I bring my pets to BLM land?
-
-Yes. BLM land generally allows pets, with no restrictions on numbers or breeds, which is a real advantage over many state parks and campgrounds. Dogs must be under control, and in some areas leash rules apply. Rattlesnakes, cactus, and extreme heat are the actual hazards. Keep pets out of dry washes and arroyos, especially during monsoon season in the Southwest, and check paws after walks on rocky terrain.
 
 ---
 

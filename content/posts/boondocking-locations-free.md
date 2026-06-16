@@ -130,27 +130,6 @@ Fire restrictions change constantly in summer and fall across the West. An area 
 
 ---
 
-## Frequently Asked Questions
-
-### Is it actually legal to sleep on BLM land for free?
-
-Yes, in most cases. Dispersed camping on BLM land is legal and free for up to 14 consecutive days in most areas. After 14 days, you must move at least 25 miles before camping in the same area again. Some BLM areas have specific restrictions or require permits, so checking with the local field office before you go is always the right move.
-
-### Do I need any kind of pass or permit to camp on national forest land?
-
-Usually not for basic dispersed camping. However, some heavily used national forests now require day-use passes or specific camping permits. The Coconino National Forest in Arizona and the Inyo National Forest in California are examples of places where rules have gotten stricter in recent years. Always check the specific forest's website. Recreation.gov handles permits for any managed areas that require them.
-
-### What's the smallest rig that can realistically access good boondocking spots?
-
-The research here is mixed depending on what "good" means to you. I'll say this from experience: a van or truck camper opens up 80% of boondocking spots. A Class B or small Class C gets you maybe 60%. A 30-35 foot Class A or fifth wheel limits you to maybe 30-40% of spots but those spots still exist and are often spectacular. The real constraint is road width and clearance, not necessarily the camping itself. Sites in popular BLM areas like Quartzsite or the California desert accommodate big rigs just fine.
-
-### How do I find out if an area has been recently closed or has fire restrictions?
-
-The most reliable source is the managing agency's website. For BLM, that's blm.gov and you navigate to your specific state and then field office. For national forests, fs.usda.gov has individual forest pages. The InciWeb site tracks active wildfire closures. You can also call the field office directly. Don't rely on apps alone; crowd-sourced data lags behind real-time closures by days or weeks.
-
-### Can I boondock on state land?
-
-It depends entirely on the state. Arizona, Montana, Nevada, New Mexico, and Wyoming have state land programs that allow dispersed camping, usually with an inexpensive annual recreational permit. Other states are far more restrictive and most of their state land is closed to camping. Look up your specific state's State Land Department or equivalent agency and look for recreational use policies.
 
 ---
 

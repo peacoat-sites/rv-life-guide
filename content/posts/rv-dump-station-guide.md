@@ -131,27 +131,6 @@ The social rules around dump stations are real, and violating them will earn you
 
 ---
 
-## Frequently Asked Questions
-
-### How often do I need to dump my tanks?
-
-That depends entirely on how many people are in the rig and how much you're using it. Solo full-timer? Your black tank might last 10 to 14 days. A family of four? Maybe 4 to 5 days. A good rule of thumb is dump when your black tank hits two-thirds full. Waiting until it's completely full makes dumping less effective.
-
-### Can I dump my gray water on the ground?
-
-In many areas, technically yes for gray water, but you should check local regulations before doing this. National forests often allow it if you're dispersed camping more than 200 feet from water sources. National parks almost universally prohibit it. State laws vary considerably. When in doubt, hold it until a dump station.
-
-### What do I do if my sewer hose disconnects mid-dump?
-
-Close your tank valve immediately. Assess the situation before panicking. Get your gloves on if they're not already. Reconnect the hose, confirm it's secure, and resume. Then clean up whatever mess resulted, thoroughly. This is why you never open a valve before confirming both ends of your hose are secure.
-
-### Is it safe to dump at a Walmart?
-
-Some Walmart locations still allow it, but call ahead. Policies vary by store and region, and many have stopped allowing it due to abuse of the courtesy. When a store does allow it, it's a privilege not a right. Dump quickly, clean up completely, and if you shop there while you're at it, that's just good manners.
-
-### Why does my black tank still smell bad after dumping?
-
-Usually one of three things: you're not using enough water between uses, you're not using a tank treatment, or your tank sensors or seals have an issue. Add more water after each dump, use a quality enzyme treatment, and if the smell persists, try a dedicated tank flush treatment like Unique Tank Cleaner, which is designed to break down buildup on tank walls. Persistent sulfur smell sometimes indicates a vent pipe issue, which is worth having checked.
 
 ---
 

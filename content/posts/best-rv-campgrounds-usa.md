@@ -108,27 +108,6 @@ Also worth saying plainly: the campground community is generally generous and ho
 
 ---
 
-## Frequently Asked Questions
-
-### What's the cheapest way to camp long-term in the USA?
-
-Boondocking on BLM land is the cheapest legal option, often completely free or $180 for a full season permit in areas like Quartzsite. You need to be self-sufficient: solar, battery bank, fresh water tank capacity, and a way to dump your gray and black tanks. Harvest Hosts membership ($99/year) is another strong option, letting you stay at wineries, farms, and breweries for free in exchange for patronage.
-
-### Do I need a membership to get good campground rates?
-
-Not necessarily, but memberships can pay off fast. Passport America gives 50% off at participating parks for around $44/year. Thousand Trails memberships run $400-600 upfront but grant unlimited stays at their network. If you're staying more than 30 nights a year at commercial campgrounds, at least one membership will pay for itself. Run the math against your actual travel pattern before buying.
-
-### What states are most full-timer-friendly?
-
-Texas, South Dakota, and Florida dominate this answer for a specific reason: they're the go-to states for full-timers establishing legal domicile because they have no state income tax and relatively straightforward residency processes. Living in your rig full-time puts you in a legal gray zone in most states, and picking your domicile state matters financially. The Escapees RV Club has a detailed guide on this and it's the most practical starting point.
-
-### How far in advance should I book popular campgrounds?
-
-Six months for anything in the National Park system during peak season. Two to three months for popular state parks. Private parks and KOAs generally have more flexibility, often bookable a few weeks out. If you're flexible on dates, last-minute cancellations at Recreation.gov are surprisingly common. Check the morning of, 2-3 days before your target date.
-
-### Is Wi-Fi at campgrounds actually usable for remote work?
-
-Almost never, honestly. Shared campground Wi-Fi on a network supporting 50 rigs is not a working solution for video calls or large file transfers. Budget for a dedicated cell plan, a mobile hotspot, or a signal booster. Weboost and Cel-Fi make the most respected boosters in the full-timer community. Treat campground Wi-Fi as a backup for light browsing, not your primary connection.
 
 ---
 
