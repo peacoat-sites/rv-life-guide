@@ -18,6 +18,16 @@ Picture this: you're rolling into California on I-40 in late June, maybe headed 
 
 This is not a hypothetical. It's happening right now, and it's going to keep happening all summer because CARB's Clean Truck Check program is in full enforcement mode in 2026, and thousands of diesel motorhome owners, including out-of-staters who just pass through California a couple times a year, are completely blindsided by it.
 
+
+<div class="value-module">
+  <div class="vm-head">Clean Truck Check Compliance Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to determine your compliance requirements and avoid enforcement actions before entering California.</p>
+    <table><thead><tr><th>Checkpoint</th><th>Action Required</th><th>Threshold / Notes</th></tr></thead><tbody><tr><td>GVWR Verification</td><td>Check door sticker or title</td><td>Program applies at &gt;14,000 lbs; most Class A/C diesels qualify</td></tr><tr><td>Engine Model Year</td><td>Locate on emissions label</td><td>2013+: OBD scan required | 2012 &amp; older: opacity smoke test + visual inspection</td></tr><tr><td>Testing Window</td><td>Schedule test within 90 days of entry</td><td>Tests older than 90 days invalid for compliance</td></tr><tr><td>Find Credentialed Tester</td><td>Use CARB's online locator tool</td><td>Not all diesel shops qualify; confirm CARB credential before booking</td></tr><tr><td>Pay Annual Fee</td><td>Submit $32.13 via CARB portal</td><td>Fee is separate from test cost; due annually</td></tr><tr><td>Carry Proof of Compliance</td><td>Print or save digital certificate</td><td>Required if stopped at inspection station or weigh station</td></tr><tr><td>Out-of-State Registration</td><td>Register in CARB system anyway</td><td>Non-CA plates do not exempt you; even single trips require compliance</td></tr><tr><td>Plan for Repairs</td><td>Budget time if DPF/EGR codes appear</td><td>Failed OBD scan means no certificate until codes cleared</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Clean Truck Check Actually Requires
 
 Let's cut straight to what matters. If you own a diesel motorhome with a GVWR over 14,000 pounds and you operate it on California roads, even for a single trip, you are subject to this program. That covers most Class A and Class C diesel rigs, and a lot of Super C builds.

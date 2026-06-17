@@ -33,6 +33,16 @@ Let me tell you what's actually working for full-timers in 2026, with none of th
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">RV Job Compatibility Scoring Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these specific thresholds to evaluate any remote position before accepting—score 5+ points for sustainable full-time RV compatibility.</p>
+    <table><thead><tr><th>Criteria</th><th>Green Flag (+1 pt)</th><th>Red Flag (−1 pt)</th></tr></thead><tbody><tr><td>Synchronous meeting load</td><td>≤3 hours/week of scheduled calls</td><td>Daily standups or 4+ hours/week video required</td></tr><tr><td>Response time expectations</td><td>4+ hour reply window standard</td><td>Expected response within 30 minutes during work hours</td></tr><tr><td>Time zone policy</td><td>Core overlap ≤4 hours or async-first documented</td><td>Must match specific timezone; no flexibility stated</td></tr><tr><td>Data consumption pattern</td><td>Text-based tools primary (Slack, email, docs)</td><td>Constant screen-share, video-on culture, large file uploads</td></tr><tr><td>Equipment requirements</td><td>Laptop + hotspot sufficient; no VPN IP restrictions</td><td>Requires hardwired connection, static IP, or employer-monitored network</td></tr><tr><td>Schedule autonomy</td><td>Deadline-based deliverables; self-structured days</td><td>Must log hours in real-time or use activity-tracking software</td></tr><tr><td>Coverage/on-call duties</td><td>Scheduled shifts with 72+ hour advance notice</td><td>Unscheduled on-call rotation or "as needed" availability expected</td></tr><tr><td>PTO/travel friendliness</td><td>Unlimited or flexible PTO; no blackout dates</td><td>Requires manager approval 2+ weeks ahead; travel discouraged</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Real Criteria (Before You Touch a Job Board)
 
 Before I get into specific roles, here's what I'd actually evaluate. Most "best remote jobs" articles skip this part.

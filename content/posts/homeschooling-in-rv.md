@@ -31,6 +31,16 @@ I'm not saying that to brag. I'm saying it because the fear that your kid will f
 
 Eight years in, I've talked to hundreds of families doing this. I've made plenty of mistakes myself. Here's what I actually know.
 
+
+<div class="value-module">
+  <div class="vm-head">Homeschool Law Comparison: Top RV Domicile States</div>
+  <div class="vm-body">
+    <p class="vm-intro">These three states dominate RV domicile choices partly because their homeschool requirements align well with mobile lifestyles—here's how they actually differ.</p>
+    <table><thead><tr><th>Requirement</th><th>South Dakota</th><th>Texas</th><th>Florida</th></tr></thead><tbody><tr><td>Initial notification</td><td>File with local superintendent by Sept 1 of first year</td><td>None required</td><td>File notice of intent with county superintendent within 30 days of starting</td></tr><tr><td>Annual paperwork</td><td>Notification each school year</td><td>None</td><td>Annual notice OR use umbrella school</td></tr><tr><td>Attendance tracking</td><td>Not required</td><td>Not required</td><td>Log must be preserved (no submission)</td></tr><tr><td>Standardized testing</td><td>Not required</td><td>Not required</td><td>Annual evaluation required (test, portfolio review, or other approved method)</td></tr><tr><td>Curriculum approval</td><td>None</td><td>None</td><td>None (must be "sequentially progressive")</td></tr><tr><td>Subjects mandated</td><td>Language arts and math minimum</td><td>Reading, spelling, grammar, math, citizenship</td><td>None specified beyond "sequentially progressive"</td></tr><tr><td>Record retention</td><td>2 years recommended</td><td>No requirement (keep for your records)</td><td>Portfolio preserved for 2 years</td></tr><tr><td>Umbrella school option</td><td>Not common</td><td>Not applicable (already minimal)</td><td>Popular alternative to county filing</td></tr><tr><td>Best for</td><td>Families wanting simple one-step compliance</td><td>Maximum flexibility, minimal paperwork</td><td>Families comfortable with annual evaluation structure</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Legal Reality First, Before You Do Anything Else
 
 Homeschool law in the U.S. is a state-by-state patchwork, and it genuinely matters where you're legally domiciled, not where you're physically parked on Tuesday.

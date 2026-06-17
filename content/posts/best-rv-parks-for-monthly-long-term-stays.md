@@ -30,6 +30,16 @@ Most coverage of "best RV parks for long-term stays" is just a listicle of resor
 
 Eight years in, I've done long-term stays at probably 35 different parks across 18 states. The differences between a good monthly stay and a miserable one almost never show up in the brochure.
 
+
+<div class="value-module">
+  <div class="vm-head">Monthly RV Park Cost & Value Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Real cost drivers side-by-side, based on common park tiers across regions.</p>
+    <table><thead><tr><th>Park Type</th><th>Typical Monthly Rate</th><th>Usually Included</th><th>Often Extra ($50–150/mo)</th><th>Best For</th><th>Watch Out For</th></tr></thead><tbody><tr><td>Rural/No-Frills (NM, AZ desert, East TX)</td><td>$300–$500</td><td>Water, sewer, basic WiFi</td><td>Electric (metered), propane</td><td>Remote workers with good cellular; budget-conscious stays 60+ days</td><td>No package receiving; manager may be part-time; 30-amp only</td></tr><tr><td>Mid-Tier Residential (FL interior, Ozarks, Carolinas)</td><td>$550–$800</td><td>Full hookups, trash, basic cable</td><td>Electric over 500 kWh; laundry</td><td>Snowbirds; anyone needing reliable mail/package service</td><td>Some cap stays at 6 months for tax reasons; pet breed restrictions</td></tr><tr><td>Destination/Resort (coastal FL, SoCal, TX Hill Country)</td><td>$900–$1,400</td><td>Full hookups, pool, fitness center</td><td>50-amp premium sites; WiFi upgrade; golf cart rental</td><td>Shorter 1–2 month stays with leisure focus</td><td>Transient neighbors; quiet hours rarely enforced; monthly waitlists</td></tr><tr><td>Premium Waterfront (Keys, PNW coast, Lake Tahoe area)</td><td>$1,200–$1,800+</td><td>Full hookups, waterfront pad</td><td>Nearly everything else; reservations often require deposit</td><td>Special-occasion stays; those with specific location needs</td><td>Price-to-value ratio often poor; WiFi/cell notoriously unreliable</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Long-Term" Actually Means to a Park
 
 Most parks define long-term as 30 days or more. That matters legally in many states because once you cross that threshold, you can acquire tenant rights, which is exactly why some parks have a hard 28-day cap. If you're looking to stay somewhere for two or three months, confirm upfront that the park doesn't have a monthly maximum. A few don't advertise this restriction until you're already halfway through booking.

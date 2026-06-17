@@ -32,6 +32,16 @@ If you're reading this, you're probably somewhere in one of two places: either y
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Free Camping App Comparison Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">This decision matrix scores the major free camping apps across the criteria that actually matter for finding legitimate dispersed sites.</p>
+    <table><thead><tr><th>App</th><th>Best For</th><th>Dispersed/BLM Coverage</th><th>Review Recency</th><th>Offline Maps</th><th>Rig Size Filters</th><th>Cost</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Freecampsites.net</td><td>Dedicated boondockers in US West</td><td>Excellent</td><td>Good (sortable)</td><td>No</td><td>In reviews only</td><td>Free</td><td>Outdated UI; no trip planning</td></tr><tr><td>iOverlander</td><td>Van lifers; Mexico/Canada crossings</td><td>Good</td><td>Variable</td><td>Yes</td><td>No</td><td>Free</td><td>US rural areas thin; international focus</td></tr><tr><td>Campendium</td><td>RVers wanting cell signal data</td><td>Good</td><td>Good</td><td>Pro only ($30/yr)</td><td>Yes</td><td>Free/Pro</td><td>Best features paywalled</td></tr><tr><td>The Dyrt</td><td>Mixed free/paid site hunters</td><td>Fair</td><td>Good</td><td>Pro only ($36/yr)</td><td>Yes</td><td>Free/Pro</td><td>Heavily weighted toward paid campgrounds</td></tr><tr><td>US Public Lands (USFS/BLM)</td><td>Verifying official land status</td><td>Authoritative</td><td>N/A</td><td>Partial</td><td>No</td><td>Free</td><td>No user reviews; steep learning curve</td></tr><tr><td>Gaia GPS / OnX</td><td>Finding unmarked dispersed roads</td><td>Land ownership only</td><td>N/A</td><td>Yes</td><td>No</td><td>$20-40/yr</td><td>Shows where, not if camping allowed</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The App That Actually Changed My Routing
 
 Freecampsites.net exists as a website, but the app version is where I spend most of my time. It's not beautiful. The UI looks like it hasn't been updated since 2014 and honestly that might be true. But the data is community-sourced and legitimately extensive, covering dispersed camping on BLM land, National Forests, and a lot of the oddball stuff that doesn't show up anywhere else, like a pull-out on a county road in New Mexico that fits a 34-foot fifth wheel with no issue.

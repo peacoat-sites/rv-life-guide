@@ -32,6 +32,16 @@ But here's what I tell people who are just starting to research this: the hardes
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">BLM Boondocking Spot Comparison Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to match popular BLM areas with your rig setup, season, and priorities.</p>
+    <table><thead><tr><th>Location</th><th>Best Season</th><th>Cost</th><th>14-Day Limit?</th><th>Cell Signal</th><th>Rig Clearance Needed</th><th>Crowd Level (1-5)</th><th>Best For</th></tr></thead><tbody><tr><td>Quartzsite, AZ (La Posa LTVA)</td><td>Oct–Nov, Mar–Apr</td><td>$40/14 days or $180/season</td><td>No (with permit)</td><td>Strong (Verizon/AT&amp;T)</td><td>Low clearance OK</td><td>5 (peak), 2 (shoulder)</td><td>Long-term stays, solar charging, community</td></tr><tr><td>Quartzsite, AZ (free zones)</td><td>Oct–Nov, Mar–Apr</td><td>Free</td><td>Yes (14 days)</td><td>Moderate</td><td>Low clearance OK</td><td>4 (peak), 2 (shoulder)</td><td>Short stays, budget priority</td></tr><tr><td>Moab, UT (Hwy 128 corridor)</td><td>Apr–May, Sep–Oct</td><td>Free</td><td>Yes (14 days)</td><td>Weak to none</td><td>High clearance helpful</td><td>4</td><td>Red rock scenery, hiking access</td></tr><tr><td>Moab, UT (south toward Monticello)</td><td>May–Jun, Sep–Oct</td><td>Free</td><td>Yes (14 days)</td><td>Weak</td><td>High clearance recommended</td><td>1</td><td>Solitude, longer dispersed stays</td></tr><tr><td>Escalante, UT (Hole-in-the-Rock Rd)</td><td>Apr–May, Sep–Oct</td><td>Free</td><td>Yes (14 days)</td><td>None to weak</td><td>High clearance required</td><td>2</td><td>Remote canyon access, photography</td></tr><tr><td>Ely, NV (surrounding BLM)</td><td>May–Oct</td><td>Free</td><td>Yes (14 days)</td><td>Moderate near town</td><td>Low clearance OK</td><td>1</td><td>Dark skies, true isolation</td></tr><tr><td>Alabama Hills, CA</td><td>Mar–May, Oct–Nov</td><td>Free</td><td>Yes (14 days)</td><td>Moderate</td><td>Low clearance OK</td><td>3</td><td>Sierra views, photography, rock formations</td></tr><tr><td>Sedona, AZ (Forest Rd 525 area)</td><td>Mar–May, Oct–Nov</td><td>Free</td><td>Yes (14 days)</td><td>Moderate</td><td>High clearance required</td><td>3</td><td>Red rock proximity, hiking</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Areas That Actually Deliver, Consistently
 
 I'm going to give you specific places because vague recommendations are useless. "BLM land in Utah" tells you nothing. So let's talk real spots.

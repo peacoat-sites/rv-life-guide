@@ -32,6 +32,16 @@ I've spent eight years finding free land, making mistakes, getting stuck (litera
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Public Land Stay Limits by Agency</div>
+  <div class="vm-body">
+    <p class="vm-intro">Each federal land agency enforces different dispersed camping rules—knowing these before you arrive prevents fines and forced relocations.</p>
+    <table><thead><tr><th>Land Type</th><th>Typical Stay Limit</th><th>Distance Rule</th><th>Permit Required?</th><th>Key Restrictions</th></tr></thead><tbody><tr><td>BLM (Standard Areas)</td><td>14 days per 28-day period</td><td>25–100 ft from water</td><td>No (most areas)</td><td>Must move 25+ miles after limit; no dumping gray water</td></tr><tr><td>BLM Long-Term Visitor Areas (AZ/CA)</td><td>Up to 7 months (seasonal)</td><td>Designated sites only</td><td>Yes ($40–$180/season)</td><td>Only 9 locations exist; dates vary Sept–April</td></tr><tr><td>National Forest (Dispersed)</td><td>14 days per 30-day period</td><td>200 ft from water/roads</td><td>No (most forests)</td><td>Fire restrictions vary; some forests require free fire permits</td></tr><tr><td>National Grasslands</td><td>14 days</td><td>Varies by unit</td><td>No</td><td>Often fewer restrictions than forests; less crowded</td></tr><tr><td>Army Corps of Engineers</td><td>14 days (free areas rare)</td><td>Designated areas only</td><td>Sometimes</td><td>Most sites are developed with fees; dispersed limited</td></tr><tr><td>State Trust Lands (AZ, NM, UT)</td><td>14 days typical</td><td>Varies</td><td>Yes ($15–$35/year)</td><td>Recreational permit required; not all states allow camping</td></tr><tr><td>Wildlife Management Areas</td><td>Often prohibited or hunt-season only</td><td>N/A</td><td>Varies</td><td>Many WMAs ban overnight stays entirely</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What "Free Camping" Actually Means (and What It Doesn't)
 
 Let's get the vocabulary straight because people mix this up constantly and it leads to real problems.

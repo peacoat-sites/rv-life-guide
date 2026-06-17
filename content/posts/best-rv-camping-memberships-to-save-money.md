@@ -30,6 +30,16 @@ I've spent somewhere around $40,000 on campground fees over eight years on the r
 
 Here's what nobody tells you upfront: the RV membership game is complicated, the savings are real but context-dependent, and if you camp less than 60 nights a year, most of the premium programs won't pay off. Let me walk you through what I've actually used, what broke my heart, and what I'd buy again tomorrow.
 
+
+<div class="value-module">
+  <div class="vm-head">RV Membership Break-Even Calculator</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these annual camping night thresholds to determine which memberships will actually save you money based on your travel style.</p>
+    <table><caption>Break-Even Analysis by Membership Type (2024 Rates)</caption><thead><tr><th>Membership</th><th>Annual Cost</th><th>Typical Savings Per Night</th><th>Break-Even Nights</th><th>Best For</th></tr></thead><tbody><tr><td>Passport America</td><td>$44</td><td>$15–$25 (50% off avg $30–$50 sites)</td><td>2–3 nights</td><td>Any camper; lowest risk entry point</td></tr><tr><td>Good Sam Club</td><td>$29–$79 (tier-dependent)</td><td>$3–$6 (10% off at participating parks)</td><td>5–26 nights</td><td>Fuel/retail discounts add value beyond camping</td></tr><tr><td>Thousand Trails Zone Pass</td><td>$600–$700</td><td>$30–$45 (free nights vs avg private park)</td><td>15–23 nights</td><td>Regional campers staying 2+ weeks per zone</td></tr><tr><td>Thousand Trails Elite (resale)</td><td>$3,000–$8,000 + $550–$700/yr dues</td><td>$35–$50 per night</td><td>60–80 nights in year one; 12–20 thereafter</td><td>Full-timers committed to TT network</td></tr><tr><td>Harvest Hosts</td><td>$99–$179</td><td>$25–$40 (free overnight vs budget campground)</td><td>3–7 nights</td><td>Self-contained rigs; unique experiences over amenities</td></tr><tr><td>Boondockers Welcome</td><td>$79</td><td>$25–$35 (free private driveways)</td><td>2–4 nights</td><td>Flexible travelers comfortable with host interactions</td></tr><tr><td>Escapees RV Club</td><td>$50</td><td>$5–$15 (network discounts + mail service value)</td><td>4–10 nights</td><td>Full-timers needing domicile/mail forwarding</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Passport America: The One Most People Overlook
 
 Half-price camping sounds too good to be true. With Passport America, it mostly isn't. You pay $44 per year (as of 2024) and get 50% off nightly rates at around 1,900 campgrounds across the U.S., Canada, and Mexico. The restrictions are real: most parks limit you to two or three consecutive nights at the discount rate, and a handful of higher-demand parks black out summer weekends. But if you're moving frequently -- which is the actual lifestyle -- those restrictions rarely matter.

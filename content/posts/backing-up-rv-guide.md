@@ -32,6 +32,16 @@ Let me give you what actually works.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">RV Backing Spotter Signal Protocol</div>
+  <div class="vm-body">
+    <p class="vm-intro">Agree on these exact signals before anyone touches the steering wheel—ambiguity causes collisions.</p>
+    <table><thead><tr><th>Signal</th><th>Spotter Action</th><th>Driver Response</th></tr></thead><tbody><tr><td>STOP (fist raised)</td><td>Closed fist held high, maintained until acknowledged</td><td>Brake immediately, wait for next signal</td></tr><tr><td>COME BACK (beckoning)</td><td>Both hands wave toward body, palms up</td><td>Continue straight back at idle speed</td></tr><tr><td>DRIVER'S LEFT</td><td>Left arm extended, pointing left</td><td>Turn steering wheel left (trailer goes left)</td></tr><tr><td>DRIVER'S RIGHT</td><td>Right arm extended, pointing right</td><td>Turn steering wheel right (trailer goes right)</td></tr><tr><td>SLOW DOWN (patting)</td><td>Palm-down patting motion toward ground</td><td>Reduce to creep speed (&lt;1 mph)</td></tr><tr><td>CUT WHEEL HARD</td><td>Exaggerated arm sweep in turn direction</td><td>Full lock in indicated direction</td></tr><tr><td>DISTANCE (hands apart)</td><td>Hands held apart showing gap to obstacle</td><td>Use gap width to gauge remaining clearance</td></tr><tr><td>KILL IT (crossing arms)</td><td>Arms crossed overhead repeatedly</td><td>Stop, set brake, driver exits to assess</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why Backing an RV Feels So Wrong at First (and What Changes That)
 
 The core problem is counterintuitive geometry. When you turn a trailer, the rear of the tow vehicle and the front of the trailer swing out in one direction while the trailer itself moves the opposite way. Your brain, trained on years of driving forward, fights this constantly. Add 35 feet of combined length, blind spots the size of a small apartment, and the fact that every campground seems designed by someone who hated RVers, and you've got a recipe for frustration.
