@@ -1,0 +1,322 @@
+{{- /* rv-cost-calc.html — True Cost of RV Ownership Calculator */ -}}
+<div class="rv-calc-wrap" style="margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem;color:var(--text,#1a1a18)">
+    True Cost of RV Ownership Calculator
+  </div>
+  <div style="padding:20px">
+    <p style="margin:0 0 18px;font-size:.95rem;color:var(--muted,#6b6860)">
+      RV ownership costs are often 2–3× higher than the purchase price over 10 years. This calculator helps you see the full picture.
+    </p>
+
+    <!-- Section: RV Type + Purchase -->
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        RV Type
+        <select id="rvc-type" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+          <option value="classA">Class A Motorhome ($100–300k)</option>
+          <option value="classB">Class B Van Camper ($80–150k)</option>
+          <option value="classC">Class C Motorhome ($80–150k)</option>
+          <option value="tt" selected>Travel Trailer ($20–60k)</option>
+          <option value="fw">5th Wheel ($40–90k)</option>
+          <option value="popup">Pop-up Camper ($10–25k)</option>
+          <option value="tc">Truck Camper ($15–50k)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Purchase Price ($)
+        <input id="rvc-price" type="number" min="0" value="35000"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Down Payment ($)
+        <input id="rvc-down" type="number" min="0" value="7000"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Loan Rate (%, 0 = cash)
+        <input id="rvc-rate" type="number" min="0" max="30" step="0.1" value="7.5"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Loan Term
+        <select id="rvc-term" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+          <option value="0">Cash / No Loan</option>
+          <option value="10" selected>10 years</option>
+          <option value="15">15 years</option>
+          <option value="20">20 years</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Years You'll Own It
+        <select id="rvc-own" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+          <option value="3">3 years</option>
+          <option value="5" selected>5 years</option>
+          <option value="7">7 years</option>
+          <option value="10">10 years</option>
+        </select>
+      </label>
+    </div>
+
+    <!-- Section: Annual Costs -->
+    <div style="font-size:13px;font-weight:700;color:var(--muted,#6b6860);margin:20px 0 10px;text-transform:uppercase;letter-spacing:.05em">Annual Operating Costs</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Insurance ($/yr)
+        <input id="rvc-ins" type="number" min="0" value="800"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Registration / Taxes ($/yr)
+        <input id="rvc-reg" type="number" min="0" value="400"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Maintenance &amp; Repairs ($/yr)
+        <input id="rvc-maint" type="number" min="0" value="1200"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Storage ($/mo)
+        <input id="rvc-storage" type="number" min="0" value="75"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Nights/yr Camping
+        <input id="rvc-nights" type="number" min="0" value="60"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Avg Campsite ($/night)
+        <input id="rvc-campsite" type="number" min="0" value="40"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+
+    <!-- Section: Fuel -->
+    <div style="font-size:13px;font-weight:700;color:var(--muted,#6b6860);margin:20px 0 10px;text-transform:uppercase;letter-spacing:.05em">Fuel</div>
+    <div id="rvc-fuel-tow" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Tow Vehicle MPG (empty)
+        <input id="rvc-mpg-empty" type="number" min="1" step="0.5" value="18"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        MPG While Towing
+        <input id="rvc-mpg-tow" type="number" min="1" step="0.5" value="10"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+    <div id="rvc-fuel-motor" style="display:none;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Motorhome MPG
+        <input id="rvc-mpg-motor" type="number" min="1" step="0.5" value="12"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Miles Driven / Year (RV trips)
+        <input id="rvc-miles" type="number" min="0" value="5000"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Fuel Price ($/gal)
+        <input id="rvc-fuelprice" type="number" min="0" step="0.01" value="3.80"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Propane ($/yr)
+        <input id="rvc-propane" type="number" min="0" value="400"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)">
+        Subscriptions &amp; Memberships ($/yr)
+        <input id="rvc-subs" type="number" min="0" value="600"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+
+    <!-- Depreciation note -->
+    <p style="margin:0 0 18px;font-size:12px;color:var(--stone,#a09c94)">
+      Depreciation model: Year 1 −20% (new RV), Years 2–5 −10%/yr, Years 6–10 −5%/yr. Already-used RVs skip Year 1 drop.
+      Maintenance rule of thumb: budget 1.5–2% of purchase price per year for repairs.
+    </p>
+
+    <!-- Calculate button -->
+    <button id="rvc-btn" onclick="rvcCalc()"
+      style="background:var(--accent,#c2410c);color:#fff;border:none;border-radius:10px;padding:13px 28px;font-size:1rem;font-weight:700;cursor:pointer;width:100%">
+      Calculate Total Cost
+    </button>
+
+    <!-- Results -->
+    <div id="rvc-results" style="display:none">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)">Monthly Payment</span>
+          <span id="rvc-r-monthly" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0">—</span>
+          <span style="display:block;font-size:11px;color:var(--stone,#a09c94)">if financing</span>
+        </div>
+        <div style="background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)">Annual Operating</span>
+          <span id="rvc-r-annual" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0">—</span>
+          <span style="display:block;font-size:11px;color:var(--stone,#a09c94)">per year</span>
+        </div>
+        <div style="background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)">Resale Value</span>
+          <span id="rvc-r-resale" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0">—</span>
+          <span id="rvc-r-resale-label" style="display:block;font-size:11px;color:var(--stone,#a09c94)">in N years</span>
+        </div>
+        <div style="background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)">Total Cost of Ownership</span>
+          <span id="rvc-r-total" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0">—</span>
+          <span id="rvc-r-total-label" style="display:block;font-size:11px;color:var(--stone,#a09c94)">over N years</span>
+        </div>
+        <div style="background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)">Cost Per Night</span>
+          <span id="rvc-r-night" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0">—</span>
+          <span style="display:block;font-size:11px;color:var(--stone,#a09c94)">all-in / camping night</span>
+        </div>
+      </div>
+
+      <div id="rvc-callout" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem"></div>
+
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94)">
+        This estimate does not include modifications, upgrades, or the cost of replacing appliances. Class A motorhomes average $14,000–20,000/yr in total costs. Results are estimates for planning purposes only.
+      </p>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  /* Defaults per RV type */
+  var RV_DEFAULTS = {
+    classA:  { ins:2500, reg:800,  maint:3000, mpgMotor:8,  isTow:false },
+    classB:  { ins:1800, reg:400,  maint:2000, mpgMotor:20, isTow:false },
+    classC:  { ins:2000, reg:400,  maint:2000, mpgMotor:12, isTow:false },
+    tt:      { ins:800,  reg:400,  maint:1200, isTow:true },
+    fw:      { ins:1000, reg:400,  maint:1200, isTow:true },
+    popup:   { ins:400,  reg:400,  maint:800,  isTow:true },
+    tc:      { ins:600,  reg:400,  maint:800,  isTow:true }
+  };
+
+  function fmt(n){ return '$' + Math.round(n).toLocaleString('en-US'); }
+
+  /* Update fuel section + defaults when type changes */
+  document.getElementById('rvc-type').addEventListener('change', function(){
+    var t = this.value;
+    var d = RV_DEFAULTS[t];
+    document.getElementById('rvc-ins').value   = d.ins;
+    document.getElementById('rvc-reg').value   = d.reg;
+    document.getElementById('rvc-maint').value = d.maint;
+    var towDiv   = document.getElementById('rvc-fuel-tow');
+    var motorDiv = document.getElementById('rvc-fuel-motor');
+    if(d.isTow){
+      towDiv.style.display   = 'grid';
+      motorDiv.style.display = 'none';
+    } else {
+      towDiv.style.display   = 'none';
+      motorDiv.style.display = 'grid';
+      document.getElementById('rvc-mpg-motor').value = d.mpgMotor;
+    }
+  });
+
+  window.rvcCalc = function(){
+    var type      = document.getElementById('rvc-type').value;
+    var price     = parseFloat(document.getElementById('rvc-price').value)     || 0;
+    var down      = parseFloat(document.getElementById('rvc-down').value)      || 0;
+    var rate      = parseFloat(document.getElementById('rvc-rate').value)      || 0;
+    var termYrs   = parseInt(document.getElementById('rvc-term').value)        || 0;
+    var ownYrs    = parseInt(document.getElementById('rvc-own').value)         || 5;
+    var ins       = parseFloat(document.getElementById('rvc-ins').value)       || 0;
+    var reg       = parseFloat(document.getElementById('rvc-reg').value)       || 0;
+    var maint     = parseFloat(document.getElementById('rvc-maint').value)     || 0;
+    var storageMo = parseFloat(document.getElementById('rvc-storage').value)   || 0;
+    var nights    = parseFloat(document.getElementById('rvc-nights').value)    || 60;
+    var campsite  = parseFloat(document.getElementById('rvc-campsite').value)  || 0;
+    var miles     = parseFloat(document.getElementById('rvc-miles').value)     || 0;
+    var fuelPrice = parseFloat(document.getElementById('rvc-fuelprice').value) || 3.80;
+    var propane   = parseFloat(document.getElementById('rvc-propane').value)   || 0;
+    var subs      = parseFloat(document.getElementById('rvc-subs').value)      || 0;
+
+    var d = RV_DEFAULTS[type];
+
+    /* --- Loan payment --- */
+    var loanAmt   = Math.max(0, price - down);
+    var monthlyPmt = 0, totalInterest = 0;
+    if(termYrs > 0 && rate > 0 && loanAmt > 0){
+      var r = (rate/100)/12;
+      var n = termYrs * 12;
+      monthlyPmt = loanAmt * (r * Math.pow(1+r,n)) / (Math.pow(1+r,n)-1);
+      totalInterest = monthlyPmt * n - loanAmt;
+    } else if(termYrs > 0 && rate === 0 && loanAmt > 0){
+      /* 0% financing — just principal */
+      monthlyPmt = loanAmt / (termYrs * 12);
+      totalInterest = 0;
+    }
+    /* Interest only over ownership period (loan may be longer) */
+    var ownMonths = ownYrs * 12;
+    var interestOverOwn = 0;
+    if(termYrs > 0 && rate > 0 && loanAmt > 0){
+      var r = (rate/100)/12;
+      var n = termYrs * 12;
+      var balance = loanAmt;
+      for(var m=0; m<Math.min(ownMonths, n); m++){
+        var intPart = balance * r;
+        interestOverOwn += intPart;
+        balance -= (monthlyPmt - intPart);
+      }
+    }
+
+    /* --- Fuel --- */
+    var fuelCostYr = 0;
+    if(d.isTow){
+      var mpgEmpty = parseFloat(document.getElementById('rvc-mpg-empty').value) || 18;
+      var mpgTow   = parseFloat(document.getElementById('rvc-mpg-tow').value)   || 10;
+      var extraGal = miles / mpgTow - miles / mpgEmpty;
+      fuelCostYr   = Math.max(0, extraGal) * fuelPrice;
+    } else {
+      var mpgMotor = parseFloat(document.getElementById('rvc-mpg-motor').value) || 12;
+      fuelCostYr   = (miles / mpgMotor) * fuelPrice;
+    }
+
+    /* --- Annual operating --- */
+    var storage  = storageMo * 12;
+    var camping  = nights * campsite;
+    var annualOp = ins + reg + maint + storage + camping + fuelCostYr + propane + subs;
+
+    /* --- Depreciation / resale --- */
+    /* Year 1: -20% (new); 2-5: -10%/yr; 6-10: -5%/yr */
+    var val = price;
+    for(var y=1; y<=ownYrs; y++){
+      if(y===1) val *= 0.80;
+      else if(y<=5) val *= 0.90;
+      else val *= 0.95;
+    }
+    var resale = Math.max(0, val);
+    var totalDeprec = price - resale;
+
+    /* --- Total cost --- */
+    var totalOp    = annualOp * ownYrs;
+    var totalCost  = down + interestOverOwn + totalOp + totalDeprec;
+    /* (down + remaining principal at sale is offset by resale; we count interest + op + depreciation) */
+    /* Simpler user-friendly view: cash paid out = interest + operating + depreciation loss */
+    var costPerNight = nights > 0 ? totalCost / ownYrs / nights : 0;
+
+    /* --- Render --- */
+    document.getElementById('rvc-r-monthly').textContent = termYrs > 0 ? fmt(monthlyPmt) : 'Cash';
+    document.getElementById('rvc-r-annual').textContent  = fmt(annualOp);
+    document.getElementById('rvc-r-resale').textContent  = fmt(resale);
+    document.getElementById('rvc-r-resale-label').textContent = 'in ' + ownYrs + ' yr' + (ownYrs>1?'s':'');
+    document.getElementById('rvc-r-total').textContent   = fmt(totalCost);
+    document.getElementById('rvc-r-total-label').textContent = 'over ' + ownYrs + ' year' + (ownYrs>1?'s':'');
+    document.getElementById('rvc-r-night').textContent   = nights > 0 ? fmt(costPerNight) : 'N/A';
+
+    var callout = 'At ' + fmt(costPerNight) + '/night all-in total cost, compared to renting an RV ($150–300/night) or a hotel — the math depends heavily on how often you use it.';
+    if(type === 'classA') callout += ' Class A motorhomes typically run $14,000–20,000/year in total ownership costs.';
+    document.getElementById('rvc-callout').textContent = callout;
+
+    document.getElementById('rvc-results').style.display = 'block';
+  };
+})();
+</script>
