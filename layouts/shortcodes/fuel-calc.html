@@ -4,7 +4,6 @@
 {{ $gas := 3.20 }}{{ $diesel := 3.65 }}{{ $date := "recently" }}{{ $src := "U.S. EIA" }}
 {{ with $d }}{{ $gas = .gas }}{{ $diesel = .diesel }}{{ $date = .date }}{{ $src = .source }}{{ end }}
 {{ $geokey := site.Params.geoapify_key | default "" }}
-{{ $inp := "width:100%;margin-top:5px;padding:9px;border:1px solid var(--border,#d6d3d1);border-radius:8px;font-size:15px;box-sizing:border-box" }}
 <div class="fuelcalc" style="margin:32px 0;border:1px solid var(--border,#e7e5e4);border-radius:14px;overflow:hidden">
   <div style="padding:16px 20px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1.05rem">RV Trip Fuel Cost Calculator</div>
   <div style="padding:20px">
@@ -19,12 +18,12 @@
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px">
         <div style="position:relative">
           <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280)">From
-            <input id="fc-from" type="text" autocomplete="off" placeholder="City, State" style="{{ $inp }}"></label>
+            <input id="fc-from" type="text" autocomplete="off" placeholder="City, State"></label>
           <ul id="fc-from-sg" class="fc-suggest" style="display:none"></ul>
         </div>
         <div style="position:relative">
           <label style="font-size:12px;font-weight:600;color:var(--muted,#6b7280)">To
-            <input id="fc-to" type="text" autocomplete="off" placeholder="City, State" style="{{ $inp }}"></label>
+            <input id="fc-to" type="text" autocomplete="off" placeholder="City, State"></label>
           <ul id="fc-to-sg" class="fc-suggest" style="display:none"></ul>
         </div>
       </div>
@@ -50,16 +49,16 @@
 
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
       <label style="font-size:13px;font-weight:600;display:block">Your state
-        <select id="fc-state" style="{{ $inp }}"><option value="">National average</option></select></label>
+        <select id="fc-state"><option value="">National average</option></select></label>
       <label style="font-size:13px;font-weight:600;display:block">Trip distance (miles)
-        <input id="fc-miles" type="number" value="500" min="0" style="{{ $inp }}"></label>
+        <input id="fc-miles" type="number" value="500" min="0"></label>
       <label style="font-size:13px;font-weight:600;display:block">RV fuel economy (MPG)
-        <input id="fc-mpg" type="number" value="10" min="1" step="0.5" style="{{ $inp }}"></label>
+        <input id="fc-mpg" type="number" value="10" min="1" step="0.5"></label>
       <label style="font-size:13px;font-weight:600;display:block">Fuel type
-        <select id="fc-type" style="{{ $inp }}">
+        <select id="fc-type">
           <option value="gas">Regular gas</option><option value="diesel">Diesel</option></select></label>
       <label style="font-size:13px;font-weight:600;display:block">Price per gallon ($)
-        <input id="fc-price" type="number" value="{{ printf "%.2f" $gas }}" min="0" step="0.01" style="{{ $inp }}"></label>
+        <input id="fc-price" type="number" value="{{ printf "%.2f" $gas }}" min="0" step="0.01"></label>
     </div>
 
     <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:20px">
@@ -80,6 +79,11 @@
 .fuelcalc .fc-suggest li{padding:8px 10px;font-size:13px;border-radius:6px;cursor:pointer}
 .fuelcalc .fc-suggest li:hover,.fuelcalc .fc-suggest li.act{background:var(--surface2,#f5f2ec)}
 .fuelcalc #fc-route-btn:hover{filter:brightness(.94)}
+.fuelcalc input,.fuelcalc select{width:100%;margin-top:6px;padding:13px 14px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:11px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.fuelcalc input::placeholder{color:var(--stone,#a09c94)}
+.fuelcalc input:hover,.fuelcalc select:hover{border-color:var(--accent,#c2410c)}
+.fuelcalc input:focus,.fuelcalc select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.fuelcalc select{appearance:none;-webkit-appearance:none;cursor:pointer;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%236b6860' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 14px center;padding-right:40px}
 </style>
 <div id="fc-data" data-cfg='{{ dict "fuel" $d "geokey" $geokey | jsonify }}' style="display:none"></div>
 <script>
