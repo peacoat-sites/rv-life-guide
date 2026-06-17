@@ -1,0 +1,183 @@
+<style>
+.rvcl{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.rvcl-head{padding:15px 20px;background:var(--surface2,#f5f2ec);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+.rvcl-head-title{font-weight:800;font-size:1.1rem;color:var(--text,#1a1a18)}
+.rvcl-progress{font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.rvcl-progress-bar-wrap{height:6px;background:var(--border,rgba(0,0,0,.1));border-radius:3px;margin-top:4px;width:180px}
+.rvcl-progress-bar{height:6px;border-radius:3px;background:var(--accent,#c2410c);transition:width .3s;width:0%}
+.rvcl-body{padding:20px}
+.rvcl-btns{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap}
+.rvcl-btns button{background:none;border:1px solid var(--border-strong,rgba(0,0,0,.14));border-radius:8px;padding:9px 16px;font-size:14px;font-weight:600;color:var(--text,#1a1a18);cursor:pointer}
+.rvcl-btns button:hover{border-color:var(--accent,#c2410c)}
+.rvcl-btns .rvcl-print-btn{margin-left:auto}
+.rvcl-cat{margin-bottom:20px}
+.rvcl-cat-title{font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;color:var(--muted,#6b6860);margin-bottom:10px;padding-bottom:6px;border-bottom:1px solid var(--border,rgba(0,0,0,.1))}
+.rvcl-item{display:flex;align-items:flex-start;gap:10px;padding:8px 0;border-bottom:1px solid color-mix(in srgb,var(--border,rgba(0,0,0,.1)) 60%,transparent)}
+.rvcl-item:last-child{border-bottom:none}
+.rvcl-item input[type=checkbox]{flex-shrink:0;width:18px;height:18px;margin-top:1px;cursor:pointer;accent-color:var(--accent,#c2410c)}
+.rvcl-item label{font-size:14px;color:var(--text,#1a1a18);cursor:pointer;line-height:1.4;flex:1}
+.rvcl-item.checked label{text-decoration:line-through;color:var(--muted,#6b6860)}
+.rvcl-complete{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;font-weight:700;color:var(--accent,#c2410c);text-align:center;display:none}
+@media print{
+  .rvcl-btns{display:none!important}
+  .rvcl-item input{-webkit-appearance:checkbox!important}
+  body{padding:20px}
+}
+</style>
+
+<div class="rvcl" id="rv-cl">
+  <div class="rvcl-head">
+    <div>
+      <div class="rvcl-head-title">RV Pre-Departure Checklist</div>
+      <div class="rvcl-progress-bar-wrap"><div class="rvcl-progress-bar" id="rvcl-bar"></div></div>
+    </div>
+    <div class="rvcl-progress" id="rvcl-progress">0 / 0 items checked</div>
+  </div>
+  <div class="rvcl-body">
+    <div class="rvcl-btns">
+      <button onclick="rvclCheckAll()">Check All</button>
+      <button onclick="rvclReset()">Reset</button>
+      <button class="rvcl-print-btn" onclick="window.print()">Print</button>
+    </div>
+    <div id="rvcl-list"></div>
+    <div class="rvcl-complete" id="rvcl-complete">All items checked — safe travels!</div>
+  </div>
+</div>
+
+<script>
+(function(){
+var CATEGORIES=[
+  {title:'Exterior',items:[
+    'Tire pressure checked (inflate to placard spec)',
+    'Tires inspected for cracks, bulges, and wear',
+    'Lug nuts torqued (especially after new tires or long storage)',
+    'Slideouts fully retracted',
+    'Awning rolled up and secured',
+    'Steps retracted',
+    'Landing gear / stabilizer jacks fully retracted',
+    'All exterior compartment doors latched and locked',
+    'Shore power cord disconnected and stored',
+    'TV antenna lowered',
+    'Roof checked (A/C covers secured, vents closed, seams clear)'
+  ]},
+  {title:'Towing / Hitch',items:[
+    'Ball mount properly sized for trailer coupler (check ratings match)',
+    'Hitch ball torqued, coupler fully seated and locked',
+    'Hitch pin or clip installed',
+    'Safety chains crossed under tongue and attached',
+    'Breakaway cable connected to tow vehicle (not to hitch)',
+    'All trailer lights working: brake, turn signals, running lights',
+    'Weight distribution hitch bars set and chains attached (if applicable)',
+    'Sway control attached and adjusted (if applicable)'
+  ]},
+  {title:'Interior',items:[
+    'All overhead and base cabinets latched and locked',
+    'Refrigerator door latched (travel latch engaged)',
+    'Stove burners confirmed off, oven door latched',
+    'Microwave door latched',
+    'Toilet valve closed (holding tank blade fully closed)',
+    'All windows and roof vents closed',
+    'Water heater off or switched to correct mode (propane/12V)',
+    'Water pump switched off',
+    'Freshwater level noted, gray/black tanks at safe capacity'
+  ]},
+  {title:'Propane',items:[
+    'Propane tanks turned OFF for travel (unless running a 12V absorption fridge)',
+    'Propane detector tested and functioning',
+    'CO detector functional'
+  ]},
+  {title:'Pre-Departure Walk-Around',items:[
+    '360° walk-around completed — nothing left behind or dragging',
+    'Mirrors adjusted wide enough to see trailer edges',
+    'Know clearance height and first low bridge on route',
+    'GPS set to RV mode (avoid low bridges, weight-restricted roads)',
+    'Cell phones charged, emergency contacts notified of route'
+  ]}
+];
+
+var STORE_KEY='rv-checklist-v1';
+
+function loadState(){
+  try{return JSON.parse(localStorage.getItem(STORE_KEY)||'{}')}catch(e){return {}}
+}
+function saveState(s){
+  try{localStorage.setItem(STORE_KEY,JSON.stringify(s))}catch(e){}
+}
+
+function itemId(ci,ii){return 'rvcl-'+ci+'-'+ii}
+
+function buildList(){
+  var state=loadState();
+  var html='';
+  CATEGORIES.forEach(function(cat,ci){
+    html+='<div class="rvcl-cat"><div class="rvcl-cat-title">'+cat.title+'</div>';
+    cat.items.forEach(function(item,ii){
+      var id=itemId(ci,ii);
+      var checked=!!state[id];
+      html+='<div class="rvcl-item'+(checked?' checked':'')+'" id="wrap-'+id+'">'
+        +'<input type="checkbox" id="'+id+'"'+(checked?' checked':'')
+        +' onchange="rvclToggle(\''+id+'\')">'
+        +'<label for="'+id+'">'+item+'</label></div>';
+    });
+    html+='</div>';
+  });
+  document.getElementById('rvcl-list').innerHTML=html;
+  updateProgress();
+}
+
+function rvclToggle(id){
+  var state=loadState();
+  var cb=document.getElementById(id);
+  var wrap=document.getElementById('wrap-'+id);
+  state[id]=cb.checked;
+  if(cb.checked){wrap.classList.add('checked')}else{wrap.classList.remove('checked')}
+  saveState(state);
+  updateProgress();
+}
+window.rvclToggle=rvclToggle;
+
+function updateProgress(){
+  var total=0,checked=0;
+  CATEGORIES.forEach(function(cat,ci){
+    cat.items.forEach(function(_,ii){
+      total++;
+      if(document.getElementById(itemId(ci,ii)).checked)checked++;
+    });
+  });
+  document.getElementById('rvcl-progress').textContent=checked+' / '+total+' items checked';
+  document.getElementById('rvcl-bar').style.width=(total>0?checked/total*100:0)+'%';
+  var complete=document.getElementById('rvcl-complete');
+  complete.style.display=(checked===total&&total>0)?'block':'none';
+}
+
+function rvclCheckAll(){
+  var state={};
+  CATEGORIES.forEach(function(cat,ci){
+    cat.items.forEach(function(_,ii){
+      var id=itemId(ci,ii);
+      document.getElementById(id).checked=true;
+      document.getElementById('wrap-'+id).classList.add('checked');
+      state[id]=true;
+    });
+  });
+  saveState(state);
+  updateProgress();
+}
+window.rvclCheckAll=rvclCheckAll;
+
+function rvclReset(){
+  CATEGORIES.forEach(function(cat,ci){
+    cat.items.forEach(function(_,ii){
+      var id=itemId(ci,ii);
+      document.getElementById(id).checked=false;
+      document.getElementById('wrap-'+id).classList.remove('checked');
+    });
+  });
+  saveState({});
+  updateProgress();
+}
+window.rvclReset=rvclReset;
+
+buildList();
+})();
+</script>

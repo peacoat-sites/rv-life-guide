@@ -1,0 +1,149 @@
+<style>
+.rvsolar{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.rvsolar-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem;color:var(--text,#1a1a18)}
+.rvsolar-body{padding:20px}
+.rvsolar-batt{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
+.rvsolar-batt button{background:none;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:8px;padding:9px 18px;font-size:14px;font-weight:600;color:var(--text,#1a1a18);cursor:pointer;transition:all .15s}
+.rvsolar-batt button.active{background:var(--accent,#c2410c);color:#fff;border-color:var(--accent,#c2410c)}
+.rvsolar-batt button:hover:not(.active){border-color:var(--accent,#c2410c)}
+.rvsolar-table{width:100%;border-collapse:collapse;font-size:14px;margin-bottom:8px}
+.rvsolar-table th{background:var(--surface2,#f5f2ec);padding:8px 10px;text-align:left;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860);border-bottom:1px solid var(--border,rgba(0,0,0,.1))}
+.rvsolar-table td{padding:7px 10px;border-bottom:1px solid var(--border,rgba(0,0,0,.1));vertical-align:middle}
+.rvsolar-table tr:last-child td{border-bottom:none}
+.rvsolar-table input[type=number]{width:80px;padding:6px 8px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:8px;font-size:14px;font-family:inherit;color:var(--text,#1a1a18);background:var(--surface,#fff)}
+.rvsolar-table input[type=number]:focus{outline:none;border-color:var(--accent,#c2410c)}
+.rvsolar-table input[type=checkbox]{width:16px;height:16px;cursor:pointer;accent-color:var(--accent,#c2410c)}
+.rvsolar-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rv-val{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.rvsolar-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.rvsolar-callout b{color:var(--accent,#c2410c)}
+.rvsolar-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.rv-val{font-size:1.4rem}.rvsolar-table{font-size:13px}}
+</style>
+
+<div class="rvsolar">
+  <div class="rvsolar-head">RV Solar &amp; Battery Sizing Calculator</div>
+  <div class="rvsolar-body">
+
+    <div style="margin-bottom:14px">
+      <div style="font-size:13px;font-weight:700;color:var(--muted,#6b6860);margin-bottom:8px">BATTERY TYPE</div>
+      <div class="rvsolar-batt">
+        <button id="rv-la-btn" class="active" onclick="rvSetBatt('la')">Lead-Acid (AGM/Flooded)</button>
+        <button id="rv-li-btn" onclick="rvSetBatt('li')">LiFePO4 (Lithium)</button>
+      </div>
+    </div>
+
+    <div style="overflow-x:auto">
+      <table class="rvsolar-table">
+        <thead>
+          <tr>
+            <th style="width:36px">On?</th>
+            <th>Appliance</th>
+            <th>Watts</th>
+            <th>Hrs/day</th>
+            <th>Wh/day</th>
+          </tr>
+        </thead>
+        <tbody id="rv-appliances">
+        </tbody>
+        <tfoot>
+          <tr style="background:var(--surface2,#f5f2ec);font-weight:700">
+            <td colspan="4" style="padding:8px 10px;font-size:13px">Daily Total</td>
+            <td style="padding:8px 10px;font-size:15px;color:var(--accent,#c2410c)" id="rv-daily-total">0 Wh</td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+
+    <div class="rvsolar-results" id="rv-results">
+      <div class="rc"><span class="rl">Daily Energy Need</span><span class="rv-val" id="rv-r-kwh">—</span><span class="rs">kWh per day</span></div>
+      <div class="rc"><span class="rl">Battery Bank</span><span class="rv-val" id="rv-r-ah">—</span><span class="rs">Ah at 12V needed</span></div>
+      <div class="rc"><span class="rl">Solar Panels</span><span class="rv-val" id="rv-r-panels">—</span><span class="rs">× 250W panels</span></div>
+      <div class="rc"><span class="rl">Generator Size</span><span class="rv-val" id="rv-r-gen">—</span><span class="rs">watts minimum</span></div>
+    </div>
+
+    <div class="rvsolar-callout" id="rv-callout" style="display:none">
+      <b>System Estimate:</b> <span id="rv-callout-text"></span>
+    </div>
+
+    <p class="rvsolar-note">Solar production varies with shade, weather, season, and roof angle. Always build in at least 30% extra capacity. LiFePO4 batteries cost more upfront but last 2&ndash;3&times; longer and provide more usable capacity per dollar over time.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+var APPLIANCES=[
+  {name:'LED Lights',w:30,h:4,on:true},
+  {name:'12V Refrigerator',w:45,h:24,on:true},
+  {name:'Phone / Laptop Charging',w:60,h:3,on:true},
+  {name:'Water Pump',w:60,h:0.5,on:true},
+  {name:'Fan / Vent',w:30,h:6,on:true},
+  {name:'TV / Streaming',w:80,h:2,on:true},
+  {name:'Coffee Maker',w:900,h:0.1,on:false},
+  {name:'Microwave',w:1000,h:0.1,on:false},
+  {name:'Air Conditioner (off-grid)',w:1500,h:0,on:false}
+];
+var battType='la';
+
+function rvSetBatt(t){
+  battType=t;
+  document.getElementById('rv-la-btn').className=t==='la'?'active':'';
+  document.getElementById('rv-li-btn').className=t==='li'?'active':'';
+  rvCalc();
+}
+window.rvSetBatt=rvSetBatt;
+
+function buildTable(){
+  var tbody=document.getElementById('rv-appliances');
+  tbody.innerHTML='';
+  APPLIANCES.forEach(function(a,i){
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td style="text-align:center"><input type="checkbox" id="rv-cb'+i+'"'+(a.on?' checked':'')+' onchange="rvCalc()"></td>'
+      +'<td style="font-weight:600">'+a.name+'</td>'
+      +'<td><input type="number" id="rv-w'+i+'" value="'+a.w+'" min="0" step="1" oninput="rvCalc()" style="width:72px"></td>'
+      +'<td><input type="number" id="rv-h'+i+'" value="'+a.h+'" min="0" step="0.1" oninput="rvCalc()" style="width:72px"></td>'
+      +'<td id="rv-wh'+i+'" style="font-variant-numeric:tabular-nums;color:var(--muted,#6b6860)">'+Math.round(a.w*a.h)+' Wh</td>';
+    tbody.appendChild(tr);
+  });
+}
+
+function rvCalc(){
+  var totalWh=0;
+  var maxW=0;
+  for(var i=0;i<APPLIANCES.length;i++){
+    var on=document.getElementById('rv-cb'+i).checked;
+    var w=parseFloat(document.getElementById('rv-w'+i).value)||0;
+    var h=parseFloat(document.getElementById('rv-h'+i).value)||0;
+    var wh=on?Math.round(w*h):0;
+    document.getElementById('rv-wh'+i).textContent=(on?wh:0)+' Wh';
+    if(on){totalWh+=wh;if(w>maxW)maxW=w;}
+  }
+  document.getElementById('rv-daily-total').textContent=totalWh.toLocaleString()+' Wh';
+  var kWh=totalWh/1000;
+  var dod=battType==='li'?0.8:0.5;
+  var ah=kWh>0?Math.ceil(kWh*1000/12/dod):0;
+  var panels=kWh>0?Math.ceil(kWh/(0.25*5*0.8)):0;
+  var gen=maxW>0?Math.ceil(maxW*1.25/100)*100:0;
+  document.getElementById('rv-r-kwh').textContent=kWh.toFixed(2)+' kWh';
+  document.getElementById('rv-r-ah').textContent=ah>0?ah+' Ah':'—';
+  document.getElementById('rv-r-panels').textContent=panels>0?panels+'×':'—';
+  document.getElementById('rv-r-gen').textContent=gen>0?gen.toLocaleString()+'W':'—';
+  var callout=document.getElementById('rv-callout');
+  var calloutText=document.getElementById('rv-callout-text');
+  if(kWh>0){
+    var battCost=battType==='li'?Math.round(ah*1.2/100)*100*3:Math.round(ah*1.2/100)*100;
+    var panelCost=panels*250;
+    callout.style.display='block';
+    calloutText.innerHTML='<b>'+kWh.toFixed(2)+' kWh/day</b> needs roughly <b>'+ah+' Ah</b> of '+(battType==='li'?'LiFePO4':'lead-acid')+' battery and <b>'+panels+'&times; 250W panels</b>. Est. solar cost: <b>~$'+(panelCost*3).toLocaleString()+'</b> (panels + charge controller). Est. battery cost: <b>~$'+(battType==='li'?ah*8:ah*2).toLocaleString()+'</b>.';
+  } else {
+    callout.style.display='none';
+  }
+}
+
+buildTable();
+rvCalc();
+})();
+</script>
