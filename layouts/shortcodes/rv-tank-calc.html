@@ -1,0 +1,101 @@
+<div class="rv-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">RV Fresh Water &amp; Tank Duration Calculator</div>
+  <div style="padding:20px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Fresh Water Tank (gallons)
+        <input id="rv-fresh" type="number" min="5" max="200" value="60" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="rvCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Gray Tank (gallons)
+        <input id="rv-gray" type="number" min="5" max="200" value="40" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="rvCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Black Tank (gallons)
+        <input id="rv-black" type="number" min="5" max="200" value="30" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="rvCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Number of People
+        <input id="rv-people" type="number" min="1" max="10" value="2" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s" onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'" onblur="this.style.borderColor='var(--border-strong)';this.style.boxShadow='none'" oninput="rvCalc()">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Shower Type
+        <select id="rv-shower" onchange="rvCalc()" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="0">Skip / no shower</option>
+          <option value="3" selected>Navy shower (2-3 min = 3 gal)</option>
+          <option value="7.5">Normal shower (5 min = 7.5 gal)</option>
+          <option value="15">Full shower (15 gal)</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">Toilet Type
+        <select id="rv-toilet" onchange="rvCalc()" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="0">Composting / skip (0 gal)</option>
+          <option value="2" selected>Standard RV (0.5 gal x 4/day/person)</option>
+        </select>
+      </label>
+    </div>
+    <div id="rv-results" style="margin-top:4px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Daily Usage (gal)</span>
+          <span id="rv-daily" class="rv" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Fresh Tank Lasts</span>
+          <span id="rv-fresh-days" class="rv" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+          <span style="display:block;font-size:11px;color:var(--muted)">days</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Gray Tank Fills In</span>
+          <span id="rv-gray-days" class="rv" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+          <span style="display:block;font-size:11px;color:var(--muted)">days</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Black Tank Fills In</span>
+          <span id="rv-black-days" class="rv" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span>
+          <span style="display:block;font-size:11px;color:var(--muted)">days</span>
+        </div>
+      </div>
+      <div id="rv-callout" style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5"></div>
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">Gray water includes shower, sink, and dishwash drainage. Black water is toilet waste only. Actual usage varies by habits - these are estimates for planning purposes.</p>
+    </div>
+  </div>
+</div>
+<style>@media(max-width:560px){.rv{font-size:1.4rem}}</style>
+<script>
+function rvCalc(){
+  var fresh=parseFloat(document.getElementById('rv-fresh').value)||60;
+  var gray=parseFloat(document.getElementById('rv-gray').value)||40;
+  var black=parseFloat(document.getElementById('rv-black').value)||30;
+  var people=parseInt(document.getElementById('rv-people').value)||2;
+  var showerGal=parseFloat(document.getElementById('rv-shower').value);
+  var toiletPerPersonPerDay=parseFloat(document.getElementById('rv-toilet').value);
+  // Water usage
+  var drinking=1*people; // 1 gal/person/day
+  var dishwash=2; // 2 gal/day for group
+  var handwash=0.5*people; // 0.5 gal/person/day
+  var shower=showerGal*people; // per shower per person per day
+  var toiletUsage=toiletPerPersonPerDay===0?0:0.5*4*people; // 0.5 gal/flush x 4/day/person
+  var dailyTotal=drinking+dishwash+handwash+shower+toiletUsage;
+  // Gray tank = everything except toilet (drinking is consumed, rest drains to gray)
+  var grayPerDay=dishwash+handwash+shower; // rough estimate
+  // Black tank = toilet only
+  var blackPerDay=toiletUsage;
+  var freshDays=dailyTotal>0?(fresh/dailyTotal).toFixed(1):'N/A';
+  var grayDays=grayPerDay>0?(gray/grayPerDay).toFixed(1):'N/A';
+  var blackDays=blackPerDay>0?(black/blackPerDay).toFixed(1):'N/A';
+  document.getElementById('rv-daily').textContent=dailyTotal.toFixed(1)+' gal';
+  document.getElementById('rv-fresh-days').textContent=freshDays;
+  document.getElementById('rv-gray-days').textContent=grayDays;
+  document.getElementById('rv-black-days').textContent=blackPerDay>0?blackDays:'Unlimited';
+  // Limiting factor
+  var limits=[
+    {label:'fresh water',days:parseFloat(freshDays)||9999},
+    {label:'gray tank',days:grayPerDay>0?parseFloat(grayDays):9999},
+    {label:'black tank',days:blackPerDay>0?parseFloat(blackDays):9999}
+  ];
+  limits.sort(function(a,b){return a.days-b.days;});
+  var limiting=limits[0];
+  var tipText='';
+  if(showerGal===7.5||showerGal===15){
+    tipText=' Switching to navy showers saves '+(showerGal-3).toFixed(1)+' gallons per person per day.';
+  }
+  document.getElementById('rv-callout').innerHTML='<strong>Limiting factor:</strong> Your <strong>'+limiting.label+'</strong> will be reached first after approximately <strong>'+limiting.days+' days</strong>.'+tipText+' Water saving tips: navy showers save 4-12 gallons per person vs a normal shower. A family of 4 can dry camp 3-4 days comfortably on a 60-gallon tank with conservation.';
+}
+window.addEventListener('DOMContentLoaded',rvCalc);
+</script>
