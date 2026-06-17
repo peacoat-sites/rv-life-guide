@@ -67,7 +67,7 @@ Here's a basic daily power budget that catches most people off guard:
 
 A single 100Ah battery handles one moderate day. Any serious boondocking setup needs at least 200Ah of lithium (or 400Ah of AGM/flooded lead-acid, since you can only use 50% of those). Two 100Ah lithium batteries plus 400 watts of solar is a setup that will comfortably handle a week of boondocking without much stress.
 
-For solar, a quality [100W flexible solar panel](https://www.amazon.com/s?k=rv+solar+panel+100w&tag=rvlv-20) can put out 30-50Ah on a clear day depending on your latitude and panel angle. Four of those panels covers most full-time boondockers. Add a [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=rvlv-20) and you'll actually know what percentage of charge you have, instead of guessing. That monitor alone has saved a lot of people from waking up to a dead system.
+For solar, a quality [100W flexible solar panel](https://www.amazon.com/s?k=rv+solar+panel+100w&tag=contentportfo-20) can put out 30-50Ah on a clear day depending on your latitude and panel angle. Four of those panels covers most full-time boondockers. Add a [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20) and you'll actually know what percentage of charge you have, instead of guessing. That monitor alone has saved a lot of people from waking up to a dead system.
 
 If solar isn't fully solving your needs, a small propane generator like the Champion 2000W or a Honda EU2200i can top up your batteries in two to three hours without being obnoxious to your surroundings. Many boondockers run a generator for two hours in the morning and call it done.
 
@@ -88,7 +88,7 @@ For waste, the gray tank fills faster than most people expect. Cooking, dishes, 
 
 Dump stations aren't hard to find. Sanidumps.com and the Campendium app both show free and low-cost dump stations. Many Flying J and Pilot truck stops charge $10-15 to dump, which is worth it when you need it.
 
-A quality [inline water filter](https://www.amazon.com/s?k=camco+tastepure+water+filter+rv&tag=rvlv-20) protects you when you're filling from unfamiliar sources at campgrounds or dump stations. It's a $20-30 solution that most full-timers consider non-negotiable.
+A quality [inline water filter](https://www.amazon.com/s?k=camco+tastepure+water+filter+rv&tag=contentportfo-20) protects you when you're filling from unfamiliar sources at campgrounds or dump stations. It's a $20-30 solution that most full-timers consider non-negotiable.
 
 ---
 
@@ -104,7 +104,7 @@ Finding a spot on a map and actually sleeping there safely are two different thi
 
 **Step 4: Check the surface before you commit.** Drive into the area slowly. Look for soft soil, sand that could swallow a tire, or rocky terrain that could damage your undercarriage. If the ground looks questionable, get out and walk it first.
 
-**Step 5: Set up correctly.** Use [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlv-20) to get level before deploying slides or jacks. Unlevel RVs strain the refrigerator (which needs to be within a few degrees of level to run properly) and make sleeping uncomfortable.
+**Step 5: Set up correctly.** Use [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) to get level before deploying slides or jacks. Unlevel RVs strain the refrigerator (which needs to be within a few degrees of level to run properly) and make sleeping uncomfortable.
 
 **Step 6: Respect Leave No Trace.** Pack out all trash, don't cut vegetation, and use a WAG bag or your black tank. The reason boondocking is still free and available is because most people using it act responsibly.
 
@@ -128,7 +128,7 @@ Class B campervans are arguably the best boondocking rigs available. They're com
 
 For those who want more space, a well-chosen travel trailer or Class C can work excellently. The key specs to look for are large freshwater tank capacity (40+ gallons), a decent factory solar prep, and a reasonably sized battery compartment that can accommodate a lithium upgrade. Our coverage of [the best travel trailers for full-time living](/best-travel-trailers-full-time/) highlights models that are actually equipped for extended off-grid use.
 
-Whatever you're driving, a [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=rvlv-20) is essential for when you do connect to shore power. And if you're choosing between rig types, our [Class A vs Class B vs Class C comparison](/class-a-vs-class-b-vs-class-c-rv/) breaks down the real-world trade-offs that matter for this lifestyle.
+Whatever you're driving, a [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) is essential for when you do connect to shore power. And if you're choosing between rig types, our [Class A vs Class B vs Class C comparison](/class-a-vs-class-b-vs-class-c-rv/) breaks down the real-world trade-offs that matter for this lifestyle.
 
 ---
 

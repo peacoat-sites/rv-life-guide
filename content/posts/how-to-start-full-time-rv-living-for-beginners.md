@@ -74,9 +74,9 @@ The difference between a comfortable full-timer and a miserable one often comes 
 
 If you want any independence from campground hookups, look at solar. A basic 200-watt rooftop panel setup with a 100Ah lithium battery (Battle Born or Renogy are both solid) will run LED lights, charge devices, run a fan, and keep a 12V refrigerator going. That's around $800 to $1,200 in components if you DIY. A battery monitor like the Victron BMV-712 (~$120) tells you exactly what's going into and out of your batteries, which is the only way to stop guessing about your power state.
 
-For water, always run a [dedicated RV inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlivingguide-20) before water enters your tank. The Camco TastePURE is $20 and does the job. Don't skip this at older campgrounds.
+For water, always run a [dedicated RV inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) before water enters your tank. The Camco TastePURE is $20 and does the job. Don't skip this at older campgrounds.
 
-[Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlivingguide-20) sound boring until you've spent a night trying to sleep at a 4-degree tilt. A set of Camco's yellow stackable chocks runs about $30. Put them in your exterior bay and never go without them.
+[Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) sound boring until you've spent a night trying to sleep at a 4-degree tilt. A set of Camco's yellow stackable chocks runs about $30. Put them in your exterior bay and never go without them.
 
 Cell boosters and hotspots deserve a whole article. Short version: a WeBoost Drive Sleek or the RV 65 model ($180 to $500) helps in fringe areas, but it can't create signal where there's literally none. A dual-carrier hotspot setup (one Verizon, one T-Mobile) covers far more geography than any booster.
 

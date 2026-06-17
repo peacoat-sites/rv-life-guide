@@ -83,9 +83,9 @@ This is where things get real. The good news is that for most RVs with a standar
 
 **Step 2: Calculate your actual power needs.** Add up the wattage of everything you run and roughly how long you run it each day. A 12V compressor fridge might draw 4-5 amps and run 8 hours a day, totaling 40Ah. A laptop might pull 3-4 amps for 4 hours, another 16Ah. Do this for every device. Add 20% buffer. That's your minimum usable battery capacity target.
 
-**Step 3: Choose your battery bank size and brand.** Based on your audit and calculation, decide on your target capacity. Don't just match what you had in AGM. Remember the usable capacity difference means you might actually need fewer amp-hours than you think. A [Renogy 200Ah 12V LiFePO4 battery](https://www.amazon.com/s?k=renogy+200ah+lifepo4+lithium+battery&tag=rvlife-20) is a solid mid-range option to consider. *(Note: this site may earn a commission on purchases.)*
+**Step 3: Choose your battery bank size and brand.** Based on your audit and calculation, decide on your target capacity. Don't just match what you had in AGM. Remember the usable capacity difference means you might actually need fewer amp-hours than you think. A [Renogy 200Ah 12V LiFePO4 battery](https://www.amazon.com/s?k=renogy+200ah+lifepo4+lithium+battery&tag=contentportfo-20) is a solid mid-range option to consider. *(Note: this site may earn a commission on purchases.)*
 
-**Step 4: Upgrade your charger/converter if needed.** Check your existing unit's documentation. If it doesn't have a lithium charging profile, replace it now. The [AIMS Power lithium charger](https://www.amazon.com/s?k=AIMS+Power+lithium+battery+charger&tag=rvlife-20) is one I've recommended to several people in my community with good results. *(Commissions may apply.)*
+**Step 4: Upgrade your charger/converter if needed.** Check your existing unit's documentation. If it doesn't have a lithium charging profile, replace it now. The [AIMS Power lithium charger](https://www.amazon.com/s?k=AIMS+Power+lithium+battery+charger&tag=contentportfo-20) is one I've recommended to several people in my community with good results. *(Commissions may apply.)*
 
 **Step 5: Check your solar charge controller.** If you're running solar, your charge controller also needs a lithium profile. Most MPPT controllers from the last five years have one. PWM controllers, especially older ones, may not.
 
@@ -93,9 +93,9 @@ This is where things get real. The good news is that for most RVs with a standar
 
 **Step 7: Install new batteries, connect cables, configure your charger.** Follow the battery manufacturer's wiring guide precisely. Set your converter/charger to the lithium profile (usually 14.4-14.6V absorption, 13.6V float). Do a full charge cycle before trusting the system for boondocking.
 
-**Step 8: Add a battery monitor.** This one I can't stress enough. A shunt-based battery monitor like the [Victron SmartShunt 500A](https://www.amazon.com/s?k=victron+smartshunt+500a&tag=rvlife-20) gives you real-time data on state of charge, current draw, and remaining runtime. With lithium especially, you want accurate data, not guessing. *(Commissions may apply.)*
+**Step 8: Add a battery monitor.** This one I can't stress enough. A shunt-based battery monitor like the [Victron SmartShunt 500A](https://www.amazon.com/s?k=victron+smartshunt+500a&tag=contentportfo-20) gives you real-time data on state of charge, current draw, and remaining runtime. With lithium especially, you want accurate data, not guessing. *(Commissions may apply.)*
 
-**Step 9: Protect your shore power connection.** If you're going to be at campgrounds, add a [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=rvlife-20) between the pedestal and your rig. Campground power quality is often terrible and can damage electronics, including your new charger. *(Commissions may apply.)*
+**Step 9: Protect your shore power connection.** If you're going to be at campgrounds, add a [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) between the pedestal and your rig. Campground power quality is often terrible and can damage electronics, including your new charger. *(Commissions may apply.)*
 
 ## What Nobody Tells You About Living With Lithium
 

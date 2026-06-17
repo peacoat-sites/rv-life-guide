@@ -63,7 +63,7 @@ Showing up to a dump station unprepared is how you end up improvising with inade
 
 **A hose specifically for tank rinsing.** This is a completely separate hose from your drinking water hose. Label them differently. Keep them stored differently. This hose connects to a water source at the dump station (if available) and rinses your tanks and sewer hose before you pack up. Never, under any circumstances, use your drinking water hose at a dump station.
 
-A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlife-20) and [water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlife-20) are electrical and water safety basics for RV life in general, but at the dump station specifically, your focus is on the sewer hose setup and keeping cross-contamination out of your system. *(This site may earn a commission on qualifying Amazon purchases.)*
+A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) and [water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) are electrical and water safety basics for RV life in general, but at the dump station specifically, your focus is on the sewer hose setup and keeping cross-contamination out of your system. *(This site may earn a commission on qualifying Amazon purchases.)*
 
 ---
 

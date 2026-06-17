@@ -88,7 +88,7 @@ For the 2,815 Wh/day example: two days of storage = 5,630 Wh. You'd need roughly
 
 If you're still running AGM batteries, use 50% of rated capacity as your usable number. A 200Ah AGM = 100Ah usable. You'd need roughly 940Ah of AGM to equal 470Ah of LiFePO4. That's four to five heavy AGM batteries versus two lithium. The weight difference alone is worth the lithium price premium if you're full-timing.
 
-A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlifeguide-20) is non-negotiable. Guessing your state of charge by voltage is like driving without a fuel gauge. It works until it doesn't, and when it doesn't, you're stuck. I use a Victron BMV-712 and trust it completely.
+A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is non-negotiable. Guessing your state of charge by voltage is like driving without a fuel gauge. It works until it doesn't, and when it doesn't, you're stuck. I use a Victron BMV-712 and trust it completely.
 
 ## Charge Controllers and Inverters: Don't Cut Corners Here
 
@@ -100,7 +100,7 @@ Size your charge controller to handle your total panel wattage with 25% headroom
 
 **Inverters:** If you're running AC appliances from your battery bank, you need an inverter. Inverter sizing depends on your peak load, not your average. A 1,000-watt coffee maker plus a 65-watt laptop plus a 120-watt TV equals 1,185 watts peak. Buy a 2,000-watt pure sine wave inverter and you'll never sweat simultaneous loads. Modified sine wave inverters are cheaper and will damage sensitive electronics over time. Pay for pure sine once.
 
-A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlifeguide-20) for shore power hookups is separate from your inverter situation but equally important. One bad campground pedestal can fry your entire electrical system. A 30-amp or 50-amp inline surge protector costs $80-300 and has saved my rig at least twice that I know about.
+A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) for shore power hookups is separate from your inverter situation but equally important. One bad campground pedestal can fry your entire electrical system. A 30-amp or 50-amp inline surge protector costs $80-300 and has saved my rig at least twice that I know about.
 
 ## Roof Space, Portable Panels, and Real-World Constraints
 
@@ -110,13 +110,13 @@ This is the conversation nobody wants to have before they buy. A standard RV roo
 
 Options when the roof isn't enough:
 
-**Portable ground-deploy panels** work well in open desert camping where you can angle them toward the sun and move them as it tracks. A pair of [100-watt portable panels](https://www.amazon.com/s?k=portable+solar+panels+rv&tag=rvlifeguide-20) folds up and stores in a basement compartment. They're genuinely useful as a supplement, not as a primary system.
+**Portable ground-deploy panels** work well in open desert camping where you can angle them toward the sun and move them as it tracks. A pair of [100-watt portable panels](https://www.amazon.com/s?k=portable+solar+panels+rv&tag=contentportfo-20) folds up and stores in a basement compartment. They're genuinely useful as a supplement, not as a primary system.
 
 **Tilting panel mounts** can increase production 15-25% compared to flat-mounted panels in northern latitudes, especially in winter. If your panels are fixed flat, you're leaving production on the table from November through February.
 
 **A generator as part of the system** is not a failure. I run a Honda EU2200i for 2-3 hours on heavy cloudy days and it tops off the batteries faster than a full day of weak sun. Purists will disagree. Purists also run out of power. A generator is a tool, not a crutch, when it's part of a planned system.
 
-Don't forget a quality [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=rvlifeguide-20) while you're kitting out the rig. Unrelated to solar, but every new full-timer I've met regrets not installing one sooner. The Camco inline filter is a solid, cheap start.
+Don't forget a quality [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) while you're kitting out the rig. Unrelated to solar, but every new full-timer I've met regrets not installing one sooner. The Camco inline filter is a solid, cheap start.
 
 
 *Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*

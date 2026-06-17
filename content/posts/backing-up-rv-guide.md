@@ -111,7 +111,7 @@ The rear overhang issue gets people constantly. When you turn a motorhome, the r
 
 The backup camera on most motorhomes is genuinely useful, but calibrate your trust in it. The wide-angle lens distorts distance. Objects appear further away than they are. I've watched people back into pedestals they were convinced were five feet behind them. A good pair of towing mirrors and a spotter you've trained beat the camera every time for final approach.
 
-For motorhome drivers: consider a wireless rear camera system with a dedicated monitor if your factory unit has a small or poorly placed screen. The [Furrion Vision S](https://www.amazon.com/s?k=rv+backup+camera+wireless&tag=rvlife-20) style wireless cameras have improved dramatically and give you the ability to mount a second camera on the side for blind spot coverage. *(This site may earn a commission on qualifying Amazon purchases.)*
+For motorhome drivers: consider a wireless rear camera system with a dedicated monitor if your factory unit has a small or poorly placed screen. The [Furrion Vision S](https://www.amazon.com/s?k=rv+backup+camera+wireless&tag=contentportfo-20) style wireless cameras have improved dramatically and give you the ability to mount a second camera on the side for blind spot coverage. *(This site may earn a commission on qualifying Amazon purchases.)*
 
 ---
 
@@ -121,11 +121,11 @@ For motorhome drivers: consider a wireless rear camera system with a dedicated m
 
 **Convex spot mirrors:** Cheap, effective, underused. A $15 convex mirror bolted to your existing tow mirror gives you a wider field of view at the rear corners. I've had a set on every truck I've used for towing.
 
-**Leveling blocks:** Not a backing aid, but you need them at the site anyway. [Lynx Levelers](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=rvlife-20) stack in seconds and handle most grade situations. *(Affiliate link. We may earn a commission.)*
+**Leveling blocks:** Not a backing aid, but you need them at the site anyway. [Lynx Levelers](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=contentportfo-20) stack in seconds and handle most grade situations. *(Affiliate link. We may earn a commission.)*
 
 **Backup sensors/obstacle detection systems:** These work reasonably well for large stationary objects. They miss tree branches, thin posts, and low obstacles. Don't trust them as your primary protection.
 
-**Walkie-talkies:** If you and your spotter are more than 50 feet apart or in a noisy campground, a cheap pair of [two-way radios](https://www.amazon.com/s?k=walkie+talkie+two+way+radio&tag=rvlife-20) eliminates the "WHAT?" problem completely. *(Affiliate link.)* We've used them for years and they're genuinely worth the $25.
+**Walkie-talkies:** If you and your spotter are more than 50 feet apart or in a noisy campground, a cheap pair of [two-way radios](https://www.amazon.com/s?k=walkie+talkie+two+way+radio&tag=contentportfo-20) eliminates the "WHAT?" problem completely. *(Affiliate link.)* We've used them for years and they're genuinely worth the $25.
 
 **The one that doesn't:** Those magnetic wheel dot guides some people stick to their trailer wheels. In theory they help you track where your wheels are. In practice, they're too small to see in mirrors at any real backing distance and false-confidence products like this tend to replace developing actual skill.
 

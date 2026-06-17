@@ -36,7 +36,7 @@ The industry loves selling you accessories. Half of them are junk. Here's what y
 
 **Non-negotiable:**
 
-A quality sewer hose. Not the thin accordion-style hose that came bundled with your rig. Those fail at the worst moments, and "worst moment" in this context requires no elaboration. The Camco RhinoFLEX 20-foot kit is the one I've used for years. Thick walls, decent fittings, and it doesn't kink into a sewer pretzel when you're trying to route it around a concrete pad. [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=rvsite-20) *(site may earn a commission)*.
+A quality sewer hose. Not the thin accordion-style hose that came bundled with your rig. Those fail at the worst moments, and "worst moment" in this context requires no elaboration. The Camco RhinoFLEX 20-foot kit is the one I've used for years. Thick walls, decent fittings, and it doesn't kink into a sewer pretzel when you're trying to route it around a concrete pad. [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=contentportfo-20) *(site may earn a commission)*.
 
 A sewer hose support. I resisted buying one for my first full year on the road. Huge mistake. When your hose sags mid-run, waste doesn't drain completely, and you're left with residue that ferments and damages your hose. The Camco Sidewinder sits low enough to work under most rigs and holds even a 20-foot run at the right angle without tipping. Worth every dollar of its $25 price.
 

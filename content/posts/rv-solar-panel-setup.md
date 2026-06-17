@@ -40,7 +40,7 @@ You have four core pieces: the solar panels themselves, a charge controller, a b
 
 **Solar panels** convert sunlight to DC electricity. Most residential RVers are running 100-watt to 200-watt monocrystalline panels. Monocrystalline is more efficient per square foot than polycrystalline, which matters when roof space is limited. Flexible panels exist but I'll be honest: I've seen them delaminate within two years on multiple rigs. They run hotter, which kills efficiency, and they don't breathe well against a flat roof. Rigid panels with a small air gap underneath are almost always the better long-term call.
 
-**Charge controllers** are where I see the most confusion. There are two types: PWM (Pulse Width Modulation) and MPPT (Maximum Power Point Tracking). PWM is cheaper but wastes available energy, sometimes significantly. MPPT controllers, like the [Renogy Rover 40A MPPT](https://www.amazon.com/s?k=renogy+rover+40a+mppt+charge+controller&tag=rvlifesite-20), can extract 20-30% more power from the same panels, especially in cold weather or partial shade conditions. If you're investing in a real solar system, spend the extra $50-100 on MPPT. You'll recover the cost in performance within the first few months.
+**Charge controllers** are where I see the most confusion. There are two types: PWM (Pulse Width Modulation) and MPPT (Maximum Power Point Tracking). PWM is cheaper but wastes available energy, sometimes significantly. MPPT controllers, like the [Renogy Rover 40A MPPT](https://www.amazon.com/s?k=renogy+rover+40a+mppt+charge+controller&tag=contentportfo-20), can extract 20-30% more power from the same panels, especially in cold weather or partial shade conditions. If you're investing in a real solar system, spend the extra $50-100 on MPPT. You'll recover the cost in performance within the first few months.
 
 **Batteries** are where the money really goes and where the decisions matter most. I'll cover this in its own section below.
 
@@ -56,7 +56,7 @@ Lithium iron phosphate (LiFePO4) batteries changed the math entirely. You can di
 
 The tradeoff is cost. Expect to pay $700-1,000 for a quality 100Ah LiFePO4 battery versus $150-200 for a comparable AGM. But when you factor in lifespan (LiFePO4 typically lasts 2,000-3,000+ cycles versus 300-500 for AGM), the math often favors lithium over a 5-10 year horizon.
 
-A [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=rvlifesite-20) is one of those purchases I wish I'd made on day one. Watching your actual state of charge, not a rough voltage estimate, changes how you manage power completely.
+A [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20) is one of those purchases I wish I'd made on day one. Watching your actual state of charge, not a rough voltage estimate, changes how you manage power completely.
 
 One more thing: if you're going lithium, confirm your charger, shore power converter, and charge controller are lithium-compatible. Not all are. Charging lithium with a charger programmed for AGM won't necessarily destroy the battery immediately, but it will undercharge it and shorten its life.
 
@@ -98,7 +98,7 @@ I'll be honest: the installation manuals for solar components are often written 
 
 **Fuse everything at the source.** Every wire leaving your battery bank should be fused within 18 inches of the battery. No exceptions. A short in an unfused wire is how RV fires start.
 
-Pair your solar with a [quality surge protector on shore power](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=rvlifesite-20). Your solar system won't protect your appliances from bad campground power, and bad campground power is more common than you'd think.
+Pair your solar with a [quality surge protector on shore power](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20). Your solar system won't protect your appliances from bad campground power, and bad campground power is more common than you'd think.
 
 ---
 
@@ -110,7 +110,7 @@ What surprised me when I started connecting with other full-timers was how often
 
 **Shading one panel and tanking the whole array.** Panels wired in series are like Christmas lights. One shaded panel drops the output for the entire string. Consider wiring in parallel or using a charge controller with individual panel optimization. Even a roof vent or AC unit casting a shadow on one corner of one panel can cut your production by 30-40%.
 
-**Skipping a [proper water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlifesite-20) when boondocking while focusing entirely on power.** Okay, this isn't a solar mistake, but it's a classic "got obsessed with one system and ignored another" mistake. Solar is often the shiny object. Don't let it be.
+**Skipping a [proper water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) when boondocking while focusing entirely on power.** Okay, this isn't a solar mistake, but it's a classic "got obsessed with one system and ignored another" mistake. Solar is often the shiny object. Don't let it be.
 
 **Expecting full-rated wattage in real conditions.** A 400-watt panel array might produce 280-320 watts on a good clear day. Panels are rated at ideal laboratory conditions: 77°F, direct perpendicular sunlight. In practice, heat reduces efficiency, angle matters, and atmospheric haze cuts output. Plan your system around realistic production numbers.
 

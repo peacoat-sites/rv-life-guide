@@ -89,7 +89,7 @@ In my first three years, I replaced two slide-out motors ($1,400 each), a water 
 
 Put $200 a month into a dedicated repair savings account. Don't touch it for anything else. The month your air conditioner dies in July in Texas, you'll be grateful you have $1,800 sitting there instead of reaching for a credit card.
 
-A few preventive investments that actually pay off: A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlifeguide-20) (around $200-$300 for a quality 30 or 50-amp model) can save you a multi-thousand-dollar electrical repair. A [water pressure regulator and inline filter](https://www.amazon.com/s?k=rv+water+filter+pressure+regulator&tag=rvlifeguide-20) protect your plumbing and improve your water quality for about $40. These are cheap insurance. *(This site may earn a commission on purchases made through these links.)*
+A few preventive investments that actually pay off: A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) (around $200-$300 for a quality 30 or 50-amp model) can save you a multi-thousand-dollar electrical repair. A [water pressure regulator and inline filter](https://www.amazon.com/s?k=rv+water+filter+pressure+regulator&tag=contentportfo-20) protect your plumbing and improve your water quality for about $40. These are cheap insurance. *(This site may earn a commission on purchases made through these links.)*
 
 ---
 
@@ -101,7 +101,7 @@ Mail service is an often-forgotten $15 to $30 a month. Escapees, America's Mailb
 
 Cell service and internet will run you $150 to $250 a month if you need reliable connectivity. Most full-timers run two carriers for redundancy. I run Verizon and T-Mobile, and I still hit dead zones. If you work remotely, this is not a place to cut corners.
 
-If you're running solar, which I'd strongly recommend, the upfront cost can be $2,000 to $8,000 depending on the system size, but it slashes your generator fuel costs and gives you real independence at free campsites. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlifeguide-20) is an inexpensive addition that tells you exactly how much juice you have left, which is worth every penny when you're boondocking. A good [solar panel kit](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=rvlifeguide-20) is the kind of investment that pays back within a year or two of regular boondocking. *(This site may earn a commission on purchases made through these links.)*
+If you're running solar, which I'd strongly recommend, the upfront cost can be $2,000 to $8,000 depending on the system size, but it slashes your generator fuel costs and gives you real independence at free campsites. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is an inexpensive addition that tells you exactly how much juice you have left, which is worth every penny when you're boondocking. A good [solar panel kit](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20) is the kind of investment that pays back within a year or two of regular boondocking. *(This site may earn a commission on purchases made through these links.)*
 
 Storage units are a sneaky recurring cost. A lot of people pay $100 to $200 a month storing furniture and boxes they'll never actually go through. Be ruthless. Sell it, donate it, or give it to family. That $150 a month is $1,800 a year for stuff you don't use.
 
@@ -123,7 +123,7 @@ Don't guess. Build a real spending plan before your first month out. Here's how 
 
 6. **Add a 15% buffer.** Something will cost more than you expected. It always does. Build that cushion in from the start rather than discovering it mid-month.
 
-7. **Consider [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlifeguide-20) and basic gear in your startup costs.** The first few months have one-time purchases that inflate your budget. Don't panic, just plan for it. *(This site may earn a commission on purchases made through these links.)*
+7. **Consider [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) and basic gear in your startup costs.** The first few months have one-time purchases that inflate your budget. Don't panic, just plan for it. *(This site may earn a commission on purchases made through these links.)*
 
 ---
 

@@ -66,7 +66,7 @@ Fuel economy is the obvious win: 18 to 24 mpg in a Transit-based unit isn't unus
 
 For solo travelers or couples who are genuinely minimalist, or who want to combine van living with a home base, Class B is hard to argue against. For families, or anyone who says "I need my own space sometimes," it's a different story.
 
-If you go the Class B route, a good [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlifecontent-20) is non-negotiable. The small battery banks in van builds get stressed fast, and you need to know your actual state of charge in real time, not guess.
+If you go the Class B route, a good [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is non-negotiable. The small battery banks in van builds get stressed fast, and you need to know your actual state of charge in real time, not guess.
 
 ## Class C: The Compromise That Actually Works for Most People
 
@@ -93,7 +93,7 @@ Fuel economy lands between A and B: typically 8 to 14 mpg depending on size. Dri
 | Toad vehicle needed | Almost always | Rarely | Sometimes |
 | Mechanic availability | Specialty shops | Most shops | Most shops |
 
-One thing that table can't capture: water and electrical systems are a major variable across all three classes. Before you buy anything, I'd put a [Camco TastePURE inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlifecontent-20) and a [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlifecontent-20) on every single rig regardless of class. Every campground you hook up to is a mystery box for water quality and electrical stability.
+One thing that table can't capture: water and electrical systems are a major variable across all three classes. Before you buy anything, I'd put a [Camco TastePURE inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) and a [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) on every single rig regardless of class. Every campground you hook up to is a mystery box for water quality and electrical stability.
 
 ## How to Actually Choose: A Practical Framework
 
@@ -105,7 +105,7 @@ Don't start with the rig. Start with these questions.
 
 **Step 3: Be honest about driving anxiety.** Driving a large Class A through mountain switchbacks in Colorado is a real skill. If the idea of that genuinely scares you, don't buy a 40-footer to "get used to it." Get comfortable in something smaller first.
 
-**Step 4: Price out the full system.** A $120,000 Class A needs leveling blocks, a toad vehicle, tow bar equipment (budget $1,500 to $3,000 for a good setup), solar if you want boondocking capability, and almost certainly some immediate repairs on anything pre-owned. A $90,000 Class C on a newer Ford chassis might be a better financial picture when you run the full numbers. [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlifecontent-20) are a $30 item you'll use every single day and should be in every rig.
+**Step 4: Price out the full system.** A $120,000 Class A needs leveling blocks, a toad vehicle, tow bar equipment (budget $1,500 to $3,000 for a good setup), solar if you want boondocking capability, and almost certainly some immediate repairs on anything pre-owned. A $90,000 Class C on a newer Ford chassis might be a better financial picture when you run the full numbers. [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are a $30 item you'll use every single day and should be in every rig.
 
 **Step 5: Spend a night in each class before you buy.** RVshare and Outdoorsy let you rent specific rigs. I'm serious about this. One night in a 24-foot Class C told me more than 40 hours of YouTube videos. Especially if you have a partner, you need to know if you can coexist in that space for more than a day.
 

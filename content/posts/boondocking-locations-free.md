@@ -120,7 +120,7 @@ Federal land is the headline, but it's not the whole story.
 
 **Harvest Hosts** isn't free, but at $99/year it buys you access to a network of wineries, farms, breweries, and attractions that let members stay overnight. It's a different vibe, not boondocking exactly, but worth mentioning because the stays are often genuinely memorable and the cost per night works out to almost nothing if you use it regularly.
 
-For off-grid stays to actually work, the gear matters. A quality [solar panel setup](https://www.amazon.com/s?k=rv+solar+panels&tag=rvlife-20) and [lithium battery bank](https://www.amazon.com/s?k=rv+lithium+battery&tag=rvlife-20) change everything about how long you can comfortably stay off-grid. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) is something I consider non-negotiable; guessing your state of charge is a recipe for waking up with a dead system. A [quality water filter](https://www.amazon.com/s?k=rv+water+filter+berkey&tag=rvlife-20) matters too if you're hauling your water rather than relying on hookups.
+For off-grid stays to actually work, the gear matters. A quality [solar panel setup](https://www.amazon.com/s?k=rv+solar+panels&tag=contentportfo-20) and [lithium battery bank](https://www.amazon.com/s?k=rv+lithium+battery&tag=contentportfo-20) change everything about how long you can comfortably stay off-grid. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is something I consider non-negotiable; guessing your state of charge is a recipe for waking up with a dead system. A [quality water filter](https://www.amazon.com/s?k=rv+water+filter+berkey&tag=contentportfo-20) matters too if you're hauling your water rather than relying on hookups.
 
 *(Disclosure: this site may earn a commission on qualifying purchases through the links above.)*
 
@@ -134,7 +134,7 @@ Cell signal is genuinely bad in most of the best boondocking spots. I've adapted
 
 The 14-day stay limit is real and enforced in popular areas. This is the biggest misconception I see from new boondockers. You cannot just park in Quartzsite indefinitely without paying for a Long Term Visitor Area permit. Rangers do drive through and document rigs. After 14 days on any single BLM or Forest Service dispersed area, you must move at least 25 miles away before returning.
 
-Roads will test your rig. Not in a dramatic way every time, but over years, rough dirt road driving adds up. Check your wheel lug torques after any significant off-pavement driving. Watch your tire sidewalls. Bring a [quality leveling system](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) because many dispersed sites are not flat.
+Roads will test your rig. Not in a dramatic way every time, but over years, rough dirt road driving adds up. Check your wheel lug torques after any significant off-pavement driving. Watch your tire sidewalls. Bring a [quality leveling system](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) because many dispersed sites are not flat.
 
 Fire restrictions change constantly in summer and fall across the West. An area that's legal to camp in can prohibit all fires and sometimes even generators during red flag conditions. Check current restrictions at the managing agency's website every single time, not just when you first research the spot.
 

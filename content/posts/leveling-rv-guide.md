@@ -54,7 +54,7 @@ Here's a distinction that trips up a lot of newcomers: you level side-to-side fi
 
 Once you understand this order, the whole process becomes much faster. On a good site I can be level in under 10 minutes. On a sloped gravel site that fights me, maybe 20. It gets faster every time.
 
-A decent bubble level placed on a countertop or a purpose-made RV level works fine for checking your work. I prefer a two-axis level you can leave sitting on the counter so you can glance at it from outside. The [Camco RV Level](https://www.amazon.com/s?k=camco+rv+two+way+level&tag=rvlife-20) is basic and reliable, and it costs about $10. *(This site may earn a commission on qualifying purchases.)*
+A decent bubble level placed on a countertop or a purpose-made RV level works fine for checking your work. I prefer a two-axis level you can leave sitting on the counter so you can glance at it from outside. The [Camco RV Level](https://www.amazon.com/s?k=camco+rv+two+way+level&tag=contentportfo-20) is basic and reliable, and it costs about $10. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 
@@ -63,7 +63,7 @@ A decent bubble level placed on a countertop or a purpose-made RV level works fi
 This is the process I walk every new towable owner through. It works whether you have a fancy remote-controlled stabilizer system or just a tongue jack and a bag of blocks.
 
 **What you'll need:**
-- Leveling blocks (I've used [Camco Fasten leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks&tag=rvlife-20) for years, they're stackable and lock together)
+- Leveling blocks (I've used [Camco Fasten leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks&tag=contentportfo-20) for years, they're stackable and lock together)
 - A bubble or digital level
 - Wheel chocks
 - A tongue jack or pin box with crank/motor
@@ -100,7 +100,7 @@ I want to be honest about something: not every campsite is going to cooperate. S
 
 Here's what I tell people when they're frustrated with a bad site:
 
-**Stack your blocks higher.** Most leveling block sets max out at about 4 inches of lift. If you need more, you can run two stacks side by side under each tire, or purchase a dedicated ramp-style block like the [Tri-Lynx Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=rvlife-20) that stack up quite high. *(This site may earn a commission on qualifying purchases.)*
+**Stack your blocks higher.** Most leveling block sets max out at about 4 inches of lift. If you need more, you can run two stacks side by side under each tire, or purchase a dedicated ramp-style block like the [Tri-Lynx Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20) that stack up quite high. *(This site may earn a commission on qualifying purchases.)*
 
 **Ask to move sites.** At a campground, it's completely acceptable to ask if there's a more level spot available. I do it regularly without embarrassment.
 

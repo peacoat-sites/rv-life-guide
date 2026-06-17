@@ -62,7 +62,7 @@ You're piloting a vehicle that's 13 feet tall, possibly 8.5 feet wide, and has a
 
 Towing a trailer has its own learning curve. Backing into a campsite with a trailer attached is a skill that takes real practice. You will jackknife in public at least once. Your mirrors need to be set perfectly, and you need to understand trailer sway before you experience it at 70 mph on an interstate.
 
-That said, day-to-day livability favors the trailer setup for most people. Once you've parked and leveled your trailer (a good set of leveling blocks like [Camco's Fasten leveling system](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) makes this much faster), you unhook and suddenly you have a normal vehicle again. Want to drive 45 minutes into town for dinner? You just drive. Motorhome owners either stay close to camp, drive the whole rig, or tow a small car behind them, which adds complexity and cost.
+That said, day-to-day livability favors the trailer setup for most people. Once you've parked and leveled your trailer (a good set of leveling blocks like [Camco's Fasten leveling system](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) makes this much faster), you unhook and suddenly you have a normal vehicle again. Want to drive 45 minutes into town for dinner? You just drive. Motorhome owners either stay close to camp, drive the whole rig, or tow a small car behind them, which adds complexity and cost.
 
 Motorhome interiors, however, tend to feel more residential. The floor plan flows better. The cab area integrates with the living space. In bad weather, you walk from your bedroom to your driving seat without going outside. That matters more than you'd expect after a few weeks of winter camping.
 
@@ -74,8 +74,8 @@ This is where a lot of new RVers underestimate the daily grind.
 1. Pull into your site, align your position front to back
 2. Check your level readings (side-to-side and front-to-back)
 3. Deploy auto-leveling jacks if equipped, or manually position leveling blocks
-4. Connect shore power using a [30 or 50-amp surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlife-20) (non-negotiable, campground power is notoriously dirty)
-5. Connect water with a [filtered water hose](https://www.amazon.com/s?k=rv+water+filter+hose&tag=rvlife-20) or inline filter
+4. Connect shore power using a [30 or 50-amp surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) (non-negotiable, campground power is notoriously dirty)
+5. Connect water with a [filtered water hose](https://www.amazon.com/s?k=rv+water+filter+hose&tag=contentportfo-20) or inline filter
 6. Set up sewer connection if full hookups are available
 7. Slide out your slide rooms if applicable
 8. Done. Walk to your kitchen.
@@ -100,9 +100,9 @@ Both motorhomes and travel trailers can be built out for serious off-grid use. B
 
 Motorhomes, especially Class A and C units, often have chassis alternators that can charge house batteries while driving. Many also have generator bays already built in. But they're also power-hungry. Larger roof AC units, more lighting, bigger water heaters, all of it draws more amperage.
 
-Travel trailers tend to have simpler 12-volt systems and more roof space for [solar panels](https://www.amazon.com/s?k=rv+solar+panels&tag=rvlife-20) relative to interior square footage. A well-equipped trailer with 400 to 600 watts of solar and a solid lithium battery bank can handle weeks of boondocking without drama.
+Travel trailers tend to have simpler 12-volt systems and more roof space for [solar panels](https://www.amazon.com/s?k=rv+solar+panels&tag=contentportfo-20) relative to interior square footage. A well-equipped trailer with 400 to 600 watts of solar and a solid lithium battery bank can handle weeks of boondocking without drama.
 
-No matter which rig you choose, get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) installed before you leave the dealership. Watching your state of charge in real time changes how you use power and protects your battery investment. I use a Victron BMV-712 and check it constantly.
+No matter which rig you choose, get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) installed before you leave the dealership. Watching your state of charge in real time changes how you use power and protects your battery investment. I use a Victron BMV-712 and check it constantly.
 
 The best boondocking rigs I've seen in six years of campfire conversations have usually been well-equipped trailers or van conversions. Motorhomes can do it, but the fuel burn to reposition when the weather turns makes them less flexible.
 

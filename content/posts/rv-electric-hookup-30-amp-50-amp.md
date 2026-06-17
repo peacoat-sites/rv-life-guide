@@ -70,7 +70,7 @@ A 30-to-50 amp adapter goes the other direction: it lets a 30 amp rig use a 50 a
 
 What you should never do: use adapters with a damaged cord, run adapters in standing water, or daisy-chain multiple adapters together. I've seen people stack two adapters to bridge odd connector combinations. Don't.
 
-A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=rvlife-20) rated for your amperage should be non-negotiable regardless of which service you're using. Campground pedestals can have miswired outlets, voltage problems, and power surges that will fry your converter, your inverter, or your residential appliances. I've run a Progressive Industries EMS on every rig I've owned. It's caught problems at three different campgrounds that would have cost me hundreds in repairs. *(This site may earn a commission on qualifying purchases.)*
+A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) rated for your amperage should be non-negotiable regardless of which service you're using. Campground pedestals can have miswired outlets, voltage problems, and power surges that will fry your converter, your inverter, or your residential appliances. I've run a Progressive Industries EMS on every rig I've owned. It's caught problems at three different campgrounds that would have cost me hundreds in repairs. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 
@@ -100,7 +100,7 @@ I'll be honest: the power quality at many campgrounds is genuinely bad, and this
 
 Here's the physics: when voltage drops, your appliances draw more amperage to try to maintain the same power output. Your AC compressor works harder. Your converter runs hotter. Everything runs less efficiently. Over time, this degrades equipment life, particularly compressors, which are expensive.
 
-A [50 amp surge protector with EMS](https://www.amazon.com/s?k=rv+surge+protector+50+amp+ems&tag=rvlife-20) that includes voltage protection will disconnect your rig automatically when voltage falls outside a safe range. Worth every penny. *(This site may earn a commission on qualifying purchases.)*
+A [50 amp surge protector with EMS](https://www.amazon.com/s?k=rv+surge+protector+50+amp+ems&tag=contentportfo-20) that includes voltage protection will disconnect your rig automatically when voltage falls outside a safe range. Worth every penny. *(This site may earn a commission on qualifying purchases.)*
 
 The research here is mixed on exactly what voltage threshold causes meaningful damage, but most manufacturers rate appliances for 110-120V nominal operation, and consistent operation below 108V is generally considered risky for compressor-based equipment. I treat anything below 108V as "shut off the ACs and call the camp host."
 
@@ -112,7 +112,7 @@ If you're spending significant time off-grid, the 30 vs. 50 amp question shifts.
 
 What does matter off-grid is understanding your rig's 12-volt DC system vs. its 120-volt AC system. Most RVs run lights, fans, and the furnace blower on 12V DC. Your ACs, microwave, and residential fridge run on 120V AC, which off-grid means you need an inverter pulling from your batteries.
 
-A quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=rvlife-20) becomes essential here because you're managing a finite resource, not a continuous supply. I run a Victron BMV-712 and check it compulsively when boondocking. *(This site may earn a commission on qualifying purchases.)*
+A quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20) becomes essential here because you're managing a finite resource, not a continuous supply. I run a Victron BMV-712 and check it compulsively when boondocking. *(This site may earn a commission on qualifying purchases.)*
 
 Solar panels can offset daytime consumption significantly, but if you're running a 50 amp rig with two ACs off solar and batteries, you're talking about a serious system investment: 800+ watts of panels, a large lithium battery bank, and a 3,000-watt or larger inverter. That's a $5,000 to $15,000 upgrade depending on how you spec it. The 30 amp vs. 50 amp label on your rig's shore power connection tells you almost nothing about its off-grid capability. Those are separate systems.
 

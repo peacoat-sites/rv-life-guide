@@ -96,7 +96,7 @@ The $2,000 to $2,500 range is probably where most full-timers actually land once
 
 Above $3,000 a month usually means a financed newer van, a lot of driving, or camping in expensive areas without planning free alternatives. It's not wrong, it just means van life isn't actually cheaper than a lot of apartment situations unless your income can handle it.
 
-One thing most people don't realize until they're living it: your first six months will almost always be more expensive than your steady-state average. You're still buying gear you forgot (a good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvsite-20) for hookup sites, [water filters](https://www.amazon.com/s?k=rv+water+filter&tag=rvsite-20), [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvsite-20)), you're not yet efficient at finding free camping, and you're probably making more mistakes. Build extra buffer into your first-year budget.
+One thing most people don't realize until they're living it: your first six months will almost always be more expensive than your steady-state average. You're still buying gear you forgot (a good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) for hookup sites, [water filters](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20), [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)), you're not yet efficient at finding free camping, and you're probably making more mistakes. Build extra buffer into your first-year budget.
 
 ---
 

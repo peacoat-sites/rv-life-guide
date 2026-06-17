@@ -68,15 +68,15 @@ For most full-timers, the practical checklist looks like this:
 
 **Water.** You're off-grid. If your fresh tank holds 40 gallons and you're a single person with conservative habits, you might get 3 to 4 days. A couple using water normally might get 2 days. Know your tank size and your actual usage, not optimistic usage.
 
-**Power.** Shore power is gone. If you don't have solar or a generator, you're living on your house batteries, which in many stock RVs means 1 to 2 days before things start going wrong. I run a 400-watt solar setup with a 200Ah lithium battery bank, and I can stay out indefinitely in sunny weather. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) is not optional here. You need to see your actual state of charge, not just a vague indicator light. *(Note: this site may earn a commission on purchases.)*
+**Power.** Shore power is gone. If you don't have solar or a generator, you're living on your house batteries, which in many stock RVs means 1 to 2 days before things start going wrong. I run a 400-watt solar setup with a 200Ah lithium battery bank, and I can stay out indefinitely in sunny weather. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is not optional here. You need to see your actual state of charge, not just a vague indicator light. *(Note: this site may earn a commission on purchases.)*
 
-**Leveling.** Most dispersed sites are not level. Bring quality leveling blocks. I've used [Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=rvlife-20) for years and they're the kind of thing you buy once. *(This site may earn a commission on purchases.)*
+**Leveling.** Most dispersed sites are not level. Bring quality leveling blocks. I've used [Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20) for years and they're the kind of thing you buy once. *(This site may earn a commission on purchases.)*
 
 **Waste.** Your black and gray tanks will fill. Know your capacity. On a solo trip I can stretch 5 to 7 days before needing a dump station. Plan your route to include one when you break camp.
 
-**Surge protection.** This one doesn't apply to dispersed camping specifically, but if you're moving between off-grid spots and campgrounds, protect your rig. A [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlife-20) is non-negotiable once you've seen what a bad campground pedestal can do to an RV's electrical system. *(This site may earn a commission on purchases.)*
+**Surge protection.** This one doesn't apply to dispersed camping specifically, but if you're moving between off-grid spots and campgrounds, protect your rig. A [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) is non-negotiable once you've seen what a bad campground pedestal can do to an RV's electrical system. *(This site may earn a commission on purchases.)*
 
-**Drinking water filtration.** Some dispersed campers carry a portable water filter or treatment tablets for emergencies. I use a [gravity-fed water filter](https://www.amazon.com/s?k=rv+water+filter&tag=rvlife-20) that sits in my bay and I drink confidently from campgrounds and water stations. *(This site may earn a commission on purchases.)*
+**Drinking water filtration.** Some dispersed campers carry a portable water filter or treatment tablets for emergencies. I use a [gravity-fed water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) that sits in my bay and I drink confidently from campgrounds and water stations. *(This site may earn a commission on purchases.)*
 
 ## Leave No Trace: The Rules That Keep Public Land Open
 

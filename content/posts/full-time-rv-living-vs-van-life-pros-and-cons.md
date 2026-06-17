@@ -68,7 +68,7 @@ The van wins hard in one specific way: your home is also your car. You park at a
 
 I'd also push back on the romantic idea that van living is "simpler." Your kitchen, bedroom, office, and storage all occupy the same 70 square feet. Meal prep is genuinely more complicated. Running a remote job from a van requires real discipline about your workspace. It can be done, I've met people doing it beautifully, but it's not simpler. It's differently complex.
 
-A good [leveling kit](https://www.amazon.com/s?k=rv+leveling+blocks&tag=example-20) matters in both setups, by the way. Nobody talks about sleeping on a tilted surface until they've woken up at 3am halfway off their mattress. (The CAMCO 44510 blocks are what most people I know use and they've held up fine.)
+A good [leveling kit](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) matters in both setups, by the way. Nobody talks about sleeping on a tilted surface until they've woken up at 3am halfway off their mattress. (The CAMCO 44510 blocks are what most people I know use and they've held up fine.)
 
 ---
 
@@ -82,7 +82,7 @@ Summer is different. A rooftop AC unit in a travel trailer is a genuine luxury. 
 
 What I've seen work: van lifers who follow the weather, spending summers in the Pacific Northwest and winters in the Southwest. If your life allows that kind of flexibility, the climate management problem is mostly solved by geography. If you have commitments that anchor you in one region, an RV with HVAC is often the more livable choice.
 
-On the water side: a 28-foot travel trailer typically carries 30 to 60 gallons fresh water. Most vans carry 15 to 30 gallons. Both lifestyles require you to think about water constantly in ways apartment dwellers never do. A [gravity water filter](https://www.amazon.com/s?k=rv+water+filter&tag=example-20) is non-negotiable in both cases. I use a Camco TastePURE inline filter at minimum and a Berkey inside for drinking water.
+On the water side: a 28-foot travel trailer typically carries 30 to 60 gallons fresh water. Most vans carry 15 to 30 gallons. Both lifestyles require you to think about water constantly in ways apartment dwellers never do. A [gravity water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) is non-negotiable in both cases. I use a Camco TastePURE inline filter at minimum and a Berkey inside for drinking water.
 
 ---
 
@@ -94,7 +94,7 @@ Cities that used to be van-friendly have cracked down hard in the last three yea
 
 The flip side is that the RV park infrastructure has genuinely improved. Apps like Campendium, The Dyrt, and iOverlander have made finding good spots much faster than it was five years ago. Thousand Trails memberships ($600 to $800 a year) give you camping access across the country for essentially a per-night rate that competes with stealth camping when you factor in the hassle reduction.
 
-If true off-grid capability matters to you, both setups require real investment. A 200-watt solar panel setup is entry-level. Most serious full-timers I know are running 400 to 800 watts with a lithium battery bank. The [Victron SmartSolar MPPT controllers](https://www.amazon.com/s?k=victron+mppt+solar+controller&tag=example-20) are what I'd recommend after trying several other brands. A quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=example-20) (the Victron BMV-712 runs about $90) is also something you'll be genuinely grateful for. Knowing your exact state of charge isn't optional when you're boondocking.
+If true off-grid capability matters to you, both setups require real investment. A 200-watt solar panel setup is entry-level. Most serious full-timers I know are running 400 to 800 watts with a lithium battery bank. The [Victron SmartSolar MPPT controllers](https://www.amazon.com/s?k=victron+mppt+solar+controller&tag=contentportfo-20) are what I'd recommend after trying several other brands. A quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) (the Victron BMV-712 runs about $90) is also something you'll be genuinely grateful for. Knowing your exact state of charge isn't optional when you're boondocking.
 
 ---
 

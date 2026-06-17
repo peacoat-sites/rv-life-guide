@@ -59,11 +59,11 @@ Here's where the cost of "free" camping becomes obvious. If you're not self-suff
 
 The baseline setup for comfortable BLM living, in order of priority:
 
-**Fresh water capacity.** Know your exact tank size and your real daily consumption. Two people cooking and doing dishes typically use 3 to 5 gallons per day if you're being mindful. A 40-gallon tank gives you 8 to 12 days if you're not showering inside. Add a [quality inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlife-20) for when you do fill up at a spigot or natural source. *(This site may earn a commission on qualifying purchases.)*
+**Fresh water capacity.** Know your exact tank size and your real daily consumption. Two people cooking and doing dishes typically use 3 to 5 gallons per day if you're being mindful. A 40-gallon tank gives you 8 to 12 days if you're not showering inside. Add a [quality inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) for when you do fill up at a spigot or natural source. *(This site may earn a commission on qualifying purchases.)*
 
-**Power.** A generator works, but it's loud, it burns fuel, and it's antisocial in close quarters with other campers. Solar is the right long-term answer. I run 400 watts of roof panels with a 200Ah lithium battery bank, which covers my laptop, lights, refrigerator, and phone charging indefinitely in good sun. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) is non-negotiable: you need real data, not a guess, about your state of charge. *(This site may earn a commission on qualifying purchases.)*
+**Power.** A generator works, but it's loud, it burns fuel, and it's antisocial in close quarters with other campers. Solar is the right long-term answer. I run 400 watts of roof panels with a 200Ah lithium battery bank, which covers my laptop, lights, refrigerator, and phone charging indefinitely in good sun. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is non-negotiable: you need real data, not a guess, about your state of charge. *(This site may earn a commission on qualifying purchases.)*
 
-**Leveling.** BLM sites are rarely flat. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) and a good set of chocks will save your refrigerator's cooling unit and your own sanity. *(This site may earn a commission on qualifying purchases.)*
+**Leveling.** BLM sites are rarely flat. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) and a good set of chocks will save your refrigerator's cooling unit and your own sanity. *(This site may earn a commission on qualifying purchases.)*
 
 **Waste management.** Gray and black tanks fill faster than you expect when you're not connected to a sewer. Learn where dump stations are within a reasonable radius before you park. Most BLM areas near towns have at least one nearby. Many Flying J and Pilot truck stops charge $10 to $15 for a dump. Budget it.
 
@@ -75,7 +75,7 @@ This is the sequence that prevents problems.
 2. **Check weather for 72 hours.** Rain the night before arrival can make a clay road impassable by morning. Check weather for the region, not just the nearest town.
 3. **Scout on foot or by vehicle first** if the access road is uncertain. Drive in with your tow vehicle, or walk it. Don't commit your rig to a road you haven't seen.
 4. **Pick a site that's already disturbed.** BLM guidelines ask you to use existing fire rings and established camping spots when available. Don't carve new paths through vegetation.
-5. **Park and level.** Get the rig level before you extend slides or run stabilizers. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) under the low-side tires, then chock all wheels. *(This site may earn a commission on qualifying purchases.)*
+5. **Park and level.** Get the rig level before you extend slides or run stabilizers. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) under the low-side tires, then chock all wheels. *(This site may earn a commission on qualifying purchases.)*
 6. **Document your arrival date.** Set a phone reminder for day 12 of your stay. Packing up a day or two early beats getting flagged by a ranger for overstaying.
 7. **Establish your site perimeter and Leave No Trace.** Pack out all trash. Dig a cat hole at least 200 feet from water sources if you're going outside. Keep your campfire ring established and contained, and check for fire restrictions before you light anything.
 
@@ -107,7 +107,7 @@ Repairs from rough roads are the other one nobody talks about. A corrugated dirt
 
 Internet is a genuine challenge. If you work remotely, budget for a Starlink subscription or a solid cellular booster setup. T-Mobile Home Internet on an RV plan and Starlink RV cover most BLM areas I've camped in across Nevada, Arizona, and Oregon, but there are dead zones. Test your connection before you plan a workday around it.
 
-One more: [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=rvlife-20) matter less in dispersed camping since there's no shore power, but if you're combining BLM nights with occasional campground hookups during your circuit, don't skip one. *(This site may earn a commission on qualifying purchases.)*
+One more: [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=contentportfo-20) matter less in dispersed camping since there's no shore power, but if you're combining BLM nights with occasional campground hookups during your circuit, don't skip one. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

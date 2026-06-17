@@ -77,7 +77,7 @@ That table tells you two things: you need a generator rated for at least 3,500 r
 
 **The Soft-Start Solution**
 
-A soft-start device like the [SoftStartRV](https://www.amazon.com/s?k=softstartRV&tag=rvla-20) dramatically reduces the starting surge on your AC compressor, sometimes cutting it by 60-70%. That's the difference between your Honda EU2200i starting your 13,500 BTU AC or failing to do it. I've installed three of these and they work exactly as advertised. Around $150-$200, and it's one of the most practical upgrades a generator-dependent camper can make.
+A soft-start device like the [SoftStartRV](https://www.amazon.com/s?k=softstartRV&tag=contentportfo-20) dramatically reduces the starting surge on your AC compressor, sometimes cutting it by 60-70%. That's the difference between your Honda EU2200i starting your 13,500 BTU AC or failing to do it. I've installed three of these and they work exactly as advertised. Around $150-$200, and it's one of the most practical upgrades a generator-dependent camper can make.
 
 ---
 
@@ -101,7 +101,7 @@ Check the air filter every season. Replace the spark plug every 100 hours or onc
 
 **Storage and Transport**
 
-Transport portable generators in an upright position only. Inverter generators especially are sensitive to tipping because oil can migrate into the air filter and cause hard starts or fouled plugs. Get a [generator storage cover](https://www.amazon.com/s?k=generator+cover+portable&tag=rvla-20) if it's riding in the back of a truck bed or strapped to a carrier.
+Transport portable generators in an upright position only. Inverter generators especially are sensitive to tipping because oil can migrate into the air filter and cause hard starts or fouled plugs. Get a [generator storage cover](https://www.amazon.com/s?k=generator+cover+portable&tag=contentportfo-20) if it's riding in the back of a truck bed or strapped to a carrier.
 
 ---
 
@@ -127,11 +127,11 @@ A generator is only part of a power system. What's downstream of it matters just
 
 **Surge Protectors**
 
-Whether you're plugging into a campground pedestal or running off a generator, a [Progressive Industries or Hughes Autoformer surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=rvla-20) is something you want in line. These devices protect your RV's electronics and appliances from power spikes, voltage drops, and wiring problems. A 30-amp inline unit runs $150-$200. A single blown converter or damaged inverter costs 5-10 times that to replace. I've used a Progressive Industries EMS-PT30X for four years and it's flagged bad campground power more times than I can count.
+Whether you're plugging into a campground pedestal or running off a generator, a [Progressive Industries or Hughes Autoformer surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) is something you want in line. These devices protect your RV's electronics and appliances from power spikes, voltage drops, and wiring problems. A 30-amp inline unit runs $150-$200. A single blown converter or damaged inverter costs 5-10 times that to replace. I've used a Progressive Industries EMS-PT30X for four years and it's flagged bad campground power more times than I can count.
 
 **Battery Monitors**
 
-If you're using a generator to charge a battery bank, a battery monitor like the [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=rvla-20) tells you exactly what state of charge you're at and how fast you're pulling down. Running a generator blind, without knowing how much power you actually need to put back into the batteries, means either over-running the generator (wasting fuel) or under-charging and slowly sulfating your batteries. It's a $90 device that pays for itself in saved fuel and battery lifespan.
+If you're using a generator to charge a battery bank, a battery monitor like the [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20) tells you exactly what state of charge you're at and how fast you're pulling down. Running a generator blind, without knowing how much power you actually need to put back into the batteries, means either over-running the generator (wasting fuel) or under-charging and slowly sulfating your batteries. It's a $90 device that pays for itself in saved fuel and battery lifespan.
 
 ---
 

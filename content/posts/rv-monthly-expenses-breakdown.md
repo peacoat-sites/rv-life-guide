@@ -82,7 +82,7 @@ The standard advice is to set aside 10-15% of your rig's value per year for main
 
 Beyond big repairs, there are consumables: propane ($20-$60/month depending on how much you cook and heat), tire replacement ($200-$400 per tire on truck tires, needed every 40,000-60,000 miles), oil changes, and generator maintenance.
 
-A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=YOUR-TAG) is one of the most important things you can plug into a campground pedestal. Bad power at RV parks is common and it can fry your air conditioner, converter, or anything else plugged into 120V. I've been using a Progressive Industries EMS for four years and it's saved me from bad power at least six times. (This site may earn a commission on qualifying purchases.)
+A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) is one of the most important things you can plug into a campground pedestal. Bad power at RV parks is common and it can fry your air conditioner, converter, or anything else plugged into 120V. I've been using a Progressive Industries EMS for four years and it's saved me from bad power at least six times. (This site may earn a commission on qualifying purchases.)
 
 Realistic monthly repair/maintenance reserve: **$300 to $750**.
 
@@ -96,7 +96,7 @@ When I was in the suburbs, I had a full kitchen and every grocery chain within 1
 
 My honest monthly food spending runs $550-$750 for one person, including groceries and restaurants. Couples I've talked to often report $900-$1,200. Families are all over the map.
 
-A quality [RV water filter](https://www.amazon.com/s?k=rv+water+filter&tag=YOUR-TAG) matters here, too. Campground water quality varies wildly. I've connected to hookups that came out the color of weak tea. A good inline filter plus a quality drinking water filter inside can run $40-$120 and it's well worth it. (This site may earn a commission on qualifying purchases.)
+A quality [RV water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) matters here, too. Campground water quality varies wildly. I've connected to hookups that came out the color of weak tea. A good inline filter plus a quality drinking water filter inside can run $40-$120 and it's well worth it. (This site may earn a commission on qualifying purchases.)
 
 ---
 
@@ -108,7 +108,7 @@ These are the costs people forget to move from their "house life" list to their 
 
 **Health Insurance:** This is the big one for people leaving employer coverage. If you're under 65, you'll likely be shopping on the ACA marketplace. Premiums vary wildly based on income, age, and state of domicile. I domicile in South Dakota (a common choice for full-timers because of its friendly requirements), and my ACA plan runs $510/month with a $6,000 deductible. Some people qualify for strong subsidies. Others pay over $800/month. Don't skip this.
 
-**Cell Service:** I use two SIM cards (AT&T and T-Mobile) to maximize coverage. Two unlimited plans with hotspot data run me $160/month combined. Many full-timers do similar setups. You'll also want a signal booster in weak areas. A [WeBoost Drive Reach](https://www.amazon.com/s?k=weboost+drive+reach&tag=YOUR-TAG) costs around $500 upfront but pays for itself in aggravation saved. (This site may earn a commission on qualifying purchases.)
+**Cell Service:** I use two SIM cards (AT&T and T-Mobile) to maximize coverage. Two unlimited plans with hotspot data run me $160/month combined. Many full-timers do similar setups. You'll also want a signal booster in weak areas. A [WeBoost Drive Reach](https://www.amazon.com/s?k=weboost+drive+reach&tag=contentportfo-20) costs around $500 upfront but pays for itself in aggravation saved. (This site may earn a commission on qualifying purchases.)
 
 **Mail/Domicile:** South Dakota SD domicile through a mail forwarding service like America's Mailbox or My Dakota Address runs about $20-$30/month.
 
@@ -122,9 +122,9 @@ This deserves its own section because it's a real financial decision with long-t
 
 A proper off-grid solar setup (400-600 watts of panels, 200Ah of lithium batteries, a quality inverter/charger) costs $2,000-$5,000 to install properly. That's real money. But here's what it does: it means you can spend weeks on free BLM land instead of paying $50-$80/night at a full-hookup park. At $60/night, five nights of boondocking per week pays back a $3,000 solar investment in about 100 nights, or roughly four months of active use.
 
-A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=YOUR-TAG) is a small piece of gear that tells you exactly how much power you have left in your batteries. It's about $30-$80 and prevents you from accidentally draining your bank and waking up with no power for coffee. I use a Victron BMV-712 and check it like a fuel gauge. (This site may earn a commission on qualifying purchases.)
+A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is a small piece of gear that tells you exactly how much power you have left in your batteries. It's about $30-$80 and prevents you from accidentally draining your bank and waking up with no power for coffee. I use a Victron BMV-712 and check it like a fuel gauge. (This site may earn a commission on qualifying purchases.)
 
-[Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=YOUR-TAG) are a less glamorous but genuinely necessary purchase. Every night on uneven ground without them means sleeping crooked, refrigerator issues (propane fridges need to be level), and general discomfort. Camco makes a solid set for around $25-$35. (This site may earn a commission on qualifying purchases.)
+[Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are a less glamorous but genuinely necessary purchase. Every night on uneven ground without them means sleeping crooked, refrigerator issues (propane fridges need to be level), and general discomfort. Camco makes a solid set for around $25-$35. (This site may earn a commission on qualifying purchases.)
 
 ---
 

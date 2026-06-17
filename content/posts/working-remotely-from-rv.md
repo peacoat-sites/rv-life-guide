@@ -58,11 +58,11 @@ The baseline you need for a remote work setup: enough power to run your laptop, 
 
 I run a 200Ah lithium battery bank with 400 watts of solar on the roof. On a clear day in summer, that setup handles my full workday with power to spare. On overcast days in November in the Pacific Northwest, I've had to throttle my setup down to just the laptop and one hotspot and plug in wherever I can find 30 amps.
 
-A battery monitor is not optional if you're working off-grid. You need to know your state of charge in real time, not guess at it. The Victron BMV-712 is the one I'd recommend without hesitation. It's accurate, the Bluetooth app is genuinely good, and it integrates with most lithium battery setups. [Check pricing on Amazon](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=rvlifeguide-20) *(affiliate link -- the site may earn a commission)*.
+A battery monitor is not optional if you're working off-grid. You need to know your state of charge in real time, not guess at it. The Victron BMV-712 is the one I'd recommend without hesitation. It's accurate, the Bluetooth app is genuinely good, and it integrates with most lithium battery setups. [Check pricing on Amazon](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20) *(affiliate link -- the site may earn a commission)*.
 
 For solar, 200 watts is the floor for remote work viability. 400 watts is comfortable. If your rig doesn't have solar yet, flexible panels have gotten much better over the last three years, and rigid panels are still more efficient per dollar if you have the roof space.
 
-One more thing: a quality surge protector for shore power hookups. Campground power is notoriously dirty. A bad surge at a cheap campground can fry your laptop, your inverter, your TV. The Progressive Industries EMS-PT30X or the 50-amp equivalent is the standard recommendation and the one I use. [See it on Amazon](https://www.amazon.com/s?k=Progressive+Industries+EMS+PT30X&tag=rvlifeguide-20) *(affiliate link)*.
+One more thing: a quality surge protector for shore power hookups. Campground power is notoriously dirty. A bad surge at a cheap campground can fry your laptop, your inverter, your TV. The Progressive Industries EMS-PT30X or the 50-amp equivalent is the standard recommendation and the one I use. [See it on Amazon](https://www.amazon.com/s?k=Progressive+Industries+EMS+PT30X&tag=contentportfo-20) *(affiliate link)*.
 
 ---
 
@@ -75,7 +75,7 @@ Your setup doesn't have to be elaborate, but it needs a few things: a surface at
 In a Class A or fifth wheel with a dedicated desk, you're ahead of the game. In a Class B van or a smaller travel trailer, you're building this from scratch. A few things that actually work in tight spaces:
 
 - A laptop stand plus an external keyboard and mouse gets your screen to eye level and saves your neck. Twelve Sound and Rain Design both make compact options.
-- A [folding ergonomic travel chair](https://www.amazon.com/s?k=portable+ergonomic+office+chair+travel&tag=rvlifeguide-20) *(affiliate link)* is worth it if you don't have a dedicated chair.
+- A [folding ergonomic travel chair](https://www.amazon.com/s?k=portable+ergonomic+office+chair+travel&tag=contentportfo-20) *(affiliate link)* is worth it if you don't have a dedicated chair.
 - Blackout curtains on the window behind your monitor solve screen glare problems instantly.
 - A small ring light clips to your laptop and dramatically improves your video call appearance, which matters more than people admit.
 

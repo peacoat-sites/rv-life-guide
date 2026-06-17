@@ -97,13 +97,13 @@ My honest take after 6 years full-timing: I'd almost always buy a used unit that
 
 Even before you drive off the lot, there are a handful of items that aren't optional. Not comfort items. Safety items.
 
-A **surge protector** for shore power is non-negotiable. Campground pedestals can deliver low voltage, high voltage, or mis-wired power that will fry your converter, your appliances, and your air conditioner. A Progressive Industries EMS-PT30C or EMS-PT50C (depending on whether you have a 30-amp or 50-amp rig) monitors incoming power and cuts the connection if something's wrong. [Check current pricing on Amazon](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlifeguide-20) -- it'll run $200 to $350 but could easily save you $3,000 in electronics.
+A **surge protector** for shore power is non-negotiable. Campground pedestals can deliver low voltage, high voltage, or mis-wired power that will fry your converter, your appliances, and your air conditioner. A Progressive Industries EMS-PT30C or EMS-PT50C (depending on whether you have a 30-amp or 50-amp rig) monitors incoming power and cuts the connection if something's wrong. [Check current pricing on Amazon](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) -- it'll run $200 to $350 but could easily save you $3,000 in electronics.
 
-**Leveling blocks** matter the moment you pull into a site that isn't flat, which is most sites. Camco makes a set of stackable plastic blocks that handle most situations. [Grab a set before you leave the driveway](https://www.amazon.com/s?k=rv+leveling+blocks+camco&tag=rvlifeguide-20).
+**Leveling blocks** matter the moment you pull into a site that isn't flat, which is most sites. Camco makes a set of stackable plastic blocks that handle most situations. [Grab a set before you leave the driveway](https://www.amazon.com/s?k=rv+leveling+blocks+camco&tag=contentportfo-20).
 
-A **water filter** for your fresh water connection. Campground water quality varies wildly. A simple inline filter like a Camco TastePURE cuts sediment and chlorine and protects your water lines. [Find one here](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlifeguide-20). If you're planning on doing any boondocking or extended dry camping, you'll want a more serious filtration setup inside the rig as well.
+A **water filter** for your fresh water connection. Campground water quality varies wildly. A simple inline filter like a Camco TastePURE cuts sediment and chlorine and protects your water lines. [Find one here](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20). If you're planning on doing any boondocking or extended dry camping, you'll want a more serious filtration setup inside the rig as well.
 
-If you're adding solar or planning to, a **battery monitor** like the Victron SmartShunt or the Renogy 500A monitor is essential for knowing your actual state of charge rather than guessing. [Battery monitors on Amazon](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlifeguide-20). Buying solar panels blind without monitoring your consumption is a very common and very expensive mistake.
+If you're adding solar or planning to, a **battery monitor** like the Victron SmartShunt or the Renogy 500A monitor is essential for knowing your actual state of charge rather than guessing. [Battery monitors on Amazon](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20). Buying solar panels blind without monitoring your consumption is a very common and very expensive mistake.
 
 ---
 

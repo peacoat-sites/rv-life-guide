@@ -75,7 +75,7 @@ Summer 2022, parked outside Moab in mid-July, I made the mistake of running to t
 
 Never again.
 
-My current setup: I have a dual-zone mini-split (installed by a mobile RV tech, not me) that runs off shore power, and when I'm on hookups I trust it more than a generator. But when I can't be on hookups, Biscuit comes with me or I don't go. Full stop. There are [temperature monitoring devices](https://www.amazon.com/s?k=rv+temperature+monitor+alert&tag=rvlife-20) that send your phone an alert if the rig temperature spikes -- I use a Temp Stick, which is about $40 and connects to wifi. It's not a replacement for judgment, but it's a layer of protection.
+My current setup: I have a dual-zone mini-split (installed by a mobile RV tech, not me) that runs off shore power, and when I'm on hookups I trust it more than a generator. But when I can't be on hookups, Biscuit comes with me or I don't go. Full stop. There are [temperature monitoring devices](https://www.amazon.com/s?k=rv+temperature+monitor+alert&tag=contentportfo-20) that send your phone an alert if the rig temperature spikes -- I use a Temp Stick, which is about $40 and connects to wifi. It's not a replacement for judgment, but it's a layer of protection.
 
 Hot pavement is also something I underestimated for years. Asphalt in a desert campground in July can hit 150 degrees. Biscuit has a set of Ruffwear Grip Trex boots (around $65 for a set) that she tolerates better than I expected. I test the ground with the back of my hand for seven seconds -- if I can't hold it, she gets boots.
 
@@ -89,7 +89,7 @@ I keep Biscuit's feeding times, walk times, and sleep spot completely consistent
 
 That said, I've made real investments in her physical setup inside the rig. Her platform bed is built from a 2-inch memory foam cut from a Sweetnight queen foam I sliced down to size, covered in waterproof fabric. She has a non-slip mat in front of it. Her food and water bowls are in a drawer-style pull-out cabinet that I built (poorly, then rebuilt less poorly) so they don't slide around while driving.
 
-A [quality dog crate](https://www.amazon.com/s?k=collapsible+dog+crate+travel&tag=rvlife-20) that folds flat is worth having even if your dog isn't a crate dog full time. I use a 36" Midwest iCrate for situations where I need to kennel Biscuit safely during hitching and unhitching, when she gets anxious near traffic. It folds flat under my bed when not in use.
+A [quality dog crate](https://www.amazon.com/s?k=collapsible+dog+crate+travel&tag=contentportfo-20) that folds flat is worth having even if your dog isn't a crate dog full time. I use a 36" Midwest iCrate for situations where I need to kennel Biscuit safely during hitching and unhitching, when she gets anxious near traffic. It folds flat under my bed when not in use.
 
 Mental stimulation is non-negotiable in a small space. Biscuit gets at least 45 minutes of actual movement per day -- not just yard sniffing, but trail time or a real walk. On days when the weather makes that hard, she gets a Kong stuffed with frozen peanut butter and I work a snuffle mat into her routine. Bored dogs in small spaces become anxious dogs, and anxious dogs make campground neighbors miserable.
 
@@ -101,11 +101,11 @@ Separation anxiety came up for Biscuit around year two, probably because we were
 
 Real quick on this because there's a lot of garbage marketed at dog-owning RVers.
 
-Worth every penny: a good retractable hose with a spray nozzle for washing muddy paws before they come inside (I use a [Flexi retractable leash](https://www.amazon.com/s?k=flexi+retractable+leash&tag=rvlife-20) for campground walks, though a standard 6-footer is better for hiking), a hands-free leash for hikes so I can use both arms on rocky terrain, the Temp Stick I mentioned, and a proper first aid kit designed for dogs. The Kurgo first aid kit runs about $25 and has saved me from panicking over minor trail injuries more than once.
+Worth every penny: a good retractable hose with a spray nozzle for washing muddy paws before they come inside (I use a [Flexi retractable leash](https://www.amazon.com/s?k=flexi+retractable+leash&tag=contentportfo-20) for campground walks, though a standard 6-footer is better for hiking), a hands-free leash for hikes so I can use both arms on rocky terrain, the Temp Stick I mentioned, and a proper first aid kit designed for dogs. The Kurgo first aid kit runs about $25 and has saved me from panicking over minor trail injuries more than once.
 
-Not worth it in my experience: the fancy "dog rooms" some people build into rigs with separate ventilation and all that. Biscuit doesn't need a room, she needs my presence. The $200+ "travel water systems" for dogs are also unnecessary -- I use a [Ruffwear Bivy Bowl](https://www.amazon.com/s?k=ruffwear+bivy+bowl&tag=rvlife-20) that collapses flat and clips to a bag. Five bucks' worth of function at $16.
+Not worth it in my experience: the fancy "dog rooms" some people build into rigs with separate ventilation and all that. Biscuit doesn't need a room, she needs my presence. The $200+ "travel water systems" for dogs are also unnecessary -- I use a [Ruffwear Bivy Bowl](https://www.amazon.com/s?k=ruffwear+bivy+bowl&tag=contentportfo-20) that collapses flat and clips to a bag. Five bucks' worth of function at $16.
 
-One thing I've seen people skip that they shouldn't: a [filtered water solution](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlife-20) for the rig. Campground water varies wildly in quality, and I give Biscuit the same filtered water I drink. GI upset in a dog when you're on the road is miserable for everyone involved.
+One thing I've seen people skip that they shouldn't: a [filtered water solution](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) for the rig. Campground water varies wildly in quality, and I give Biscuit the same filtered water I drink. GI upset in a dog when you're on the road is miserable for everyone involved.
 
 ---
 

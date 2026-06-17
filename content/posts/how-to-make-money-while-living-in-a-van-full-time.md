@@ -90,7 +90,7 @@ The system that's worked for me: I keep a "baseline" savings buffer equivalent t
 
 Health insurance is the budget line that bites van lifers hardest. If you're self-employed with variable income, ACA marketplace plans are worth looking at carefully -- income-based subsidies can be significant if your AGI is below 400% of the federal poverty line. HealthSherpa is a better comparison interface than the actual healthcare.gov site, in my experience.
 
-On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground, which you will eventually. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=rvsite-20) and a [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=rvsite-20) are what I've been running, and they've been solid.
+On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground, which you will eventually. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20) and a [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20) are what I've been running, and they've been solid.
 
 ---
 

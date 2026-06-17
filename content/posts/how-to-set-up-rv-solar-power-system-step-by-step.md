@@ -62,7 +62,7 @@ The battery bank determines the charge controller size, which partly determines 
 
 **Inverter (if needed):** A pure sine wave inverter is the only type worth buying for anything with a motor or sensitive electronics. Modified sine will damage some devices and run others inefficiently. Renogy 2000W pure sine runs around $180-$220 and handles most loads short of residential AC or a microwave above 1,000 watts. Size it to your largest expected load, not your average load.
 
-**Battery monitor:** Buy one. A [Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=rvlife-20) is $90 and tells you exactly what's going in and out of your battery bank in real time. Without it, you're flying blind. This is not optional for boondocking.
+**Battery monitor:** Buy one. A [Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20) is $90 and tells you exactly what's going in and out of your battery bank in real time. Without it, you're flying blind. This is not optional for boondocking.
 
 ---
 
@@ -72,7 +72,7 @@ This is where most guides get vague. Here's the actual sequence.
 
 **1. Mount and wire the batteries first.**
 
-Install your battery bank in its permanent location. Bolt down the batteries, run your main negative cable to the chassis ground if you're supplementing a vehicle system (for trailers, this is less critical but still good practice), and install your main fuse within 18 inches of the positive battery terminal. For a 200Ah lithium bank, a 100-amp ANL fuse is appropriate. For a 400Ah bank, go 200-amp. [Blue Sea Systems](https://www.amazon.com/s?k=Blue+Sea+Systems+ANL+fuse+holder&tag=rvlife-20) makes the fuse holders I trust most.
+Install your battery bank in its permanent location. Bolt down the batteries, run your main negative cable to the chassis ground if you're supplementing a vehicle system (for trailers, this is less critical but still good practice), and install your main fuse within 18 inches of the positive battery terminal. For a 200Ah lithium bank, a 100-amp ANL fuse is appropriate. For a 400Ah bank, go 200-amp. [Blue Sea Systems](https://www.amazon.com/s?k=Blue+Sea+Systems+ANL+fuse+holder&tag=contentportfo-20) makes the fuse holders I trust most.
 
 **2. Mount the charge controller near the batteries.**
 
@@ -80,7 +80,7 @@ The charge controller to battery wire run should be as short as possible. Three 
 
 **3. Run your roof cable before mounting panels.**
 
-Figure out your cable entry point (a dedicated [solar cable entry gland](https://www.amazon.com/s?k=rv+solar+cable+entry+gland&tag=rvlife-20) runs about $10-$15 and beats drilling a bare hole every time), run your conduit or cable from roof to controller location, seal everything with Dicor or a similar self-leveling lap sealant. Do this before panels go up, because working on a roof with panels in the way is miserable.
+Figure out your cable entry point (a dedicated [solar cable entry gland](https://www.amazon.com/s?k=rv+solar+cable+entry+gland&tag=contentportfo-20) runs about $10-$15 and beats drilling a bare hole every time), run your conduit or cable from roof to controller location, seal everything with Dicor or a similar self-leveling lap sealant. Do this before panels go up, because working on a roof with panels in the way is miserable.
 
 **4. Mount the panels.**
 

@@ -89,17 +89,17 @@ Here's a practical process I'd follow if I were buying tomorrow.
 | Class B / Van | Easiest to maintain, most maneuverable | Limited living space, expensive per square foot | Winnebago Travato, Airstream Interstate |
 | Class C | Good balance of space and maneuverability | Overcab area leaks, high center of gravity | Thor Chateau on Ford E-450, Jayco Greyhawk |
 
-A good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlife-20) is one of those accessories that protects your investment regardless of what brand you buy. Shore power issues destroy electronics and appliances, and a $100 to $250 protector is cheap insurance. Same goes for a [water filter system](https://www.amazon.com/s?k=rv+water+filter&tag=rvlife-20): campground water quality varies wildly and unfiltered water wrecks hoses and fittings over time.
+A good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) is one of those accessories that protects your investment regardless of what brand you buy. Shore power issues destroy electronics and appliances, and a $100 to $250 protector is cheap insurance. Same goes for a [water filter system](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20): campground water quality varies wildly and unfiltered water wrecks hoses and fittings over time.
 
 ## The Role of Maintenance in the Reliability Equation
 
 This is the part most buyers skip over in their research, and it's the part that bites them hardest. A well-maintained Keystone will outlast a neglected Grand Design. Full stop.
 
-Roof seams need to be inspected every 90 days and resealed annually, minimum. Slide seals need conditioning every three to four months. Battery banks need monitoring, and if you're running AGM or lithium, a quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) like a Victron BMV-712 will tell you what's actually happening with your system rather than letting you guess. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) sound basic, but consistently leveling your rig protects your refrigerator's cooling unit from premature failure, which can run $800 to $1,200 to replace.
+Roof seams need to be inspected every 90 days and resealed annually, minimum. Slide seals need conditioning every three to four months. Battery banks need monitoring, and if you're running AGM or lithium, a quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) like a Victron BMV-712 will tell you what's actually happening with your system rather than letting you guess. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) sound basic, but consistently leveling your rig protects your refrigerator's cooling unit from premature failure, which can run $800 to $1,200 to replace.
 
 The full-timers I've seen make it five or more years without catastrophic breakdowns are almost always people who maintain obsessively and catch problems small. The ones who treat their RV like a house that takes care of itself are the ones calling me from the side of I-40.
 
-If you're just getting started and want a structured approach to the whole lifestyle, there are some solid [RV living guides](https://www.amazon.com/s?k=rv+living+guide+book&tag=rvlife-20) that cover maintenance schedules in practical detail.
+If you're just getting started and want a structured approach to the whole lifestyle, there are some solid [RV living guides](https://www.amazon.com/s?k=rv+living+guide+book&tag=contentportfo-20) that cover maintenance schedules in practical detail.
 
 ---
 

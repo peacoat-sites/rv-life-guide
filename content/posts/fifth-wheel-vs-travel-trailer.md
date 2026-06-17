@@ -88,11 +88,11 @@ Both rigs need leveling, slideout maintenance, seal inspections, and the usual R
 
 Fifth wheels are heavier. That sounds obvious, but it means roof work and exterior maintenance take more effort. You're climbing higher to inspect those seams. Slide seals on a 38-foot fifth wheel with four slides cost more to replace than those on a 24-foot travel trailer with one. Not a dealbreaker, just a real expense.
 
-Leveling is easier on a fifth wheel when the manufacturer includes an auto-leveling system, which many do at the mid-range price point. Plenty of travel trailers at $35,000 still come with a stack of [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=rvlife-20) and the expectation that you'll figure it out yourself. *(Affiliate link: RV Life & Van Living may earn a commission on purchases.)*
+Leveling is easier on a fifth wheel when the manufacturer includes an auto-leveling system, which many do at the mid-range price point. Plenty of travel trailers at $35,000 still come with a stack of [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20) and the expectation that you'll figure it out yourself. *(Affiliate link: RV Life & Van Living may earn a commission on purchases.)*
 
-Electrical protection matters on both. I always recommend a surge protector like the Progressive Industries EMS models for either rig. A power pedestal at a campground can spike or drop voltage and ruin your air conditioner, refrigerator, or converter without warning. It's a $300 investment that has saved equipment worth thousands more. You can find solid options [on Amazon here](https://www.amazon.com/s?k=rv+surge+protector+progressive+industries&tag=rvlife-20). *(Affiliate link.)*
+Electrical protection matters on both. I always recommend a surge protector like the Progressive Industries EMS models for either rig. A power pedestal at a campground can spike or drop voltage and ruin your air conditioner, refrigerator, or converter without warning. It's a $300 investment that has saved equipment worth thousands more. You can find solid options [on Amazon here](https://www.amazon.com/s?k=rv+surge+protector+progressive+industries&tag=contentportfo-20). *(Affiliate link.)*
 
-Water quality is another one. Both types benefit from an inline [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlife-20) at the hookup point. *(Affiliate link.)* Municipal water supplies vary wildly across different regions, and the taste and sediment from some campground spigots will make you wish you'd spent the $30 on a filter.
+Water quality is another one. Both types benefit from an inline [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) at the hookup point. *(Affiliate link.)* Municipal water supplies vary wildly across different regions, and the taste and sediment from some campground spigots will make you wish you'd spent the $30 on a filter.
 
 If you're going solar, which I'd recommend evaluating for any serious RV use, fifth wheels typically have more roof real estate and better battery compartment space for a larger lithium bank. That's not a reason to choose one over the other, but it's worth knowing if off-grid capability is on your list.
 
@@ -104,7 +104,7 @@ What do you already own or plan to buy as a tow vehicle? If you drive a Ford Exp
 
 How long will you use it at a stretch? Weekend trips and two-week vacations can work beautifully in a well-chosen travel trailer. Full-timing for months or years at a time, especially with another person, makes the space separation and stability of a fifth wheel more valuable over time.
 
-What's your honest budget, all in? Add the rig, the hitch hardware, any tow vehicle upgrade, a surge protector, a water filter, leveling equipment, a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) if you're going solar, *(affiliate link)* insurance, and a realistic breakdown fund of at least 10% of the rig's purchase price for year one. That total number is your real cost. It's almost always higher than the sticker on the lot.
+What's your honest budget, all in? Add the rig, the hitch hardware, any tow vehicle upgrade, a surge protector, a water filter, leveling equipment, a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) if you're going solar, *(affiliate link)* insurance, and a realistic breakdown fund of at least 10% of the rig's purchase price for year one. That total number is your real cost. It's almost always higher than the sticker on the lot.
 
 ---
 

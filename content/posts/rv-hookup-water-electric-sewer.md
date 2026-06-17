@@ -40,7 +40,7 @@ Most campground guides won't tell you this directly, but the sequence in which y
 
 **Electric second.** Once you're settled and parked, shore power is the first thing to connect. Why? Because your fridge, your CPAP charger, your battery management system, all of it benefits from being on shore power while you're doing the rest of setup. More importantly, you want to get your surge protector inline before anything else draws power.
 
-I've seen two inverters and one air conditioning unit get fried by power pedestals with wiring problems. A quality surge protector like the [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=rvlife-20) is one of the best $200-$300 you'll spend. The cheap plug-in versions offer some protection; the hardwired units are more comprehensive. Either is better than nothing. *(Disclosure: this site may earn a commission on qualifying purchases.)*
+I've seen two inverters and one air conditioning unit get fried by power pedestals with wiring problems. A quality surge protector like the [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20) is one of the best $200-$300 you'll spend. The cheap plug-in versions offer some protection; the hardwired units are more comprehensive. Either is better than nothing. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 **Water third.** Connect your freshwater hose after you're on shore power. The order here matters less for safety and more for practicality. You want a clean drinking-water hose (white, not the green garden hose from home), a pressure regulator, and a water filter inline.
 
@@ -64,9 +64,9 @@ One more thing: extension cords. Don't use them. If your cord doesn't reach the 
 
 The city water connection on your RV feeds water directly into your plumbing and bypasses your onboard tank. That's convenient, but it exposes your entire plumbing system to whatever pressure the campground is running.
 
-Campground water pressure can range from 30 PSI to well over 100 PSI. Your RV's plastic fittings, valves, and water lines are typically rated for 45 to 60 PSI. A [pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=rvlife-20) is not optional. I use a dial-type regulator so I can actually see what I'm working with. They cost $15 to $30 and have saved me from at least two fitting failures I know of.
+Campground water pressure can range from 30 PSI to well over 100 PSI. Your RV's plastic fittings, valves, and water lines are typically rated for 45 to 60 PSI. A [pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=contentportfo-20) is not optional. I use a dial-type regulator so I can actually see what I'm working with. They cost $15 to $30 and have saved me from at least two fitting failures I know of.
 
-The other piece is filtration. Campground water quality is inconsistent. I run a [two-stage inline filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlife-20) between the spigot and my coach. One stage handles sediment, one handles taste and odor. If you're staying anywhere with well water or in areas known for water quality issues, consider a dedicated Berkey or similar gravity filter for drinking water inside. *(This site may earn a commission on qualifying purchases.)*
+The other piece is filtration. Campground water quality is inconsistent. I run a [two-stage inline filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) between the spigot and my coach. One stage handles sediment, one handles taste and odor. If you're staying anywhere with well water or in areas known for water quality issues, consider a dedicated Berkey or similar gravity filter for drinking water inside. *(This site may earn a commission on qualifying purchases.)*
 
 Cold weather riders, pay attention here. If temperatures are forecast to drop below freezing, disconnect your water hose and store it. Open a faucet briefly to relieve pressure in the line. Use heat tape on any exposed pipes if you're staying put. A burst fitting inside an RV wall is an expensive repair that happens to people who figured they'd be fine for just one night.
 
@@ -80,7 +80,7 @@ The sewer connection is where new full-timers make the mistakes that give them s
 
 1. Put on disposable gloves. Every time. No exceptions.
 2. Connect your sewer hose to the RV's termination valve first, before the valve is open.
-3. Run the hose to the campground sewer cleanout. Use a [sewer hose support/slinky](https://www.amazon.com/s?k=rv+sewer+hose+support&tag=rvlife-20) to keep the hose elevated and draining toward the cleanout rather than pooling. *(This site may earn a commission on qualifying purchases.)*
+3. Run the hose to the campground sewer cleanout. Use a [sewer hose support/slinky](https://www.amazon.com/s?k=rv+sewer+hose+support&tag=contentportfo-20) to keep the hose elevated and draining toward the cleanout rather than pooling. *(This site may earn a commission on qualifying purchases.)*
 4. Secure the hose into the cleanout with a fitting adapter. Do not just lay it in there loosely.
 5. Leave both tank valves (black and gray) closed during normal use.
 
@@ -103,7 +103,7 @@ When you disconnect: close both valves, remove the hose from the cleanout first,
 
 Full hookups are the most convenient, but they're also the most expensive and increasingly scarce in popular areas. Learning to manage your tanks well means you can stay comfortably in partial hookup or dry camping situations, which opens up a huge range of locations and saves real money.
 
-If you're serious about extended boondocking, a battery monitor and a small solar setup change the equation dramatically. You stop guessing about your power state and start making actual decisions. The [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=rvlife-20) is what I use and recommend. *(This site may earn a commission on qualifying purchases.)*
+If you're serious about extended boondocking, a battery monitor and a small solar setup change the equation dramatically. You stop guessing about your power state and start making actual decisions. The [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20) is what I use and recommend. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

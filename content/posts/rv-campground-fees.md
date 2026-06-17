@@ -46,7 +46,7 @@ Public land and county parks operate differently. The fees are usually lower, of
 
 Let me give you actual numbers because vague ranges are useless.
 
-**Free camping (dispersed/BLM):** $0. You can stay up to 14 days on most Bureau of Land Management land. No hookups, no trash service, no toilets in many areas. You need to be self-sufficient. This is where a quality [portable solar setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=YOUR-TAG) and a serious battery bank earn their keep.
+**Free camping (dispersed/BLM):** $0. You can stay up to 14 days on most Bureau of Land Management land. No hookups, no trash service, no toilets in many areas. You need to be self-sufficient. This is where a quality [portable solar setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20) and a serious battery bank earn their keep.
 
 **State and national forest sites:** $10 to $30 per night, usually first-come, first-served, with basic amenities. National park campgrounds like those in Yellowstone or Zion run $20 to $35 per night but book out months in advance.
 
@@ -109,7 +109,7 @@ Even experienced RVers get surprised. Here are the ones I've personally run into
 
 **Slide-out fees:** I mentioned this above but it bears repeating because it surprises almost everyone the first time. I paid an extra $5 per night at a park in South Carolina for my two slides. That's $150 on a 30-day stay.
 
-Protecting your rig when you do arrive matters too. A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=YOUR-TAG) is essential before plugging in at any campground, private or public. Bad power is not rare, and a single voltage spike can fry your appliances. A [whole-house water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=YOUR-TAG) at the hookup is similarly non-negotiable for me after tasting what comes out of some park taps. These are small costs that protect big ones.
+Protecting your rig when you do arrive matters too. A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) is essential before plugging in at any campground, private or public. Bad power is not rare, and a single voltage spike can fry your appliances. A [whole-house water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) at the hookup is similarly non-negotiable for me after tasting what comes out of some park taps. These are small costs that protect big ones.
 
 ---
 
@@ -125,7 +125,7 @@ Protecting your rig when you do arrive matters too. A quality [surge protector](
 | Solar/battery investment | Not needed | $1,500 to $4,000 (upfront) |
 | **Monthly ongoing total** | **$780 to $900** | **$10 to $80** |
 
-The free camping column looks amazing until you factor in the upfront cost of a real solar system and large battery bank. I run a 400-watt panel setup with a 200Ah lithium battery and a [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=YOUR-TAG) to track my usage. That investment took about 18 months of free camping savings to break even. After that, it's pure benefit.
+The free camping column looks amazing until you factor in the upfront cost of a real solar system and large battery bank. I run a 400-watt panel setup with a 200Ah lithium battery and a [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) to track my usage. That investment took about 18 months of free camping savings to break even. After that, it's pure benefit.
 
 ---
 

@@ -101,7 +101,7 @@ Knowing what tends to go wrong saves you from learning it the hard way.
 
 **Not using technology.** GPS systems like the Garmin RV 890 or the CoPilot RV app route you based on your rig's height, weight, and length. Plugging a standard phone GPS without RV settings into your dashboard is how people end up on country roads with 9-foot clearance bridges.
 
-**Forgetting to level.** If your refrigerator runs on absorption cooling (common in RVs), it needs to be reasonably level to work properly. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) are inexpensive and should be in every RV toolkit. Trying to wing the level by eye doesn't work; a small bubble level or an app does.
+**Forgetting to level.** If your refrigerator runs on absorption cooling (common in RVs), it needs to be reasonably level to work properly. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are inexpensive and should be in every RV toolkit. Trying to wing the level by eye doesn't work; a small bubble level or an app does.
 
 ## Building Confidence Over Time
 

@@ -81,19 +81,19 @@ Different long-term setups suit different situations. Here's a side-by-side look
 
 The BLM and dispersed camping option often shocks people new to full-timing. Huge stretches of public land in the West, particularly around Quartzsite, Arizona and the Sonoran Desert, allow free camping with 14-day limits. You move every two weeks, but many full-timers chain these spots together for months. The catch: you need good solar, battery storage, and a self-contained water system. If your rig isn't set up for that, look into a solid solar setup and a quality battery monitor before assuming you can hack it off-grid.
 
-A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) and a reliable [solar panel system](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=rvlife-20) are two of the investments that pay for themselves fastest if you're planning any boondocking, even occasional. *(This site may earn a commission on qualifying Amazon purchases.)*
+A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) and a reliable [solar panel system](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20) are two of the investments that pay for themselves fastest if you're planning any boondocking, even occasional. *(This site may earn a commission on qualifying Amazon purchases.)*
 
 ## What to Check Before You Commit to a Long-Term Site
 
 I've watched people sign seasonal leases and regret it within a month because they didn't do proper due diligence. A few things that can make or break a long-term stay:
 
-**Electric infrastructure.** Ask how old the electrical pedestals are and whether the park has had power issues. Older parks sometimes have outdated wiring that causes surges and voltage problems. A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=rvlife-20) is non-negotiable for long-term stays. I use a Progressive Industries unit and have seen it save rigs from genuinely dangerous voltage drops. *(Affiliate link, commission may apply.)*
+**Electric infrastructure.** Ask how old the electrical pedestals are and whether the park has had power issues. Older parks sometimes have outdated wiring that causes surges and voltage problems. A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) is non-negotiable for long-term stays. I use a Progressive Industries unit and have seen it save rigs from genuinely dangerous voltage drops. *(Affiliate link, commission may apply.)*
 
-**Water quality.** Long-term water quality matters more than people think. Some parks pull from municipal water that's heavily chlorinated, others have well water with mineral issues. Pick up a [water filtration system](https://www.amazon.com/s?k=rv+inline+water+filter&tag=rvlife-20) rated for RV use before committing to months at any park. *(Affiliate link.)*
+**Water quality.** Long-term water quality matters more than people think. Some parks pull from municipal water that's heavily chlorinated, others have well water with mineral issues. Pick up a [water filtration system](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) rated for RV use before committing to months at any park. *(Affiliate link.)*
 
 **Mail and residency.** Can you receive mail at the park? Some parks allow it, others explicitly forbid it. If you're establishing residency in a new state, you need a workable mail solution.
 
-**Lot leveling.** Ask which direction your assigned site slopes. I can't count how many nights I've slept at a slight tilt because I didn't check before unhitching. Bring a set of [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=rvlife-20) and don't assume the pad is level just because it's concrete. *(Affiliate link.)*
+**Lot leveling.** Ask which direction your assigned site slopes. I can't count how many nights I've slept at a slight tilt because I didn't check before unhitching. Bring a set of [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) and don't assume the pad is level just because it's concrete. *(Affiliate link.)*
 
 **Quiet hours and pet policies.** If you have dogs, confirm size and breed limits upfront. Many parks have breed restrictions and some cap pets at two. Find this out before you're in a lease.
 

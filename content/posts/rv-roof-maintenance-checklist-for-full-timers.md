@@ -101,13 +101,13 @@ The proper procedure for resealing a vent or fixture: clean the area with a rag 
 
 Do not just apply new sealant over old, cracked sealant. I know it's tempting. I know it takes 10 minutes instead of 45. It doesn't work. The old sealant beneath continues to crack, the bond between old and new fails within a season, and you end up re-doing the job anyway. Strip the old material with a plastic scraper or a commercial sealant remover, clean the surface, then seal fresh.
 
-One product worth having in your toolkit: [Eternabond Tape](https://www.amazon.com/s?k=eternabond+tape&tag=YOURTAG-20). It's a butyl-based repair tape that's almost absurdly effective for sealing cracks in rubber roofs, minor tears, or anywhere you need a fast repair before you can do a proper job. A 4-inch by 50-foot roll runs around $70 to $90 and lasts years. I've used it on an emergency repair in a Montana campsite at 6 PM in October and it held through a winter's worth of weather until I could get the rig into a shop.
+One product worth having in your toolkit: [Eternabond Tape](https://www.amazon.com/s?k=eternabond+tape&tag=contentportfo-20). It's a butyl-based repair tape that's almost absurdly effective for sealing cracks in rubber roofs, minor tears, or anywhere you need a fast repair before you can do a proper job. A 4-inch by 50-foot roll runs around $70 to $90 and lasts years. I've used it on an emergency repair in a Montana campsite at 6 PM in October and it held through a winter's worth of weather until I could get the rig into a shop.
 
 ---
 
 ## Climate-Specific Considerations
 
-Desert parking (Phoenix, Tucson, southern Nevada): UV is the dominant threat. Your sealant life is shorter here than anywhere. Annual resealing on all penetrations is not excessive. Cover your roof vents with vent covers like [Camco Vent Covers](https://www.amazon.com/s?k=camco+rv+vent+cover&tag=YOURTAG-20) to reduce heat buildup and slow UV damage on the plastic rims.
+Desert parking (Phoenix, Tucson, southern Nevada): UV is the dominant threat. Your sealant life is shorter here than anywhere. Annual resealing on all penetrations is not excessive. Cover your roof vents with vent covers like [Camco Vent Covers](https://www.amazon.com/s?k=camco+rv+vent+cover&tag=contentportfo-20) to reduce heat buildup and slow UV damage on the plastic rims.
 
 Coastal parking: Salt air attacks aluminum and metal hardware on your roof. Every inspection, check the condition of screws and bolts holding down your vents and A/C units. A corroded screw head means a loose vent, means water intrusion. Use stainless hardware when you're replacing anything up there.
 
