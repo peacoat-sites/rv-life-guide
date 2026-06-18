@@ -40,7 +40,7 @@ So let's talk about what van life actually costs. Not the fantasy version. The r
   <div class="vm-body">
     <p class="vm-intro">This comparison shows the gap between optimistic YouTube budgets and what full-timers actually report spending, including the emergency costs most calculators ignore.</p>
     <table><caption>Monthly Van Life Cost Comparison: Ideal Projections vs. Real-World Ranges</caption><thead><tr><th>Expense Category</th><th>Optimistic Budget</th><th>Realistic Range</th><th>Hidden Cost Factors</th></tr></thead><tbody><tr><td>Vehicle Payment</td><td>$0</td><td>$0–$400</td><td>Older vans = lower payment but higher repair risk</td></tr><tr><td>Insurance</td><td>$80</td><td>$100–$200</td><td>Full-timer coverage costs more; lying voids claims</td></tr><tr><td>Fuel</td><td>$150</td><td>$200–$500</td><td>Relocating for weather/work spikes costs 2–3×</td></tr><tr><td>Camping/Parking</td><td>$0–$100</td><td>$150–$400</td><td>Free spots limited; coastal/mountain areas charge premium</td></tr><tr><td>Food</td><td>$200</td><td>$300–$500</td><td>Small fridge = more frequent shopping, less bulk savings</td></tr><tr><td>Phone/Internet</td><td>$50</td><td>$100–$180</td><td>Remote workers need backup hotspot + signal booster</td></tr><tr><td>Propane/Power</td><td>$20</td><td>$30–$80</td><td>Winter heating and summer cooling drain budgets</td></tr><tr><td>Laundry/Showers</td><td>$20</td><td>$40–$80</td><td>Gym memberships ($25–$50) often cheaper than pay-per-use</td></tr><tr><td>Maintenance Reserve</td><td>$0</td><td>$150–$300</td><td>Rule of thumb: save $0.10–$0.15 per mile driven</td></tr><tr><td>Emergency Fund Draw</td><td>$0</td><td>$100–$400</td><td>Average major repair: $800–$2,500; happens 1–2× yearly</td></tr><tr><th>Total</th><th>$520–$620</th><th>$1,200–$2,500+</th><th>Bad months can hit $3,000+ with one breakdown</th></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -113,6 +113,6 @@ The number that will actually matter is yours, not mine or some YouTuber's highl
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

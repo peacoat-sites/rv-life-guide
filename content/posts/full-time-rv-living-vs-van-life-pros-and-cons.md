@@ -38,9 +38,9 @@ Let me be specific about who I'm talking to: people who want to live in their ve
 <div class="value-module">
   <div class="vm-head">5-Year Total Cost Comparison</div>
   <div class="vm-body">
-    <p class="vm-intro">Here's the cumulative cost math over five years that most van-vs-RV comparisons skip—showing how monthly savings compound or erode your initial investment advantage.</p>
+    <p class="vm-intro">Here's the cumulative cost math over five years that most van-vs-RV comparisons skip-showing how monthly savings compound or erode your initial investment advantage.</p>
     <table><thead><tr><th>Cost Category</th><th>Converted Van (Sprinter Example)</th><th>Travel Trailer + Tow Vehicle</th></tr></thead><tbody><tr><td>Initial Purchase (used, livable condition)</td><td>$55,000–$85,000</td><td>$40,000–$70,000 combined</td></tr><tr><td>Monthly Overnight Costs (stealth + paid mix)</td><td>$250–$400</td><td>$500–$800</td></tr><tr><td>5-Year Overnight Total</td><td>$15,000–$24,000</td><td>$30,000–$48,000</td></tr><tr><td>Fuel (12,000 mi/year, typical nomad)</td><td>$3,600–$4,800/year</td><td>$4,200–$5,400/year (towing)</td></tr><tr><td>5-Year Fuel Total</td><td>$18,000–$24,000</td><td>$21,000–$27,000</td></tr><tr><td>Major Repairs Reserve (realistic)</td><td>$8,000–$15,000 (Sprinter dealer labor rates)</td><td>$5,000–$10,000 (domestic truck + trailer)</td></tr><tr><td>Insurance (5 years)</td><td>$6,000–$9,000</td><td>$7,500–$12,000 (two policies)</td></tr><tr><td><strong>5-Year Total Range</strong></td><td><strong>$102,000–$157,000</strong></td><td><strong>$103,500–$167,000</strong></td></tr><tr><td>Resale Value Retained</td><td>50–65% (vans hold value well)</td><td>40–55% (trailers depreciate faster)</td></tr><tr><td><strong>Net 5-Year Cost After Resale</strong></td><td><strong>$55,000–$95,000</strong></td><td><strong>$60,000–$110,000</strong></td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

@@ -25,7 +25,7 @@ faqs:
     a: "Honestly, this is mostly a first-year problem. The novelty of the road competes with sitting down to do math, and it's a real friction point. A few things help: keeping school sessions short and focused, connecting curriculum to wherever you are physically (if you're near a Civil War battlefield, that's history class today), and giving kids more agency in what they study and how. The kids who struggle most tend to be the ones with a very rigid schedule imposed on them. Some flexibility in the how tends to increase buy-in on the what."
 ---
 
-My son was "behind" in math for exactly three weeks before his grandmother — a retired teacher — panicked and told my wife we were ruining his education. That was in our first year on the road. He's 14 now, reads at a college level, and recently spent two days absorbed in calculating the fuel-to-distance ratios of different diesel engines because we were shopping rigs. The math caught up.
+My son was "behind" in math for exactly three weeks before his grandmother, a retired teacher, panicked and told my wife we were ruining his education. That was in our first year on the road. He's 14 now, reads at a college level, and recently spent two days absorbed in calculating the fuel-to-distance ratios of different diesel engines because we were shopping rigs. The math caught up.
 
 I'm not saying that to brag. I'm saying it because the fear that your kid will fall through the cracks is real, and it's the first thing that holds people back from combining full-time RV life with homeschooling. What most people don't realize is that the logistical challenges of RV homeschooling are actually pretty manageable. The emotional challenge of trusting the process? That's the harder thing, and no curriculum solves it.
 
@@ -35,9 +35,9 @@ Eight years in, I've talked to hundreds of families doing this. I've made plenty
 <div class="value-module">
   <div class="vm-head">Homeschool Law Comparison: Top RV Domicile States</div>
   <div class="vm-body">
-    <p class="vm-intro">These three states dominate RV domicile choices partly because their homeschool requirements align well with mobile lifestyles—here's how they actually differ.</p>
+    <p class="vm-intro">These three states dominate RV domicile choices partly because their homeschool requirements align well with mobile lifestyles-here's how they actually differ.</p>
     <table><thead><tr><th>Requirement</th><th>South Dakota</th><th>Texas</th><th>Florida</th></tr></thead><tbody><tr><td>Initial notification</td><td>File with local superintendent by Sept 1 of first year</td><td>None required</td><td>File notice of intent with county superintendent within 30 days of starting</td></tr><tr><td>Annual paperwork</td><td>Notification each school year</td><td>None</td><td>Annual notice OR use umbrella school</td></tr><tr><td>Attendance tracking</td><td>Not required</td><td>Not required</td><td>Log must be preserved (no submission)</td></tr><tr><td>Standardized testing</td><td>Not required</td><td>Not required</td><td>Annual evaluation required (test, portfolio review, or other approved method)</td></tr><tr><td>Curriculum approval</td><td>None</td><td>None</td><td>None (must be "sequentially progressive")</td></tr><tr><td>Subjects mandated</td><td>Language arts and math minimum</td><td>Reading, spelling, grammar, math, citizenship</td><td>None specified beyond "sequentially progressive"</td></tr><tr><td>Record retention</td><td>2 years recommended</td><td>No requirement (keep for your records)</td><td>Portfolio preserved for 2 years</td></tr><tr><td>Umbrella school option</td><td>Not common</td><td>Not applicable (already minimal)</td><td>Popular alternative to county filing</td></tr><tr><td>Best for</td><td>Families wanting simple one-step compliance</td><td>Maximum flexibility, minimal paperwork</td><td>Families comfortable with annual evaluation structure</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 

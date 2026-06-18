@@ -148,6 +148,6 @@ A generator isn't glamorous gear. Nobody brags about their generator setup the w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599) — 1002Wh portable power station with three 1000W AC outlets — one of the best-reviewed solar generators on Amazon.
-- **[Jackery Explorer 1000 v2 (1070Wh, 1-Hr Charge)](https://www.amazon.com/dp/B0D7PPG25F/?tag=contentportfo-20)** (~$799) — Updated Jackery Explorer 1000 with LFP battery and ultra-fast 1-hour recharge.
+- **[Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)** (~$599), 1002Wh portable power station with three 1000W AC outlets, one of the best-reviewed solar generators on Amazon.
+- **[Jackery Explorer 1000 v2 (1070Wh, 1-Hr Charge)](https://www.amazon.com/dp/B0D7PPG25F/?tag=contentportfo-20)** (~$799), Updated Jackery Explorer 1000 with LFP battery and ultra-fast 1-hour recharge.
 
