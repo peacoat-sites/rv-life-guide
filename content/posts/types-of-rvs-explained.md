@@ -108,3 +108,13 @@ Regardless of which category you buy, a few pieces of equipment make daily life 
 The RV market throws a lot of terminology at you fast, and dealerships aren't always motivated to match you with the right unit instead of the most profitable one on the lot. Take your time. Rent a few different types before you buy. Most rental platforms offer Class C motorhomes, travel trailers, and vans for a few hundred dollars a weekend. What feels exciting in a showroom feels very different after three days of living in it. The right rig for you is out there, but it's worth being honest with yourself about how you'll actually use it before you sign anything.
 
 *Photo: [Wolfgang Weiser](https://www.pexels.com/@wolfgang-weiser-467045605) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14) — The most clinically studied self-help book for depression — recommended by therapists worldwide as CBT-based self-treatment.
+- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25) — Written by Aaron Beck (founder of CBT) — the authoritative structured workbook for managing generalized anxiety disorder.
+
