@@ -25,7 +25,6 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
 A couple in Tennessee bought a used Class A motorhome for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.
 
 Whether you're buying your first rig or your fifth, or you're picking up a rental unit after winter storage, knowing what to actually check before you commit, or before you drive away, can save you from a very expensive education.
@@ -132,9 +131,6 @@ Follow this order. It's designed to save time and catch the big problems early b
 10. **Run the generator under load for 30 minutes.** Turn on the AC. If the generator staggers or surges under AC load, it's a maintenance or mechanical problem.
 11. **Drive it, if it's a motorhome.** Listen for drive train noise, check steering feel, test the brakes in a parking lot at 15 mph.
 12. **Hire a professional inspector if anything in steps 1 to 11 is unclear.** A certified NRVIA inspector charges roughly $200 to $400 and can save you tens of thousands.
-
----
-
 
 ---
 

@@ -25,22 +25,17 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
-The $12-a-night campground I found outside Moab in 2021 felt like winning the lottery. Flat desert site, no hookups, dead quiet, and a sky so full of stars it looked fake. Two years later, I drove the same route and that same spot was $34 a night, booked three weeks out, and had a 72-hour cancellation policy. That's not an anomaly. Campground fees across North America have fundamentally shifted since 2020, and if you're planning an RV trip, or trying to live full-time on the road like I do, understanding what you're actually paying for, and why, can save you hundreds of dollars per month.
-
----
+The $12-a-night campground I found outside Moab in 2021 felt like winning the lottery. Flat desert site, no hookups, dead quiet, and a sky so full of stars it looked fake. Two years later, I drove the same route and that spot was $34 a night, booked three weeks out, and had a 72-hour cancellation policy. That's not an anomaly. Campground fees across North America have fundamentally shifted since 2020, and if you're planning an RV trip, or trying to live full-time on the road like I do, understanding what you're actually paying for, and why, can save you hundreds of dollars per month.
 
 ## What You're Actually Paying For (And What You're Not)
 
 A campground fee isn't one number. It's a pile of variables stacked on top of each other, and most first-timers don't realize that until they're standing at the check-in window watching their budget explode.
 
-The base rate covers your site. That's it. After that, you might get charged extra for: electricity (sometimes metered, sometimes flat rate), water hookup, sewer connection, WiFi, cable TV, extra vehicles, extra guests, pets, slide-outs (yes, really, some parks charge per slide), and even firewood. A site listed at $45 a night can realistically run $60 or more once you add a dog fee, a second car, and a 50-amp surcharge.
+The base rate covers your site. That's it. After that, you might get charged extra for electricity (sometimes metered, sometimes flat rate), water hookup, sewer connection, WiFi, cable TV, extra vehicles, extra guests, pets, slide-outs (yes, really, some parks charge per slide), and even firewood. A site listed at $45 a night can realistically run $60 or more once you add a dog fee, a second car, and a 50-amp surcharge.
 
-Private RV parks, especially KOA and Jellystone properties, tend to bundle amenities and charge accordingly. You're paying for the pool, the jumping pillow, the dog park, and the activities staff. If you have kids who'll use all of that, it can be worth every dollar. If you're a couple in your 50s who wants quiet, you're subsidizing amenities you'll never touch.
+Private RV parks, especially KOA and Jellystone properties, tend to bundle amenities and charge accordingly. You're paying for the pool, the jumping pillow, the dog park, and the activities staff. If you have kids who'll use all of that, it's worth every dollar. If you're a couple in your 50s who wants quiet, you're subsidizing amenities you'll never touch.
 
-Public land and county parks operate differently. The fees are usually lower, often $15 to $30 a night for a developed site, but the amenities are minimal. Showers might not exist. Dump stations might be a mile away. The tradeoff is usually solitude and scenery that a private park can't compete with.
-
----
+Public land and county parks operate differently. Fees usually run $15 to $30 a night for a developed site, but the amenities are minimal. Showers might not exist. Dump stations might be a mile away. The tradeoff is usually solitude and scenery that a private park can't compete with.
 
 ## The Real Price Range: From Free to $200+ Per Night
 
@@ -60,15 +55,13 @@ Let me give you actual numbers because vague ranges are useless.
 
 The average full-hookup site at a private campground in the U.S. ran about $50 to $65 a night in 2023, based on RV Industry Association data. That's $1,500 to $2,000 a month if you're staying put. Full-time RVers who don't plan for this reality get into serious financial trouble fast.
 
----
-
 ## Monthly and Annual Rates: The Math That Makes Full-Time Viable
 
 If you're living in your RV rather than vacationing, nightly rates will kill your budget. Monthly rates change the equation entirely.
 
 Many private parks offer monthly rates that work out to $600 to $1,200 all-in for a full hookup site. In high cost-of-living areas, that same rate might reach $1,500 to $2,000, but compare that to renting an apartment in Austin or Denver and it still looks reasonable. Some snowbird parks in Florida, Arizona, and Texas go even lower for three to six month contracts, sometimes as cheap as $500 a month for a decent site.
 
-Here's the step-by-step process I use when evaluating a new park for a monthly stay:
+Here's the process I use when evaluating a new park for a monthly stay:
 
 1. **Call, don't book online.** The monthly rate is almost never published. Ask directly. Parks almost always have a lower monthly rate than multiplying the nightly rate by 30.
 2. **Ask what's included.** Electricity is often metered separately on monthly contracts. I've seen a $650/month site turn into a $950/month reality after an electric bill in a hot Texas summer.
@@ -76,8 +69,6 @@ Here's the step-by-step process I use when evaluating a new park for a monthly s
 4. **Visit before you commit.** I always do a one or two night stay before signing a monthly agreement. You learn things in 48 hours that no Google review will tell you, like the highway noise at 5am or the neighbors with a generator habit.
 5. **Check cell signal independently.** Use your carrier's actual coverage map or walk the park with your phone. Don't trust the park's "great WiFi" claim for remote work.
 6. **Ask about pet and vehicle policies explicitly.** An extra $30/month per pet adds up, and some parks limit the size or number of pets.
-
----
 
 ## Campground Membership Programs: Worth It or Not?
 
@@ -92,8 +83,6 @@ This comes up constantly in full-timer Facebook groups and the answer is genuine
 **Good Sam Club:** The $35 annual fee gets you 10% off at participating Camping World and affiliated parks. It pays off if you're spending money at Camping World anyway. I've found it less useful for campground fees specifically than the other programs.
 
 **Recreation.gov annual pass:** Not a membership, but the America the Beautiful Pass at $80 gets you free admission to all national parks and 50% off camping fees at federally managed campgrounds. If you're camping at national parks even twice a year, this is a no-brainer purchase.
-
----
 
 ## Hidden Costs and Budget Traps That Catch People Off Guard
 
@@ -111,8 +100,6 @@ Even experienced RVers get surprised. Here are the ones I've personally run into
 
 Protecting your rig when you do arrive matters too. A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) is essential before plugging in at any campground, private or public. Bad power is not rare, and a single voltage spike can fry your appliances. A [whole-house water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) at the hookup is similarly non-negotiable for me after tasting what comes out of some park taps. These are small costs that protect big ones.
 
----
-
 ## Comparison: Full Hookup Private Park vs. BLM/Free Camping (Monthly Cost Breakdown)
 
 | Category | Private Park (Monthly) | BLM/Free Camping (Monthly) |
@@ -126,11 +113,6 @@ Protecting your rig when you do arrive matters too. A quality [surge protector](
 | **Monthly ongoing total** | **$780 to $900** | **$10 to $80** |
 
 The free camping column looks amazing until you factor in the upfront cost of a real solar system and large battery bank. I run a 400-watt panel setup with a 200Ah lithium battery and a [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) to track my usage. That investment took about 18 months of free camping savings to break even. After that, it's pure benefit.
-
----
-
-
----
 
 Campground costs are the single line item in full-time RV budgets that catches people most off guard, and they keep climbing. The good news is that with some planning, the right memberships for your travel style, and honest self-assessment about what amenities you actually need, you can control this cost more than almost any other part of the lifestyle. I've camped for under $300 in a month and over $1,800 in a month, sometimes by choice and sometimes not. Knowing what drives those numbers is what keeps you on the right side of the budget.
 

@@ -25,7 +25,6 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
 You're parked at a beautiful dispersed site in the Sonoran Desert, three days from the nearest hookup, and by 2 PM your inverter is screaming low-voltage warnings. Your generator is loud, your neighbors are close enough to hear it, and you're rationing whether to run the coffee maker or charge your laptop. If you've been there, you already know why people obsess over lithium batteries. If you haven't been there yet, trust me, you will think about this moment when you're shopping for your next upgrade.
 
 ## Why Your AGM Batteries Are Holding You Back
@@ -50,9 +49,9 @@ Here's what I tell people to look for specifically:
 
 **Built-in Battery Management System (BMS).** This is non-negotiable. A BMS protects the battery from overcharge, over-discharge, short circuit, and excessive temperatures. Every reputable lithium battery for RV use should have one integrated. If a battery doesn't clearly state it has a BMS, walk away.
 
-**Cold temperature cutoff.** Lithium batteries cannot be charged below about 32°F (0°C) without causing permanent damage. Good batteries have a low-temperature charging cutoff built into the BMS. Some premium batteries, like those from Lithionics, have integrated heating elements for winter use. If you camp in cold climates, this is not optional.
+**Cold temperature cutoff.** Lithium batteries can't be charged below about 32°F without permanent damage. Good batteries have a low-temperature charging cutoff built into the BMS. Some premium options, like those from Lithionics, include integrated heating elements for winter use. If you camp in cold climates, this isn't optional.
 
-**Brand reputation and warranty.** Battle Born, Renogy, Ampere Time, and AIMS Power are all brands I've seen real full-timers use long-term with good results. Look for at least a 5-year warranty. Ten-year warranties exist and are worth paying for.
+**Brand reputation and warranty.** Battle Born, Renogy, Ampere Time, and AIMS Power all have real full-timers using them long-term with good results. Look for at least a 5-year warranty. Ten-year warranties exist and they're worth paying for.
 
 **Series and parallel compatibility.** Make sure the batteries you buy can be connected in series (for 24V systems) or parallel (to expand capacity) if your system needs it.
 
@@ -73,7 +72,7 @@ But here's where the math shifts.
 
 Over a decade of full-time RVing, lithium often costs the same or less than repeatedly replacing AGM batteries. And that calculation doesn't account for the reduced generator fuel burn, the reduced wear on your alternator from faster charging, or the simple fact that you get more usable power every single day.
 
-One thing I want to flag: make sure you budget for the full system upgrade, not just the batteries. If you're switching to lithium, your converter/charger may need to be replaced with a lithium-compatible unit. Older converters have charging profiles designed for lead-acid and can actually undercharge or damage lithium batteries over time. A decent lithium-compatible converter like the Progressive Dynamics 4600 series runs $150 to $250. Factor that in.
+One thing I want to flag: budget for the full system upgrade, not just the batteries. If you're switching to lithium, your converter/charger may need replacement with a lithium-compatible unit. Older converters have charging profiles designed for lead-acid and can actually undercharge or damage lithium batteries over time. A decent lithium-compatible converter like the Progressive Dynamics 4600 series runs $150 to $250. Factor that in.
 
 ## How to Do the Upgrade: A Practical Step-by-Step
 
@@ -91,7 +90,7 @@ This is where things get real. The good news is that for most RVs with a standar
 
 **Step 6: Disconnect shore power and remove old batteries.** Label your cables. Take a photo before you disconnect anything. AGM batteries are heavy, so have help. Dispose of them properly at a recycling center.
 
-**Step 7: Install new batteries, connect cables, configure your charger.** Follow the battery manufacturer's wiring guide precisely. Set your converter/charger to the lithium profile (usually 14.4-14.6V absorption, 13.6V float). Do a full charge cycle before trusting the system for boondocking.
+**Step 7: Install new batteries, connect cables, configure your charger.** Follow the battery manufacturer's wiring guide precisely. Set your converter/charger to the lithium profile, usually 14.4-14.6V absorption and 13.6V float. Do a full charge cycle before trusting the system for boondocking.
 
 **Step 8: Add a battery monitor.** This one I can't stress enough. A shunt-based battery monitor like the [Victron SmartShunt 500A](https://www.amazon.com/s?k=victron+smartshunt+500a&tag=contentportfo-20) gives you real-time data on state of charge, current draw, and remaining runtime. With lithium especially, you want accurate data, not guessing. *(Commissions may apply.)*
 
@@ -109,16 +108,7 @@ You might get frustrated when your generator runs for only 45 minutes instead of
 
 Your neighbors will occasionally ask why your generator isn't running. That question never gets old.
 
----
-
-
----
-
 The lithium upgrade isn't a magic fix for everything, but after eight years of full-timing, I can tell you it changed my daily experience more than almost any other single upgrade. Less generator noise, more freedom to park off-grid, and a battery monitor that actually tells me something useful. If you're serious about boondocking or long-term living in your rig, this is one of those upgrades you'll wonder how you ever managed without.
-
----
-
----
 
 ## Recommended Resources
 
@@ -126,4 +116,3 @@ The lithium upgrade isn't a magic fix for everything, but after eight years of f
 
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.
 - **[EF EcoFlow DELTA 2 Max (2048Wh)](https://www.amazon.com/dp/B0C4DW17PD/?tag=contentportfo-20)** (~$999), 2048Wh LFP battery with 2400W output, ideal for whole-home solar backup or pairing with rooftop solar panels.
-

@@ -25,7 +25,6 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 
 ---
-
 You've finally scored a reservation at Yellowstone, and it took you three weeks of hitting refresh on Recreation.gov at exactly 7 a.m. to get it. Now you're 48 hours out and you're wondering if your 32-foot fifth wheel is actually going to fit, whether you'll have hookups, and whether the person in the next site is going to run a generator until midnight. I've been there. National park RV camping is genuinely one of the best things about this lifestyle, but it has a learning curve that nobody warns you about until you're already white-knuckling a turn in a campground loop designed in 1965.
 
 Let me walk you through what you actually need to know.
@@ -34,11 +33,11 @@ Let me walk you through what you actually need to know.
 
 Private campgrounds and state parks are generally built with modern RVs in mind. National park campgrounds often aren't. Many were designed decades ago, when the average RV was a 20-foot travel trailer and slide-outs didn't exist. The National Park Service has updated some sites, but a lot of them haven't changed much since the Nixon administration.
 
-What that means practically: you'll find tight loops, low-hanging trees, narrow entry roads, and sites with uneven gravel pads that slope in directions that will test every leveling block you own. I've camped in over 30 national park campgrounds across 8 years, and I still scout a loop on foot before I pull my rig in. Always.
+What that means practically: tight loops, low-hanging trees, narrow entry roads, and sites with uneven gravel pads that slope in directions that will test every leveling block you own. I've camped in over 30 national park campgrounds across 8 years, and I still scout a loop on foot before I pull my rig in. Always.
 
-The payoff, though, is real. Waking up to a sunrise over the Grand Tetons from your own bed. Having the trailhead 200 yards from your door. No strip mall nearby. No highway noise at 3 a.m. The national park system protects some of the most spectacular land in the world, and camping inside those boundaries puts you closer to it in a way that day-tripping never will.
+But the payoff is real. Waking up to a sunrise over the Grand Tetons from your own bed. Having the trailhead 200 yards from your door. No strip mall nearby. No highway noise at 3 a.m. The national park system protects some of the most spectacular land in the world, and camping inside those boundaries puts you closer to it in a way that day-tripping never will.
 
-You just need to go in with accurate expectations, not the ones the brochure gives you.
+You just need to show up with accurate expectations, not the ones the brochure gives you.
 
 ## Reservations: How the System Actually Works (And Where It Breaks Down)
 
@@ -51,32 +50,30 @@ Here's what I tell people who are trying to get into a high-demand park:
 - Create your Recreation.gov account well ahead of time and have your payment info saved.
 - Know exactly which campground and site type you want before the clock hits 7:00.
 - Set multiple alarms. Be at your computer, not your phone.
-- If you miss the initial release, check back. Cancellations happen daily. People's plans change, and spots open up, sometimes 24 to 48 hours before the date.
+- If you miss the initial release, check back. Cancellations happen daily. People's plans change, spots open up, sometimes 24 to 48 hours before the date.
 - For Yosemite specifically, Valley campgrounds use a lottery system now, separate from Recreation.gov's standard release. Check the park's website directly.
 
-Some campgrounds in less-trafficked parks, like Big Bend or Guadalupe Mountains, operate on a first-come, first-served basis. If you're flexible and can arrive on a Tuesday in late September, you'd be surprised what's available. I've walked into Great Smoky Mountains campgrounds mid-week in October without a reservation and had my pick of sites. Timing matters more than luck in those situations.
+Some campgrounds in less-trafficked parks like Big Bend or Guadalupe Mountains operate on a first-come, first-served basis. If you're flexible and can arrive on a Tuesday in late September, you'd be surprised what's available. I've walked into Great Smoky Mountains campgrounds mid-week in October without a reservation and had my pick of sites. Timing matters more than luck in those situations.
 
 ## Knowing Your Rig's Real Limits Before You Book
 
-This is where people get into trouble, and I mean literal, stuck-in-a-loop, blocking-traffic trouble.
+This is where people get into trouble. Literal, stuck-in-a-loop, blocking-traffic trouble.
 
-National park campgrounds typically post a length limit per site, but that number isn't always enforced the same way, and it's often measured with some generosity. Still, you need to know your actual rig length, with tow vehicle attached if you're pulling a trailer, and you need to match it honestly to the posted limit.
-
-A few things to verify before you book:
+National park campgrounds typically post a length limit per site, but that number isn't always enforced the same way, and it's often measured with some generosity. Still, you need to know your actual rig length, with tow vehicle attached if you're pulling a trailer, and match it honestly to the posted limit.
 
 **Generator rules.** Many national park campgrounds have designated quiet hours from 8 p.m. to 8 a.m. and prohibit generators outside those windows. Some prohibit them entirely. If you're solar-only or have a large battery bank, this isn't a problem. If you rely on a generator for air conditioning, plan accordingly. I run a 200Ah lithium setup with 400 watts of solar and a quality battery monitor, which lets me stay comfortable without touching a generator most nights. A [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20) is worth every penny for knowing exactly where you stand. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
-**Hookups, or the lack thereof.** Most national park campgrounds are dry camping, meaning no water, electric, or sewer at the site. There are exceptions: Hookups exist at some sites in parks like Assateague Island, Shenandoah's Mathews Arm (electric only), and a handful of others. But if you're expecting to plug in at Glacier's Apgar Campground, you're going to be disappointed. Know what you're booking.
+**Hookups, or the lack thereof.** Most national park campgrounds are dry camping, meaning no water, electric, or sewer at the site. There are exceptions: Assateague Island offers water and electric, Shenandoah's Mathews Arm has electric only, a handful of others throw you a bone. But if you're expecting to plug in at Glacier's Apgar Campground, you're going to be disappointed. Know what you're actually booking.
 
 **Dump stations.** Most larger national park campgrounds have at least one dump station on-site, but they can have lines. Plan your tank capacity accordingly. I try to never arrive at a national park campground with tanks over 50 percent full.
 
-**Electrical hookups, where they exist.** If you do score a site with electric, bring a [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20). Older campground pedestals in national parks can have wiring issues. I've seen voltage drops bad enough to damage appliances. Don't skip this.
+**Electrical hookups, where they exist.** Bring a [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20). Older campground pedestals in national parks can have wiring issues. I've seen voltage drops bad enough to damage appliances. Don't skip this.
 
 ## Water and Sanitation: The Real Logistics
 
-Dry camping at a national park means thinking ahead in ways that new RVers often underestimate.
+Dry camping at a national park means thinking ahead in ways new RVers often underestimate.
 
-Most national park campgrounds have potable water spigots somewhere in the loop, even without site hookups. But that water quality varies, and filling a 100-gallon fresh tank from a campground spigot with nothing between it and your faucet is something I stopped doing years ago. I run a [dedicated inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) every time I fill up. It takes 30 seconds to attach and it protects your tank from sediment and your family from whatever's been sitting in that hose all summer.
+Most national park campgrounds have potable water spigots somewhere in the loop, even without site hookups. But water quality varies, and filling a 100-gallon fresh tank from a campground spigot with nothing between it and your faucet is something I stopped doing years ago. I run a [dedicated inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) every time I fill up. It takes 30 seconds to attach and it protects your tank from sediment and your family from whatever's been sitting in that hose all summer.
 
 Gray water is the more immediate concern for most people. With no sewer hookup, you're managing your gray tank's capacity across however many days you're booked. Cooking habits matter here: washing a big pot of pasta every night will fill your gray tank faster than you expect. Simpler meals mean slower fill rates. It's not glamorous advice, but it's real.
 
@@ -96,21 +93,18 @@ Not all national park campgrounds are equal. Here's an honest look at what you'r
 | Big Bend | Chisos Basin | 24 ft | None | Yes | Mountain location, tight roads, spectacular views |
 | Assateague Island | Oceanside | 35 ft | Water/Electric | Yes | Beachside, horses wander through camp |
 
-The length limits are the ones I'd take seriously, especially Glacier's Apgar. Rangers will turn you around. I've watched it happen.
+Take those length limits seriously, especially Glacier's Apgar. Rangers will turn you around. I've watched it happen.
 
 ## Making Dry Camping Actually Comfortable
 
 If you've mostly camped with hookups, dry camping in a national park can feel like a step backward. It doesn't have to.
 
-The biggest comfort factors are power management and temperature control. Most national park stays are a few nights, which is very manageable if you've got a decent battery bank and a few solar panels. Even a starter [100-watt solar panel kit](https://www.amazon.com/s?k=100+watt+rv+solar+panel+kit&tag=contentportfo-20) will help keep your batteries topped off for lighting, USB charging, and a fan.
+Power management and temperature control are your biggest comfort factors. Most national park stays are a few nights, which is very manageable if you've got a decent battery bank and a few solar panels. Even a starter [100-watt solar panel kit](https://www.amazon.com/s?k=100+watt+rv+solar+panel+kit&tag=contentportfo-20) will help keep your batteries topped off for lighting, USB charging, and a fan.
 
-Temperature is harder. If you're camping somewhere hot and you rely on air conditioning, dry camping without a generator is a genuine challenge. My honest advice: schedule national park trips for shoulder seasons, May, September, early October. The crowds are thinner, the reservation system is less brutal, the temperatures are manageable, and the light is better for photos. Summer at a national park is peak crowds plus peak heat. It's not the sweet spot unless your kids are out of school and you have no choice.
+Temperature control is harder. If you're camping somewhere hot and you rely on air conditioning, dry camping without a generator is a genuine challenge. My honest advice: schedule national park trips for shoulder seasons. May, September, early October. The crowds are thinner, the reservation system is less brutal, the temperatures are manageable, and the light is better for photos. Summer at a national park is peak crowds plus peak heat. It's not the sweet spot unless your kids are out of school and you have no choice.
 
 A set of good [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) is non-negotiable for national park camping. Sites are rarely flat. Trying to sleep in an unlevel rig, or run your refrigerator when it's out of level, is the kind of thing that makes people swear off camping. Spend the 30 bucks.
 
 ---
 
-
----
-
-National park RV camping has been some of the most meaningful time I've spent on the road. Watching the geyser steam rise over your morning coffee at Yellowstone. Falling asleep to the sound of the Colorado River at Canyonlands. Waking up before dawn to beat the crowds to a trailhead that's a five-minute walk from your door. None of that is guaranteed by just showing up, but all of it becomes possible once you understand how the system works and what your rig can actually handle. Go in prepared, go in realistic, and go as often as you can. These places are worth the effort.
+National park RV camping has been some of the most meaningful time I've spent on the road. Watching the geyser steam rise over your morning coffee at Yellowstone. Falling asleep to the sound of the Colorado River at Canyonlands. Waking up before dawn to beat the crowds to a trailhead that's a five-minute walk from your door. None of that happens by accident, but all of it becomes possible once you understand how the system works and what your rig can actually handle. Go in prepared, go in realistic, and go as often as you can. These places are worth the effort.

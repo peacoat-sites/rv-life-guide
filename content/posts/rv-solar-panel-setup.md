@@ -25,7 +25,6 @@ author_title: "Finance Writer"
 author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
 
 ---
-
 Most people shopping for RV solar panels start by asking "how many watts do I need?" That's the wrong first question. After eight years on the road and three separate solar builds across two different rigs, I can tell you the question that actually matters is: what does your battery bank look like? Because you can bolt 800 watts of panels to your roof and still run out of power by 9pm if your battery storage isn't matched to your generation. I've watched people spend $2,000 on panels and then wonder why their system underperforms. The battery bank is the foundation. Everything else is built on top of it.
 
 Here's what I actually learned going deep on this, including some things that surprised me.
@@ -113,9 +112,6 @@ What surprised me when I started connecting with other full-timers was how often
 **Skipping a [proper water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) when boondocking while focusing entirely on power.** Okay, this isn't a solar mistake, but it's a classic "got obsessed with one system and ignored another" mistake. Solar is often the shiny object. Don't let it be.
 
 **Expecting full-rated wattage in real conditions.** A 400-watt panel array might produce 280-320 watts on a good clear day. Panels are rated at ideal laboratory conditions: 77°F, direct perpendicular sunlight. In practice, heat reduces efficiency, angle matters, and atmospheric haze cuts output. Plan your system around realistic production numbers.
-
----
-
 
 ---
 

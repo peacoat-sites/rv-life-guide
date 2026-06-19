@@ -25,7 +25,6 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
 Most people walk into an RV dealership, see a gleaming 40-foot diesel pusher in one bay and a Sprinter van conversion in the next, and immediately freeze. The salesperson is already walking over. You haven't done nearly enough research. And the price difference between those two rigs? It could be $300,000. That moment of sticker shock is exactly where bad decisions get made, and I've watched it happen to more people than I can count over six years on the road.
 
 I sold my house in suburban Columbus in 2019 and have put over 90,000 miles on three different rigs since then. I've lived in a Class C, a Class A gas coach, and I currently call a Class B+ my home. None of them were perfect. All of them taught me something. What follows is what I wish someone had put in front of me before I signed anything.
@@ -34,33 +33,35 @@ I sold my house in suburban Columbus in 2019 and have put over 90,000 miles on t
 
 The Class A, B, and C designations aren't marketing tiers. They're structural classifications that describe how the coach is built.
 
-A **Class A** is built on a purpose-built motorhome chassis or a cut-away bus chassis. The cab and the living space are one integrated unit. You step from the driver's seat directly into the main living area with no wall or door between them. These range from about 24 feet all the way to 45 feet for a diesel pusher, and you'll find them priced anywhere from $80,000 for an older gas unit to well over $500,000 for a new Tiffin or Newmar.
+A **Class A** is built on a purpose-built motorhome chassis or a cut-away bus chassis. The cab and the living space are one integrated unit. You step from the driver's seat directly into the main living area with no wall or door between them. These range from about 24 feet all the way to 45 feet for a diesel pusher, and prices swing wildly: $80,000 for an older gas unit to well over $500,000 for a new Tiffin or Newmar.
 
-A **Class B** is a van conversion, period. Manufacturers take a commercial van, most commonly a Mercedes Sprinter, Ford Transit, or Ram ProMaster, and build out the interior while keeping the original van body. You're looking at 17 to 24 feet of total length, and prices run from about $70,000 for a basic build to $200,000+ for a fully loaded Airstream Interstate or Pleasure-Way.
+A **Class B** is a van conversion, period. Manufacturers take a commercial van (most commonly a Mercedes Sprinter, Ford Transit, or Ram ProMaster) and build out the interior while keeping the original van body intact. You're looking at 17 to 24 feet of total length, with prices running from about $70,000 for a basic build to $200,000+ for a fully loaded Airstream Interstate or Pleasure-Way.
 
-A **Class C** uses a cab-over design built on a truck or van cutaway chassis. That distinctive bunk or storage pod that hangs over the cab is how you identify one on sight. They typically run 20 to 38 feet, and new units start around $65,000 and climb past $150,000 for the larger models.
+A **Class C** uses a cab-over design built on a truck or van cutaway chassis. That distinctive bunk or storage pod hanging over the cab is how you identify one instantly. They typically run 20 to 38 feet, with new units starting around $65,000 and climbing past $150,000 for the larger models.
 
 ## Class A: The Full-Timer's Penthouse (With All the Problems That Come With It)
 
-If you want to understand what full-time RV living can look like at its most comfortable, spend a week in a diesel pusher Class A. I spent 14 months in a 34-foot Fleetwood Bounder gas coach after selling the house, and the space genuinely felt like an apartment. Residential refrigerator, queen island bed, a proper couch, two TVs, and more cabinet storage than I knew what to do with.
+Spend a week in a diesel pusher Class A and you'll understand what full-time RV living can look like at its most comfortable. I spent 14 months in a 34-foot Fleetwood Bounder gas coach after selling the house, and the space genuinely felt like an apartment. Residential refrigerator, queen island bed, proper couch, two TVs, cabinet storage I still don't understand. That kind of living space changes your expectations.
 
-The ride, though. Gas Class A coaches on a Workhorse or Ford F-53 chassis can feel like a school bus on rough roads. And rough roads are everywhere. My first major repair was a $3,400 front axle bushing job in Albuquerque that I absolutely did not budget for.
+Then you drive it.
 
-Diesel pushers are a different animal. The engine is in the rear, which distributes weight better and dramatically improves handling. But now you're talking entry prices of $150,000 to $200,000 for anything built in the last decade, and diesel service isn't cheap or easy to find everywhere.
+Gas Class A coaches on a Workhorse or Ford F-53 chassis feel like a school bus on rough roads. And rough roads are everywhere. My first major repair was a $3,400 front axle bushing job in Albuquerque that I absolutely did not budget for.
 
-The practical reality of Class A ownership:
+Diesel pushers are a different animal. The engine in the rear distributes weight better and dramatically improves handling. But now you're talking entry prices of $150,000 to $200,000 for anything built in the last decade, and diesel service isn't cheap or easy to find everywhere.
+
+The practical reality of Class A ownership breaks down like this:
 - You need to be comfortable driving something the size of a city bus
 - Many state and national park roads have length restrictions that will turn you away at the gate. I've been turned away at sites in the Smokies and Rocky Mountain NP for being too long
 - You'll typically tow a "toad" (a dinghy car) because you cannot practically use your Class A for errands
 - Fuel economy runs 7 to 12 mpg depending on size, engine, and whether there's any headwind
 
-For couples or families planning extended full-timing where comfort matters more than mobility, Class A makes real sense. For someone who wants to actually explore off the main roads, it can become a cage.
+For couples or families planning extended full-timing where comfort matters more than mobility, Class A makes real sense. For someone who wants to explore off the main roads, it can become a cage.
 
 ## Class B: Maximum Freedom, Minimum Space
 
 I spent three months borrowing a friend's Winnebago Travato before buying my current rig, and those three months genuinely changed my perspective. A Class B fits in a regular parking spot. You can drive it through downtown Asheville, park at a trailhead, and wake up with your coffee at 6,000 feet without having set up a single thing.
 
-The tradeoff is ruthless. In a van conversion, you are living in roughly 80 to 100 square feet. There's usually no separate bedroom, often no permanent bathroom (wet bath situations are common), and storage is a constant puzzle. I'm 6'1" and I hit my head on overhead cabinets in roughly 40% of Class B units I've toured.
+The tradeoff is ruthless. In a van conversion, you're living in roughly 80 to 100 square feet. There's usually no separate bedroom, often no permanent bathroom (wet bath situations are common), and storage becomes a constant puzzle. I'm 6'1" and I hit my head on overhead cabinets in roughly 40% of Class B units I've toured.
 
 Fuel economy is the obvious win: 18 to 24 mpg in a Transit-based unit isn't unusual. Insurance is lower. Maintenance follows the commercial van schedule, which means your mechanic in Bozeman can probably fix it. That last point is enormous and gets overlooked constantly.
 
@@ -74,7 +75,7 @@ Here's what I've come to believe after six years: the Class C is the most underr
 
 My first rig after selling the house was a 28-foot Thor Chateau on a Ford E-450 chassis. I put 34,000 miles on that coach in 18 months. It had a real bedroom with a door that closed, a full bathroom, a full kitchen, and I could still fit in campsite loops that turned Class A coaches away. The cab-over bunk held my gear, though plenty of people convert it to sleeping for kids or guests.
 
-Class C coaches have their problems, too. The Ford E-450 cab area feels dated and cramped compared to a Class A, and the over-cab area is a structural weak point where seams can separate and leaks develop if you don't stay on top of sealing. I resealed mine twice in 18 months and still found a soft spot in the over-cab ceiling.
+Class C coaches have real problems, too. The Ford E-450 cab area feels dated and cramped compared to a Class A, and the over-cab area is a structural weak point where seams can separate and leaks develop if you don't stay on top of sealing. I resealed mine twice in 18 months and still found a soft spot in the over-cab ceiling.
 
 Fuel economy lands between A and B: typically 8 to 14 mpg depending on size. Drivability is significantly easier than a Class A because you're sitting in a truck cab, not a bus cab, and visibility is familiar.
 
@@ -93,7 +94,7 @@ Fuel economy lands between A and B: typically 8 to 14 mpg depending on size. Dri
 | Toad vehicle needed | Almost always | Rarely | Sometimes |
 | Mechanic availability | Specialty shops | Most shops | Most shops |
 
-One thing that table can't capture: water and electrical systems are a major variable across all three classes. Before you buy anything, I'd put a [Camco TastePURE inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) and a [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) on every single rig regardless of class. Every campground you hook up to is a mystery box for water quality and electrical stability.
+One thing that table can't capture: water and electrical systems are a major variable across all three classes. Before you buy anything, put a [Camco TastePURE inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) and a [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) on every single rig regardless of class. Every campground you hook up to is a mystery box for water quality and electrical stability.
 
 ## How to Actually Choose: A Practical Framework
 
@@ -108,9 +109,6 @@ Don't start with the rig. Start with these questions.
 **Step 4: Price out the full system.** A $120,000 Class A needs leveling blocks, a toad vehicle, tow bar equipment (budget $1,500 to $3,000 for a good setup), solar if you want boondocking capability, and almost certainly some immediate repairs on anything pre-owned. A $90,000 Class C on a newer Ford chassis might be a better financial picture when you run the full numbers. [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are a $30 item you'll use every single day and should be in every rig.
 
 **Step 5: Spend a night in each class before you buy.** RVshare and Outdoorsy let you rent specific rigs. I'm serious about this. One night in a 24-foot Class C told me more than 40 hours of YouTube videos. Especially if you have a partner, you need to know if you can coexist in that space for more than a day.
-
----
-
 
 ---
 

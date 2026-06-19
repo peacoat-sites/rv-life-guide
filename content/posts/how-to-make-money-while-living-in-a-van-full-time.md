@@ -25,36 +25,35 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 
 ---
-
 Most people who ask me about van life income are asking the wrong question. They want to know *what* jobs work. What they should be asking is: what kind of worker are you, and can you actually perform under conditions nobody talks about?
 
-I've met people making $12,000 a month from a 2003 Sprinter with a folding desk and a hotspot. I've also met people who blew their savings in four months because the freelance pipeline they "had lined up" evaporated the week they hit the road. The money part of van life isn't hard because the opportunities are scarce. It's hard because you're managing irregular income, unreliable connectivity, no separation between your office and your bedroom, and the constant temptation to just drive somewhere more interesting instead of finishing the thing that pays you.
+I've met people making $12,000 a month from a 2003 Sprinter with a folding desk and a hotspot. I've also met people who burned through their savings in four months because the freelance pipeline they "had lined up" evaporated the week they hit the road. The money part of van life isn't hard because the opportunities are scarce. It's hard because you're managing irregular income, unreliable connectivity, no separation between your office and your bedroom, and the constant temptation to just drive somewhere more interesting instead of finishing the thing that pays you.
 
-I'll be honest: I didn't figure most of this out gracefully. Eight years in, I've tried a lot of income streams, kept a few, and watched others fall apart in ways I should have seen coming.
+I didn't figure most of this out gracefully. Eight years in, I've tried a lot of income streams, kept a few, and watched others fall apart in ways I should have seen coming.
 
 ---
 
 ## Remote Work You Already Know How to Do
 
-The fastest, most reliable path to van life income is taking a skill you already get paid for and making it location-independent. That sounds obvious, but people dramatically underestimate how much negotiating runway that existing skill gives them.
+The fastest, most reliable path to van life income is taking a skill you already get paid for and making it location-independent. That sounds obvious. People dramatically underestimate how much negotiating runway that existing skill gives them.
 
-Software developers, graphic designers, copywriters, bookkeepers, video editors, virtual assistants, customer support specialists, SEO consultants -- all of these can translate cleanly. If you're currently employed in one of these fields, the first question to ask is whether your employer would let you go fully remote. More companies than you'd expect say yes, especially post-2020. You keep your salary, your benefits (if you have them), and you don't have to reinvent your professional identity overnight.
+Software developers, graphic designers, copywriters, bookkeepers, video editors, virtual assistants, customer support specialists, SEO consultants. All of these translate cleanly to remote work. If you're currently employed in one of these fields, the first question to ask is whether your employer would let you go fully remote. More companies than you'd expect say yes, especially post-2020. You keep your salary, your benefits, and you don't have to reinvent your professional identity overnight.
 
-If you're going freelance, platforms like Toptal, Contra, and Upwork are all real places where real money changes hands, though the race-to-the-bottom pricing on Upwork is a genuine problem for new accounts. Contra is better if you have a portfolio already. Toptal is selective but pays well. My personal recommendation: don't use platforms as your long-term strategy. Use them to find two or three anchor clients, then move those relationships off-platform where you negotiate your own rates.
+If you're going freelance, platforms like Toptal, Contra, and Upwork are real places where money actually changes hands. Upwork's pricing race-to-the-bottom is a genuine problem for new accounts. Contra is better if you have a portfolio. Toptal is selective but pays well. Here's what I'd actually do: use platforms to find two or three anchor clients, then move those relationships off-platform where you negotiate your own rates. Platforms are a stepping stone, not a long-term strategy.
 
-What surprised me was how little income it actually takes to sustain van life once your housing cost drops to near zero. A lot of people are chasing $6,000 a month before they'll commit, when $2,500 in a low-cost-of-living region (or on BLM land) actually covers everything comfortably. That psychological shift -- recalibrating what "enough" looks like -- matters more than most people admit.
+What surprised me was how little income it actually takes to sustain van life once housing drops to near zero. A lot of people are chasing $6,000 a month before they'll commit. $2,500 in a low-cost-of-living region or on BLM land actually covers everything comfortably. That psychological shift matters more than most people admit.
 
-The practical setup: a solid mobile hotspot is non-negotiable. I've used the Netgear Nighthawk M6 on a T-Mobile data plan for the past two years, running it alongside a WeBoost Drive Reach cell booster (around $479 from most retailers). I still end up at a coffee shop or library maybe once a week in dead zones. Anyone who tells you connectivity is a solved problem in van life is either lying or never leaves the Pacific Coast Highway corridor.
+For the practical setup: a solid mobile hotspot is non-negotiable. I've used the Netgear Nighthawk M6 on a T-Mobile data plan for the past two years, running it alongside a WeBoost Drive Reach cell booster (around $479 from most retailers). I still end up at a coffee shop or library maybe once a week in dead zones. Anyone who tells you connectivity is solved in van life is either lying or never leaves the Pacific Coast Highway corridor.
 
 ---
 
 ## Content Creation: The Long Game That Actually Works
 
-I want to be careful here because content creation is wildly oversold as a van life income strategy, and I've watched a lot of people burn out on it. YouTube, Instagram, TikTok, Substack -- yes, all of these can generate real money. But the honest truth is that most van life channels that monetize well were started before 2020, when the niche was less saturated, and the ones succeeding now are doing something genuinely specific.
+I want to be careful here because content creation is wildly oversold as a van life income strategy. I've watched a lot of people burn out on it. YouTube, Instagram, TikTok, Substack can generate real money. The honest truth? Most van life channels that monetize well were started before 2020, and the ones succeeding now are doing something genuinely specific.
 
 The channels growing right now aren't "Van Life with Jake and Sarah." They're the mechanic who does hands-on Sprinter conversion tutorials. The woman who documents solo female van life in national forests with actual campsite coordinates and safety assessments. The guy who does brutally honest budget breakdowns with receipts. Specificity wins.
 
-If you're going this route, budget 12 to 18 months before meaningful monetization. YouTube ad revenue doesn't kick in until 1,000 subscribers and 4,000 watch hours. Sponsorships worth taking (not the $100 promo code deals) usually don't show up until you're past 10,000 engaged followers. Substack and Patreon can monetize faster if you write well and have an audience to bring over.
+If you're going this route, budget 12 to 18 months before meaningful monetization. YouTube ad revenue doesn't kick in until 1,000 subscribers and 4,000 watch hours. Sponsorships worth taking (not the $100 promo code deals) usually don't show up until you're past 10,000 engaged followers. Substack and Patreon can monetize faster if you write well and bring an audience over.
 
 I started writing about RV maintenance and mechanical troubleshooting because that was the one thing I actually knew more about than most van lifers, not because I thought it would perform well. It did. That's usually how it goes.
 
@@ -66,9 +65,9 @@ This one gets dismissed as "not real van life income," and I think that's snobbe
 
 Amazon's CamperForce program hires RV and van dwellers every fall for warehouse work in Campbellsville, KY; Murfreesboro, TN; and several other locations. It's physically demanding, the shifts are long, and the social scene at the affiliated campgrounds is genuinely fun. Workers I've talked to consistently clear $4,000 to $6,000 in two to three months, which can fund several months of lower-intensity living afterward.
 
-Workamping is the other big one. You exchange part-time labor (usually campground hosting, gate guarding, or maintenance) for a free site, sometimes with utilities included and occasionally a small wage. The Workamper News job board and Workers on Wheels (WOW) are the two platforms worth using. The free-site-only deals aren't always worth it, but paid hosting gigs at private campgrounds can include $12 to $18 an hour plus the site. I know one full-timer who's been workamping at the same Colorado state park campground every summer for four years and genuinely loves it.
+Workamping is the other big one. You exchange part-time labor, usually campground hosting, gate guarding, or maintenance, for a free site and sometimes utilities included or a small wage. The Workamper News job board and Workers on Wheels (WOW) are the two platforms worth using. Free-site-only deals aren't always worth it, but paid hosting gigs at private campgrounds can include $12 to $18 an hour plus the site. I know one full-timer who's been workamping at the same Colorado state park campground every summer for four years and genuinely loves it.
 
-Sugar beet harvest in the upper Midwest, fire lookout positions with the Forest Service, ranch work in Wyoming, ski resort employment in winter -- these are all real options with housing (or free camping) often included. The [Coolworks job board](https://www.coolworks.com) is the best aggregator I've found.
+Sugar beet harvest in the upper Midwest, fire lookout positions with the Forest Service, ranch work in Wyoming, ski resort employment in winter. These are all real options with housing or free camping often included. The [Coolworks job board](https://www.coolworks.com) is the best aggregator I've found.
 
 ---
 
@@ -76,7 +75,7 @@ Sugar beet harvest in the upper Midwest, fire lookout positions with the Forest 
 
 A few van lifers I respect have built genuinely solid income selling physical products, which I wouldn't have believed was practical until I saw it done.
 
-Etsy shops for handmade goods, print-on-demand stores through Printful or Printify (no inventory, ships directly), reselling finds from thrift stores and estate sales on eBay and Facebook Marketplace -- all of these can work if you have the patience for the backend work and you're strategic about what you carry. One van lifer I met outside Sedona in 2021 was making around $3,200 a month flipping vintage denim on eBay, working maybe 15 hours a week, sourcing from Goodwill Outlets (the pound stores) in each town she passed through. She kept everything in two large Rubbermaid totes until she shipped it. Genuinely clever.
+Etsy shops for handmade goods, print-on-demand stores through Printful or Printify (no inventory, ships directly), reselling finds from thrift stores and estate sales on eBay and Facebook Marketplace. All of these can work if you have the patience for backend work and you're strategic about what you carry. One van lifer I met outside Sedona in 2021 was making around $3,200 a month flipping vintage denim on eBay, working maybe 15 hours a week, sourcing from Goodwill Outlets in each town she passed through. Everything stayed in two large Rubbermaid totes until shipping. Genuinely clever.
 
 Service businesses are arguably even cleaner: mobile dog grooming, mobile notary work (high demand, low barrier to entry, often $75 to $150 per signing appointment), photography, drone videography for real estate agents, mobile detailing. These require being in one area long enough to build local clientele, so they work better for slow travelers than people moving every three days.
 
@@ -86,17 +85,14 @@ Service businesses are arguably even cleaner: mobile dog grooming, mobile notary
 
 Irregular income is psychologically brutal if you're not prepared for it. This is probably the thing I wish someone had explained to me in year one.
 
-The system that's worked for me: I keep a "baseline" savings buffer equivalent to three months of my actual expenses (not some theoretical budget, my real average monthly spend), and I treat that buffer as untouchable. Every month I earn above my baseline, half goes to taxes, a quarter goes to the buffer if it's depleted, and the rest is genuinely free to spend or invest. I use a separate high-yield savings account (currently at Marcus by Goldman Sachs) just for the tax allocation, so I'm never surprised in April.
+The system that's worked for me: keep a "baseline" savings buffer equivalent to three months of your actual expenses, not some theoretical budget. Treat that buffer as untouchable. Every month I earn above baseline, half goes to taxes, a quarter goes to the buffer if it's depleted, and the rest is genuinely free to spend or invest. I use a separate high-yield savings account (currently at Marcus by Goldman Sachs) just for the tax allocation. That way you're never surprised in April.
 
-Health insurance is the budget line that bites van lifers hardest. If you're self-employed with variable income, ACA marketplace plans are worth looking at carefully -- income-based subsidies can be significant if your AGI is below 400% of the federal poverty line. HealthSherpa is a better comparison interface than the actual healthcare.gov site, in my experience.
+Health insurance is the budget line that bites van lifers hardest. If you're self-employed with variable income, ACA marketplace plans deserve careful looking. Income-based subsidies can be significant if your AGI is below 400% of the federal poverty line. HealthSherpa is a better comparison interface than healthcare.gov itself.
 
-On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground, which you will eventually. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20) and a [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20) are what I've been running, and they've been solid.
-
----
-
+On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20) and a [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20) are what I've been running, and they've been solid.
 
 ---
 
-The income picture for van life is genuinely better than it was even five years ago. Remote work infrastructure is real, the tooling for running a one-person business from a parking lot has never been more accessible, and the number of people who've done it and written honestly about it (and made mistakes you can learn from) keeps growing. What's also true is that it requires more financial discipline than a conventional lifestyle, not less, because nobody is automatically withholding your taxes or forcing you to show up. That part's on you. Most people who make it work long-term are the ones who took the money side as seriously as the adventure side before they left.
+The income picture for van life is genuinely better than it was even five years ago. Remote work infrastructure is real. The tooling for running a one-person business from a parking lot has never been more accessible. The number of people who've done it, written honestly about it, and made mistakes you can learn from keeps growing. What's also true is that it requires more financial discipline than a conventional lifestyle, not less, because nobody is automatically withholding your taxes or forcing you to show up. That part's on you. Most people who make it work long-term are the ones who took the money side as seriously as the adventure side before they left.
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

@@ -25,12 +25,9 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 
 ---
-
 Free camping is everywhere. Most people just look in the wrong places.
 
-The standard advice -- Google "free camping near me," skim a few listicle articles, maybe download one app -- produces mediocre results at best. You end up at a crowded dispersed site on National Forest land that every other RVer already found, or a Walmart parking lot that stopped allowing overnight stays two years ago and nobody updated the database. I've wasted full driving days on bad intel. Here's how to actually find the good stuff.
-
----
+The standard advice, Google "free camping near me," skim a few listicle articles, maybe download one app, produces mediocre results at best. You end up at a crowded dispersed site on National Forest land that every other RVer already found, or a Walmart parking lot that stopped allowing overnight stays two years ago and nobody updated the database. I've wasted full driving days on bad intel. Here's how to actually find the good stuff.
 
 ## The Apps and Databases Worth Using (and Which Ones Aren't)
 
@@ -40,45 +37,39 @@ Most people know about [Freecampsites.net](https://freecampsites.net) and [iOver
 
 **Campendium** beats Freecampsites for photo quality and honest reviews. RVers tend to write more detailed comments than van lifers on that platform, which matters when you're trying to figure out if a 38-foot fifth wheel will fit.
 
-**OnX Offroad** isn't technically a camping app, but it shows land ownership overlays better than anything else. $30/year. When you're trying to figure out if that patch of flat land off a forest road is BLM, state trust land, private, or something else, OnX answers the question in about 30 seconds. I started using it three years ago and genuinely can't believe I managed without it.
+**OnX Offroad** isn't technically a camping app, but it shows land ownership overlays better than anything else. $30/year. When you're trying to figure out if that patch of flat land off a forest road is BLM, state trust land, private, or something else entirely, OnX answers the question in about 30 seconds. I started using it three years ago and genuinely can't believe I managed without it.
 
-What I'd skip: the "RV Parky" style apps that aggregate paid campgrounds with a free layer slapped on. The free-site data is thin and usually stale.
-
----
+Skip the "RV Parky" style apps. They aggregate paid campgrounds with a free layer slapped on top, and the free-site data is thin and usually stale.
 
 ## The Real Gold: How to Read Public Land Maps
 
 Here's what separates occasional free campers from people who consistently find great spots: understanding what land you're actually dealing with.
 
-In the American West, you have four main categories of public land where dispersed camping is generally permitted: Bureau of Land Management (BLM), National Forest (USFS), Bureau of Reclamation, and some state trust land. The eastern US is harder because there's less of it, but it exists. National Forests in states like Tennessee, North Carolina, and Michigan have legal dispersed camping that most people completely ignore.
+In the American West, you have four main categories of public land where dispersed camping is generally permitted: Bureau of Land Management (BLM), National Forest (USFS), Bureau of Reclamation, and some state trust land. The eastern US is harder because there's less of it, but it exists. National Forests in Tennessee, North Carolina, and Michigan have legal dispersed camping that most people completely ignore.
 
 The single best free resource is the BLM's [National Map Viewer](https://www.blm.gov/maps) combined with the [USFS Motor Vehicle Use Maps](https://www.fs.usda.gov/managing-land/travel-management/motor-vehicle-use-maps). Download the Motor Vehicle Use Map for any National Forest before you go. It shows which roads are open to motor vehicles, which is the first thing you need to know before you drive your rig somewhere and realize you can't turn around.
 
-Concrete workflow: I pick a general area I want to be in. I pull it up on OnX and identify the BLM or Forest Service parcels. I cross-reference with the Motor Vehicle Use Map to find which roads I can legally drive. Then I check The Dyrt or Freecampsites to see if anyone's documented spots in that area. Finally, I call the local ranger district or BLM field office and ask directly if there are any seasonal closures, fire restrictions, or permit requirements I should know about.
+Here's my actual workflow: I pick a general area I want to be in, pull it up on OnX, and identify the BLM or Forest Service parcels. I cross-reference with the Motor Vehicle Use Map to find which roads I can legally drive. Then I check The Dyrt or Freecampsites to see if anyone's documented spots in that area. Finally, I call the local ranger district or BLM field office and ask directly about seasonal closures, fire restrictions, or permit requirements.
 
-That last step sounds like homework. It is. It also takes about five minutes and has saved me from driving into closed areas multiple times, most memorably at a BLM field in southern Arizona in March 2022 where there was an active closure I never would have found in any app.
+That last step sounds like homework. It is. It also takes about five minutes and has saved me from driving into closed areas multiple times. Most memorably: a BLM field in southern Arizona in March 2022 where there was an active closure I never would've found in any app.
 
-The 14-day limit on most BLM and National Forest dispersed camping is the other thing to understand. Some areas have shorter limits. A few have longer ones. Ignoring this is how people get citations.
-
----
+The 14-day limit on most BLM and National Forest dispersed camping is another thing to understand. Some areas have shorter limits. A few have longer ones. Ignoring this is how people get citations.
 
 ## State-Specific Sources Nobody Mentions Enough
 
 Every state manages public land differently, and most states have camping-related resources that are either underpublicized or buried in confusing agency websites.
 
-State forests are criminally underused. Virginia's state forests allow dispersed camping in some units. Michigan has an entire program. Pennsylvania's State Forest system has designated primitive camping areas that are free, clearly mapped, and almost always less crowded than nearby National Forest land. Go to your target state's Department of Natural Resources website, look for "state forests" (not state parks, which usually charge fees), and dig around for dispersed or primitive camping policies.
+State forests are criminally underused. Virginia's state forests allow dispersed camping in some units. Michigan has an entire program. Pennsylvania's State Forest system has designated primitive camping areas that are free, clearly mapped, and almost always less crowded than nearby National Forest land. Go to your target state's Department of Natural Resources website, search for "state forests" (not state parks, which usually charge fees), and dig around for dispersed or primitive camping policies.
 
-Army Corps of Engineers land is another underrated category. They manage something like 12 million acres across the country, mostly around reservoirs. Some of that land allows primitive camping. The free camping isn't always documented anywhere -- you sometimes have to call the local project office and ask. I've had rangers enthusiastically describe great spots that aren't on any app because nobody bothered to add them.
+Army Corps of Engineers land is another underrated option. They manage something like 12 million acres across the country, mostly around reservoirs. Some of that land allows primitive camping. The free camping isn't always documented anywhere. You sometimes have to call the local project office and ask. I've had rangers enthusiastically describe great spots that aren't on any app because nobody bothered to add them.
 
-State trust land varies wildly. In Arizona, some state trust parcels are open to recreation. In Montana, you can get an annual recreational access license for $10 that lets you access state trust land for camping, among other things. These programs don't get talked about much in general RV content because they're state-specific, but if you're stationary somewhere for a season, it's worth looking into.
-
----
+State trust land varies wildly by region. In Arizona, some state trust parcels are open to recreation. In Montana, you can get an annual recreational access license for $10 that lets you access state trust land for camping. These programs don't get talked about much in general RV content because they're state-specific, but if you're stationary somewhere for a season, it's worth looking into.
 
 ## How to Scout Without Driving Blind
 
 Google Maps satellite view and Google Earth are criminally underrated for this. Before I move the rig anywhere, I spend time in satellite view looking for pullouts, flat ground, tree coverage, and whether there's a viable turnaround if the road narrows. I'm in a 28-foot Class C, not a Jeep, so this matters.
 
-Look for the dead-end roads and two-tracks branching off numbered forest roads. Those are often where the good spots are. The spots that show up on apps are almost always the easiest ones to reach and therefore the most crowded. If you're willing to drive an extra mile down a rougher road (within your rig's capability), you're probably going to have more privacy and cleaner surroundings.
+Look for dead-end roads and two-tracks branching off numbered forest roads. Those are often where the good spots are. The spots that show up on apps are almost always the easiest ones to reach and therefore the most crowded. If you're willing to drive an extra mile down a rougher road, within your rig's capability, you're probably going to have more privacy and cleaner surroundings.
 
 Two practical tools for satellite scouting:
 
@@ -87,30 +78,23 @@ Two practical tools for satellite scouting:
 
 Nothing replaces an actual scout drive in a tow vehicle or with your rig if you have good clearance, but doing this satellite homework first eliminates probably 60% of wasted trips.
 
----
-
 ## The Social Sources That Outperform Every App
 
-Facebook groups. I know. But specifically: the BLM and National Forest groups organized by region, state, or even specific areas. "BLM Utah Camping and Off-Roading" type groups. People post current conditions, fire restrictions, specific GPS coordinates, and "I'm leaving site X tomorrow, it's open" notices. The signal-to-noise ratio is higher than you'd expect because the audience self-selects for people who care about specifics.
+Facebook groups. I know. But specifically, the BLM and National Forest groups organized by region, state, or even specific areas. "BLM Utah Camping and Off-Roading" type communities. People post current conditions, fire restrictions, specific GPS coordinates, and "I'm leaving site X tomorrow, it's open" notices. The signal-to-noise ratio is higher than you'd expect because the audience self-selects for people who care about specifics.
 
-Reddit's r/vandwellers and r/overlanding communities have active members who will answer "I'm heading to the Prescott National Forest area next week, any dispersed spots worth knowing about?" with genuinely useful recent intel. Don't use these groups as your only source, but as a real-time layer on top of your other research, they're valuable.
+Reddit's r/vandwellers and r/overlanding communities have active members who'll answer "I'm heading to the Prescott National Forest area next week, any dispersed spots worth knowing about?" with genuinely useful recent intel. Don't use these as your only source, but as a real-time layer on top of your other research, they're valuable.
 
-One thing that's actually worked well: leaving a note on Freecampsites or The Dyrt when I leave a site, with a current date and accurate conditions. It's the kind of contribution that makes the whole system work better, and it's rare enough that people notice it.
-
----
+One thing that's actually worked well: leaving a note on Freecampsites or The Dyrt when I leave a site, with a current date and accurate conditions. It's rare enough that people notice it, and it makes the whole system work better.
 
 ## Before You Go: The Gear Reality
 
-You're camping without hookups. That means water capacity, battery capacity, and waste capacity are all finite and entirely your problem.
+You're camping without hookups. Water capacity, battery capacity, and waste capacity are all finite and entirely your problem.
 
 I run a [Renogy 200W solar setup](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20) that handles most of my needs, but anyone new to boondocking consistently underestimates how fast they drain their batteries without shore power. Get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron&tag=contentportfo-20) before you go. Guessing your state of charge by how bright the lights are is not a strategy.
 
 [A quality water filter](https://www.amazon.com/s?k=berkey+water+filter+rv&tag=contentportfo-20) extends your range significantly if you're camping near streams or have access to a gravity fill. Not a replacement for good judgment about water sources, but useful.
 
 [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are non-optional for free camping. Dispersed sites don't have paved pads. Get the Lynx or Camco solid interlocking blocks, not the cheap foam kind that compress and fail.
-
----
-
 
 ---
 

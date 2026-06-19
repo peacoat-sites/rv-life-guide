@@ -25,7 +25,6 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
 I remember the exact moment the math hit me. It was a Tuesday in August 2021, somewhere between Amarillo and Albuquerque, and I pulled into a Flying J to fill up my 2017 Thor Ace 30.2. The pump clicked off at $187. I'd driven 241 miles. That's roughly 78 cents per mile, just in fuel, before I'd paid for a single campsite, a single repair, or a single meal. I sat in the driver's seat for a long minute staring at the receipt.
 
 If you're trying to figure out what RV travel actually costs per mile to drive, this is the number most people get wrong before they hit the road. They budget for campsites. They budget loosely for food. But fuel costs sneak up on you because they're invisible until they're not.
@@ -40,14 +39,11 @@ Here's how to think about it:
 
 That's it. The formula is brutally simple. The variables are not.
 
-Your actual mpg depends on:
+Your actual mpg depends on several things. Rig type and weight matter first. A 40-foot Class A diesel can weigh 30,000+ pounds loaded. Physics doesn't negotiate. Terrain matters too. I averaged 8.2 mpg crossing Kansas. I averaged 5.9 mpg climbing the Rockies in the same week, same rig.
 
-- **Rig type and weight.** A 40-foot Class A diesel can weigh 30,000+ pounds loaded. Physics doesn't negotiate.
-- **Terrain.** I averaged 8.2 mpg crossing Kansas. I averaged 5.9 mpg climbing the Rockies in the same week, same rig.
-- **Speed.** Dropping from 70 mph to 60 mph on interstates improved my mileage by almost a full mpg on flat ground. That's not nothing over 10,000 miles.
-- **Wind.** A headwind on I-80 in Wyoming will wreck your mileage. A crosswind will make you white-knuckle the wheel and wreck your mileage.
-- **AC load.** Running the dash AC in Texas summer costs you real mpg. Some estimates put it at 0.5 to 1 mpg drag on a large gas Class A.
-- **Towing.** If you're dragging a Jeep Wrangler behind your motorhome, add roughly 10-15% to your fuel consumption.
+Speed will surprise you. Dropping from 70 mph to 60 mph on interstates improved my mileage by almost a full mpg on flat ground. That's not nothing over 10,000 miles. Wind's the same way. A headwind on I-80 in Wyoming will wreck your mileage. A crosswind will make you white-knuckle the wheel.
+
+Running the dash AC in Texas summer costs you real mpg. Some estimates put it at 0.5 to 1 mpg drag on a large gas Class A. If you're dragging a Jeep Wrangler behind your motorhome, add roughly 10-15% to your fuel consumption. That's the towing penalty.
 
 ## Real-World MPG Ranges by RV Class
 
@@ -68,38 +64,31 @@ These figures assume you're loaded and driving real highway miles, not empty on 
 
 ## How to Calculate Your Own Number Accurately
 
-Don't trust your rig's onboard computer for fuel economy. Mine reads optimistically by about 0.8 mpg compared to tank-to-tank math. Here's how to do it right:
+Don't trust your rig's onboard computer. Mine reads optimistically by about 0.8 mpg compared to tank-to-tank math. Here's the right way:
 
-1. **Fill your tank completely** at your starting point. Note the odometer reading.
-2. **Drive your normal route** for at least 200 miles, ideally 400-500 for a reliable sample. Short hops will skew the data.
-3. **Fill up completely again** at a second stop. Note the gallons pumped and the new odometer reading.
-4. **Do the math:** Miles driven divided by gallons used equals your actual mpg.
-5. **Divide your fuel price per gallon by your mpg.** That's your cost per mile.
-6. **Repeat this over at least 3 fill-ups** before trusting the number. One tank can be an outlier based on terrain or wind.
+Fill your tank completely at your starting point. Note the odometer. Drive your normal route for at least 200 miles, ideally 400-500 for a reliable sample, short hops will skew things. At your next stop, fill up completely again and note the gallons pumped and odometer reading.
 
-In my first year full-timing, I tracked every fill-up in a simple Google Sheet: date, location, gallons, price per gallon, odometer. Tedious? A little. But after six months I had a real picture of what my rig cost to move. My Thor Ace averaged 9.1 mpg over about 18,000 miles that year. At an average fuel price of $3.43/gallon, that was 37.7 cents per mile, just in diesel. I drove roughly 18,000 miles that year, so fuel alone ran me about $6,786. People who hadn't done this math had guessed "maybe $3,000 or $4,000."
+Do the math: miles driven divided by gallons used equals your actual mpg. Then divide your fuel price per gallon by your mpg. That's your cost per mile. Repeat this over at least 3 fill-ups before trusting the number. One tank can be an outlier based on terrain or wind.
+
+In my first year full-timing, I tracked every fill-up in a simple Google Sheet: date, location, gallons, price per gallon, odometer. Tedious? Yeah. But after six months I had a real picture of what my rig cost to move. My Thor Ace averaged 9.1 mpg over about 18,000 miles. At an average fuel price of $3.43/gallon, that was 37.7 cents per mile just in diesel. Fuel alone ran me about $6,786 that year. People who hadn't done this math had guessed "maybe $3,000 or $4,000."
 
 ## The Hidden Multiplier: Annual Miles Driven
 
-Here's where people really miscalculate. They think about cost per mile, but then they underestimate how many miles they'll drive.
+Here's where people really miscalculate. They think about cost per mile, then underestimate how many miles they'll actually drive.
 
-Full-timers average somewhere between 15,000 and 30,000 miles per year, depending on lifestyle. Snowbirds who pick two or three destinations and stay might be at the low end. People chasing summer in Colorado and winter in Florida and stopping at every national park in between (I've been that person) can crack 25,000 miles without trying hard.
+Full-timers average somewhere between 15,000 and 30,000 miles per year, depending on lifestyle. Snowbirds who pick two or three destinations and stay might be at the low end. People chasing summer in Colorado and winter in Florida and stopping at every national park in between can crack 25,000 miles without trying hard.
 
-At 25,000 miles and 40 cents per mile in fuel:
+At 25,000 miles and 40 cents per mile in fuel, you're looking at $10,000 per year just in fuel. That's $833 a month. If you were budgeting $400 a month because you compared yourself to your car, you've already blown your budget before you've parked anywhere.
 
-**$10,000 per year just in fuel.**
-
-That's $833/month. If you were budgeting $400/month for fuel because you compared yourself to your car, you've already blown your budget before you've parked anywhere.
-
-Seasonal RVers and weekenders drive far less, obviously. If you're doing 6,000 miles per year in a travel trailer setup, 40 cents/mile is only $2,400 annually, which is very manageable. The math changes completely based on how you use the rig.
+Seasonal RVers and weekenders drive far less, obviously. If you're doing 6,000 miles per year in a travel trailer, 40 cents per mile is only $2,400 annually, which is very manageable. The math changes completely based on how you use the rig.
 
 ## Practical Ways to Reduce Fuel Cost Per Mile
 
 You can't change the weight of your rig much. You can influence almost everything else.
 
-**Slow down.** I know 65 mph feels painfully slow on an interstate. But the aerodynamic drag on a brick-shaped vehicle increases dramatically with speed. Going from 70 to 62 mph cut my fuel costs meaningfully on long flat stretches. On a 3,000-mile month, that adds up.
+**Slow down.** I know 65 mph feels painfully slow on an interstate. But aerodynamic drag on a brick-shaped vehicle increases dramatically with speed. Going from 70 to 62 mph cut my fuel costs meaningfully on long flat stretches. On a 3,000-mile month, that adds up.
 
-**Use a fuel discount program.** I've saved between 10 and 25 cents per gallon consistently using the Pilot Flying J app and the Good Sam fuel discount program at Loves and Pilot. On a 100-gallon fill-up, 15 cents/gallon is $15. Over a year of full-timing, that's real money.
+**Use a fuel discount program.** I've saved between 10 and 25 cents per gallon consistently using the Pilot Flying J app and the Good Sam fuel discount program at Loves and Pilot. On a 100-gallon fill-up, 15 cents per gallon is $15. Over a year of full-timing, that's real money.
 
 **Plan routes to avoid unnecessary elevation gain.** The I-80 corridor through the Rockies will cost you. So will I-70 through Colorado. Sometimes a longer route at lower elevation is actually cheaper in fuel and easier on your engine.
 
@@ -107,26 +96,17 @@ You can't change the weight of your rig much. You can influence almost everythin
 
 **Check tire pressure every single morning.** Under-inflated tires increase rolling resistance and kill mpg. They also wear unevenly and can fail catastrophically at highway speed. I use a [quality TPMS system](https://www.amazon.com/s?k=rv+tire+pressure+monitoring+system&tag=contentportfo-20) that alerts me in the cab before I've gone ten miles on a soft tire.
 
-**Reduce weight.** I know, everyone says this. But I carried about 900 pounds of stuff I didn't need for my first eight months. Water is especially heavy. Don't fill your fresh tank to 100% for every drive if you don't need to. 100 gallons of water is over 800 pounds.
+**Reduce weight.** Everyone says this, but I carried about 900 pounds of stuff I didn't need for my first eight months. Water is especially heavy. Don't fill your fresh tank to 100% for every drive if you don't need to. 100 gallons of water is over 800 pounds.
 
 ## The Total Cost Picture: Fuel in Context
 
 Fuel is significant, but it's not your only per-mile cost. Tires on a Class A can run $2,500 to $4,000 for a full set replacement, and most full-timers replace them every 30,000 to 50,000 miles. That's roughly 5 to 13 cents per mile just in tire amortization. Add oil changes (a diesel pusher oil change can cost $200-$400), brake wear, transmission service, and the inevitable repair that will find you at the worst possible moment (my slide motor failed in a Walmart parking lot in Mississippi, $1,100 to fix), and your true cost per mile is considerably higher than fuel alone.
 
-A realistic all-in operating cost for a large gas Class A driven 20,000 miles per year often runs between 65 cents and $1.10 per mile when you factor in fuel, maintenance, tires, and insurance. That doesn't include your campsite costs or groceries or the clutch cable that snapped in rural Nevada. That's just keeping the wheels turning.
-
----
-
-
----
+A realistic all-in operating cost for a large gas Class A driven 20,000 miles per year often runs between 65 cents and $1.10 per mile when you factor in fuel, maintenance, tires, and insurance. That doesn't include campsite costs, groceries, or the clutch cable that snapped in rural Nevada. That's just keeping the wheels turning.
 
 The fuel math isn't meant to scare you off the road. I've driven over 90,000 miles in six years and I'd do it again without hesitating. But I've watched too many people hit month three with an empty bank account because they built a budget on optimistic mpg estimates and forgot that 25,000 miles is a lot of fill-ups. Know your number before you go. Recalculate it after your first month on the road. Adjust accordingly. The road is worth it when you've done the math honestly.
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
-
----
-
----
 
 ## Recommended Resources
 
@@ -134,4 +114,3 @@ The fuel math isn't meant to scare you off the road. I've driven over 90,000 mil
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

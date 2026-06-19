@@ -25,12 +25,11 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
-You just found the perfect rig, you've mapped out your first few destinations, and then someone asks: "So what's your address?" Suddenly the excitement stalls. It's a deceptively simple question with surprisingly complicated answers. Your address affects your driver's license, vehicle registration, voting rights, taxes, insurance rates, and even your ability to open a bank account. Getting this wrong costs people hundreds or thousands of dollars every year. Getting it right is one of the most important logistical moves you'll make before hitting the road full time.
+You just found the perfect rig, mapped out your first few destinations, and then someone asks: "So what's your address?" The excitement stalls. It's a deceptively simple question with surprisingly complicated answers. Your address affects your driver's license, vehicle registration, voting rights, taxes, insurance rates, and your ability to open a bank account. Getting this wrong costs people hundreds or thousands of dollars every year. Getting it right is one of the most important logistical moves you'll make before hitting the road full time.
 
 ## Why Your Legal Domicile Matters More Than You Think
 
-Let's get the terminology straight first. There's a difference between a mailing address and a legal domicile. A mailing address is just where physical mail gets delivered. Your legal domicile is the state you officially call home, and it carries real financial and legal weight.
+Let's get the terminology straight. There's a difference between a mailing address and a legal domicile. A mailing address is just where physical mail gets delivered. Your legal domicile is the state you officially call home, and it carries real financial and legal weight.
 
 Your domicile state determines:
 
@@ -39,17 +38,17 @@ Your domicile state determines:
 - **Insurance premiums.** Insurers rate policies based on your registered state. Some states are dramatically cheaper than others for both auto and RV insurance.
 - **Jury duty, voting, and legal residency.** These all tie back to your declared domicile.
 
-The three states most full-timers choose are South Dakota, Texas, and Florida. Each has no state income tax, relatively relaxed residency requirements, and established infrastructure for people living nomadically. South Dakota is especially popular because you can establish residency with just one night in a motel, visit the DMV, and be done.
+The three states most full-timers choose are South Dakota, Texas, and Florida. Each has no state income tax, relatively relaxed residency requirements, and established infrastructure for nomadic living. South Dakota's especially popular because you can establish residency with just one night in a motel, hit the DMV, and be done.
 
-If you want a deep dive into the overall logistics of making this lifestyle work, our [full-time RV living guide](/full-time-rv-living-guide/) covers the big picture well.
+If you want more on the overall logistics of making this lifestyle work, our [full-time RV living guide](/full-time-rv-living-guide/) covers the big picture.
 
 ## The Three Main Options for a Physical Address
 
 Full-timers generally use one of three approaches: a family member's address, a commercial mail forwarding service, or a private mailbox service. Each has real trade-offs.
 
-**Using a family member's address** is free and feels simple, but it can create problems. If you're using your mom's house in Ohio as your legal address but you're actually domiciled in South Dakota for tax purposes, you're mixing signals across different official records. That inconsistency can cause issues with banking, insurance, and the IRS. Use this option only if you're genuinely maintaining ties to that state.
+**Using a family member's address** is free and feels simple. But it creates problems. If you're using your mom's house in Ohio as your legal address while you're actually domiciled in South Dakota for tax purposes, you're mixing signals across different official records. That inconsistency can cause issues with banking, insurance, and the IRS. Only use this option if you're genuinely maintaining ties to that state.
 
-**Commercial mail forwarding services** are built specifically for full-timers and travelers. The big names are:
+**Commercial mail forwarding services** are built specifically for full-timers and travelers. The big names:
 
 - **Escapees RV Club (Livingston, TX):** One of the oldest and most trusted. Membership costs around $50/year, and mail forwarding plans start at about $15/month. You get a real street address in Texas, which helps with domicile establishment.
 - **America's Mailbox (Box Elder, SD):** Specifically designed for South Dakota domicile. They'll help you get a driver's license and vehicle registration in a single trip.
@@ -92,7 +91,7 @@ For insurance, make sure your health, auto, and RV policies all show the same st
 
 RV-specific insurance is a separate matter from your tow vehicle or truck. Many insurers offer "full-timer" policies that treat your RV as a primary residence, which affects liability coverage. Progressive, National General, and Good Sam Insurance all have full-timer options worth comparing.
 
-One thing people forget: voter registration. Your domicile address is where you'll vote. Absentee voting is standard for full-timers. Most states allow it without requiring a physical reason. You just request an absentee ballot ahead of each election cycle.
+One thing people overlook: voter registration. Your domicile address is where you'll vote. Absentee voting is standard for full-timers. Most states allow it without requiring a physical reason. You just request an absentee ballot ahead of each election cycle.
 
 ## Choosing the Right Domicile State: A Comparison
 
@@ -129,7 +128,4 @@ People make these errors constantly. Avoid them.
 
 ---
 
-
----
-
-The address setup piece of full-time RV life looks like paperwork, and it kind of is. But it's paperwork that saves you money, protects you legally, and lets you move freely without a bureaucratic anchor dragging you back. Spend a weekend on this before you leave, do it once, do it right, and you'll rarely have to think about it again.
+The address setup piece of full-time RV life looks like paperwork. It kind of is. But it's paperwork that saves you money, protects you legally, and lets you move freely without a bureaucratic anchor dragging you back. Spend a weekend on this before you leave, do it once, do it right, and you'll rarely have to think about it again.

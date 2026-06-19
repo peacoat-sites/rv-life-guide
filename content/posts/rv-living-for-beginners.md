@@ -25,7 +25,6 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 
 ---
-
 Your first blowout will happen at the worst possible time. Mine was on I-40 in New Mexico, 104 degrees outside, an 18-wheeler blaring past at 75 mph, and my husband and I staring at each other like we had absolutely no idea what we'd gotten ourselves into. We'd sold our 2,400-square-foot house in suburban Columbus six months earlier, bought a 32-foot fifth wheel, and hit the road with two cats, a lot of confidence, and nowhere near enough knowledge. That blowout cost us $340 and four hours of our lives. The real cost was the wake-up call: RV living rewards the prepared and humbles everyone else. Here's what I wish someone had handed me before I signed those closing papers.
 
 ---
@@ -34,7 +33,7 @@ Your first blowout will happen at the worst possible time. Mine was on I-40 in N
 
 The single biggest mistake new full-timers make is buying too much rig. I've watched it happen over and over in campgrounds across 48 states. Someone comes in with a brand-new 42-foot diesel pusher, can't back into their site, and spends the first six months miserable and broke.
 
-The three main categories you'll choose from are Class A motorhomes (the big bus-style rigs), Class C motorhomes (the cab-over box style), travel trailers, and fifth wheels. Each has real tradeoffs.
+You're choosing between Class A motorhomes (the big bus-style rigs), Class C motorhomes (the cab-over box style), travel trailers, and fifth wheels. Each has real tradeoffs.
 
 | Rig Type | Avg. Cost New | Avg. MPG | Tow/Drive Skill Needed | Best For |
 |---|---|---|---|---|
@@ -44,24 +43,26 @@ The three main categories you'll choose from are Class A motorhomes (the big bus
 | Fifth Wheel | $40k-$120k | Depends on tow vehicle | High | Stable living space, full-timers |
 | Van Conversion | $30k-$90k | 18-25 mpg | Low | Solo travelers, minimalists |
 
-For most beginners, I'd push back toward a 24-28 foot travel trailer or a Class C under 30 feet. You want something you can actually maneuver into a state park site that was designed in 1974. Length matters more than you think when you're trying to fit into a 35-foot back-in spot with trees on both sides.
+For most beginners, go smaller, a 24-28 foot travel trailer or a Class C under 30 feet. You want something you can actually maneuver into a state park site that was designed in 1974. Length matters more than you think when you're trying to fit into a 35-foot back-in spot with trees on both sides.
 
-Buy used if you can stomach it. A 3-5 year old rig has had its initial depreciation beat out of it and someone else has already discovered the warranty items. My fifth wheel was two years old when we bought it. Still, budget for repairs. RVs are built to a price point, not to last, and the joke in the community is that RV stands for "Repairs and Violations."
+Buy used if you can stomach it. A 3-5 year old rig has already taken its depreciation hit and someone else has already discovered the warranty items. My fifth wheel was two years old when we bought it. Still, budget for repairs, RVs are built to a price point, not to last. The joke in the community is that RV stands for "Repairs and Violations."
 
 ---
 
 ## The Real Cost of Full-Time RV Living
 
-People see YouTube couples in Montana with mountain views and assume this lifestyle is cheap. Sometimes it is. Sometimes it absolutely is not.
+People see YouTube couples in Montana with mountain views and assume this lifestyle is cheap. Sometimes it is.
 
-Here's what our actual monthly spending looked like in year one versus year four:
+Sometimes it costs more than your old mortgage.
 
-**Year One Monthly Average:** $4,200
-**Year Four Monthly Average:** $2,800
+Our actual monthly spending looked like this:
 
-That difference came from learning. Early on, we were paying $45-$60 a night at private campgrounds because we didn't know about Harvest Hosts, Boondockers Welcome, or the $30/year America the Beautiful pass that gets you into every national park and most national forest campgrounds. We were also doing stupid things like running the generator 6 hours a day instead of investing in solar.
+**Year One:** $4,200/month
+**Year Four:** $2,800/month
 
-Realistic monthly budget categories for a couple full-timing:
+The difference came from learning. Early on, we were paying $45-$60 a night at private campgrounds because we didn't know about Harvest Hosts, Boondockers Welcome, or the $80 America the Beautiful pass that gets you into every national park and most national forest campgrounds. We were also running the generator 6 hours a day instead of investing in solar.
+
+Here's what a realistic monthly budget looks like for a couple full-timing:
 
 - **Campground/site fees:** $400-$900 (wildly variable based on your strategy)
 - **Fuel:** $400-$800 (depends on how much you move)
@@ -71,9 +72,9 @@ Realistic monthly budget categories for a couple full-timing:
 - **Cell service/connectivity:** $150-$250
 - **Propane, consumables:** $50-$100
 
-Total range: $1,900 to $3,650, assuming you're not making big repair payments or financing your rig. Add those in and you see why some folks are spending $5,000 a month wondering how the math ever made sense.
+Total range: $1,900 to $3,650, assuming you're not making big repair payments or financing your rig. Add those in and you see why some folks hit $5,000/month wondering how the math ever made sense.
 
-Set aside a dedicated emergency fund of at least $5,000 before you leave. Not a general emergency fund. A rig-specific one. Tires alone can run $250-$400 each, and you've got six of them on a fifth wheel.
+Set aside a dedicated emergency fund of at least $5,000 before you leave. Not a general safety net. A rig-specific one. Tires run $250-$400 each, and you've got six of them on a fifth wheel.
 
 ---
 
@@ -81,32 +82,32 @@ Set aside a dedicated emergency fund of at least $5,000 before you leave. Not a 
 
 Nobody tells you how much of RV life is basically being a facilities manager for a tiny moving building. Power, water, and waste management take up a surprisingly large portion of your mental bandwidth, especially at first.
 
-**Electrical:** Most campgrounds offer 30-amp or 50-amp service. A 50-amp hookup gives you 100 amps of usable power across two legs, which means you can run an air conditioner and a microwave simultaneously. 30-amp won't let you do that. Know what your rig requires and carry a dogbone adapter so you can step down from 50 to 30 or vice versa when the site doesn't match your rig.
+**Electrical:** Most campgrounds offer 30-amp or 50-amp service. A 50-amp hookup gives you 100 amps of usable power across two legs, which means you can run an air conditioner and a microwave at the same time. 30-amp won't let you do that. Know what your rig requires and carry a dogbone adapter so you can step down from 50 to 30 (or vice versa) when the site doesn't match your rig.
 
-Get a surge protector before you go anywhere. Campground pedestals have dirty power. I've seen voltage swings, miswired pedestals, and brownouts that fry inverters and air conditioner boards. A [Progressive Industries EMS-PT30C or 50-amp equivalent](https://www.amazon.com/s?k=progressive+industries+rv+surge+protector&tag=contentportfo-20) runs $150-$300 and it will pay for itself the first time it saves your rig's electrical system. This is not optional. *(This site may earn a commission on purchases made through affiliate links.)*
+Get a surge protector before you go anywhere. Campground pedestals have dirty power. I've seen voltage swings, miswired pedestals, and brownouts that fry inverters and air conditioner boards. A [Progressive Industries EMS-PT30C or 50-amp equivalent](https://www.amazon.com/s?k=progressive+industries+rv+surge+protector&tag=contentportfo-20) runs $150-$300 and it'll pay for itself the first time it saves your rig's electrical system. This is not optional. *(This site may earn a commission on purchases made through affiliate links.)*
 
-**Solar and batteries:** If you plan to boondock (camp without hookups) even occasionally, you need to understand your power consumption. A basic setup of 200-400 watts of solar panels paired with 100-200 amp hours of lithium battery storage will keep your lights, fans, phones, and a few small appliances running. A [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20) tells you exactly what's going in and what's going out. Flying blind on battery state is how people wake up at 2 a.m. with no power.
+**Solar and batteries:** If you plan to boondock (camp without hookups) even occasionally, you need to understand your power consumption. A basic setup of 200-400 watts of solar paired with 100-200 amp hours of lithium battery storage will keep your lights, fans, phones, and a few small appliances running. A [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20) tells you exactly what's going in and out. Flying blind on battery state is how people wake up at 2 a.m. with no power.
 
-**Water:** The water quality at campgrounds varies from fine to "I wouldn't give that to my cats." Use an inline filter, minimum. The [Camco TastePURE water filter](https://www.amazon.com/s?k=camco+tastepure+rv+water+filter&tag=contentportfo-20) costs about $25 and attaches directly to your hose connection. If you're serious about water quality, add a multi-stage inline system for another $40-$80.
+**Water:** The water quality at campgrounds varies wildly. Use an inline filter, minimum. The [Camco TastePURE water filter](https://www.amazon.com/s?k=camco+tastepure+rv+water+filter&tag=contentportfo-20) costs about $25 and attaches directly to your hose connection. If you're serious about water quality, add a multi-stage inline system for another $40-$80.
 
-**Leveling:** This one seems trivial until your refrigerator stops cooling because it's 3 degrees off-level (yes, this happens with absorption fridges) or you roll out of bed at night. A set of [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=contentportfo-20) and a decent bubble level will save you. Stack them under low-side tires, then use your tongue jack or rear jacks to fine-tune.
+**Leveling:** This seems trivial until your refrigerator stops cooling because you're 3 degrees off-level (yes, this happens with absorption fridges) or you roll out of bed at night. A set of [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=contentportfo-20) and a decent bubble level will save you. Stack them under low-side tires, then use your tongue jack or rear jacks to fine-tune.
 
 ---
 
 ## Where to Park: A Strategy, Not Just a Google Search
 
-Finding places to sleep is the part that trips beginners up the most because there are genuinely dozens of options and zero single best answer. It depends on where you're going, how long you're staying, and how much you want to spend.
+Finding places to sleep is the part that trips beginners up the most. There are dozens of options and zero single best answer. It depends on where you're going, how long you're staying, and what you want to spend.
 
 **Free and low-cost options:**
 - Bureau of Land Management (BLM) land: Enormous amounts of free dispersed camping, especially in the western US. Use the app FreeRoam or BLM's own maps.
 - National forests: Dispersed camping allowed in most, typically free with a 14-day limit.
 - Harvest Hosts: A membership (around $99/year) that lets you stay overnight at wineries, farms, breweries, and golf courses. No hookups, but often beautiful and always free after the membership.
 - Casino parking lots: Unromantic but functional, and surprisingly common.
-- Walmart and Cracker Barrel: Call ahead. Many still allow overnight stays but it's not universal anymore.
+- Walmart and Cracker Barrel: Call ahead. Many still allow overnight stays, but it's not universal anymore.
 
 **Paid options:**
 - KOA and private campgrounds: Convenient, reliable, but $45-$75+ a night adds up fast.
-- State parks: Usually $25-$45/night, better locations than private parks, and often includes some hookups.
+- State parks: Usually $25-$45/night, better locations than private parks, often with some hookups included.
 - National parks: $30-$35/night, gorgeous, and often book up 6 months in advance.
 - Thousand Trails, Encore, Sun RV: Membership campground networks. Worth analyzing if you'll use them consistently, but read the fine print.
 
@@ -116,18 +117,15 @@ The America the Beautiful Pass ($80/year as of 2024) is one of the best deals in
 
 ## Daily Life Logistics Nobody Talks About
 
-The Instagram version of this life skips the part where you're sitting in a Cracker Barrel parking lot at 8 a.m. trying to do a work call while the cats have knocked over a water glass onto your laptop. Real full-time RV living has texture to it.
+The Instagram version skips the part where you're sitting in a Cracker Barrel parking lot at 8 a.m. trying to do a work call while the cats have knocked over a water glass onto your laptop. Real full-time RV living has texture.
 
-**Mail and legal domicile:** You need a legal home state. Most full-timers choose South Dakota, Texas, or Florida because they have no state income tax and are friendly to full-timers. Services like America's Mailbox (South Dakota) or Escapees mail forwarding (Texas) give you a real street address, receive your mail, and scan or forward it. Cost runs $100-$200/year.
+**Mail and legal domicile:** You need a legal home state. Most full-timers choose South Dakota, Texas, or Florida because they have no state income tax and are friendly to RVers. Services like America's Mailbox (South Dakota) or Escapees mail forwarding (Texas) give you a real street address, receive your mail, and scan or forward it. Cost runs $100-$200/year.
 
-**Healthcare:** This is the big one. If you're not on Medicare or a spouse's employer plan, you're buying your own insurance. Look at health sharing ministries, ACA marketplace plans (use a broker, not the website), or plans from associations like the Good Sam Club. Budget $400-$800/month for a couple. This is non-negotiable, and skipping it is how people end up selling their rig after one emergency room visit.
+**Healthcare:** This is the big one. If you're not on Medicare or a spouse's employer plan, you're buying your own insurance. Look at health sharing ministries, ACA marketplace plans (use a broker, not the website), or plans from associations like the Good Sam Club. Budget $400-$800/month for a couple. Skip this and one emergency room visit will force you to sell your rig.
 
-**Internet and connectivity:** Most full-timers run dual or triple cell carriers. I use Verizon and T-Mobile simultaneously with a cellular router. Starlink has been a genuine game-changer for remote work, running about $120/month plus the equipment cost. In truly remote areas, it's the only option that works.
+**Internet and connectivity:** Most full-timers run dual or triple cell carriers. I use Verizon and T-Mobile simultaneously with a cellular router. Starlink has genuinely changed things here, running about $120/month plus equipment cost. In truly remote areas, it's the only option that works.
 
-**Laundry:** Campground laundry rooms, town laundromats, and hand-washing small items. Budget $20-$40/month and about two hours every week to week and a half. If your rig has a combo washer-dryer, use it for small loads but understand it takes 2-3 hours per load and uses significant water.
-
----
-
+**Laundry:** Campground laundry rooms, town laundromats, hand-washing small items. Budget $20-$40/month and about two hours every week to week and a half. If your rig has a combo washer-dryer, understand it takes 2-3 hours per load and uses significant water.
 
 ---
 

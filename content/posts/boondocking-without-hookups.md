@@ -23,12 +23,9 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
-Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation. I've been exactly there, parked on BLM land outside Moab with a storm rolling in and a power setup I hadn't stressed-tested hard enough. That moment taught me more about boondocking than any YouTube video ever did.
+Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation. I've been exactly there, parked on BLM land outside Moab with a storm rolling in and a power setup I hadn't stress-tested hard enough. That moment taught me more about boondocking than any YouTube video ever did.
 
 Boondocking, camping without electrical, water, or sewer hookups, is either the best thing about RV life or a source of constant low-grade anxiety, depending entirely on how well-prepared you are. Eight years in, I've done hundreds of nights off-grid, from desert flats to mountain forest roads to city-adjacent "dispersed camping" spots that felt like a secret. What separates people who love it from people who dread it isn't the rig. It's the systems.
-
----
 
 ## Power: The System That Makes or Breaks Everything
 
@@ -36,15 +33,13 @@ Let's start with the one that sends people home early.
 
 Most factory RVs come with a single Group 24 or Group 27 lead-acid battery. That battery, under real-world load, gives you maybe 30 to 40 usable amp-hours before you're doing damage to it (you shouldn't discharge lead-acid below 50%). Run your lights, charge a phone, power a fan, and you'll burn through that in a single evening. This isn't a scare tactic. It's just what I've watched happen to people camped next to me who assumed their rig was "set up for camping."
 
-The first real upgrade that changed my boondocking life was moving to lithium. Two 100Ah lithium iron phosphate (LiFePO4) batteries gave me 200 usable amp-hours, nearly four times what I had before. The upfront cost is real, around $400-800 per 100Ah battery depending on brand, but the math over three to five years of boondocking makes it obvious.
+The first real upgrade that changed my boondocking life was moving to lithium. Two 100Ah lithium iron phosphate (LiFePO4) batteries gave me 200 usable amp-hours, nearly four times what I had before. The upfront cost stings, around $400-800 per 100Ah battery depending on brand, but the math over three to five years of boondocking makes it obvious.
 
 If you're not ready to replace your batteries, at minimum you need to understand what you're actually drawing. A [battery monitor like the Victron BMV-712](https://amzn.to/3example) gives you real-time state of charge, current draw in amps, and time remaining. Without one, you're guessing. With one, you're making decisions. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
-**Solar** is the other half of this equation. A 200-watt panel in full Arizona sun produces roughly 60 to 80 amp-hours per day. In Oregon in November, that same panel might give you 15. Understand your geography and season before you trust the math. For full-time boondocking in most of the American West, 400 watts of solar paired with a good MPPT charge controller is a starting point, not a ceiling.
+**Solar** is the other half. A 200-watt panel in full Arizona sun produces roughly 60 to 80 amp-hours per day. In Oregon in November? That same panel might give you 15. Understand your geography and season before you trust the math. For full-time boondocking in most of the American West, 400 watts of solar paired with a good MPPT charge controller is a starting point, not a ceiling.
 
-One more thing on power: a small generator as backup isn't admitting defeat. My 2,200-watt Honda EU2200i has pulled me out of three-day overcast situations more times than I can count. It's quiet enough to run at midday without irritating neighbors a quarter-mile away, and it charges the house bank faster than solar on a cloudy week.
-
----
+One more thing: a small generator as backup isn't admitting defeat. My 2,200-watt Honda EU2200i has pulled me out of three-day overcast situations more times than I can count. It's quiet enough to run at midday without irritating neighbors a quarter-mile away, and it charges the house bank faster than solar on a cloudy week.
 
 ## Water: You Have Less Than You Think
 
@@ -61,8 +56,6 @@ Practical adjustments that actually work:
 
 For sourcing water on the road, [iOverlander](https://www.ioverlander.com) and Campendium list water fill stations near popular dispersed camping areas. Many BLM offices, ranger stations, and small-town parks have spigots. Carry a [quality inline water filter](https://amzn.to/3example2) and know what you're connecting to. Potable isn't always potable.
 
----
-
 ## Waste Management: The Part Nobody Romanticizes
 
 Your gray tank fills faster than your black tank. That surprises almost everyone. Dishes, hand washing, and a single shower add up to several gallons fast, and a 30-gallon gray tank on a 7-day boondock is going to get uncomfortable around day 4 or 5.
@@ -71,9 +64,7 @@ The good news: gray water management has options. In most dispersed camping area
 
 Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a composting toilet is a genuine game-changer. I switched to an Airhead composting toilet three years ago and my entire relationship with water management changed because the black tank was now exclusively available for gray overflow. That's a real solution, not a lifestyle statement.
 
-Dump stations are everywhere if you know where to look. Sanidumps.com is a better database than most campground apps for finding standalone dump stations. Many Flying J and Pilot truck stops have them. Cost is usually $10 to $20.
-
----
+Dump stations are everywhere if you know where to look. Sanidumps.com is a better database than most campground apps for finding standalone dump stations. Many Flying J and Pilot truck stops have them, usually for $10 to $20.
 
 ## Finding Legal Spots and Staying Welcome
 
@@ -91,8 +82,6 @@ Public land boondocking in the US is genuinely abundant. The Bureau of Land Mana
 What most people don't realize is that the spots you see photos of on Instagram are often the worst choice. They've been loved to death, and they attract rangers doing checkups. The better boondocking spots are the ones you find by driving five miles further down the road than the obvious turnout.
 
 Leave-no-trace isn't optional if you care about access staying open. Pack out everything. Don't build new fire rings. Disperse footprints. The communities that lose BLM access lose it because a small percentage of people treated public land like a dump.
-
----
 
 ## A Practical Boondocking Prep Checklist
 
@@ -117,8 +106,6 @@ The "someone knows your location" line isn't dramatic. I carry a [Garmin inReach
 
 A [quality surge protector](https://amzn.to/3example4) is more relevant when you're back at hookups, but bringing it matters because you'll likely bounce between free camping and paid sites. Protect your investment.
 
----
-
 ## Managing Budget and Expectations Long-Term
 
 Let's be honest about what full-time boondocking actually costs because the "free camping" narrative leaves some important asterisks out.
@@ -131,12 +118,9 @@ Let's be honest about what full-time boondocking actually costs because the "fre
 - Garmin inReach or SPOT device: $350 plus $15-50/month subscription
 - Cellular booster and hotspot plan: $150 device plus $50-80/month
 
-That's potentially $4,000 to $6,000 in infrastructure before you park your first free night. But spread over 200+ nights per year at campgrounds that would otherwise cost $30 to $60 each, it pays back within the first year.
+That's potentially $4,000 to $6,000 in infrastructure before you park your first free night. But spread over 200+ nights per year at campgrounds that'd otherwise cost $30 to $60 each, it pays back within the first year.
 
 What I wish someone had told me at the start: build your system in stages. Start with a battery monitor and a decent solar setup. Live with it for two months. See where your actual pain points are. Don't let YouTube channel influencers sell you a $15,000 lithium-solar-inverter-generator setup before you know what you actually need.
-
----
-
 
 ---
 

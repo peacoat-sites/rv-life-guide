@@ -25,7 +25,6 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
 You're standing in a dealership lot on a Saturday morning, coffee going cold in your hand, staring at two very different machines. The salesperson is hovering. Your partner is already climbing into a Class A motorhome the size of a city bus. And you have absolutely no idea which direction to walk. I've been there. Six years and 90,000 miles later, I can tell you that this decision shapes almost every single day of your life on the road, and most people get it wrong because they fall in love with floor plans instead of thinking about how they actually live.
 
 ## What You're Really Choosing Between
@@ -52,13 +51,13 @@ On the flip side, travel trailer owners need a capable tow vehicle. If you don't
 
 Insurance runs differently too. Motorhomes are typically insured as recreational vehicles with full-timer options available. Trailer insurance is often cheaper per unit, but you're insuring two vehicles instead of one.
 
-Fuel is where motorhome owners get a rude wake-up call. A Class A gas coach might average 7 to 10 miles per gallon. A Class C might do 10 to 14. Towing a 28-foot trailer with a Ram 2500 diesel? You'll likely see 12 to 16 mpg, which actually beats most motorhomes on long hauls.
+Fuel is where motorhome owners get a rude wake-up call. A Class A gas coach might average 7 to 10 miles per gallon. A Class C might do 10 to 14. Towing a 28-foot trailer with a Ram 2500 diesel? You'll likely see 12 to 16 mpg, which actually beats most motorhomes on long hauls. That's the counterintuitive part nobody mentions.
 
 ## Driving and Day-to-Day Livability
 
 Here's something nobody tells you at the dealership: driving a 40-foot motorhome is genuinely hard at first.
 
-You're piloting a vehicle that's 13 feet tall, possibly 8.5 feet wide, and has a turning radius that requires advance planning at every fuel stop, restaurant, and national park entrance. Low bridges, tight campground loops, propane filling stations with canopies, all of these become obstacles you have to think about constantly.
+You're piloting a vehicle that's 13 feet tall, possibly 8.5 feet wide, and has a turning radius that requires advance planning at every fuel stop, restaurant, and national park entrance. Low bridges, tight campground loops, propane filling stations with canopies. All of it becomes obstacles you have to think about constantly.
 
 Towing a trailer has its own learning curve. Backing into a campsite with a trailer attached is a skill that takes real practice. You will jackknife in public at least once. Your mirrors need to be set perfectly, and you need to understand trailer sway before you experience it at 70 mph on an interstate.
 
@@ -96,13 +95,13 @@ The motorhome setup is faster and simpler once you're practiced. But you're not 
 
 Six years of full-timing taught me that your power system matters more than your floor plan.
 
-Both motorhomes and travel trailers can be built out for serious off-grid use. But the platforms are different.
+Both motorhomes and travel trailers can be built out for serious off-grid use. But the platforms work differently.
 
 Motorhomes, especially Class A and C units, often have chassis alternators that can charge house batteries while driving. Many also have generator bays already built in. But they're also power-hungry. Larger roof AC units, more lighting, bigger water heaters, all of it draws more amperage.
 
 Travel trailers tend to have simpler 12-volt systems and more roof space for [solar panels](https://www.amazon.com/s?k=rv+solar+panels&tag=contentportfo-20) relative to interior square footage. A well-equipped trailer with 400 to 600 watts of solar and a solid lithium battery bank can handle weeks of boondocking without drama.
 
-No matter which rig you choose, get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) installed before you leave the dealership. Watching your state of charge in real time changes how you use power and protects your battery investment. I use a Victron BMV-712 and check it constantly.
+Get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) installed before you leave the dealership, regardless of which rig you choose. Watching your state of charge in real time changes how you use power and protects your battery investment. I use a Victron BMV-712 and check it constantly.
 
 The best boondocking rigs I've seen in six years of campfire conversations have usually been well-equipped trailers or van conversions. Motorhomes can do it, but the fuel burn to reposition when the weather turns makes them less flexible.
 
@@ -115,11 +114,6 @@ RVs depreciate hard. A new motorhome can lose 20 to 30 percent of its value in t
 What holds value better is brand reputation and mechanical simplicity. A used Airstream Bambi from 2015 holds its value remarkably well because of brand demand and build quality. A diesel pusher from a manufacturer that went bankrupt (several have in the last decade) can be nearly worthless because parts and service become nearly impossible to source.
 
 Buying used, specifically two to three years old with one previous owner, is almost always the smarter play. Let someone else absorb the steepest depreciation curve.
-
----
-
-
----
 
 After six years, I'm still in a travel trailer setup, a 2021 Lance 2465 pulled by a Ram 2500. I've looked at motorhomes many times and almost pulled the trigger twice. What keeps me coming back to the trailer life is simple: I like having my truck available without dismantling camp. But I have friends doing 50,000 miles a year in Class A Tiffins who wouldn't trade for anything. The right answer lives in the details of your actual life, how often you move, whether you travel solo or with a partner, how much mechanical risk you can stomach, and how you want to spend your mornings. Figure that out first, then go find the rig that fits it.
 

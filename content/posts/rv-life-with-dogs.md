@@ -25,40 +25,33 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 
 ---
-
 My dogs have been in this rig longer than some people have owned cars. Eight years, two dogs (one passed, one current), four different rigs, and more campgrounds than I can count. Most advice you'll find about full-timing with dogs is written by people who took one camping trip. It shows.
 
 Here's what that advice gets wrong: it focuses almost entirely on logistics. Crates, leashes, paw wipes. Fine, you need all of that. But the harder stuff, the stuff that will actually make or break your life on the road with a dog, is about routines, vet strategy, and what happens when your dog gets sick at 7pm in a town where the nearest emergency animal hospital is 90 minutes away. That's where we're starting.
 
----
-
 ## The Vet Situation Is the Thing Nobody Prepares For
 
-Full-time RVers don't have a "regular vet." You think you'll find one wherever you go. You will, mostly, but "finding one" means calling six clinics because four aren't taking new patients, one can't see you for three weeks, and the sixth has a two-hour wait for a walk-in slot. On a Tuesday. With a dog who's been vomiting since dawn.
+Full-time RVers don't have a regular vet. You think you'll find one wherever you go. You will, mostly. But "finding one" means calling six clinics because four aren't taking new patients, one can't see you for three weeks, and the sixth has a two-hour wait. On a Tuesday. With a dog who's been vomiting since dawn.
 
-I've been in that situation twice. The second time I was outside Flagstaff, AZ in October 2021, and my current dog Biscuit (a 65-lb mutt of dubious ancestry) ate something on a desert hike. I spent 40 minutes on the phone before I found a vet who could see us same-day. She charged $280 for an exam and activated charcoal. Worth every dollar, but that's not the point. The point is I had no relationship with anyone, no records on hand, and I was making decisions cold.
+I've been there twice. The second time was outside Flagstaff, AZ in October 2021. My current dog Biscuit, a 65-lb mutt of dubious ancestry, ate something on a desert hike. I spent 40 minutes on the phone before I found a vet who could see us same-day. She charged $280 for an exam and activated charcoal. Worth every dollar. But that's not the point. The point is I had no relationship with anyone, no records on hand, and I was making decisions cold.
 
 What actually works:
 
-Keep a physical folder with your dog's vaccination records, heartworm test dates, any chronic conditions, and a list of every medication they've ever been on. Digital backup too, but the folder matters because some rural clinics still want paper. Get your dog on a pet insurance plan before you start full-timing. Not for routine stuff, those plans rarely pencil out, but for the $4,000 emergency surgery that will absolutely happen eventually. Healthy Paws runs about $35-55/month for a healthy adult dog and has paid out for me. Trupanion is worth comparing if your dog has a known condition.
+Keep a physical folder with your dog's vaccination records, heartworm test dates, any chronic conditions, and a list of every medication they've ever been on. Digital backup too, but the folder matters because some rural clinics still want paper. Get your dog on a pet insurance plan before you start full-timing. Not for routine stuff, those plans rarely pay for themselves, but for the $4,000 emergency surgery that will absolutely happen eventually. Healthy Paws runs about $35-55/month for a healthy adult dog and has paid out for me. Trupanion is worth comparing if your dog has a known condition.
 
-Also: [Chewy's Connect With a Vet](https://www.chewy.com) service is free with an account and has gotten me through three "is this an emergency or is it fine" situations at odd hours. It's not a replacement for a real vet, but at 10pm when your dog is limping and you're in rural Montana, a vet tech on video chat is genuinely useful.
+Also: [Chewy's Connect With a Vet](https://www.chewy.com) service is free with an account and has gotten me through three "is this an emergency or is it fine" situations at odd hours. It's not a replacement for a real vet. But at 10pm when your dog is limping and you're in rural Montana, a vet tech on video chat is genuinely useful.
 
 Establish a "home base" vet if you can. A lot of full-timers use their mail forwarding address state for this. I use a clinic in Tucson, AZ where I winter. They know Biscuit's history, they're reachable by phone, and they've called in prescriptions to local vets twice when I was traveling. That relationship is worth maintaining.
 
----
-
 ## How RV Life Actually Changes a Dog's Day
 
-For most dogs, full-time RV life is better than a house with a backyard. That's my honest read after eight years. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
+For most dogs, full-time RV life is better than a house with a backyard. I'll say it directly: after eight years, I believe it. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
 
 Biscuit is calmer and more confident than any dog I've had living in a house. She's been to 31 states. She knows what "we're packing up" means and she goes to her spot in the passenger seat like clockwork.
 
-But. There are dogs who don't adapt well to this, and you need to be honest about your dog's temperament before you commit. If your dog is reactive, anxious, or needs a very predictable physical territory to feel safe, life on the road is going to stress both of you. That's not a dealbreaker necessarily, but it's a real consideration. A trainer I respect told me that anxious dogs often need 3-4 weeks in a new location before they settle, which doesn't work well when you're moving every few days.
+But there are dogs who don't adapt well to this. You need to be honest about your dog's temperament before you commit. If your dog is reactive, anxious, or needs a very predictable physical territory to feel safe, life on the road will stress both of you. That's not a dealbreaker necessarily. It's a real consideration. A trainer I respect told me that anxious dogs often need 3-4 weeks in a new location before they settle, which doesn't work when you're moving every few days.
 
-The thing that actually matters most is consistency of routine, not consistency of place. Same feeding times. Same exercise amount. Same sleep arrangement. Dogs read your behavior more than their surroundings. If you're relaxed and structured, most dogs figure it out within a few weeks.
-
----
+What actually matters most is consistency of routine, not consistency of place. Same feeding times. Same exercise amount. Same sleep arrangement. Dogs read your behavior more than their surroundings. If you're relaxed and structured, most dogs figure it out within a few weeks.
 
 ## The Gear That's Worth It (and What to Skip)
 
@@ -68,17 +61,15 @@ People go overboard buying dog gear before they hit the road. I did it myself. I
 
 A good orthopedic dog bed. Your dog sleeps more than you do and the floors in RVs are hard. I've used the Big Barker Orthopedic Dog Bed (around $180-250 depending on size) for the last four years and it's held up better than anything cheaper I tried. Your dog's joints will thank you, especially on long driving days.
 
-A hands-free leash system. [This one from Tuff Mutt](https://www.amazon.com/s?k=hands+free+dog+leash) runs about $25 and clips to a hip belt. When you're carrying a water jug and trying to set up camp and your dog wants to investigate every neighboring rig, having both hands is not optional.
+A hands-free leash system. [This one from Tuff Mutt](https://www.amazon.com/s?k=hands+free+dog+leash) runs about $25 and clips to a hip belt. When you're carrying a water jug and trying to set up camp and your dog wants to investigate every neighboring rig, having both hands isn't optional.
 
-Collapsible water bowls and a dedicated water bottle for the dog. Tap water varies wildly across campgrounds. Some of it is genuinely bad. I run Biscuit off filtered water using the same [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter+camco) I use for our drinking water (the Camco TastePURE is about $20 and does the job). A few campgrounds have had water so mineral-heavy that it gave her stomach issues before I figured out the pattern.
+Collapsible water bowls and a dedicated water bottle for the dog. Tap water varies wildly across campgrounds. Some of it is genuinely bad. I run Biscuit off filtered water using the same [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter+camco) I use for our drinking water (the Camco TastePURE is about $20 and does the job). A few campgrounds had water so mineral-heavy that it gave her stomach issues before I figured out the pattern.
 
-A 30-foot rope lead staked into the ground. This is my most-used piece of gear at campgrounds. Lets Biscuit be outside while I'm setting up, cooking, or sitting at the picnic table without me holding her. Make sure your stake is actually rated for your dog's weight and pulling strength. The cheap ones bend on the first serious lunge.
+A 30-foot rope lead staked into the ground. This is my most-used piece of gear at campgrounds. It lets Biscuit be outside while I'm setting up, cooking, or sitting at the picnic table without me holding her. Make sure your stake is actually rated for your dog's weight and pulling strength. The cheap ones bend on the first serious lunge.
 
 **Skip:**
 
-Elaborate dog ramps with 18 attachment points. A simple foam ramp works fine. Weighted automatic dog feeders. Take two minutes and feed your dog yourself. Any "GPS dog collar" that runs on a subscription over $10/month. I tried two of these. The battery life was consistently worse than advertised and the coverage in rural areas, where you're actually worried about losing a dog, was patchy.
-
----
+Elaborate dog ramps with 18 attachment points. A simple foam ramp works fine. Weighted automatic dog feeders, take two minutes and feed your dog yourself. Any "GPS dog collar" that runs on a subscription over $10/month. I tried two of these. Battery life was consistently worse than advertised and coverage in rural areas, where you're actually worried about losing a dog, was patchy.
 
 ## Campground Realities That Dog Owners Have to Know
 
@@ -86,26 +77,21 @@ Not every campground is dog-friendly in practice, even when they claim to be.
 
 Most private campgrounds (KOA, Thousand Trails, Good Sam parks) allow dogs with a fee, usually $2-5/night, but have size or breed restrictions. Pit bulls, Rottweilers, and German Shepherds get flagged constantly. If you have a restricted breed, call ahead every single time. I've seen people turned away at the gate with a dog they've had for years.
 
-State parks are generally great for dogs. Most allow them in campsites and on some trails. National Parks are infamously restrictive: dogs are allowed on pavement and in parking lots, basically, not on trails. If your life revolves around hiking with your dog, NPS campgrounds should be lower on your list than BLM land or national forests, where the rules are much looser.
+State parks are generally great for dogs. Most allow them in campsites and on some trails. National Parks are famously restrictive: dogs are allowed on pavement and in parking lots, basically. Not on trails. If your life revolves around hiking with your dog, NPS campgrounds should be lower on your list than BLM land or national forests, where the rules are much looser.
 
-BLM dispersed camping with a dog is, honestly, the best version of this lifestyle. No fee, no neighbors 12 feet away, no campground rules. You and your dog can roam. The tradeoff is that you're responsible for knowing about wildlife hazards. Rattlesnakes, prairie dogs (hantavirus risk), coyotes, and depending on the region, mountain lions and bears. Rattlesnake aversion training is about $75-100 in most western cities and I consider it non-negotiable if you're spending significant time in the desert Southwest or Rocky Mountains.
+BLM dispersed camping with a dog is, honestly, the best version of this lifestyle. No fee, no neighbors 12 feet away, no campground rules. You and your dog can roam. The tradeoff is you're responsible for knowing about wildlife hazards. Rattlesnakes, prairie dogs (hantavirus risk), coyotes, and depending on the region, mountain lions and bears. Rattlesnake aversion training is about $75-100 in most western cities and I consider it non-negotiable if you're spending significant time in the desert Southwest or Rocky Mountains.
 
-One more thing about campground neighbors: not everyone likes dogs. Even friendly, quiet dogs. Some campgrounds are densely packed and if your dog barks every time someone walks past, you will become the campground problem. Figure out your dog's triggers before you're in a situation where your neighbor files a complaint at the office. This has happened to people I know.
-
----
+One more thing: not everyone likes dogs. Even friendly, quiet dogs. Some campgrounds are densely packed and if your dog barks every time someone walks past, you become the campground problem. Figure out your dog's triggers before you're in a situation where your neighbor files a complaint at the office. This has happened to people I know.
 
 ## Keeping a Dog Safe Inside a Moving Rig
 
-This is where I'll say something slightly unpopular: most full-timers don't properly restrain their dogs while driving, including me for the first few years.
+This is where I'll say something slightly unpopular: most full-timers don't properly restrain their dogs while driving. Including me for the first few years.
 
-A dog loose in the cab of a truck or the passenger seat of a motorhome is a projectile in a collision. A 65-lb dog hits at roughly 2,600 lbs of force in a 40mph crash. That's not a statistic I invented: it comes from the Center for Pet Safety's crash testing research. I know it's comfortable to have your dog next to you, and I know most drives go fine. But.
+A dog loose in the cab or passenger seat is a projectile in a collision. A 65-lb dog hits at roughly 2,600 lbs of force in a 40mph crash. That's not a statistic I invented: it comes from the Center for Pet Safety's crash testing research. I know it's comfortable to have your dog next to you. I know most drives go fine. But.
 
 The options that actually work: a crate bolted or strapped down in the truck bed cap or cargo area, or a crash-tested harness tethered to a seatbelt. The Sleepypod Clickit Sport ($80-90) is one of the few harnesses that has passed third-party crash testing. Most harnesses on the market have not. The Center for Pet Safety has a testing database that's worth checking before you buy.
 
 For cats, always a carrier. Cats loose in a moving vehicle are a different category of dangerous, both to themselves and to you.
-
----
-
 
 ---
 

@@ -13,11 +13,9 @@ author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel
 slug: "californias-clean-truck-check-is-now-hitting-diesel-motorhome-owners"
 affiliate_disclosure: false
 ---
-
 Picture this: you're rolling into California on I-40 in late June, maybe headed to Yosemite or just cutting through to get to Oregon, and you get flagged at an agricultural inspection station. The officer asks whether your diesel motorhome is compliant with California's Clean Truck Check program. You've never heard of it. Your rig is registered in Arizona. And suddenly you're looking at a potential registration hold that could ground your coach on the side of the highway.
 
-This is not a hypothetical. It's happening right now, and it's going to keep happening all summer because CARB's Clean Truck Check program is in full enforcement mode in 2026, and thousands of diesel motorhome owners, including out-of-staters who just pass through California a couple times a year, are completely blindsided by it.
-
+This is not a hypothetical. It's happening right now. CARB's Clean Truck Check program is in full enforcement mode in 2026, and thousands of diesel motorhome owners, including out-of-staters who just pass through California a couple times a year, are getting blindsided by it.
 
 <div class="value-module">
   <div class="vm-head">Clean Truck Check Compliance Checklist</div>
@@ -30,44 +28,46 @@ This is not a hypothetical. It's happening right now, and it's going to keep hap
 
 ## What the Clean Truck Check Actually Requires
 
-Let's cut straight to what matters. If you own a diesel motorhome with a GVWR over 14,000 pounds and you operate it on California roads, even for a single trip, you are subject to this program. That covers most Class A and Class C diesel rigs, and a lot of Super C builds.
+If you own a diesel motorhome with a GVWR over 14,000 pounds and you operate it on California roads, you're subject to this program. Even for a single trip. That covers most Class A and Class C diesel rigs, plus a lot of Super C builds.
 
-The requirement is an annual emissions test, performed by a CARB-credentialed tester, and it has to happen no more than 90 days before your compliance deadline. The annual compliance fee is $32.13, which is genuinely not the painful part. The painful part is finding a credentialed tester, getting your rig there, and doing this before you end up in a compliance gap during travel season. According to the Clean Truck Check Motorhome Fact Sheet from CARB, the testing method depends on your engine year: 2013-and-newer diesel engines require an OBD data scan via a CARB-certified device, while 2012-and-older engines must pass a smoke opacity test plus a visual inspection of your emissions control equipment. If your coach is sitting on a 2008 Cummins, that's a physical smoke test. Plan accordingly.
+The requirement itself is straightforward: an annual emissions test from a CARB-credentialed tester, done no more than 90 days before your compliance deadline. The $32.13 annual fee isn't going to hurt your wallet. The real friction is finding that credentialed tester, getting your rig there, and doing it before you end up in a compliance gap during travel season.
+
+The testing method depends on your engine year. If you've got a 2013 or newer diesel engine, you need an OBD data scan using CARB-certified equipment. For 2012 and older, it's a smoke opacity test plus a visual inspection of your emissions control equipment. According to the Clean Truck Check Motorhome Fact Sheet from CARB, that smoke test is a physical procedure, not a computer scan. If you're sitting on a 2008 Cummins, you're getting your rig put through an actual opacity test. Plan for that.
 
 ## Out-of-State Owners: Yes, This Means You
 
-I've seen a lot of regulations come and go, and the ones that catch people hardest are always the ones with extraterritorial reach. This one has it. California isn't just regulating coaches registered in the state. If you drive your rig on California roads, you're on the hook. Full stop.
+I've watched a lot of regulations come and go. The ones that catch people hardest are always the ones with extraterritorial reach. This one has it. California isn't just regulating coaches registered in the state. Drive your rig on California roads, and you're on the hook. That's the whole story.
 
-What most people don't realize is that the California DMV is actively placing registration holds on non-compliant vehicles. Now, if you're registered in Nevada or Texas, your home state DMV isn't going to care about a California compliance flag. But California can still flag your vehicle in their system, and if you're pulled over or inspected in the state, you could be looking at fines or being told you can't legally operate the coach until you come into compliance. That's a miserable situation to be in when you're on a two-week trip with your family.
+Most people don't realize the California DMV is actively placing registration holds on non-compliant vehicles. Sure, if you're registered in Nevada or Texas, your home state DMV won't care about a California compliance flag. But California can still flag your vehicle in their system. Get pulled over or inspected in the state, and you could be looking at fines or an order to stop operating the coach until you comply. That's miserable when you're on a two-week trip with your family.
 
-The SmogCheck.com compliance guide from December 2025 lays out the practical reality clearly: you need to locate a CARB-credentialed tester who handles motorhomes specifically, not just commercial trucks, because not every truck check station is set up to handle a 40-foot Class A. Start that search before you head west, not after you cross the Nevada border.
+According to the SmogCheck.com compliance guide from December 2025, you need to find a CARB-credentialed tester who actually handles motorhomes, not just commercial trucks. Not every truck check station can work with a 40-foot Class A. Start that search before you head west. Don't wait until you cross the Nevada border.
 
 ## The Wider Regulatory Picture Is Getting Serious
 
-California is usually the leading edge, but this time it's got company. Six states, including Oregon, Washington, Massachusetts, New York, New Jersey, and Vermont, adopted Advanced Clean Trucks rules in 2026 that restrict the sale of new motorhomes over 8,500 pounds GVWR with combustion-engine chassis. Colorado, Maryland, New Mexico, and Rhode Island are slated to join in 2027, according to RVshare's April 2026 regulatory roundup.
+California usually leads the way on this stuff, but it's got real company now. Six states, including Oregon, Washington, Massachusetts, New York, New Jersey, and Vermont, all adopted Advanced Clean Trucks rules in 2026 that restrict the sale of new motorhomes over 8,500 pounds GVWR with combustion-engine chassis. Colorado, Maryland, New Mexico, and Rhode Island are joining in 2027, per RVshare's April 2026 regulatory roundup.
 
-To be clear, those ACT rules are primarily about new vehicle sales, not about testing your existing rig the way California's CTC does. But the direction of travel is obvious. If you're planning to buy a new diesel motorhome in the next few years and you live in or frequently travel to any of those states, the chassis options available to you are already shrinking. The industry is in a complicated transition, and we're all living in the middle of it.
+Here's where I'll push back on something: those ACT rules sound scary, but they're primarily about new vehicle sales, not about testing your existing rig. California's Clean Truck Check is the immediate threat. But the direction is crystal clear. If you're planning to buy a new diesel motorhome in the next few years and you live in or frequently travel to any of those states, your chassis options are already shrinking. The industry is in transition. We're all living in the middle of it.
 
-For now, the immediate and urgent issue is California's testing requirement. The ACT rules in other states matter for long-term planning. The Clean Truck Check matters for this summer.
+For right now, California's testing requirement is the urgent issue. The ACT rules in other states matter for planning ahead. This matters for this summer.
 
 ## Finding a Credentialed Tester and Timing It Right
 
-This is where the frustration is real. CARB's official page on motorhome compliance points owners to a tester locator tool, but the list of facilities actually equipped to handle a large motorhome is shorter than you'd want it to be. A mobile diesel mechanic with a scan tool is not going to cut it here. The tester has to be CARB-credentialed, and the equipment has to be CARB-certified. Tank Specialties in California is one of the shops that's been actively marketing to this market, which tells you something about how few options exist and how fast the ones that do exist are picking up business.
+This is where the real frustration sets in. CARB's motorhome compliance page points you to a tester locator tool, but the list of facilities actually equipped to handle a large motorhome is shorter than you'd hope. A mobile diesel mechanic with a scan tool won't cut it. The tester has to be CARB-credentialed. The equipment has to be CARB-certified. Tank Specialties in California is one of the shops actively marketing to this market, which tells you something about how few options exist and how fast the ones that do are picking up business.
 
-Timing matters too. The test has to fall within that 90-day window before your compliance deadline. If you test in February for a May deadline and then drive to California in August, you may be out of window and need to test again. This isn't like a one-and-done smog check. It's a rolling annual requirement with a specific compliance calendar tied to your registration or, for out-of-state owners, to your entry into the California compliance system.
+Timing is brutal. The test has to happen within that 90-day window before your compliance deadline. Test in February for a May deadline, then drive to California in August, and you're potentially out of window. You may need to test again. This isn't a one-and-done smog check. It's a rolling annual requirement with a specific compliance calendar tied to when you register or when you enter the California compliance system as an out-of-stater.
 
-My honest advice: if you know you're going to California this summer, get your compliance sorted before you go. Contact a CARB-credentialed motorhome tester, schedule the OBD scan or smoke test depending on your engine year, pay the $32.13 fee, and get your documentation. Keep a digital copy in your phone and a printed copy in your coach. That documentation could be the difference between a quick inspection and a very long afternoon on the side of I-5.
+Get your compliance sorted before you head west this summer. Contact a CARB-credentialed motorhome tester, schedule your OBD scan or smoke test depending on engine year, pay the $32.13, and get your documentation. Keep a digital copy in your phone and a printed copy in your coach. That documentation could be the difference between a quick inspection and a very long afternoon on the side of I-5.
 
-The $32.13 fee isn't the issue. The chaos of dealing with this unprepared, in a state you're just passing through, in the middle of summer travel season, absolutely is. Get ahead of it now while you still have time.
+The $32.13 fee is fine. The chaos of dealing with this unprepared, in a state you're just passing through, during peak summer travel season, absolutely isn't. Get ahead of it now while you still have time.
 
 ---
 
 ## Sources
 
-- [2026 RV Regulations: What's New for RV Owners and Renters ,  RVshare](https://rvshare.com/blog/new-rv-regulations/) (April 8, 2026)
-- [California Motorhomes: Get Ready for Clean Truck Check ,  CARB](https://ww2.arb.ca.gov/california-motorhomes-get-ready-clean-truck-check) (Ongoing official CARB page)
-- [Clean Truck Check Motorhome Fact Sheet ,  California Air Resources Board](https://ww2.arb.ca.gov/resources/fact-sheets/motorhome-fact-sheet-clean-truck-check) (July 2024, updated for 2026 enforcement)
-- [Your Complete Guide to California's Clean Truck Check in 2026 ,  SmogCheck.com](https://blog.smogcheck.com/posts/the-compliance-roadmap-your-complete-guide-to-californias-clean-truck-check-in-2026) (December 9, 2025)
-- [CARB Diesel Motorhome Clean Truck Check Requirements ,  Tank Specialties CA](https://tankspecialtiesca.com/motorhome-owners-how-to-comply-with-the-california-air-resources-board/) (October 9, 2025)
+- [2026 RV Regulations: What's New for RV Owners and Renters, RVshare](https://rvshare.com/blog/new-rv-regulations/) (April 8, 2026)
+- [California Motorhomes: Get Ready for Clean Truck Check, CARB](https://ww2.arb.ca.gov/california-motorhomes-get-ready-clean-truck-check) (Ongoing official CARB page)
+- [Clean Truck Check Motorhome Fact Sheet, California Air Resources Board](https://ww2.arb.ca.gov/resources/fact-sheets/motorhome-fact-sheet-clean-truck-check) (July 2024, updated for 2026 enforcement)
+- [Your Complete Guide to California's Clean Truck Check in 2026, SmogCheck.com](https://blog.smogcheck.com/posts/the-compliance-roadmap-your-complete-guide-to-californias-clean-truck-check-in-2026) (December 9, 2025)
+- [CARB Diesel Motorhome Clean Truck Check Requirements, Tank Specialties CA](https://tankspecialtiesca.com/motorhome-owners-how-to-comply-with-the-california-air-resources-board/) (October 9, 2025)
 
 *Photo: [Cyndi](https://www.pexels.com/@cyndi-378229757) via Pexels*

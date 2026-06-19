@@ -25,7 +25,6 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
 My first month living full-time in a van cost me $1,847. My second month cost $3,200. I'd blown a wheel bearing somewhere on I-40 outside Amarillo and had to limp into a Pep Boys. Welcome to van life budgeting.
 
 I tell people that story not to scare them off, but because the spreadsheets you'll find on van life YouTube channels almost never include that kind of thing. They show you the $200 campsite budget and the $80 grocery haul and the cute little pie chart. What they don't show you is the month the alternator dies, or the month you're stuck somewhere expensive because the roads you planned to take are snowed in, or the month you decide you just really need a hotel because you've been sleeping in 28-degree weather and your propane heater keeps kicking off at 2am.
@@ -33,7 +32,6 @@ I tell people that story not to scare them off, but because the spreadsheets you
 So let's talk about what van life actually costs. Not the fantasy version. The real one, with the breakdowns and the bad months included.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">Van Life Monthly Budget: Real vs. Ideal</div>
@@ -48,62 +46,59 @@ So let's talk about what van life actually costs. Not the fantasy version. The r
 
 Before we get into the variables, here's what almost every van dweller is paying every month, whether they admit it or not.
 
-**Vehicle payment and insurance.** This one's wildly variable. If you bought a paid-off older Sprinter for $18,000 cash, your payment is zero. If you financed a brand-new high-roof Transit, you might be paying $600 to $900 a month. Most people I know who are doing van life full-time are somewhere in the middle: an older van, maybe a $15,000 to $30,000 build cost paid upfront, and a vehicle payment of $0 to $400. Insurance for a converted van used as a primary residence tends to run $100 to $200 a month, and you need to be honest with your insurer about how you're using it or you'll be fighting them when you need to make a claim. Progressive and National General both have options for full-timers worth looking at.
+**Vehicle payment and insurance.** This one's all over the place. You might've bought a paid-off older Sprinter for $18,000 cash, which means your payment is zero. Or you financed a brand-new high-roof Transit and you're looking at $600 to $900 a month. Most full-timers I know are somewhere in the middle: an older van, maybe a $15,000 to $30,000 build cost paid upfront, and a vehicle payment of $0 to $400. Insurance for a converted van used as a primary residence typically runs $100 to $200 a month. You need to be straight with your insurer about how you're using it. Lie and you'll lose claims when you actually need them. Progressive and National General both have solid options for full-timers.
 
-**Fuel.** Diesel Sprinters get around 20-24 mpg on the highway, which sounds great until you're doing 2,000 miles in a month. Gas-powered Transits are closer to 15-18 mpg. Figure $200 to $500 a month depending on how much you're moving. I averaged about $280 during my more sedentary months and nearly $500 during the big cross-country pushes. If you're stationary camping somewhere for two weeks at a time, fuel drops dramatically. If you're chasing good weather and hitting three states a month, it adds up fast.
+**Fuel.** Diesel Sprinters get around 20-24 mpg on the highway, which sounds pretty good until you're doing 2,000 miles in a month. Gas-powered Transits hit closer to 15-18 mpg. Figure $200 to $500 monthly depending on how much you're moving around. During my more sedentary months I averaged about $280, but during the big cross-country pushes I was hitting nearly $500. You can really slash this number by staying put for two weeks at a time. But chase good weather and hit three states a month, and it adds up fast.
 
-**Campsite fees.** This is where people get most unrealistic in their budgets. Yes, there's a ton of free camping on BLM land in the West. I've spent weeks in the Escalante area of Utah paying nothing. But free camping isn't evenly distributed across the country, the good spots are increasingly crowded, and some seasons you'll find yourself relying on paid campgrounds more than you planned. My monthly campsite average over eight years has been somewhere between $80 and $350. Lower when I was in the Southwest, higher when I was in the Southeast or Pacific Northwest, where free dispersed camping options thin out considerably. An America the Beautiful pass ($80/year) is one of the best purchases you can make if you're camping in National Forests or on BLM land regularly.
+**Campsite fees.** This is where most people get most unrealistic. Sure, there's tons of free camping on BLM land in the West. I've spent weeks in the Escalante area of Utah paying nothing. But free camping isn't evenly distributed. The good spots are increasingly packed. Some seasons you'll rely on paid campgrounds way more than you planned. My monthly campsite average over eight years has been somewhere between $80 and $350. It was lower when I was in the Southwest, way higher when I was in the Southeast or Pacific Northwest where free dispersed camping thins out considerably. An America the Beautiful pass runs $80/year and it's genuinely one of the best purchases you can make if you're camping in National Forests or on BLM land regularly.
 
-**Food and water.** Van life doesn't automatically make you a cheaper eater. Some people cook every meal on their two-burner propane stove and spend $200 a month on groceries. Others end up eating out constantly because cooking in a van in July in Phoenix is miserable. I budget $350 to $500 a month for food, which includes groceries and occasional restaurant meals. Water is usually a minor expense if you're filling up at campgrounds or using a Berkey or similar gravity filter system, but in dry areas you'll pay for it at fill stations.
+**Food and water.** Van life doesn't make you a cheaper eater automatically. Some people cook every meal on their two-burner propane stove and spend $200 a month on groceries. Others eat out constantly because cooking in a van in July in Phoenix is genuinely miserable. I budget $350 to $500 a month for food, including groceries and occasional restaurant meals. Water's usually minor if you're filling up at campgrounds or using a Berkey or similar gravity filter system. But in dry areas you'll pay for it at fill stations.
 
-**Cell service.** Your phone is your lifeline: maps, work, weather, booking campsites, everything. Most full-timers run two carriers to cover dead zones. I use T-Mobile as my primary and keep a Visible plan (around $25/month) as backup. Between the two, I'm spending about $110 a month on cell service. Some people add a Starlink portable subscription for $150/month if they need reliable internet for remote work, which changes the math entirely.
+**Cell service.** Your phone is your lifeline. Maps, work, weather, booking campsites, everything depends on it. Most full-timers run two carriers to cover dead zones. I use T-Mobile as primary and keep a Visible plan (around $25/month) as backup. Between the two I'm spending about $110 a month. Some people add a Starlink portable subscription for $150/month if they need reliable internet for remote work, which completely changes the math.
 
-Add all that up for a basic setup: $700 to $1,800 a month just in the core expenses, not counting van maintenance or health insurance or any of the fun stuff.
+Add all that up and you're looking at $700 to $1,800 a month just in core expenses. Van maintenance, health insurance, anything else? That's separate.
 
 ---
 
 ## The One That Catches Everyone Off Guard: Van Maintenance
 
-I've seen the "$1,100 a month van life" videos, and they always either skip maintenance entirely or bury it in a tiny slice of the pie chart labeled "miscellaneous." That is a lie your future self will be furious about.
+I've seen the "$1,100 a month van life" videos. They always skip maintenance entirely or bury it in a tiny pie slice labeled "miscellaneous." That's a lie your future self will be furious about.
 
-Older vans break. Even new vans break when you're putting 30,000 to 50,000 miles a year on them over rough roads. The standard rule in automotive maintenance is to budget 1-2% of the vehicle's value per month for repairs and upkeep, and van lifers should probably be at the higher end of that because of mileage and road conditions. On a $25,000 van, that's $250 to $500 a month that you should be putting away even in the months nothing goes wrong, because something always eventually goes wrong.
+Older vans break. New ones do too, especially when you're putting 30,000 to 50,000 miles a year on them over rough roads. The standard automotive maintenance rule is 1-2% of the vehicle's value per month for repairs, and van lifers should probably hit the higher end because of mileage and road conditions. On a $25,000 van that's $250 to $500 a month you should be socking away even in months when nothing goes wrong. Something always eventually goes wrong.
 
-Here's a partial list of things I've personally paid for in a single calendar year: new rear tires ($480), a serpentine belt replacement ($220 labor plus parts because I was in a city and didn't have a safe place to do it myself), a wheel bearing (back to that $900 Amarillo adventure), a new water pump for the camper system ($140 in parts, $0 in labor because I did it myself), a busted slideout on the vent fan ($65 replacement), and a windshield chip repair that turned into a full replacement ($0, covered by insurance, but the deductible was $100).
+Here's what I actually paid for in a single calendar year: new rear tires ($480), a serpentine belt replacement ($220 labor plus parts because I was in a city without a safe place to do it myself), a wheel bearing (back to that $900 Amarillo adventure), a new water pump for the camper system ($140 in parts, zero labor because I did it myself), a busted slideout on the vent fan ($65 replacement), and a windshield chip repair that became a full replacement ($0 from insurance but my deductible was $100).
 
-That's roughly $1,900 in a year just on repairs, or about $160 a month on average. And that was a relatively good year. My worst year, I replaced an alternator, two front tires, and had a diesel injection issue that cost $1,400 at a shop in Oregon because I wasn't set up to diagnose it myself at the time.
+That's roughly $1,900 in a year, or about $160 a month on average. That was actually a relatively good year. My worst year I replaced an alternator, two front tires, and had a diesel injection issue that ran $1,400 at an Oregon shop because I couldn't diagnose it myself back then.
 
-The lesson: treat $200 a month as a floor for your maintenance reserve, not a ceiling.
+Treat $200 a month as a floor for your maintenance reserve, not a ceiling.
 
 ---
 
 ## Health Insurance, Mail, and All the Boring Stuff Nobody Films
 
-Health insurance as a full-timer is genuinely complicated and I won't pretend otherwise. If you're employed remotely and covered through an employer, this is handled. If you're self-employed or freelancing, you're looking at ACA marketplace plans, which vary enormously by state and income. I've paid as little as $89/month (with income-based subsidies during a lean year) and as much as $420/month for a bronze plan with a $7,000 deductible. Budget $150 to $500 a month if you're covering yourself independently, and factor in the high deductible as a savings target too.
+Health insurance as a full-timer is genuinely complicated. If you're employed remotely with employer coverage, you're fine. If you're self-employed or freelancing, you're hunting ACA marketplace plans, which vary enormously by state and income. I've paid as little as $89/month (with income-based subsidies during a lean year) and as much as $420/month for a bronze plan with a $7,000 deductible. Budget $150 to $500 a month if you're covering yourself, and also save for that high deductible.
 
-Mail forwarding is cheaper than people think. Services like Traveling Mailbox or Escapees' mail service run $15 to $30 a month and give you a real street address, which you need for your driver's license, vehicle registration, banking, and basically existing as a legal adult. South Dakota and Texas are popular domicile states for full-timers because of their relatively simple residency requirements and no state income tax. I've been a South Dakota resident for six years and it's been completely painless.
+Mail forwarding is cheaper than you'd think. Services like Traveling Mailbox or Escapees' mail service run $15 to $30 a month and give you a real street address. You need it for your driver's license, vehicle registration, banking, and basically existing as an adult. South Dakota and Texas are popular domicile states for full-timers because of relatively simple residency requirements and no state income tax. I've been a South Dakota resident for six years and it's been completely painless.
 
-Gym membership for showers: $10 to $30 a month if you're using Planet Fitness or a similar chain. Some van lifers skip this and rely entirely on campground showers, but I kept a Planet Fitness Black Card ($25/month) for years because it covered guest access and was available in nearly every city I passed through.
+Gym membership for showers: $10 to $30 a month if you use Planet Fitness or a similar chain. Some van lifers skip it entirely and rely on campground showers. I kept a Planet Fitness Black Card ($25/month) for years though because it covered guest access and was available in nearly every city I passed through.
 
 ---
 
 ## So What's the Actual Monthly Range?
 
-Honestly? Anywhere from $900 to $3,500 a month is realistic, depending on your setup and lifestyle. That's a frustratingly wide range but it reflects real variation.
+Anywhere from $900 to $3,500 a month. That's frustratingly wide, but it reflects actual variation.
 
-The $900 to $1,200 end looks like this: older paid-off van, minimal driving, heavy reliance on free BLM camping, cooking your own food, no car payment, basic phone plan, and you're handy with repairs. It's doable, but it requires discipline, flexibility, and mostly staying in the western US where free camping is abundant.
+At the $900 to $1,200 end: older paid-off van, minimal driving, heavy reliance on free BLM camping, cooking your own food, no car payment, basic phone plan, and you know your way around a wrench. It's doable but requires discipline, flexibility, and mostly staying in the western US where free camping exists.
 
-The $2,000 to $2,500 range is probably where most full-timers actually land once you account for everything honestly. Car payment or loan payments, mixed camping (some free, some paid), moderate driving, eating out occasionally, health insurance, phone service, gym membership, and a realistic maintenance fund. This is sustainable for most people working remotely or running an online business making $2,500 to $4,000 a month.
+The $2,000 to $2,500 range is probably where most full-timers actually land once you're being honest about everything. Car payment or loan payments, mixed camping, moderate driving, eating out occasionally, health insurance, phone service, gym membership, realistic maintenance fund. This is sustainable for someone working remotely or running an online business making $2,500 to $4,000 a month.
 
-Above $3,000 a month usually means a financed newer van, a lot of driving, or camping in expensive areas without planning free alternatives. It's not wrong, it just means van life isn't actually cheaper than a lot of apartment situations unless your income can handle it.
+Above $3,000 usually means a financed newer van, lots of driving, or camping in expensive areas without planning free alternatives. It's not wrong. It just means van life isn't actually cheaper than a lot of apartment situations unless your income can absorb it.
 
-One thing most people don't realize until they're living it: your first six months will almost always be more expensive than your steady-state average. You're still buying gear you forgot (a good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) for hookup sites, [water filters](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20), [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)), you're not yet efficient at finding free camping, and you're probably making more mistakes. Build extra buffer into your first-year budget.
-
----
-
+Most people don't realize until they're living it: your first six months will almost always cost more than your steady-state average. You're still buying gear you forgot (a good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) for hookup sites, [water filters](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20), [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)). You're not yet efficient at finding free camping. You're making more mistakes. Build extra buffer into your first-year budget.
 
 ---
 
-The number that will actually matter is yours, not mine or some YouTuber's highlight reel. Pull up a spreadsheet, be brutal about what you're actually spending right now, and then figure out what you'd replace it with. The people who struggle financially in van life are usually the ones who planned for the best-case month and got surprised by the average one.
+The number that will actually matter is yours. Not mine. Not some YouTuber's highlight reel. Pull up a spreadsheet, be brutal about what you're actually spending right now, then figure out what you'd replace it with. People who struggle financially in van life are usually the ones who planned for the best-case month and got blindsided by the average one.
 
 *Photo: [ArtHouse Studio](https://www.pexels.com/@arthousestudio) via Pexels*
 
@@ -113,6 +108,5 @@ The number that will actually matter is yours, not mine or some YouTuber's highl
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, widely used in off-grid and home backup systems.

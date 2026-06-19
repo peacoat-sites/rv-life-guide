@@ -25,7 +25,6 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 
 ---
-
 Most people think finding remote work is the hard part. It's not. The hard part is finding remote work that actually holds up when you're parked at a campground outside Moab with spotty Verizon signal, a 30-amp power limit, and a Zoom call in 40 minutes.
 
 I've been doing this for eight years. I've watched a lot of people sell their houses, buy an RV, and then scramble to figure out income once they're already on the road. I've also watched people research remote work for two years before they ever take a single trip. Neither extreme works great. What does work is knowing the honest landscape of what's available, what actually pays, and what the RV life will ask of whatever job you choose.
@@ -34,21 +33,21 @@ So let's get into it.
 
 ## The Jobs That Are Actually Compatible With Life on the Road
 
-You might be wondering whether you need a specific "digital nomad job" or whether your current career could translate. Here's what I tell people: start with what you already know. The fastest path to remote income is almost always a remote version of something you've done before.
+You might be wondering whether you need a specific "digital nomad job" or whether your current career could translate. Start with what you already know. The fastest path to remote income is almost always a remote version of something you've done before.
 
-That said, not every remote job works equally well from an RV. The real filter isn't "can I do this remotely" -- it's "can I do this with variable internet, across time zones, and without a dedicated office." Some jobs that look great on paper fall apart in practice.
+Not every remote job works equally well from an RV, though. The real filter isn't "can I do this remotely" -- it's "can I do this with variable internet, across time zones, and without a dedicated office." Some jobs that look great on paper fall apart in practice.
 
-**Software development** is the gold standard, and I'll be honest about why: it's largely asynchronous, it pays well enough to cover RV expenses without white-knuckling a budget, and most companies have been set up for distributed teams for years. A mid-level developer can pull $90,000-$130,000 depending on the stack, and there's enough demand that you can be picky about companies that don't require you on video at specific hours.
+**Software development** is the gold standard. I'll be honest about why: it's largely asynchronous, it pays well enough to cover RV expenses without white-knuckling a budget, and most companies have been set up for distributed teams for years. A mid-level developer pulls $90,000-$130,000 depending on the stack. There's enough demand that you can be picky about companies that don't require you on video at specific hours.
 
-**Copywriting and content writing** is where a lot of RVers land, and for good reason. The work is inherently async, the startup costs are basically zero, and rates for experienced writers range from $0.10/word for content mills (skip those) up to $1-$2/word for specialized B2B or technical writing. I know an RVer who writes SaaS case studies at $2,500 a piece and works maybe 20 hours a week. It took her two years to build to that, though. Don't let anyone tell you freelance writing is quick money.
+**Copywriting and content writing** is where a lot of RVers land. The work is inherently async, startup costs are basically zero, and rates for experienced writers range from $0.10/word for content mills (skip those) up to $1-$2/word for specialized B2B or technical writing. I know an RVer who writes SaaS case studies at $2,500 a piece and works maybe 20 hours a week. It took her two years to build to that, though, and she'll tell you it wasn't quick money.
 
-**Project management and operations roles** are underrated for RV living. Companies hiring remote project managers often care more about outcomes than your exact location, and tools like Asana, ClickUp, and Notion make async work natural. Pay runs $60,000-$100,000 at established companies, and you're usually not required to be on camera every hour.
+**Project management and operations roles** are underrated. Companies hiring remote project managers often care more about outcomes than your exact location. Tools like Asana, ClickUp, and Notion make async work natural. Pay runs $60,000-$100,000 at established companies, and you're usually not required to be on camera every hour.
 
 **Bookkeeping and accounting** travel well. QuickBooks Online, Xero, and similar cloud platforms mean you genuinely need nothing but a laptop and decent internet. Intuit's QuickBooks ProAdvisor certification is free and can open doors faster than most credentials I've seen. Rates for independent bookkeepers run $30-$75/hour depending on specialization.
 
-**Customer success and support roles** are where I'd pump the brakes a little. Many of them require you to be available during specific business hours, tied to a queue, on video, with low background noise. Some campgrounds are loud. Some are not. If you're going to go this route, look for support roles at smaller companies where there's more flexibility, and be honest in interviews about your setup. I've heard from several readers who got burned by accepting roles with rigid "camera on, no background noise" policies and then struggled all summer.
+**Customer success and support roles** -- I'd pump the brakes a little here. Many of them require you to be available during specific business hours, tied to a queue, on video, with low background noise. Some campgrounds are loud. Some are not. If you're going this route, look for support roles at smaller companies where there's more flexibility. Be honest in interviews about your setup. I've heard from several readers who got burned by accepting roles with rigid "camera on, no background noise" policies and then struggled all summer.
 
-**Online teaching and tutoring** has exploded. VIPKid lost a lot of its appeal when China changed its tutoring laws in 2021, but platforms like Outschool, Wyzant, and Preply have picked up the slack. If you have a teaching background or a strong subject area, you can set your own schedule, which is exactly what you need. ESL teaching through iTalki or similar platforms pays $15-$40/hour depending on your credentials and student base.
+**Online teaching and tutoring** has exploded. VIPKid lost a lot of its appeal when China changed its tutoring laws in 2021, but platforms like Outschool, Wyzant, and Preply have picked up the slack. If you have a teaching background or strong subject knowledge, you can set your own schedule, which is exactly what you need. ESL teaching through iTalki or similar platforms pays $15-$40/hour depending on your credentials and student base.
 
 ## The Internet Problem Nobody Talks About Enough
 
@@ -56,7 +55,7 @@ Here's what almost every "remote jobs for RVers" article glosses over: the job i
 
 I've run a dual-carrier setup for most of the past four years. Right now that's a Verizon unlimited plan and a T-Mobile home internet router. The Verizon covers most of the West where T-Mobile thins out; T-Mobile picks up the mid-South and East where it's denser. Neither alone would cut it for anything with real deadlines.
 
-Starlink has changed things significantly for full-timers, and I won't pretend otherwise. The RV/portable plan runs about $150/month plus $599 for hardware, and in my experience it delivers 50-200 Mbps in most locations including dispersed camping where cellular is nonexistent. If you're planning to boondock heavily and still work full-time, Starlink is probably the most important infrastructure decision you'll make. Not a cheap one, but real.
+Starlink has changed things significantly for full-timers. The RV/portable plan runs about $150/month plus $599 for hardware, and in my experience it delivers 50-200 Mbps in most locations including dispersed camping where cellular is nonexistent. If you're planning to boondock heavily and still work full-time, Starlink is probably the most important infrastructure decision you'll make. Not a cheap one, but real.
 
 One thing people underestimate: power. Running a laptop, a router, a hotspot, and maybe a secondary monitor off a 30-amp hookup is fine. Running all of that on battery power while boondocking is a different conversation. If remote work is your plan, you either need shore power access most of the time or a legitimate solar setup. A 400-watt solar panel array with 200Ah of lithium battery capacity can keep a work-from-RV setup running through a cloudy day, but it's not a small investment. [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20) will tell you exactly what you're working with so you're not surprised mid-call. (Affiliate link -- the site may earn a commission on purchases like this.)
 
@@ -64,11 +63,11 @@ One thing people underestimate: power. Running a laptop, a router, a hotspot, an
 
 You might be wondering where to actually look. Here's my honest take on the major platforms.
 
-**LinkedIn** is still the most useful for professional roles because it lets you filter for remote-only and because recruiters are actually active there. Set your location to "Remote" in your profile settings. Apply to companies with established remote cultures -- check their Glassdoor reviews and look for mentions of remote teams, async-first policies, or distributed teams. Buffer, GitLab, Automattic, Zapier, and Basecamp are the names that come up constantly, and they're genuinely good employers if you can land there.
+**LinkedIn** is still the most useful for professional roles because it lets you filter for remote-only and because recruiters are actually active there. Set your location to "Remote" in your profile settings. Apply to companies with established remote cultures. Check their Glassdoor reviews and look for mentions of remote teams, async-first policies, or distributed teams. Buffer, GitLab, Automattic, Zapier, and Basecamp are the names that come up constantly, and they're genuinely good employers if you can land there.
 
 **We Work Remotely** (weworkremotely.com) is the no-nonsense job board specifically for remote work. No fluff. Updated daily. Worth bookmarking.
 
-**FlexJobs** charges a subscription ($24.95/month or $49.95 for three months) to access listings, and the reaction I get when I mention this is usually skepticism. Here's my actual experience: it's worth it for three months when you're first job searching, because they vet listings and screen out the garbage that floods free boards. Cancel after you land something.
+**FlexJobs** charges a subscription ($24.95/month or $49.95 for three months) to access listings. The reaction I get when I mention this is usually skepticism. Here's my actual experience: it's worth it for three months when you're first job searching, because they vet listings and screen out the garbage that floods free boards. Cancel after you land something.
 
 **Toptal** and **Upwork** are the freelance platforms worth your time if you're in tech, design, or writing. Toptal is harder to get into (they screen pretty rigorously) but the rates are higher. Upwork is more of a numbers game early on -- you'll undercharge to build reviews and then raise rates. I know people who've built solid $70,000+/year incomes on Upwork, but they were patient and strategic about their niche.
 
@@ -76,7 +75,7 @@ Cold outreach still works. I landed a six-month contract in 2021 by emailing 22 
 
 ## What Nobody Tells You About Taxes
 
-I'll keep this short because I'm not a tax professional and you should talk to one who understands the RV lifestyle. But I will say this: full-time RVers need to establish legal domicile in a state, and your domicile affects your taxes significantly.
+I'll keep this short because I'm not a tax professional and you should talk to one who understands the RV lifestyle. But here's the core issue: full-time RVers need to establish legal domicile in a state, and your domicile affects your taxes significantly.
 
 South Dakota, Texas, and Florida are the three states most popular with full-time RVers because they have no state income tax. South Dakota is especially popular because you can establish residency relatively quickly (a single overnight stay and a visit to the DMV). If you're doing freelance or contract work, you'll likely be paying self-employment tax (15.3% on top of income tax), so the state choice matters more than it would for a W-2 employee.
 
@@ -90,9 +89,6 @@ If you're leaving a job with a specific salary and jumping to freelance at the s
 
 ---
 
-
----
-
-The jobs exist. The internet solutions exist. The hard part is just building the thing methodically instead of winging it and hoping. Give yourself a runway, pick a niche you can actually deliver on, and sort the infrastructure before you need it. The road will take care of the rest.
+The jobs exist. The internet solutions exist. The hard part is building the thing methodically instead of winging it and hoping. Give yourself a runway, pick a niche you can actually deliver on, and sort the infrastructure before you need it. The road will take care of the rest.
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*

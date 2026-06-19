@@ -13,62 +13,61 @@ author_bio: "Sandra Park is the person her whole RV community comes to when they
 slug: "new-gmi-rule-will-change-how-your-rv-accepts-shore-power"
 affiliate_disclosure: false
 ---
+Most coverage treats this like a tech footnote. It's not.
 
-Most coverage of this story is treating it like a tech footnote. It isn't. The RVIA Board of Directors voted unanimously on June 4, 2026 to mandate Grounding Monitor Interrupters on all new RVs with 30-amp or 50-amp service, with a January 1, 2027 effective date and mandatory enforcement tied to each manufacturer's model year 2028 production. That means rigs rolling off the line under MY2028 schedules must have this technology installed. Full stop. If you buy a new RV in the next 18 months or so, this affects what you're getting. If you own one now, it affects every campground you'll plug into.
+On June 4, 2026, the RVIA Board of Directors voted unanimously to mandate Grounding Monitor Interrupters on all new RVs with 30-amp or 50-amp service. The effective date is January 1, 2027, with mandatory enforcement tied to model year 2028 production. That means if you buy a new RV in the next 18 months, this directly affects what you're getting. If you own one now, it affects every campground you'll plug into.
 
 ## What a GMI Actually Does
 
 The name is bureaucratic. The function is simple and overdue.
 
-A Grounding Monitor Interrupter checks that a campground's shore power pedestal has a valid ground connection before it lets electricity flow into your RV. If the ground disappears during use, the GMI cuts power instantly. It's codified under Article 551.40(D) of the 2026 National Electrical Code, published by the NFPA.
+A Grounding Monitor Interrupter checks that a campground's shore power pedestal has a valid ground connection before letting electricity flow into your RV. If the ground disappears during use, the GMI cuts power instantly. It's codified under Article 551.40(D) of the 2026 National Electrical Code, published by the NFPA.
 
-The problem it solves is hot skin. That's when a fault condition causes the metal exterior of your RV to become electrically energized. You touch it, or a kid touches it, and the current finds a path through you to ground. It's killed people. It's injured more. The dangerous part is that it can happen even when everything inside the coach feels normal, because the fault lives at the pedestal, not in your rig.
+The problem it solves is hot skin, which is what happens when a fault causes the metal exterior of your RV to become electrically energized. You touch it. A kid touches it. Current finds a path through you to ground. It's killed people. It's injured more. The dangerous part is that it can happen even when everything inside the coach feels normal, because the fault lives at the pedestal, not in your rig.
 
-A missing or broken ground at the pedestal is the setup. A GMI refuses to complete the circuit until that ground is confirmed solid.
+A missing or broken ground at the pedestal is the setup. A GMI simply refuses to complete the circuit until that ground is confirmed.
 
 ## Why This Rule Got Delayed, and Why That History Matters
 
-The original enforcement date was January 1, 2026. It slipped because the manufacturing supply chain wasn't ready. Fully developed, listed GMI devices suitable for production-line RV manufacturing weren't widely available yet, and the Standards Steering Committee acknowledged it. Pushing a mandate before compliant hardware exists just creates paperwork violations with no actual safety improvement.
+The original enforcement date was January 1, 2026. It slipped because the manufacturing supply chain wasn't ready. Fully developed, listed GMI devices suitable for production-line RV manufacturing weren't widely available yet, and the Standards Steering Committee acknowledged it. You can't mandate compliance with hardware that doesn't exist yet.
 
-That's not a knock on the process. It's a realistic read of how industry standards work. The revised schedule, according to [Modern Campground's June 16, 2026 reporting](https://moderncampground.com/usa/rvia-approves-revised-timeline-for-grounding-monitor-interrupter-requirement), reflects the committee's confirmation that sufficient listed products should now be available for manufacturers to meet the MY2028 timeline.
+That's not a criticism of the process. It's realistic. The revised schedule, according to [Modern Campground's June 16, 2026 reporting](https://moderncampground.com/usa/rvia-approves-revised-timeline-for-grounding-monitor-interrupter-requirement), reflects confirmation that sufficient listed products should now be available for manufacturers to meet the MY2028 timeline.
 
-The one-year delay also gave campground operators a heads-up they probably needed. More on that in a minute.
+The one-year delay also gave campground operators a heads-up they probably needed. More on that in a moment.
 
 ## What This Means If You Already Have an EMS
 
-A lot of experienced RVers run a hardwired Electrical Management System, Progressive Industries being the most common name in that category. An EMS is genuinely good protection. It monitors voltage, rejects power during surge conditions, and will disconnect if it detects certain fault states.
+Many experienced RVers run a hardwired Electrical Management System, with Progressive Industries being the most recognizable brand. An EMS is genuinely good protection. It monitors voltage, rejects power during surge conditions, and disconnects if it detects certain fault states.
 
-But a GMI is not the same thing, and the distinction matters.
+But a GMI isn't the same thing.
 
-A standard EMS doesn't specifically verify ground continuity the way a GMI does. As [Camper Report noted in their June 10, 2026 piece](https://camperreport.com/new-rv-safety-rule-could-change-how-campers-plug-in/), the GMI fills a specific gap that EMS products haven't historically addressed. Your Progressive Industries unit is still worth having. It protects against different problems. Think of an EMS as your voltage guard and a GMI as your ground guard. They're not redundant.
+A standard EMS doesn't specifically verify ground continuity the way a GMI does. As [Camper Report noted in their June 10, 2026 piece](https://camperreport.com/new-rv-safety-rule-could-change-how-campers-plug-in/), the GMI fills a specific gap that EMS products haven't historically addressed. Your Progressive Industries unit is still worth having. It protects against different problems. Think of an EMS as your voltage guard and a GMI as your ground guard.
 
-If you're currently shopping for an EMS upgrade, know that the landscape is about to shift. Some manufacturers may begin releasing units with GMI functionality built in ahead of the MY2028 mandate. Worth watching before you spend $300 to $500 on hardware that becomes partially obsolete.
+If you're currently shopping for an EMS upgrade, the landscape is about to shift. Some manufacturers may release units with GMI functionality built in ahead of the MY2028 mandate. Worth watching before you spend $300 to $500 on hardware that becomes partially obsolete.
 
 ## The Campground Problem Nobody's Talking About Loudly Enough
 
-Here's where this gets real for daily RV life.
+Here's where this gets real.
 
-A GMI-equipped RV will refuse to accept shore power from a pedestal with a bad or missing ground. Flat refusal. The RV isn't broken. The campground's electrical infrastructure is.
+A GMI-equipped RV will refuse to accept shore power from a pedestal with a bad or missing ground. Full stop. The RV isn't broken. The campground's electrical infrastructure is.
 
-Anyone who's spent time at older state parks, rural county campgrounds, or the kind of mom-and-pop operations that haven't upgraded their electrical systems since the Clinton administration already knows the pedestal situation out there is mixed at best. Corroded connections, inadequate grounds, wiring that was marginal when it was installed and has only gotten worse. These places often have no idea their pedestals are failing because current RVers either don't notice or just deal with it.
+Anyone who's spent time at older state parks, rural county campgrounds, or mom-and-pop operations that haven't upgraded their electrical systems since the '90s already knows the pedestal situation is mixed at best. Corroded connections, inadequate grounds, wiring that was marginal when it was installed and has only deteriorated since. These places often have no idea their pedestals are failing because current RVers either don't notice or just deal with it.
 
-Starting with MY2028 rigs, they'll notice. The RV won't power up, the guest will complain, and the campground will have to respond. The RVIA has published guidance specifically on this, [noting the potential impact on RV parks and campgrounds](https://www.rvia.org/news-insights/grounding-monitor-interrupters-rvs-and-their-impact-rv-parks-and-campgrounds) and the need for operators to audit and repair their electrical systems before these rigs start arriving in volume.
+Starting with MY2028 rigs, they'll notice. The RV won't power up, the guest complains, and the campground has to respond. The RVIA has published guidance specifically on this, [noting the potential impact on RV parks and campgrounds](https://www.rvia.org/news-insights/grounding-monitor-interrupters-rvs-and-their-impact-rv-parks-and-campgrounds) and the need for operators to audit and repair their electrical systems before these rigs arrive in volume.
 
-If you own a campground, or know someone who does, the time to get an electrician out for a pedestal audit is now, not after a line of MY2028 buyers starts demanding refunds.
+If you own a campground or know someone who does, get an electrician out for a pedestal audit now. Not after a line of MY2028 buyers starts demanding refunds.
 
 ## What Current Owners Should Actually Do
 
-You're not getting a GMI retrofitted into your existing rig from the factory. That's not how this works. But you have options.
+You're not getting a GMI retrofitted into your existing rig. That's not how this works. But you have options.
 
-First, get a plug-in EMS if you don't have one. Yes, it's not identical protection. It's still significantly better than nothing, and it addresses a wide range of hazards a GMI won't cover either.
+First, get a plug-in EMS if you don't have one. It's not identical protection to a GMI, but it's significantly better than nothing and addresses hazards a GMI won't cover either.
 
-Second, carry a basic outlet tester that checks for open ground conditions. They cost under $15, they fit in a drawer, and using one before you plug in takes 20 seconds. It won't catch every failure mode a GMI catches, but it'll flag the obvious ones.
+Second, carry a basic outlet tester that checks for open ground conditions. They cost under $15, fit in a drawer, and using one before you plug in takes 20 seconds. It won't catch every failure mode a GMI catches, but it flags the obvious ones.
 
-Third, pay attention to how the industry rolls out GMI-integrated products over the next 12 to 18 months. If aftermarket GMI devices become available at a reasonable price point before MY2028 hits, early adoption makes sense for anyone running a newer coach with modern electronics or slide-out systems that don't tolerate power anomalies well.
+Third, watch how the industry rolls out GMI-integrated products over the next 12 to 18 months. If aftermarket GMI devices become available at a reasonable price before MY2028 hits, early adoption makes sense for anyone running a newer coach with modern electronics or slide-out systems that don't tolerate power anomalies well.
 
-The underlying issue, bad campground grounding, predates this rule and won't vanish overnight. The GMI mandate doesn't fix the infrastructure. It just makes the problem visible in a way the industry can no longer ignore.
-
-That's not a small thing.
+The underlying issue, bad campground grounding, predates this rule. The GMI mandate doesn't fix the infrastructure. It just makes the problem impossible to ignore.
 
 ---
 

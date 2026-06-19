@@ -25,7 +25,6 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
 Most people sizing their full-time RV make the same mistake: they think about square footage and then stop there. They picture themselves cooking in a bigger kitchen or stretching out in a longer bedroom, and they forget to think about the 47 other variables that will actually determine whether they're miserable or not two years in.
 
 I've lived in a 19-foot travel trailer, a 38-foot fifth wheel, and a 24-foot Class C. Different rigs for different seasons of life, different parking situations, different bank balances. Here's what I actually learned.
@@ -34,29 +33,29 @@ I've lived in a 19-foot travel trailer, a 38-foot fifth wheel, and a 24-foot Cla
 
 Forget length for a second. The single most useful measurement for full-time living is **usable interior width**, and whether your rig has slides or not.
 
-A 30-foot travel trailer without slides might give you 7 feet of usable interior width. Add two full slides and suddenly you've got 13 feet of living space when parked. The difference between those two configurations is not minor. It's the difference between bumping into your partner every time you move through the kitchen and actually being able to cook a meal while someone else sits at the table.
+A 30-foot travel trailer without slides might give you 7 feet of usable interior width. Add two full slides and suddenly you've got 13 feet of living space when parked. That's not a small difference. It's the difference between bumping into your partner every time you move through the kitchen and actually being able to cook a meal while someone else sits at the table.
 
-That said, slides have real costs. More seals to fail. More motors to burn out. More square inches of slide-out floor that will eventually need attention. I've had two slide motors fail: one at mile marker 14 outside Amarillo in July, and one in a Thousand Trails campground in Oregon where I sat for nine extra days waiting on parts. Slides are worth it for most full-timers, but go in with eyes open.
+Slides aren't free, though. More seals fail. Motors burn out. More square inches of slide-out floor eventually need attention. I had one slide motor fail at mile marker 14 outside Amarillo in July. Another one went in a Thousand Trails campground in Oregon, and I sat there nine extra days waiting for parts. Slides are worth it for most full-timers, but you need to know what you're getting into.
 
 The practical sweet spot for a solo full-timer is 22-28 feet with one or two slides. For a couple, 28-36 feet. For a family of four, don't go under 35 feet and strongly consider a fifth wheel with a dedicated rear bedroom.
 
 ## Class A, Class B, Class C, Fifth Wheel, or Travel Trailer?
 
-Everyone wants someone to just tell them which type is best. Fine. Here's my honest ranking for full-time living:
+Everyone wants someone to just tell them which type is best. Fine. Here's my honest ranking for full-time living.
 
-**Fifth wheels lead for couples and families.** The bi-level layout gives you genuine separation between sleeping and living. The hitch setup is more stable than a bumper-pull at highway speeds. Storage underneath is usually cavernous. The trade-off: you need a pickup truck, and not just any truck. A 40-foot fifth wheel pushing 15,000 lbs loaded requires a dually, realistically a Ram 3500 or F-350, and that vehicle costs money to buy and fuel. Don't buy the fifth wheel first and the truck second. I've seen that mistake end trips.
+**Fifth wheels lead for couples and families.** The bi-level layout gives you genuine separation between sleeping and living. The hitch setup is more stable than a bumper-pull at highway speeds. Storage underneath is usually cavernous. But here's the real cost: you need a pickup truck, and not just any truck. A 40-foot fifth wheel pushing 15,000 lbs loaded needs a dually, realistically a Ram 3500 or F-350, and that vehicle costs money to buy and fuel. Don't buy the fifth wheel first and the truck second. I've seen that mistake end trips.
 
-**Class A motorhomes are the most livable but the most expensive to own.** A used 36-foot Tiffin Allegro or Entegra Coach gives you a layout that actually feels like an apartment. Washer/dryer combos, full-size refrigerators, residential bathrooms. But maintenance is brutal. Anything under $80,000 used (2024 prices) probably has deferred maintenance that'll catch up fast. Diesel pushers are more reliable long-term than gas Class A's in my experience, but the repair bills when something breaks will make your knees buckle. Budget $3,000-5,000 a year for maintenance on a diesel Class A, minimum.
+**Class A motorhomes are the most livable but the most expensive to own.** A used 36-foot Tiffin Allegro or Entegra Coach gives you a layout that actually feels like an apartment. Washer/dryer combos, full-size refrigerators, residential bathrooms. Then something breaks. Anything under $80,000 used (2024 prices) probably has deferred maintenance that'll catch up fast. Diesel pushers are more reliable long-term than gas Class A's in my experience, but repair bills when something fails will make your knees buckle. Budget $3,000-5,000 a year for maintenance on a diesel Class A, minimum.
 
 **Travel trailers are the entry point for good reason.** Lower upfront cost, easier to work on, and if the trailer turns into a disaster, you still have a functional tow vehicle. A 28-30 foot mid-range trailer like an Airstream Bambi (overpriced but bulletproof), Grand Design Reflection, or Lance 2285 gives a real full-timer enough room to work with. The Grand Design Reflection 150 Series 268BH runs around $35,000-42,000 new and has one of the more livable layouts in its class. Not glamorous but genuinely functional.
 
-**Class C motorhomes are underrated.** The 24-26 foot range is surprisingly livable for solo travelers or couples who move frequently. The cab-over bunk doubles as storage if you don't need it for sleeping. Fuel economy is better than a Class A, repairs are cheaper, and you can park in more places. A 2020 Winnebago Minnie Winnie 25B or Forest River Sunseeker 2400W hits a reasonable compromise between space and maneuverability.
+**Class C motorhomes are underrated.** The 24-26 foot range is surprisingly livable for solo travelers or couples who move frequently. The cab-over bunk doubles as storage if you don't need it for sleeping. Fuel economy beats a Class A. Repairs cost less. You can park in more places. A 2020 Winnebago Minnie Winnie 25B or Forest River Sunseeker 2400W hits a reasonable compromise between space and maneuverability.
 
-**Class B vans are not full-timing rigs for most people.** I know that's controversial. A 22-foot Winnebago Solis Pocket or a well-converted Sprinter is a great weekend or even month-long rig. But 8 feet of interior width, a wet bath the size of an airplane lavatory, and no separation between sleeping and cooking is genuinely hard to sustain for years, especially with a partner or a pet larger than a cat. Stealth camping advantages are real, but if you're paying campground fees most nights anyway, you've given up a lot of comfort for not much.
+**Class B vans aren't full-timing rigs for most people.** I know that's controversial. A 22-foot Winnebago Solis Pocket or a well-converted Sprinter is a great weekend or even month-long rig. But 8 feet of interior width, a wet bath the size of an airplane lavatory, and no separation between sleeping and cooking is genuinely hard to sustain for years, especially with a partner or a pet larger than a cat. Stealth camping advantages are real, but if you're paying campground fees most nights anyway, you've given up a lot of comfort for not much.
 
 ## What Length Actually Does to Your Life
 
-Length affects three things more than anything else: where you can park, how you drive, and how much you pay.
+Length affects three things: where you can park, how you drive, and how much you pay.
 
 **Parking.** National Park campgrounds frequently cap sites at 30 feet or under 35 feet. Hipcamp and Harvest Hosts sites often have access road restrictions that make 40-foot rigs impractical or impossible. If your full-time plan involves boondocking or non-traditional sites, going over 32 feet closes doors you'll regret. I gave up a 38-foot fifth wheel partly because I kept arriving at places I wanted to be and having to leave or squeeze into sites clearly not built for that rig.
 
@@ -64,7 +63,7 @@ Length affects three things more than anything else: where you can park, how you
 
 **Cost.** Campground fees often scale with length. $5-10 more per night at a commercial campground for a rig over 35 feet adds up to $150-300 per month. Not catastrophic but not nothing either.
 
-The magic range for flexibility and livability, across all rig types, lands somewhere between 24 and 34 feet. Shorter than that and most couples feel the walls. Longer than that and you start paying in parking options, campground fees, and driving stress.
+The magic range for flexibility and livability lands somewhere between 24 and 34 feet, across all rig types. Shorter than that and most couples feel the walls. Longer than that and you start paying in parking options, campground fees, and driving stress.
 
 ## The Setup Most People Don't Consider Enough
 
@@ -85,8 +84,5 @@ A 35-foot fifth wheel can fit 1,200 watts of solar on the roof. A 22-foot travel
 For serious off-grid full-timing, you want at minimum 400 amp-hours of lithium battery storage and 600+ watts of solar. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron) like the Victron BMV-712 (around $85-100) is one of the most useful things in my rig and gives you real data instead of guessing. Most rigs come with useless factory battery gauges.
 
 If this is the direction you want to go, the Airstream Bambi 16 is the worst possible choice despite being beautifully built. The roof is curved and limited. The 40-foot Class A with a flat roof gives you a solar farm. Size the rig around your lifestyle first, then figure out energy.
-
----
-
 
 *Photo: [Dudubangbang Travel](https://www.pexels.com/@dudubangbang) via Pexels*

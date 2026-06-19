@@ -25,7 +25,6 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 
 ---
-
 Most solar guides for RVers start with wattage calculators and end with a parts list. That's backwards. The thing that kills most DIY solar installs isn't undersizing the panels or picking the wrong wire gauge. It's installing components in the wrong order and discovering mid-project that your battery bank doesn't fit where you planned, or that your charge controller needs to be within three feet of your batteries and you've already bolted your panels to the roof.
 
 I've done two full solar builds on my rigs, helped a handful of readers work through theirs over email, and made enough mistakes that I can tell you exactly where this goes sideways. Let's do this right.
@@ -44,7 +43,7 @@ Divide your daily watt-hours by your usable sun hours. That tells you how many w
 
 The batteries are a separate calculation. Figure out how many days of autonomy you want (how many cloudy or low-generation days you can survive without shore power or a generator), multiply your daily load by that number, then double it. You should only discharge lithium batteries to 80% depth and lead-acid to 50%, so you need more rated capacity than you think. This math is where most people undersize and then wonder why they're running the generator every afternoon.
 
-A system that works for two people boondocking comfortably: 400-600 watts of panels, 200Ah of lithium (Battle Born or Renogy are solid, around $800-$1,000 for 200Ah), and a 40-amp MPPT charge controller. That's a real starting point, not a fantasy.
+For two people boondocking comfortably, you're looking at 400-600 watts of panels, 200Ah of lithium (Battle Born or Renogy run $800-$1,000 for 200Ah), and a 40-amp MPPT charge controller. That's your real starting point.
 
 ---
 
@@ -52,17 +51,17 @@ A system that works for two people boondocking comfortably: 400-600 watts of pan
 
 Batteries first. Always batteries first.
 
-The battery bank determines the charge controller size, which partly determines the panel configuration, which determines the wire sizing and fuse ratings. If you pick panels first and work backwards, you'll end up making compromises that cost you either money or performance.
+The battery bank determines the charge controller size, which partly determines the panel configuration, which determines the wire sizing and fuse ratings. Work backwards from that and you'll end up making compromises that cost you money or performance or both.
 
-**Batteries:** Lithium iron phosphate (LiFePO4) is worth the premium for full-time RVers. They charge faster, discharge deeper, weigh less, and last 3,000-5,000 cycles instead of 400-500 for AGM. The upfront cost is higher, yes. Over five years, they're almost always cheaper. If budget is genuinely tight, 6-volt AGM golf cart batteries wired in series-parallel are the next best thing, around $120-$160 each at Costco or Sam's Club.
+**Batteries:** Lithium iron phosphate (LiFePO4) costs more upfront, but for full-time RVers it wins. You charge faster, discharge deeper, weigh less, and get 3,000-5,000 cycles instead of 400-500 for AGM. Over five years, it's almost always cheaper. If budget is genuinely tight, 6-volt AGM golf cart batteries wired in series-parallel are the next best thing: $120-$160 each at Costco or Sam's Club.
 
-**Charge controller:** MPPT over PWM, full stop. The efficiency difference in real conditions (partial shade, cold mornings, panels not at perfect angles) is 15-30%. Victron SmartSolar is what I run. The 100/30 handles most van and small RV setups. The 100/50 or 150/35 covers larger Class A or fifth wheel builds. Expect to pay $150-$280 depending on the model. Renogy's Wanderer and Rover series are the budget alternatives that hold up reasonably well.
+**Charge controller:** MPPT beats PWM every time. The efficiency gain in real conditions (partial shade, cold mornings, panels not at perfect angles) is 15-30%. I run Victron SmartSolar. The 100/30 handles most van and small RV setups. The 100/50 or 150/35 covers larger Class A or fifth wheel builds. Budget $150-$280 depending on the model. Renogy's Wanderer and Rover series are solid alternatives if you're watching costs.
 
-**Panels:** For roof mounting, rigid monocrystalline panels are the efficient choice. 200-watt panels are the sweet spot for handling and roof space. If you need flexibility around vents and AC units, look at 100-watt panels you can arrange around obstacles. Avoid flexible panels on a hard roof, they trap heat underneath and degrade faster. Save flex panels for sprinter vans where weight and profile genuinely matter.
+**Panels:** For roof mounting, rigid monocrystalline panels are efficient and durable. 200-watt panels are the sweet spot for handling and roof space. If you need flexibility around vents and AC units, arrange 100-watt panels around the obstacles. Flexible panels on a hard roof trap heat underneath and degrade faster. Save flex panels for sprinter vans where weight and profile actually matter.
 
-**Inverter (if needed):** A pure sine wave inverter is the only type worth buying for anything with a motor or sensitive electronics. Modified sine will damage some devices and run others inefficiently. Renogy 2000W pure sine runs around $180-$220 and handles most loads short of residential AC or a microwave above 1,000 watts. Size it to your largest expected load, not your average load.
+**Inverter (if needed):** A pure sine wave inverter is the only option worth considering for anything with a motor or sensitive electronics. Modified sine will damage some devices and run others inefficiently. Renogy's 2000W pure sine runs around $180-$220 and handles most loads except residential AC or a microwave above 1,000 watts. Size it to your largest expected load, not your average load.
 
-**Battery monitor:** Buy one. A [Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20) is $90 and tells you exactly what's going in and out of your battery bank in real time. Without it, you're flying blind. This is not optional for boondocking.
+**Battery monitor:** Buy one. A [Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20) is $90 and tells you exactly what's going in and out of your battery bank in real time. Without it, you're flying blind. This isn't optional for boondocking.
 
 ---
 
@@ -76,21 +75,21 @@ Install your battery bank in its permanent location. Bolt down the batteries, ru
 
 **2. Mount the charge controller near the batteries.**
 
-The charge controller to battery wire run should be as short as possible. Three feet or less is ideal. Longer runs mean bigger wire to compensate for voltage drop, which costs money. Mount the controller on a wall or cabinet face where it has airflow. They get warm.
+Keep the charge controller to battery wire run as short as possible. Three feet or less is ideal. Longer runs mean bigger wire to compensate for voltage drop, and that costs money. Mount the controller on a wall or cabinet face where it has airflow. They get warm.
 
 **3. Run your roof cable before mounting panels.**
 
-Figure out your cable entry point (a dedicated [solar cable entry gland](https://www.amazon.com/s?k=rv+solar+cable+entry+gland&tag=contentportfo-20) runs about $10-$15 and beats drilling a bare hole every time), run your conduit or cable from roof to controller location, seal everything with Dicor or a similar self-leveling lap sealant. Do this before panels go up, because working on a roof with panels in the way is miserable.
+Figure out your cable entry point (a dedicated [solar cable entry gland](https://www.amazon.com/s?k=rv+solar+cable+entry+gland&tag=contentportfo-20) runs about $10-$15 and beats drilling a bare hole), run your conduit or cable from roof to controller location, seal everything with Dicor or a similar self-leveling lap sealant. Do this before panels go up. Working on a roof with panels in the way is miserable.
 
 **4. Mount the panels.**
 
 Use Z-brackets or tilt mounts. Z-brackets are simpler and lower profile. Tilt mounts (like those from Renogy or AM Solar) are worth it if you camp in lower-light conditions or at higher latitudes, where angling toward the sun adds meaningful production. Bolt through the roof with stainless hardware and seal every penetration. Every single one.
 
-Wire panels in series if you have an MPPT controller and want to keep amperage low on long roof runs. Wire in parallel if shading is a concern (shading one panel in a series string kills the whole string). Mixing series and parallel is also an option with four or more panels, and sometimes the right call.
+Wire panels in series if you have an MPPT controller and want to keep amperage low on long roof runs. Wire in parallel if shading is a concern (shading one panel in a series string kills the whole string). Mixing series and parallel is also an option with four or more panels.
 
 **5. Connect panels to charge controller, then controller to batteries.**
 
-In that order. Always panels-to-controller before controller-to-batteries on initial hookup, and batteries-first when disconnecting. Check your controller manual, some MPPT units specify the exact opposite. Victron is batteries first. Renogy is panels first. Read the manual.
+In that order. Always panels-to-controller before controller-to-batteries on initial hookup, and batteries-first when disconnecting. Check your controller manual though, some MPPT units specify the exact opposite. Victron is batteries first. Renogy is panels first. Read the manual.
 
 **6. Configure the charge controller.**
 
@@ -106,7 +105,7 @@ Wire the inverter directly to the batteries with appropriately sized cable (chec
 
 Roof weight adds up faster than you think. Four 200-watt panels at roughly 25 lbs each is 100 lbs before brackets and wire. Know your roof rating. Fiberglass roofs on older rigs can flex and crack under that load if the mounting spans poorly.
 
-Shade management is the biggest ongoing performance issue after installation. One big tree shadow across two panels at noon can drop your production 60-70%. It's not just annoying, it changes where you camp and how you position. Get used to thinking about it.
+Shade management is the biggest ongoing performance issue after installation. One big tree shadow across two panels at noon can drop your production 60-70%. It changes where you camp and how you position. Get used to thinking about it.
 
 Heat kills solar production. Panels at 77°F are rated at their spec sheet numbers. At 130°F, which is realistic on a black roof in July in Arizona, you lose roughly 15-25% of rated output. Mounting panels with an air gap underneath (Z-brackets do this automatically) helps more than people realize.
 
@@ -114,9 +113,6 @@ Finally: check your connections every six months. Vibration loosens terminals. A
 
 ---
 
-
----
-
-Eight years in, the solar setup on my current rig is the single best upgrade I've made to full-time life. Not because it's glamorous, but because shore power anxiety is gone. You can stay somewhere beautiful for a week without running a generator and without watching your battery percentage like a hawk. That's what the system is really for. The wiring is just how you get there.
+Eight years in, the solar setup on my current rig is the single best upgrade I've made to full-time life. Not because it's glamorous. Shore power anxiety is gone. You can stay somewhere beautiful for a week without running a generator and without watching your battery percentage like a hawk. That's what the system is really for. The wiring is just how you get there.
 
 *Photo: [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009) via Pexels*

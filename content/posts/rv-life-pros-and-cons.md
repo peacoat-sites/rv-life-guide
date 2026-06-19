@@ -25,44 +25,35 @@ author_title: "Finance Writer"
 author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
 
 ---
-
 I sold my house on a Tuesday in October 2019. By Saturday, my husband and I were sleeping in a 34-foot fifth wheel in a Walmart parking lot outside Columbus, Ohio, arguing about where the propane shutoff was while the temperature dropped to 38 degrees. That is the version of full-time RV life nobody posts on Instagram. Six years and 90,000+ miles later, I can tell you honestly: this lifestyle is one of the best decisions I ever made, and also one of the hardest. Both things are completely true at the same time.
-
----
 
 ## What You Actually Gain: The Real Pros of RV Living
 
-Let's start with the good stuff, because it is genuinely good.
+Freedom isn't a cliche. When we woke up on a Monday in Moab, Utah, with no checkout time and nowhere to be until we felt like leaving, I cried a little. That sounds dramatic, but after 17 years of mortgage payments, HOA meetings, and two-week vacation windows, the absence of a ticking clock was almost physically overwhelming. You can chase weather. You can follow wildflower blooms north in spring. You can leave a bad campsite neighbor in the rearview mirror and never think about them again.
 
-**Freedom is not a cliche.** When we woke up on a Monday in Moab, Utah, with no checkout time and nowhere to be until we felt like leaving, I cried a little. That sounds dramatic, but after 17 years of mortgage payments, HOA meetings, and two-week vacation windows, the absence of a ticking clock was almost physically overwhelming. You can chase weather. You can follow wildflower blooms north in spring. You can leave a bad campsite neighbor in the rearview mirror.
+The money part can actually work. We sold our suburban Columbus house for $312,000. After paying off the mortgage and buying our fifth wheel outright, we had roughly $95,000 sitting in savings that had previously been locked in equity. Year one averaged $3,200 monthly for fuel, campground fees, food, insurance, maintenance, and a $400/month repair budget. Our old household expenses, including the mortgage, utilities, and lawn care, had been running about $4,100 per month. We weren't getting rich, but we weren't going broke either.
 
-**The financial picture can genuinely work in your favor.** We sold our suburban Columbus house for $312,000. After paying off the mortgage and buying our fifth wheel outright, we had roughly $95,000 sitting in savings that had previously been locked in equity. Our monthly costs in year one averaged $3,200, which included fuel, campground fees, food, insurance, maintenance, and a $400/month budget for repairs. Our old household expenses, including the mortgage, utilities, and lawn care, had been running about $4,100 per month. We weren't exactly getting rich, but we were not going broke either.
+The scenery genuinely changes you. I've watched the Milky Way from a dispersed campsite in the Coconino National Forest in Arizona. I've had elk walk 12 feet from my kitchen window in Montana. I've parked at the edge of Acadia in October with exactly zero other RVs around me, no Airbnb confirmation, no flight to catch. That part of the lifestyle is exactly as good as it sounds.
 
-**The scenery is legitimately life-changing.** I've watched the Milky Way from a dispersed campsite in the Coconino National Forest in Arizona. I've had elk walk 12 feet from my kitchen window in Montana. I've parked at the edge of Acadia in October with exactly zero other RVs around me. No Airbnb booking, no flight to catch. That part of the lifestyle is exactly as good as it sounds.
-
-**You simplify by necessity.** We went from a 2,400 square foot house to about 400 square feet of living space. The first six months involved a lot of "why did we keep this?" conversations. But what came out the other side was a leaner version of our daily life. Fewer things to maintain, fewer things to clean, fewer things to replace.
-
----
+You simplify by necessity. Going from a 2,400 square foot house to about 400 square feet of living space meant six months of "why did we even keep this?" conversations. What came out the other side was a leaner version of daily life. Fewer things to maintain. Fewer things to clean. Fewer things to replace.
 
 ## What Nobody Warns You About: The Real Cons
 
-Here's where I'll spend more time, because the cons are underrepresented in most RV content.
+The cons are underrepresented in most RV content. Let me spend real time on them.
 
-**Maintenance will cost more than you budgeted.** I don't care what spreadsheet you built. In our first year, we had a slideout motor fail ($1,100), an LP regulator go bad ($280 plus a miserable cold night), and a roof delamination issue that cost $3,400 to repair properly. These are not unusual. They are the normal cost of living in a vehicle that flexes, vibrates, and takes weather from every direction. Most financial planners who write about full-time RV life suggest a maintenance reserve of $3,000 to $5,000 per year. From my experience, that is the floor, not the ceiling.
+**Maintenance will cost more than you budgeted.** I don't care what spreadsheet you built. In our first year, we had a slideout motor fail ($1,100), an LP regulator go bad ($280 plus a miserable cold night), and a roof delamination issue that cost $3,400 to repair properly. These aren't unusual. They're the normal cost of living in a vehicle that flexes, vibrates, and takes weather from every direction. Most financial planners suggest a maintenance reserve of $3,000 to $5,000 per year. From my experience, that's the floor, not the ceiling.
 
-**Connectivity is a genuine problem.** I hear people say "you can work from anywhere!" and technically yes, but in practice you are constantly problem-solving internet. We've had Verizon, AT&T, and T-Mobile simultaneously on different devices and still found ourselves parked outside a McDonald's in rural Idaho trying to submit a work file. Starlink has genuinely changed this, and I will not pretend otherwise. But Starlink adds $150/month to your costs, requires a dish that takes up cargo space, and still has limitations in forested or mountainous terrain.
+Connectivity is a genuine problem. People say "you can work from anywhere!" and technically yes, but in practice you're constantly problem-solving internet. We've had Verizon, AT&T, and T-Mobile simultaneously on different devices and still found ourselves parked outside a McDonald's in rural Idaho trying to submit a work file. Starlink has genuinely changed this. But it adds $150/month to your costs, requires a dish that takes up cargo space, and still has limitations in forested or mountainous terrain.
 
-**The relationship stress is real.** Being in 400 square feet with another person 24 hours a day is not inherently romantic. You need to have direct, boring conversations about chores, driving habits, navigation disagreements, and where you want to go next. We went through a rough patch around month four. We were not the only couple to do so. Solo full-timers face a different version of this: isolation. You can go days in remote areas without meaningful human contact, and that wears on people more than they expect.
+The relationship stress is real. Four hundred square feet with another person 24 hours a day is not inherently romantic. You need direct, boring conversations about chores, driving habits, navigation disagreements, and where you want to go next. We went through a rough patch around month four. We were not the only couple to do so. Solo full-timers face isolation instead: you can go days in remote areas without meaningful human contact, and that wears on people more than they expect.
 
-**Your address situation is genuinely complicated.** You'll need a mail forwarding service (we use one based in South Dakota, which is also where we established domicile for licensing and taxes). Setting that up takes weeks. Banking, insurance, voting registration, medical care continuity: all of these require deliberate solutions that take time and occasionally money to maintain.
+Your address situation is genuinely complicated. You'll need a mail forwarding service (we use one based in South Dakota, which is also where we established domicile for licensing and taxes). That takes weeks to set up. Banking, insurance, voting registration, medical care continuity, all of these require deliberate solutions that take time and occasionally money to maintain.
 
-**Healthcare is the biggest wildcard.** If you're under 65 and not covered through an employer, health insurance on the open market is expensive and often geographically restricted. We spent $1,100 per month on a high-deductible plan for two people for three years before I turned 55 and found a better option. This is not a dealbreaker for everyone, but it needs to be a line item in your actual budget before you sell the house.
-
----
+Healthcare is the biggest wildcard. If you're under 65 and not covered through an employer, health insurance on the open market is expensive and often geographically restricted. We spent $1,100 per month on a high-deductible plan for two people for three years before I turned 55 and found a better option. This isn't a dealbreaker for everyone, but it needs to be a line item in your actual budget before you sell the house.
 
 ## RV Life Costs: A Realistic Monthly Comparison
 
-Here's a rough comparison based on our actual numbers and what I've seen from dozens of full-timers I've talked to over the years.
+Here's a rough comparison based on our actual numbers and what I've seen from dozens of full-timers over the years.
 
 | Expense Category | Suburban Homeowner (Avg) | Full-Time RVer (Avg) |
 |---|---|---|
@@ -76,38 +67,31 @@ Here's a rough comparison based on our actual numbers and what I've seen from do
 | Groceries/dining | $600 - $900 | $600 - $900 |
 | **Estimated Monthly Total** | **$3,380 - $5,370** | **$2,900 - $5,400** |
 
-The takeaway here is not that RV life is dramatically cheaper. The takeaway is that the cost structures are different. RVers spend more on fuel and connectivity, less on housing and utilities. Whether you come out ahead depends heavily on how you travel (moving frequently costs more in diesel), where you stay (full-hookup RV parks at $60/night versus free BLM land), and how old your rig is.
-
----
+RV life isn't dramatically cheaper. The cost structures are just different. RVers spend more on fuel and connectivity, less on housing and utilities. Whether you come out ahead depends heavily on how you travel (moving frequently costs more in diesel), where you stay (full-hookup RV parks at $60/night versus free BLM land), and how old your rig is.
 
 ## The Gear That Actually Matters
 
-After six years, I can tell you what's essential and what's marketing fluff.
+After six years, I know what's essential and what's marketing fluff.
 
-**Step 1: Get a serious surge protector before you plug into a single campground pedestal.** Bad power is everywhere, and it will fry your converter or air conditioner without warning. I use a Progressive Industries EMS unit hardwired into my rig. It's around $300 and has paid for itself several times over. You can find a [portable version on Amazon](https://www.amazon.com/s?k=rv+surge+protector) if you don't want to hardwire. (Disclosure: this site may earn a commission on purchases.)
+**Get a serious surge protector before you plug into a single campground pedestal.** Bad power is everywhere, and it will fry your converter or air conditioner without warning. I use a Progressive Industries EMS unit hardwired into my rig. It's around $300 and has paid for itself several times over. You can find a [portable version on Amazon](https://www.amazon.com/s?k=rv+surge+protector) if you don't want to hardwire. (Disclosure: this site may earn a commission on purchases.)
 
-**Step 2: Filter your water.** Campground water quality varies wildly. We run everything through an inline [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter) and have never had an issue. Without one, we had a noticeable taste and smell problem at several sites in the Southwest.
+**Filter your water.** Campground water quality varies wildly. We run everything through an inline [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter) and have never had an issue. Without one, we had a noticeable taste and smell problem at several sites in the Southwest.
 
-**Step 3: Level your rig properly.** A rig that's not level causes your refrigerator to work harder and your sleep to be worse. A set of [Camco leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks) costs about $25 and solves 90% of unlevel site problems.
+**Level your rig properly.** A rig that's not level causes your refrigerator to work harder and your sleep to be worse. A set of [Camco leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks) costs about $25 and solves 90% of unlevel site problems.
 
-**Step 4: Monitor your batteries.** If you're boondocking or off-grid at all, a battery monitor like a [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor) tells you exactly what your batteries are doing. Guessing leads to dead batteries at inconvenient times.
+**Monitor your batteries.** If you're boondocking or off-grid at all, a battery monitor like a [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor) tells you exactly what your batteries are doing. Guessing leads to dead batteries at inconvenient times.
 
-**Step 5: Invest in solar early.** Even a modest 400-watt solar setup changes your options dramatically. It lets you stay on BLM land and state forests instead of paying nightly fees. The math pays out fast if you're a frequent boondocker. [Flexible and rigid solar panels](https://www.amazon.com/s?k=rv+solar+panels) are both available on Amazon depending on your roof situation.
-
----
+**Invest in solar early.** Even a modest 400-watt solar setup changes your options dramatically. It lets you stay on BLM land and state forests instead of paying nightly fees. The math pays out fast if you're a frequent boondocker. [Flexible and rigid solar panels](https://www.amazon.com/s?k=rv+solar+panels) are both available on Amazon depending on your roof situation.
 
 ## Who This Life Is Actually Right For
 
-This is the part most articles skip. RV life is a specific fit, not a universal upgrade.
+RV life is a specific fit, not a universal upgrade.
 
-It works well for: people who are genuinely flexible and comfortable with uncertainty, remote workers with truly portable income, retired couples or solo travelers with low healthcare overhead, people who prioritize experiences over stability, and anyone who genuinely finds home maintenance more burden than pleasure.
+It works well for people who are genuinely flexible and comfortable with uncertainty. Remote workers with truly portable income. Retired couples or solo travelers with low healthcare overhead. Anyone who prioritizes experiences over stability. People who genuinely find home maintenance more burden than pleasure.
 
-It works poorly for: people who dislike troubleshooting mechanical problems (or who hate paying someone else to solve them), families with kids in structured schooling who need consistent community, people with significant ongoing medical needs or specialists they see regularly, and anyone who requires a stable high-speed internet connection for client-facing video work.
+It works poorly for people who dislike troubleshooting mechanical problems (or who hate paying someone else to solve them). Families with kids in structured schooling who need consistent community. People with significant ongoing medical needs or specialists they see regularly. Anyone who requires a stable high-speed internet connection for client-facing video work.
 
-I have watched multiple people sell their houses, buy an expensive rig, and move back into sticks-and-bricks within eight months. Not because they failed, but because they discovered the lifestyle didn't match what they actually needed from daily life. There is no shame in that, but it is expensive to find out the hard way.
-
----
-
+I have watched multiple people sell their houses, buy an expensive rig, and move back into sticks-and-bricks within eight months. Not because they failed, but because they discovered the lifestyle didn't match what they actually needed from daily life. There's no shame in that, but it's expensive to find out the hard way.
 
 ---
 

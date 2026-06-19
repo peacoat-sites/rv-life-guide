@@ -25,16 +25,15 @@ author_title: "Finance Writer"
 author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
 
 ---
-
 You've handed in your notice, sold most of your furniture, and signed the title on a used Class A motorhome. The excitement is real. Then someone at the going-away party asks, "So what are you doing for health insurance?" and the room gets quiet. It's one of the most overlooked logistical hurdles in full-time RV life, and it can genuinely derail your plans if you don't sort it out before you pull out of the driveway for the last time.
 
 ## Why Health Insurance Gets Complicated When You Have No Fixed Address
 
 Most health insurance in the United States is built around geography. Marketplace plans through the ACA are tied to your county of residence. Employer-sponsored plans often have narrow networks. Even Medicare Advantage plans are frequently regional. When your address changes every few weeks or you're camped in a national forest in Nevada one month and parked outside Savannah, Georgia the next, those geography-based systems start to break down fast.
 
-The biggest trap new full-timers fall into is picking a plan based on where they used to live, not where they're going. A Blue Cross network in Texas doesn't automatically cover routine care in Oregon. You might find yourself paying out-of-network rates for a simple urgent care visit three states away. Those surprise bills add up quickly.
+The biggest trap new full-timers fall into is picking a plan based on where they used to live, not where they're going. A Blue Cross network in Texas doesn't automatically cover routine care in Oregon. You might find yourself paying out-of-network rates for a simple urgent care visit three states away, and those surprise bills add up quickly.
 
-There's also the question of legal domicile. Full-time RVers need to establish residency somewhere, even if they're never there. South Dakota, Texas, and Florida are the three most popular domicile states because they have no state income tax and relatively simple residency requirements. Your choice of domicile state directly affects which ACA Marketplace plans you can shop, so it's not a decision you can make in isolation from your insurance search. If you're still figuring out the whole domicile and logistics side of things, our [full-time RV living guide](/full-time-rv-living-guide/) covers it in detail.
+Then there's legal domicile. Full-time RVers need to establish residency somewhere, even if they're never there. South Dakota, Texas, and Florida are the three most popular domicile states because they have no state income tax and relatively simple residency requirements. Your choice of domicile state directly affects which ACA Marketplace plans you can shop, so it's not a decision you can make in isolation from your insurance search. If you're still figuring out the whole domicile and logistics side of things, our [full-time RV living guide](/full-time-rv-living-guide/) covers it in detail.
 
 ## The Main Health Insurance Options for Full-Time RVers
 
@@ -94,13 +93,11 @@ Here's a practical sequence to follow in the 60-90 days before you go full-time.
 
 ## What Coverage Actually Looks Like on the Road
 
-Real-world full-time RV health insurance isn't always clean. You'll probably use urgent care more than you expect. A twisted ankle in Moab, a sinus infection in Montana, a minor cut that needs stitches in the Florida Panhandle. These aren't emergencies, but they happen. Knowing that your plan covers urgent care visits at a flat copay anywhere in the country is genuinely valuable.
+Real-world full-time RV health insurance isn't always clean. You'll probably use urgent care more than you expect. A twisted ankle in Moab, a sinus infection in Montana, a minor cut that needs stitches in the Florida Panhandle, these aren't emergencies, but they happen. Knowing that your plan covers urgent care visits at a flat copay anywhere in the country is genuinely valuable.
 
 Telehealth has become a game-changer. Services like Teladoc (included in many ACA plans for free), MDLive, and Amazon Clinic let you see a provider over video for things like UTIs, minor infections, and medication refills. I've talked to dozens of full-timers who say they handle probably 40% of their medical needs through telehealth now. It's fast, cheap, and location-agnostic.
 
 For prescriptions, GoodRx often beats your insurance copay, especially at big-box pharmacies like Costco, Walmart, and Kroger that exist in most metro areas. Keep the app on your phone.
-
----
 
 ## Comparison: Top Health Insurance Approaches for Full-Time RVers
 
@@ -113,16 +110,7 @@ For prescriptions, GoodRx often beats your insurance copay, especially at big-bo
 | VA Healthcare | Low/free | Yes (with Community Care) | Covered | Eligible veterans |
 | Short-Term Plan | $100-$300 | Generally yes | Excluded | Healthy, gap coverage |
 
----
-
-
----
-
 Health insurance for full-time RVers isn't one-size-fits-all, but it's absolutely solvable with the right preparation. The people who struggle are usually the ones who treat it as an afterthought. Spend the time before you launch, pick a plan that actually matches your travel patterns, and revisit your coverage every open enrollment period as your situation changes. The road is more enjoyable when you're not quietly worrying about what happens if something goes wrong.
-
----
-
----
 
 ## Recommended Resources
 
@@ -130,4 +118,3 @@ Health insurance for full-time RVers isn't one-size-fits-all, but it's absolutel
 
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

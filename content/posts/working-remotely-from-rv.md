@@ -25,85 +25,72 @@ author_title: "Finance Writer"
 author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
 
 ---
-
 You're on a video call with your biggest client. The background shows pine trees and mountain light that would make anyone jealous. Then your hotspot drops, your laptop battery hits 11%, and the client asks you to share your screen. This is the moment nobody's Instagram post covers. Remote work from an RV is genuinely fantastic until it isn't, and the difference between those two outcomes comes down almost entirely to preparation.
 
 Most coverage of this topic reads like a travel blog written by someone on a two-week vacation. Actual full-time remote workers living in RVs face a completely different set of problems: consistent power, reliable internet in locations that change every few days, a workspace that doesn't wreck your back or your productivity, and a financial reality that includes both campground fees and a regular rent payment somewhere.
 
 Let me tell you what actually works.
 
----
-
 ## Internet: Your One Non-Negotiable
 
-Everything else in your RV setup is negotiable. Internet is not. Get this wrong and nothing else matters.
+Everything else in your RV setup is negotiable. Internet is not.
 
-The biggest mistake new remote workers make is relying on a single carrier. Verizon has great coverage across the rural West. T-Mobile crushes it in the Northeast corridor and the Pacific Northwest. AT&T fills gaps neither of them covers. No single carrier covers everything, and "everything" is where you'll end up living if you're serious about this lifestyle.
+The biggest mistake new remote workers make is relying on a single carrier. Verizon dominates the rural West. T-Mobile crushes the Northeast corridor and Pacific Northwest. AT&T fills gaps neither of them covers. No single carrier works everywhere, and "everywhere" is exactly where you'll end up if you're serious about this.
 
-My personal setup: a Verizon hotspot (Jetpack or a recent phone used as a hotspot), a T-Mobile backup hotspot, and a WeBoost Drive Reach cellular booster mounted on the roof. The booster alone has turned a completely unusable 1-bar signal into a workable 3-bar connection more times than I can count. In genuinely remote spots, it's saved a client call at least a dozen times over the years.
+Here's my actual setup: a Verizon hotspot (Jetpack or a recent phone), a T-Mobile backup hotspot, and a WeBoost Drive Reach cellular booster mounted on the roof. That booster has transformed completely unusable 1-bar signals into workable 3-bar connections more times than I can count. In genuinely remote spots, it's saved a client call at least a dozen times over the years.
 
-For serious remote workers, also look at Starlink RV. It's $150/month for the roaming plan as of this writing, and the performance in open-sky locations is legitimately impressive, often 100-200 Mbps down. The catch: it struggles under tree cover, requires a clear view of the northern sky, and the dish takes a few minutes to lock on after you move. It's not a replacement for cellular in campgrounds with heavy tree coverage. It's a complement to it.
+For serious remote workers, add Starlink RV to the mix. It's $150/month for the roaming plan as of this writing, and the performance in open-sky locations is legitimately impressive: often 100-200 Mbps down. The catch is real though. It struggles under tree cover, requires a clear view of the northern sky, and the dish takes a few minutes to lock on after you move. Don't treat it as a replacement for cellular in wooded campgrounds. Think of it as a complement.
 
-**What to budget:** Plan on spending $100-$200/month on mobile internet between multiple carriers and/or Starlink. That's not optional spending. That's your office rent.
+**Budget $100-$200/month** on mobile internet between multiple carriers and/or Starlink. That's not optional spending. That's your office rent.
 
-Apps worth using: Campendium and The Dyrt both include user-reported cell signal information. Search a campground before you book it. People will tell you exactly which carriers work and whether Starlink is viable there.
-
----
+Use Campendium and The Dyrt before booking anything. Both include user-reported cell signal information broken down by carrier. People tell you exactly which networks work and whether Starlink is viable. Search first, book second.
 
 ## Power: More Than Just Plugging In
 
-Shore power at a full-hookup campsite solves most of your power problems, but full hookups at a good campsite in a convenient location aren't always available. Boondocking, dry camping, or sites with 30-amp service only change the math significantly.
+Shore power at a full-hookup campsite solves most of your problems, but finding full hookups at a good site in a convenient location isn't guaranteed. Boondocking, dry camping, or 30-amp-only sites change the math significantly.
 
-The baseline you need for a remote work setup: enough power to run your laptop, your monitors if you use them, your hotspot equipment, and basic lighting for 8-10 hours a day without anxiety. If you're on shore power, fine. If you're not, you're looking at a battery and solar conversation.
+You need enough power to run your laptop, your monitors if you use them, your hotspot equipment, and basic lighting for 8-10 hours without stress. Shore power? You're fine. No shore power? Battery and solar become your problem.
 
-I run a 200Ah lithium battery bank with 400 watts of solar on the roof. On a clear day in summer, that setup handles my full workday with power to spare. On overcast days in November in the Pacific Northwest, I've had to throttle my setup down to just the laptop and one hotspot and plug in wherever I can find 30 amps.
+I run a 200Ah lithium battery bank with 400 watts of solar. On a clear summer day, that handles my workday with power to spare. On overcast November days in the Pacific Northwest, I throttle down to just the laptop and one hotspot and hunt for 30 amps.
 
-A battery monitor is not optional if you're working off-grid. You need to know your state of charge in real time, not guess at it. The Victron BMV-712 is the one I'd recommend without hesitation. It's accurate, the Bluetooth app is genuinely good, and it integrates with most lithium battery setups. [Check pricing on Amazon](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20) *(affiliate link -- the site may earn a commission)*.
+A battery monitor isn't optional if you're working off-grid. You need to know your state of charge in real time. The Victron BMV-712 is what I'd recommend without hesitation. It's accurate, the Bluetooth app actually works well, and it integrates with most lithium setups. [Check pricing on Amazon](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20) *(affiliate link -- the site may earn a commission)*.
 
-For solar, 200 watts is the floor for remote work viability. 400 watts is comfortable. If your rig doesn't have solar yet, flexible panels have gotten much better over the last three years, and rigid panels are still more efficient per dollar if you have the roof space.
+For solar, 200 watts is the bare minimum for remote work. 400 watts is comfortable. Flexible panels have improved dramatically over the last three years, and rigid panels still deliver better efficiency per dollar if you have roof space.
 
-One more thing: a quality surge protector for shore power hookups. Campground power is notoriously dirty. A bad surge at a cheap campground can fry your laptop, your inverter, your TV. The Progressive Industries EMS-PT30X or the 50-amp equivalent is the standard recommendation and the one I use. [See it on Amazon](https://www.amazon.com/s?k=Progressive+Industries+EMS+PT30X&tag=contentportfo-20) *(affiliate link)*.
-
----
+One more thing: a quality surge protector for shore power hookups. Campground power is notoriously dirty. A bad surge at a cheap campground can fry your laptop, your inverter, your entire setup. The Progressive Industries EMS-PT30X (or the 50-amp equivalent) is the standard recommendation and what I use. [See it on Amazon](https://www.amazon.com/s?k=Progressive+Industries+EMS+PT30X&tag=contentportfo-20) *(affiliate link)*.
 
 ## Your Workspace Setup
 
-Working from your dinette for eight hours is how you develop a back problem. I know because I did it for four months before I got serious about this.
+Working from your dinette for eight hours will give you a back problem. I know because I did it for four months before I got serious.
 
-Your setup doesn't have to be elaborate, but it needs a few things: a surface at the right height, a chair with actual support, a way to elevate your laptop screen to eye level, and enough separation from the living space that you can mentally clock in and clock out.
+Your setup doesn't need to be elaborate, but it needs a few things: a surface at the right height, a chair with actual support, a way to elevate your laptop screen to eye level, and enough separation from the living space that you can mentally clock in and clock out.
 
-In a Class A or fifth wheel with a dedicated desk, you're ahead of the game. In a Class B van or a smaller travel trailer, you're building this from scratch. A few things that actually work in tight spaces:
+Class A and fifth wheel owners with dedicated desks are ahead of the game. Class B van and small travel trailer owners are building from scratch. A few things that actually work in tight spaces:
 
-- A laptop stand plus an external keyboard and mouse gets your screen to eye level and saves your neck. Twelve Sound and Rain Design both make compact options.
-- A [folding ergonomic travel chair](https://www.amazon.com/s?k=portable+ergonomic+office+chair+travel&tag=contentportfo-20) *(affiliate link)* is worth it if you don't have a dedicated chair.
-- Blackout curtains on the window behind your monitor solve screen glare problems instantly.
-- A small ring light clips to your laptop and dramatically improves your video call appearance, which matters more than people admit.
+A laptop stand plus external keyboard and mouse gets your screen to eye level and saves your neck. Twelve Sound and Rain Design both make compact options. A [folding ergonomic travel chair](https://www.amazon.com/s?k=portable+ergonomic+office+chair+travel&tag=contentportfo-20) *(affiliate link)* is worth the cost if you don't have a dedicated chair. Blackout curtains on the window behind your monitor kill screen glare instantly. A small ring light clips to your laptop and dramatically improves your video call appearance, which matters more than people admit.
 
-Noise is the sleeper issue. Campgrounds are not libraries. Neighbor generators, kids, dogs, and highway noise are real. A decent pair of noise-canceling headphones is not optional for video calls. Sony WH-1000XM5s are the standard recommendation, but the Anker Soundcore Q45s are $60 and legitimately good if you don't want to spend $350.
-
----
+Noise is the sleeper issue nobody talks about. Campgrounds aren't libraries. Neighbor generators, kids, dogs, highway noise. A decent pair of noise-canceling headphones is essential for video calls. Sony WH-1000XM5s are the standard recommendation at $350, but the Anker Soundcore Q45s are $60 and legitimately good if you don't want to spend that much.
 
 ## Planning Your Stops Around Work Requirements
 
-Most RV itinerary advice is written for vacationers. You're not on vacation. You need to think about every stop in terms of connectivity, power availability, and how many days you actually need to stay to justify the move time.
+Most RV itinerary advice is written for vacationers. You're not on vacation. Every stop needs to be evaluated for connectivity, power, and how many days you actually need to justify the move time.
 
-Moving every night is romantic-sounding and productivity-destroying. I've found that 4-7 night stays are the sweet spot: long enough to actually work without logistics overhead, short enough to keep moving.
+Moving every night sounds romantic and is productivity-destroying. Four to seven night stays hit the sweet spot: long enough to work without constant logistics overhead, short enough to keep moving.
 
-Before booking any campground, check:
-1. Cell signal reports on Campendium or The Dyrt (carrier-specific, not just "good" or "bad")
-2. Whether full hookups are available or if it's electric-only or dry camping
+Before booking any campground, check these things:
+
+1. Cell signal reports on Campendium or The Dyrt (carrier-specific, not just vague "good" or "bad" ratings)
+2. Whether full hookups exist or if it's electric-only or dry camping
 3. Proximity to a coffee shop or library as a backup work location
 4. Check-in and checkout times relative to your work schedule
 
-That last one is overlooked constantly. If checkout is 11am and you have calls until noon, you either need to book an extra night or have a plan for where you're working during that gap.
+That last one gets overlooked constantly. If checkout is 11am and you have calls until noon, you either book an extra night or have a plan for where you're working during that gap.
 
-Keep a running list of campgrounds where you worked well. I have a note in my phone called "Good Work Spots" that's been invaluable for planning routes. Some of my best finds: state forest campgrounds in the Ozarks (cheap, surprisingly good Verizon), COE (Corps of Engineers) campgrounds near major reservoirs (often full hookups at $20-28/night), and KOA cabins and sites near college towns (generally solid cell infrastructure nearby).
-
----
+Keep a running list of campgrounds where work actually happened. I have a note in my phone called "Good Work Spots" that's been invaluable for planning routes. Best finds so far: state forest campgrounds in the Ozarks (cheap, surprisingly solid Verizon), COE (Corps of Engineers) campgrounds near major reservoirs (often full hookups at $20-28/night), and KOA sites near college towns (generally decent cell infrastructure nearby).
 
 ## The Real Budget: What Nobody Publishes
 
-Let me give you actual numbers instead of the vague "it depends" answer most articles hide behind.
+Here are actual numbers instead of the vague "it depends" answer most articles hide behind.
 
 | Expense Category | Approximate Monthly Cost |
 |---|---|
@@ -117,10 +104,7 @@ Let me give you actual numbers instead of the vague "it depends" answer most art
 
 That range is wide because your choices drive the cost. Full-hookup RV parks every night in popular areas run $50-80/night. Mix in boondocking and state parks and your campground spend drops dramatically.
 
-The number most people underestimate is maintenance. RVs are driven vehicles that are also homes. Things break. I budget $200-400/month and I've needed every bit of it over 8 years. Wheel bearings, water pump failures, slide-out motor issues, a refrigerator that quit in Arizona in July. None of that is hypothetical. Plan for it financially before it happens, not after.
-
----
-
+The number most people underestimate is maintenance. RVs are driven vehicles that are also homes. Things break. I budget $200-400/month and I've needed every bit of it over eight years. Wheel bearings. Water pump failures. Slide-out motor issues. A refrigerator that quit in Arizona in July. None of that is hypothetical. Plan for it financially before it happens, not after.
 
 ---
 

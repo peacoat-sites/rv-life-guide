@@ -25,7 +25,6 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
 The day we handed over our house keys in October 2019, I had $847 in our checking account, a 28-foot travel trailer hitched to a Ford F-250 I barely knew how to drive, and absolutely no idea what I was walking into. Six years and 90,000 miles later, I can tell you this: almost everything the internet told me about full-time RV life was either optimistic to the point of dishonesty or so surface-level it was useless. This guide is neither of those things.
 
 ---
@@ -34,9 +33,9 @@ The day we handed over our house keys in October 2019, I had $847 in our checkin
 
 Let's start with money, because it will make or break your experience faster than any mechanical failure or bad campsite.
 
-The number I see thrown around most often is $1,500 to $2,500 per month as a "reasonable" full-time RV budget. I've lived on both ends of that range. Here's the truth: $1,500 a month is survivable if you stay at free dispersed camping almost exclusively, cook every single meal from scratch, and have zero unexpected repairs. That last condition is the killer. RVs break. Constantly. Budgeting for repairs means setting aside a minimum of $200 to $300 per month into a dedicated maintenance fund, and even that won't always cover you.
+The number I see thrown around most often is $1,500 to $2,500 per month as a "reasonable" full-time RV budget. I've lived on both ends of that range, and here's what I'll tell you: $1,500 a month is survivable if you stay at free dispersed camping almost exclusively, cook every single meal from scratch, and have zero unexpected repairs. That last condition is the killer. RVs break. Constantly.
 
-Our actual average monthly spending over six years breaks down roughly like this:
+Budgeting for repairs means setting aside a minimum of $200 to $300 per month into a dedicated maintenance fund, and even that won't always cover you. Our actual average monthly spending over six years breaks down roughly like this:
 
 | Category | Monthly Average |
 |---|---|
@@ -49,23 +48,23 @@ Our actual average monthly spending over six years breaks down roughly like this
 | Miscellaneous | $220 |
 | **Total** | **~$2,540** |
 
-And we are not fancy people. We cook at home constantly. We boondock several nights per week. That $310 monthly maintenance average includes the $4,200 slide-out motor replacement we had in New Mexico and the $1,800 water pump disaster in a Walmart parking lot in February. Spread across the months, it adds up.
+We're not fancy people. We cook at home constantly. We boondock several nights per week. That $310 monthly maintenance average includes the $4,200 slide-out motor replacement we had in New Mexico and the $1,800 water pump disaster in a Walmart parking lot in February. Spread across months, it adds up.
 
-Health insurance deserves its own mention because it genuinely surprises people. When you leave employer-sponsored coverage, you're looking at marketplace plans that, depending on your income and state of domicile, can run $400 to $800 per month for a couple. This is non-negotiable. One ER visit without coverage will end your full-time RV dream faster than anything.
+Health insurance deserves its own mention because it genuinely surprises people. When you leave employer-sponsored coverage, you're looking at marketplace plans that, depending on your income and state of domicile, can run $400 to $800 per month for a couple. This is non-negotiable. One ER visit without coverage will end your full-time RV dream faster than anything else.
 
 ---
 
 ## Choosing Your Rig: The Decision That Haunts You Later
 
-There is no perfect RV. There is only the compromise that works best for your specific situation.
+There is no perfect RV. There's only the compromise that works best for your specific situation.
 
-Class A motorhomes are spacious and feel like a rolling apartment. They also average 7 to 10 miles per gallon and cost a fortune to repair when the engine, transmission, and living space all share the same chassis. Class B vans (conversions and Sprinters) are incredibly versatile, get better fuel economy, and fit into regular parking spots. The tradeoff is roughly 70 square feet of living space, which is romantic for about three weeks and then becomes a study in what truly irritates you about your travel partner.
+Class A motorhomes are spacious and feel like a rolling apartment. They average 7 to 10 miles per gallon and cost a fortune to repair when the engine, transmission, and living space all share the same chassis. Class B vans are incredibly versatile, get better fuel economy, and fit into regular parking spots. The tradeoff is roughly 70 square feet of living space, which is romantic for about three weeks and then becomes a study in what truly irritates you about your travel partner.
 
-Class C motorhomes split the difference reasonably well, and fifth wheels offer the most residential feel of any towable option. That's what I started with, a fifth wheel. The stability on the road is excellent compared to a bumper-pull travel trailer, but you need a pickup truck with a proper payload rating, and most half-ton trucks are actually underpowered for a serious fifth wheel.
+Class C motorhomes split the difference reasonably well. Fifth wheels offer the most residential feel of any towable option. That's what I started with. The stability on the road is excellent compared to a bumper-pull travel trailer, but you need a pickup truck with a proper payload rating, and most half-ton trucks are actually underpowered for a serious fifth wheel.
 
 A few things I'd tell my 2019 self:
 
-1. **Buy used, but get a PDI.** A pre-delivery inspection done by an independent RV technician costs around $150 to $300 and has saved thousands of dollars in delayed problem discovery. Never skip it.
+1. **Buy used, but get a PDI.** A pre-delivery inspection done by an independent RV technician costs around $150 to $300 and has saved thousands in delayed problem discovery. Never skip it.
 2. **Go smaller than you think you need.** Seriously. You'll maneuver better, fit into more campsites, and spend less on fuel. The 42-foot rig looks amazing in the YouTube video. It will ruin your first three months.
 3. **Check the four-point levelness before anything else at a new site.** Good leveling blocks like [Camco Tri-Levelers](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20) *(affiliate link, site may earn a commission)* are a $25 investment that protects your slide-outs, your refrigerator's cooling mechanism, and your sanity.
 4. **Fiberglass exterior ages better than aluminum and wood-framed construction.** This is one of the few generalizations that consistently holds true.
@@ -91,15 +90,15 @@ Voting as a full-timer is complicated but possible. Most people vote absentee in
 
 ## Power, Water, and Connectivity: The Infrastructure That Makes or Breaks Daily Life
 
-These three things determine whether you can stay somewhere or have to leave. Get them wrong and you're constantly scrambling.
+These three things determine whether you can stay somewhere or have to leave.
 
-**Power:** If you're planning to stay at RV parks exclusively, shore power handles everything. If you want any flexibility at all, you need solar and battery capacity. A functional off-grid system starts at around 400 watts of solar panels and 200 amp-hours of lithium battery storage, which is genuinely the entry point. Budget $1,500 to $3,000 for a quality setup installed. Don't buy the cheapest panels. Get a quality [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20) *(affiliate link)* so you actually know your state of charge in real time rather than guessing. Guessing leads to dead batteries in bad situations.
+**Power:** If you're planning to stay at RV parks exclusively, shore power handles everything. If you want any flexibility at all, you need solar and battery capacity. A functional off-grid system starts at around 400 watts of solar panels and 200 amp-hours of lithium battery storage. Budget $1,500 to $3,000 for a quality setup installed. Don't buy the cheapest panels. Get a quality [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20) *(affiliate link)* so you actually know your state of charge in real time rather than guessing. Guessing leads to dead batteries in bad situations.
 
 A [surge protector rated for RV use](https://www.amazon.com/s?k=progressive+industries+rv+surge+protector&tag=contentportfo-20) *(affiliate link)* like the Progressive Industries units is non-negotiable when plugging into campground pedestals. Campground electrical is notoriously dirty. One bad surge can fry your air conditioner, refrigerator, and converter simultaneously. A good 30-amp or 50-amp unit costs $120 to $300. An air conditioner compressor costs $600 to $1,200. The math is obvious.
 
 **Water:** Campground water quality varies wildly. I've pulled into sites with water that smelled like a swimming pool and others with a sulfur stench that lingered for days. A good inline [RV water filter](https://www.amazon.com/s?k=camco+rv+water+filter&tag=contentportfo-20) *(affiliate link)* like the Camco TastePURE costs under $30 and should be considered mandatory equipment. For longer stays or boondocking, a two-stage filtration system under the sink is worth the upgrade.
 
-**Connectivity:** This is the issue that's changed the most since 2019. Back then, full-timers were juggling signal boosters and crossing fingers. Now the smart approach is a combination of a cellular data plan from a carrier with strong rural coverage (in my experience T-Mobile is best in the west, Verizon is still strongest in the southeast) plus Starlink for when you're truly remote. Starlink's RV/portable option runs about $150 per month plus the $599 hardware cost, but if your income depends on being online, it's not optional. It's a business expense.
+**Connectivity:** This is the issue that's changed the most since 2019. Back then, full-timers were juggling signal boosters and crossing their fingers. Now the smart approach is a combination of a cellular data plan from a carrier with strong rural coverage (T-Mobile is best in the west, Verizon is still strongest in the southeast) plus Starlink for when you're truly remote. Starlink's RV/portable option runs about $150 per month plus the $599 hardware cost. If your income depends on being online, it's not optional.
 
 ---
 
@@ -116,9 +115,6 @@ What actually helps: choosing a home base region where you return repeatedly rat
 Physical health requires intentional effort. Build walking into your daily routine. If you're a gym person, Planet Fitness memberships are $25 a month and there are locations in almost every mid-size American city. I've used the same membership in 31 states.
 
 And protect your relationship, if you have one. This lifestyle amplifies everything. Small irritations become real friction in a small space. Build in solo time deliberately, even when it feels unnecessary.
-
----
-
 
 ---
 

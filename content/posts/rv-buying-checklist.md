@@ -25,12 +25,9 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
 I watched a couple at a dealership in Phoenix sign papers on a 32-foot Class A motorhome in about 45 minutes flat. They were giddy. They hadn't checked the roof, hadn't run the generator, hadn't filled the fresh water tank to test for leaks. Three weeks later I crossed paths with them at a campground in New Mexico, and that rig was already sitting broken at a mobile RV repair shop with a blown-out slide room seal and a dead inverter. The repair bill was north of $4,000. The honeymoon was over before the end of the first month.
 
 Buying an RV is nothing like buying a car. The complexity is closer to buying a house, except this house has an engine, a roof that flexes at highway speed, plumbing that can delaminate your walls from the inside out, and a resale market that punishes naivety hard and fast. Whether you're looking at a used travel trailer on Facebook Marketplace or a brand-new Class C at a megadealer, you need a real checklist before you hand over a single dollar.
-
----
 
 ## Know What You're Actually Buying Before You Go Shopping
 
@@ -45,8 +42,6 @@ Start by answering four concrete questions before you look at a single unit:
 **Where are you going?** Boondocking in Utah's canyon country requires solar, large holding tanks, and ideally a four-season package. Full hookup RV parks near the interstate require almost nothing special. These are different rigs.
 
 **What's your real budget, all-in?** The purchase price is maybe 60-70% of the first-year cost for most buyers. Add insurance (plan $1,200 to $3,000 annually depending on rig size and coverage), registration (which can be shocking in states like California or Colorado), campground costs, fuel if it's a motorhome, and an emergency repair fund. I keep a minimum of $5,000 earmarked for repairs at all times, and I've needed it.
-
----
 
 ## The Pre-Purchase Inspection: What to Check, Room by Room
 
@@ -69,14 +64,9 @@ This is where most buyers fail. Here's a methodical walkthrough you can actually
 
 ### Structural and Hidden
 
-- Check every cabinet hinge and latch. Cheap hardware fails constantly.
-- Open the wet bay and look at the water heater for rust around the base.
-- Look at the ceiling in every room. Water stains are red flags even if they look old and dry.
-- Smell matters. Musty odors in a closed-up RV usually mean mold somewhere.
+Check every cabinet hinge and latch. Cheap hardware fails constantly. Open the wet bay and look at the water heater for rust around the base. Look at the ceiling in every room. Water stains are red flags even if they look old and dry. Smell matters. Musty odors in a closed-up RV usually mean mold somewhere.
 
 For used RVs especially, I'd strongly recommend hiring a professional RV inspector through NRVIA (National Recreational Vehicle Inspectors Association). Expect to pay $300 to $600 for a thorough inspection. It's cheap compared to what you might miss.
-
----
 
 ## New vs. Used: A Straight Comparison
 
@@ -91,8 +81,6 @@ For used RVs especially, I'd strongly recommend hiring a professional RV inspect
 
 My honest take after 6 years full-timing: I'd almost always buy a used unit that's 3 to 5 years old with a documented service record over a new one. The first owner eats the depreciation and discovers the factory defects. You get the rig after the worst surprises are already sorted, at a price that makes more sense.
 
----
-
 ## The Gear That Should Be in Any RV Before You Move It
 
 Even before you drive off the lot, there are a handful of items that aren't optional. Not comfort items. Safety items.
@@ -104,8 +92,6 @@ A **surge protector** for shore power is non-negotiable. Campground pedestals ca
 A **water filter** for your fresh water connection. Campground water quality varies wildly. A simple inline filter like a Camco TastePURE cuts sediment and chlorine and protects your water lines. [Find one here](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20). If you're planning on doing any boondocking or extended dry camping, you'll want a more serious filtration setup inside the rig as well.
 
 If you're adding solar or planning to, a **battery monitor** like the Victron SmartShunt or the Renogy 500A monitor is essential for knowing your actual state of charge rather than guessing. [Battery monitors on Amazon](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20). Buying solar panels blind without monitoring your consumption is a very common and very expensive mistake.
-
----
 
 ## Negotiating the Deal and Avoiding Dealer Traps
 
@@ -120,11 +106,6 @@ Watch for these specific finance office moves:
 - **Dealer-added accessories:** Fabric protection, paint sealant, tire and wheel coverage added to the purchase price without your explicit consent. These appear as line items. Strike them.
 - **Extended warranties:** RV extended warranties can be valuable if you're buying used and plan to keep the rig long-term. But read the contract. Understand the deductible, the exclusion list, and which repair facilities are authorized. Never buy one in the heat of the signing moment. Ask them to email it to you so you can read it at home.
 - **Financing through the dealer:** Always come with pre-approval from your own bank or credit union. Dealer financing is a profit center. Use your pre-approval as leverage.
-
----
-
-
----
 
 Go slow. The right unit for your situation is out there, and the used market is large enough that you don't have to settle or rush. The couple I mentioned in Phoenix? They eventually sorted out their rig and they're still out here rolling. But they'll tell you themselves: an extra week of homework and $500 for a professional inspection would have saved them the worst month of their RV lives. Don't skip the checklist.
 

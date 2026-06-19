@@ -25,7 +25,6 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 
 ---
-
 Before I signed the papers on my first RV, I stood in a dealership lot in Phoenix staring at 47 different units and felt absolutely paralyzed. A Class A diesel pusher sat next to a tiny teardrop trailer. A toy hauler loomed over a pop-up camper. The salesman used terms like "fifth wheel" and "Class B+" and "toy hauler slide-out" like I was supposed to already know what any of that meant. I didn't. I almost bought the wrong rig entirely. Six years and 90,000 miles later, I want to give you the breakdown I wish someone had handed me that afternoon.
 
 ## Motorized RVs: Classes A, B, and C
@@ -38,7 +37,7 @@ The downside is real. Fuel economy sits between 6 and 10 MPG. Maneuvering in cit
 
 **Class B** rigs are camper vans. They're built inside a standard full-size van body, usually a Mercedes Sprinter, Ram ProMaster, or Ford Transit. You're looking at 18 to 24 feet long, sleeping two adults comfortably (sometimes barely), and prices from $90,000 to $180,000 new for factory builds. They get 18 to 22 MPG. They fit in a normal parking space. They're genuinely stealthy.
 
-What they lack is space. Standing room is marginal in most unless you've got a high-roof model. Kitchens are tiny. You trade square footage for freedom of movement, and for solo travelers or couples who spend most of their time outdoors, that trade is often worth it.
+What they lack is space. Standing room is marginal in most unless you've got a high-roof model. Kitchens are tiny. You trade square footage for freedom of movement, and for solo travelers or couples who spend most of their time outdoors, that trade often works out.
 
 **Class C** rigs live in the middle ground. They're built on a cutaway truck chassis, and almost all of them have that distinctive cab-over bunk above the driver's cab. Length ranges from 20 to 38 feet. New prices run $70,000 to $160,000. They're easier to drive than a Class A, offer more space than a Class B, and are generally considered the best starter motorized rig for families. I've seen more first-timers in Class C units than any other type, and most of them do just fine.
 
@@ -72,7 +71,7 @@ The trade-off is that you're carrying a lot of structural weight in that ramp an
 
 ## Pop-Ups, Teardrops, and Truck Campers: The Small End of the Spectrum
 
-These three categories often get lumped together as "entry level" and that's not unfair, but they each serve a specific traveler well.
+These three categories often get lumped together as "entry level" and that's fair enough, but they each serve a specific traveler well.
 
 **Pop-up campers** (also called folding camping trailers) have hard or soft fold-out sides that expand at camp and collapse for towing. New units run $10,000 to $25,000. They're light enough for a small SUV to tow. The downside is setup time, usually 15 to 20 minutes, and the beds often extend over the collapsed frame, which means you're sleeping close to the ground with limited insulation. Cold nights are uncomfortable. They're not great for full-time use, but for seasonal campers who want more than a tent, they work well.
 
@@ -106,23 +105,6 @@ Regardless of which category you buy, a few pieces of equipment make daily life 
 
 **Battery monitor**: If you're running any off-grid solar setup, a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor) tells you exactly what your battery bank state of charge is, not just a vague "low battery" warning. Victron makes excellent ones. *(Affiliate link.)*
 
----
-
-
----
-
-The RV market throws a lot of terminology at you fast, and dealerships aren't always motivated to match you with the right unit instead of the most profitable one on the lot. Take your time. Rent a few different types before you buy, most rental platforms offer Class C motorhomes, travel trailers, and vans for a few hundred dollars a weekend. What feels exciting in a showroom feels very different after three days of living in it. The right rig for you is out there, but it's worth being honest with yourself about how you'll actually use it before you sign anything.
+The RV market throws a lot of terminology at you fast, and dealerships aren't always motivated to match you with the right unit instead of the most profitable one on the lot. Take your time. Rent a few different types before you buy. Most rental platforms offer Class C motorhomes, travel trailers, and vans for a few hundred dollars a weekend. What feels exciting in a showroom feels very different after three days of living in it. The right rig for you is out there, but it's worth being honest with yourself about how you'll actually use it before you sign anything.
 
 *Photo: [Wolfgang Weiser](https://www.pexels.com/@wolfgang-weiser-467045605) via Pexels*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
-- **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
-

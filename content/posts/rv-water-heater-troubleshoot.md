@@ -25,7 +25,6 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 
 ---
-
 My water heater stopped working outside Moab in late October, and I'll be honest: I panicked a little. Not because cold showers are the end of the world, but because I'd been on the road for three years at that point and genuinely had no idea what I was looking at when I opened that exterior access panel. Eight years later, I could diagnose most RV water heater problems in my sleep. The gap between then and now is just experience and a willingness to actually understand the system instead of immediately calling a mobile tech.
 
 Most people assume water heater issues are complicated. They're usually not. The majority of failures I've seen (and had) come down to four or five causes, and most of them you can fix yourself for under $30.
@@ -44,13 +43,13 @@ This is the most common call I get from other fulltimers. The heater clicks, tri
 
 First thing: check your propane supply. I know that sounds insulting, but I have personally done this. Ran out of propane and spent 20 minutes staring at the water heater before checking the tank gauge. Just verify. Then go turn on a propane burner on your stove and make sure you've got decent flow.
 
-If you have gas but no ignition, the sequence I follow goes like this:
+If you have gas but no ignition, here's the sequence I follow:
 
-Check the electrode and igniter. Open the exterior access panel and look at the burner assembly. The electrode tip should be about 1/8" to 3/16" away from the burner. If it's cracked, coated in carbon, or positioned wrong, it won't spark reliably. You can clean light carbon buildup with fine steel wool and reset the gap. Replacement electrodes run around $15-25 depending on the model.
+**Check the electrode and igniter.** Open the exterior access panel and look at the burner assembly. The electrode tip should be about 1/8" to 3/16" away from the burner. If it's cracked, coated in carbon, or positioned wrong, it won't spark reliably. You can clean light carbon buildup with fine steel wool and reset the gap. Replacement electrodes run around $15-25 depending on the model.
 
-Look at the burner tube itself. Spiders. I cannot stress this enough. Mud dauber wasps love to build nests inside propane burner tubes, and a partially blocked tube causes erratic ignition or no ignition at all. I use a piece of small-diameter wire or a pipe cleaner to clear the tube, then blow compressed air through it. This has solved the problem for me personally at least twice.
+**Look at the burner tube itself.** Spiders. I cannot stress this enough. Mud dauber wasps love to build nests inside propane burner tubes, and a partially blocked tube causes erratic ignition or no ignition at all. I use a piece of small-diameter wire or a pipe cleaner to clear the tube, then blow compressed air through it. This has solved the problem for me personally at least twice.
 
-Check the sail switch. This is a small flap inside the combustion chamber that confirms airflow before allowing ignition. If it's stuck, bent, or has debris on it, the heater won't light as a safety measure. You can see it when you look into the burner area. It should move freely. On older Suburbans especially, this switch fails or gets stuck with corrosion. Replacement is straightforward, and the part is usually under $20.
+**Check the sail switch.** This is a small flap inside the combustion chamber that confirms airflow before allowing ignition. If it's stuck, bent, or has debris on it, the heater won't light as a safety measure. You can see it when you look into the burner area. It should move freely. On older Suburbans especially, this switch fails or gets stuck with corrosion. Replacement is straightforward, and the part is usually under $20.
 
 If none of that works, you're looking at either the ECO (energy cutoff) switch, the circuit board, or a gas valve issue. The ECO is a thermal fuse that trips if the water gets dangerously hot. It's a small button or reset on the unit, sometimes accessible from inside the RV, sometimes from the exterior panel. Push it. Seriously, check that before anything else electronic.
 
@@ -68,7 +67,7 @@ One thing I'll be honest about: if you're not comfortable with multimeter work o
 
 ## Why Your Hot Water Smells Like Rotten Eggs
 
-What surprised me was how many people I've met who've been living with sulfur smell in their hot water for months, assuming it's the water supply. It usually isn't. It's the anode rod reacting with bacteria in the tank.
+This surprised me when I first learned it. So many people I've met are living with sulfur smell in their hot water for months, assuming it's the water supply. It usually isn't. It's the anode rod reacting with bacteria in the tank.
 
 This happens most often in Suburban units after the rig sits unused for a while, especially if you're using well water or water with higher sulfur content. The fix is replacing the anode rod (see above) and then shocking the tank with a diluted bleach solution. I use about 1/4 cup of household bleach mixed into a gallon of water, pour it into the tank through the anode rod port, fill the rest of the way, let it sit for several hours, then fully drain and flush.
 
@@ -88,12 +87,7 @@ If pressure is fine and the valve still drips, replace the valve. Don't try to c
 
 The bypass valve. When you winterize an RV, you (or someone) engages the water heater bypass to keep antifreeze out of the tank. If spring rolls around and you forget to switch it back, you'll get hot water at some fixtures but not others, or dramatically reduced flow, or the heater will cycle constantly trying to heat water that isn't really in the tank properly. I've seen this trip up experienced RVers. It's embarrassing but extremely common. Check your bypass valve configuration before you diagnose anything else in spring.
 
-Also: if your water heater is taking forever to produce hot water or you're constantly running out, the problem might not be the heater at all. Check for a cross-connection between your hot and cold lines. This happens sometimes after plumbing work or fitting failures, and cold water bleeds back into the hot side. A quick test: turn off cold water supply and open a hot tap. If water keeps flowing, you've got a cross-connection somewhere.
-
----
-
-
----
+Also: if your water heater is taking forever to produce hot water or you're constantly running out, the problem might not be the heater at all. Check for a cross-connection between your hot and cold lines. This happens sometimes after plumbing work or fitting failures, and cold water bleeds back into the hot side. A quick test is simple. Turn off cold water supply and open a hot tap. If water keeps flowing, you've got a cross-connection somewhere.
 
 Eight years in, I still carry a spare anode rod, a spare electrode, and a small jar of pipe cleaning brushes. Costs me maybe $40 in parts and they've saved me from cold showers more times than I can count. The water heater is one of those systems that's really not that intimidating once you understand what each piece does. Open the panel, take a look, and trust yourself to figure it out.
 

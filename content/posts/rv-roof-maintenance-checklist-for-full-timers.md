@@ -24,7 +24,6 @@ faqs:
   - q: "Is it worth paying a shop to do roof maintenance or can I do it myself?"
     a: "You can absolutely do this yourself, and honestly, you'll catch problems faster because you're up there more often than any shop would put eyes on it. The skills required are minimal. The materials for a full inspection, clean, and reseal run $60 to $150. The only time I'd recommend a shop is for a full membrane replacement or significant decking repair, because those jobs require equipment and temporary structural support that's impractical on the road."
 ---
-
 Your roof is the one part of your RV you almost never see, which is exactly why it destroys more rigs than engine problems, bad tires, and slide-room failures combined. Water intrusion is slow, invisible, and merciless. By the time you notice a soft spot in your floor or a brown stain on your ceiling, the rot has usually been working for months.
 
 Most roof maintenance articles written for full-timers aren't actually written for full-timers. They're written for weekenders who need to remember to "check the roof twice a year." That schedule is almost a joke if you're putting 20,000 miles on your rig annually and parking in places that range from a dusty Arizona desert at 110 degrees to a coastal campsite where salt air and UV work on your seals simultaneously.
@@ -39,13 +38,13 @@ This sounds obvious. It isn't. I've watched people at rallies scrub an EPDM roof
 
 The four types you'll encounter on production RVs:
 
-**EPDM rubber** (black or gray, slightly matte): The most common on Class A and Class C motorhomes. Feels somewhat rubbery underfoot. Extremely UV-resistant but will chalk over time and develop micro-cracks around penetrations. The biggest enemy is petroleum-based products. Don't use them.
+**EPDM rubber** (black or gray, slightly matte): Most common on Class A and Class C motorhomes. Feels somewhat rubbery underfoot. Extremely UV-resistant but will chalk over time and develop micro-cracks around penetrations. Petroleum-based products are its biggest enemy. Don't use them.
 
 **TPO (thermoplastic polyolefin)**: Shinier than EPDM, usually white. More puncture-resistant but seams can delaminate if they weren't bonded correctly at the factory. More common on newer coaches and some fifth wheels.
 
 **Fiberglass**: Common on high-end coaches and most slide-out roofs. Hard, smooth, doesn't flex. Gel coat can oxidize and crack. Heavy, but nearly impervious to UV degradation if maintained.
 
-**Aluminum**: Mostly older rigs and some trailers. Seams are riveted or lapped. Great durability but the seams are where water finds a way in.
+**Aluminum**: Mostly older rigs and some trailers. Seams are riveted or lapped. Great durability but seams are where water finds its way in.
 
 Knowing your roof type determines every product choice you make. If you're unsure, pull the original documentation or call the manufacturer with your VIN. Don't guess.
 
@@ -112,9 +111,6 @@ Desert parking (Phoenix, Tucson, southern Nevada): UV is the dominant threat. Yo
 Coastal parking: Salt air attacks aluminum and metal hardware on your roof. Every inspection, check the condition of screws and bolts holding down your vents and A/C units. A corroded screw head means a loose vent, means water intrusion. Use stainless hardware when you're replacing anything up there.
 
 Mountain or northern climate: Freeze-thaw cycles are brutal on sealant. Water that's worked into a micro-crack expands when it freezes and makes that crack significantly larger. Before winter, do a thorough inspection and reseal anything questionable. Don't gamble on "it'll probably hold till spring."
-
----
-
 
 ---
 

@@ -25,28 +25,27 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 
 ---
-
 Most people who ask me about full-time RV living want to know one thing before anything else: "Is it actually cheaper?" I sold my house in a Chicago suburb in the fall of 2019, bought a 38-foot fifth wheel, and hit the road thinking I'd cut my monthly expenses roughly in half. The first month cost me $4,200. I almost turned around.
 
-The truth is that RV expenses are real, they're variable, and they will surprise you if you haven't mapped them out in advance. What I want to do here is walk you through every meaningful category, give you real numbers from my own six years and 90,000-plus miles, and help you build an honest picture before you make a decision this large.
+RV expenses are real, they're variable, and they will surprise you if you haven't mapped them out in advance. I want to walk you through every meaningful category, give you real numbers from my own six years and 90,000-plus miles, and help you build an honest picture before you make a decision this large.
 
 ---
 
 ## Campground and Parking Costs: Your Biggest Line Item
 
-This is where most people get their first shock. You picture $20-a-night state park sites and think you're all set. Reality is more complicated.
+This is where most people get their first shock. You picture $20-a-night state park sites and think you're all set. Reality is messier.
 
-Full hookup sites at private campgrounds, especially KOAs, run $50 to $95 per night in most of the country right now. During peak season in popular areas like the Florida Keys, Moab, or coastal Maine, I've paid over $100 for a single night with no apology from the front desk. Even "budget" private parks in less-traveled corridors often sit at $40-$55 per night with electric and water.
+Full hookup sites at private campgrounds, especially KOAs, run $50 to $95 per night in most of the country right now. During peak season in popular areas like the Florida Keys, Moab, or coastal Maine, I've paid over $100 for a single night. Even "budget" private parks in less-traveled corridors often sit at $40-$55 per night with electric and water.
 
-If you stay somewhere 30 nights at an average of $60, that's $1,800 per month just to park. That's a mortgage payment in a lot of cities.
+Stay somewhere 30 nights at $60 average. That's $1,800 per month just to park. That's a mortgage payment in a lot of cities.
 
 Here's how people bring that number down:
 
 **Membership programs.** Thousand Trails, Harvest Hosts, Escapees, and Passport America can collectively cut your lodging costs by 30-50% if you plan your routes around them. I pay about $800 per year for Thousand Trails and another $99 for Harvest Hosts. They've paid for themselves dozens of times over.
 
-**Public lands.** BLM (Bureau of Land Management) and National Forest dispersed camping is free or $5-$10 per night in most cases. There's no hookup, so you need a solar setup and enough tank capacity to last a few days. But if you're comfortable boondocking, this changes everything. Some months I spend under $300 on camping because I'm mostly on public land in the Southwest.
+**Public lands.** BLM and National Forest dispersed camping is free or $5-$10 per night in most cases. There's no hookup, so you need a solar setup and enough tank capacity to last a few days. But if you're comfortable boondocking, this changes everything. Some months I spend under $300 on camping because I'm mostly on public land in the Southwest.
 
-**Monthly rates.** If you're staying put for a project, family visit, or winter warmth, monthly rates at RV parks in Texas, Arizona, and Florida run $400-$900 depending on the park and season. Far cheaper per night than the daily rate.
+**Monthly rates.** If you're staying put for a project, family visit, or winter, monthly rates at RV parks in Texas, Arizona, and Florida run $400-$900 depending on the park and season. Far cheaper per night than the daily rate.
 
 Realistic monthly campground budget: **$400 to $1,800**, depending entirely on your style.
 
@@ -58,7 +57,7 @@ I drive a Ram 3500 dually to tow my fifth wheel. Combined, they get about 9-11 m
 
 If I drive 2,000 miles in a month at 10 MPG, I burn 200 gallons. At $3.80 per gallon (a rough national average that can vary by $1.50 depending on where you are and when), that's $760. Some months I drive very little. Some months, like when I crossed the country twice in 30 days during a family emergency, I've spent over $1,400 on diesel.
 
-Class A motorhomes often do 7-8 MPG. Class B campervans can hit 20-25 MPG. The type of rig you choose isn't just an aesthetic decision. It's a fuel economy decision that compounds over years.
+Class A motorhomes often do 7-8 MPG. Class B campervans can hit 20-25 MPG. The type of rig you choose isn't just aesthetic. It's a fuel economy decision that compounds over years.
 
 **A rough monthly fuel estimate by rig type:**
 
@@ -94,9 +93,9 @@ This one's more personal than mechanical, but it's still worth addressing becaus
 
 When I was in the suburbs, I had a full kitchen and every grocery chain within 10 minutes. On the road, you'll sometimes find yourself in a rural Texas county with one dollar general and no fresh produce. You adapt. You also tend to eat out more than you expect, partly because you're tired from driving and partly because you're in a new town and want to try the local taco truck.
 
-My honest monthly food spending runs $550-$750 for one person, including groceries and restaurants. Couples I've talked to often report $900-$1,200. Families are all over the map.
+My honest monthly food spending runs $550-$750 for one person, including groceries and restaurants. Couples I've talked to often report $900-$1,200. Families vary wildly.
 
-A quality [RV water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) matters here, too. Campground water quality varies wildly. I've connected to hookups that came out the color of weak tea. A good inline filter plus a quality drinking water filter inside can run $40-$120 and it's well worth it. (This site may earn a commission on qualifying purchases.)
+A quality [RV water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) matters here. Campground water quality varies wildly. I've connected to hookups that came out the color of weak tea. A good inline filter plus a quality drinking water filter inside can run $40-$120 and it's well worth it. (This site may earn a commission on qualifying purchases.)
 
 ---
 
@@ -104,13 +103,13 @@ A quality [RV water filter](https://www.amazon.com/s?k=rv+water+filter&tag=conte
 
 These are the costs people forget to move from their "house life" list to their "RV life" list, or they forget them entirely.
 
-**RV Insurance:** Full-timer RV insurance is different from part-time coverage. Plan on $1,200 to $3,000 per year, which is $100-$250 per month. I pay about $1,800/year for my fifth wheel and truck together under a full-timer policy. Progressive and National General both have solid full-timer programs. Coach-Net roadside assistance adds another $100-$130/year and has been genuinely useful to me three times.
+**RV Insurance:** Full-timer RV insurance is different from part-time coverage. Plan on $1,200 to $3,000 per year, which is $100-$250 per month. I pay about $1,800/year for my fifth wheel and truck together under a full-timer policy. Progressive and National General both have solid full-timer programs. Coach-Net roadside assistance adds another $100-$130/year and has been genuinely useful three times.
 
-**Health Insurance:** This is the big one for people leaving employer coverage. If you're under 65, you'll likely be shopping on the ACA marketplace. Premiums vary wildly based on income, age, and state of domicile. I domicile in South Dakota (a common choice for full-timers because of its friendly requirements), and my ACA plan runs $510/month with a $6,000 deductible. Some people qualify for strong subsidies. Others pay over $800/month. Don't skip this.
+**Health Insurance:** This is the big one for people leaving employer coverage. If you're under 65, you'll likely shop on the ACA marketplace. Premiums vary wildly based on income, age, and state of domicile. I domicile in South Dakota (a common choice for full-timers because of its friendly requirements), and my ACA plan runs $510/month with a $6,000 deductible. Some people qualify for strong subsidies. Others pay over $800/month. Don't skip this.
 
 **Cell Service:** I use two SIM cards (AT&T and T-Mobile) to maximize coverage. Two unlimited plans with hotspot data run me $160/month combined. Many full-timers do similar setups. You'll also want a signal booster in weak areas. A [WeBoost Drive Reach](https://www.amazon.com/s?k=weboost+drive+reach&tag=contentportfo-20) costs around $500 upfront but pays for itself in aggravation saved. (This site may earn a commission on qualifying purchases.)
 
-**Mail/Domicile:** South Dakota SD domicile through a mail forwarding service like America's Mailbox or My Dakota Address runs about $20-$30/month.
+**Mail/Domicile:** South Dakota domicile through a mail forwarding service like America's Mailbox or My Dakota Address runs about $20-$30/month.
 
 **Streaming/Subscriptions:** Same as anyone else: $50-$80/month if you're not disciplined about canceling things.
 
@@ -124,13 +123,13 @@ A proper off-grid solar setup (400-600 watts of panels, 200Ah of lithium batteri
 
 A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is a small piece of gear that tells you exactly how much power you have left in your batteries. It's about $30-$80 and prevents you from accidentally draining your bank and waking up with no power for coffee. I use a Victron BMV-712 and check it like a fuel gauge. (This site may earn a commission on qualifying purchases.)
 
-[Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are a less glamorous but genuinely necessary purchase. Every night on uneven ground without them means sleeping crooked, refrigerator issues (propane fridges need to be level), and general discomfort. Camco makes a solid set for around $25-$35. (This site may earn a commission on qualifying purchases.)
+[Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are less glamorous but genuinely necessary. Every night on uneven ground without them means sleeping crooked, refrigerator issues (propane fridges need to be level), and general discomfort. Camco makes a solid set for around $25-$35. (This site may earn a commission on qualifying purchases.)
 
 ---
 
 ## What a Realistic Full Monthly Budget Actually Looks Like
 
-Here's a honest breakdown for a solo full-timer in a mid-size fifth wheel or Class C who drives a moderate amount and mixes camping styles:
+Here's an honest breakdown for a solo full-timer in a mid-size fifth wheel or Class C who drives a moderate amount and mixes camping styles:
 
 | Category | Low End | High End |
 |---|---|---|
@@ -148,9 +147,6 @@ The median full-timer I've spoken to honestly spends around $3,200-$3,800/month.
 
 ---
 
-
----
-
-The road is genuinely one of the best things I've done with my adult life, and I say that having spent an afternoon in a repair lot in Wichita Falls, Texas watching a mechanic shake his head at my slide motor. Go in with real numbers, a funded repair reserve, and a flexibility of spirit. The sunsets are as good as advertised. The surprise invoices are too.
+The road is genuinely one of the best things I've done with my adult life. I say that having spent an afternoon in a repair lot in Wichita Falls, Texas watching a mechanic shake his head at my slide motor. Go in with real numbers, a funded repair reserve, and a flexibility of spirit. The sunsets are as good as advertised. The surprise invoices are too.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

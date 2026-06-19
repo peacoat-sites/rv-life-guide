@@ -13,36 +13,35 @@ author_bio: "Julia Davidson has spent most of her last four years dry camping on
 slug: "new-shore-power-safety-rule-is-coming-for-all-new-rvs"
 affiliate_disclosure: false
 ---
-
 If you're shopping for a new RV right now, or you manage a campground, something just shifted that you need to know about. On June 9, 2026, the RV Industry Association confirmed a model year 2028 effective date for mandatory Grounding Monitor Interrupters on all new 30-amp and 50-amp RVs. This isn't a rumor or a proposal still working through committees. It's done. And depending on which side of the pedestal you're standing on, it changes things.
 
 ## What a GMI Actually Does (and Why It Matters)
 
-You might be wondering what a Grounding Monitor Interrupter even is. Here's what I tell people: think of it as a bouncer for your shore power connection. Before the GMI lets any campground electricity into your RV, it checks that the pedestal has a proper ground connection. If the ground isn't there, or if it disappears while you're plugged in, the GMI cuts power instantly. Done. No power flows until the problem is fixed.
+A Grounding Monitor Interrupter is basically a bouncer for your shore power connection. Before the GMI lets any campground electricity into your RV, it checks that the pedestal has a proper ground. If the ground isn't there, or if it disappears while you're plugged in, the GMI cuts power instantly. No electricity flows until the problem is fixed.
 
-That sounds simple, and the concept is. But the implications are significant. A missing or failed ground at a pedestal isn't just an inconvenience. It's a genuine shock and fire hazard. Faulty campground wiring has been behind some ugly incidents over the years, and the industry has known for a long time that the pedestals sitting in thousands of parks across the country range from perfectly maintained to genuinely dangerous. The GMI requirement is codified in Article 551 of both the 2023 and 2026 editions of the National Electrical Code, and according to RVIA, the organization spent more than six years developing the standard before it got to this point.
+Simple concept. Big implications. A missing or failed ground at a pedestal isn't just annoying. It's a real shock and fire hazard. Faulty campground wiring has caused some genuinely bad incidents over the years, and the industry has known for decades that pedestals across the country range from perfectly maintained to genuinely dangerous. The GMI requirement is codified in Article 551 of both the 2023 and 2026 editions of the National Electrical Code. RVIA spent more than six years developing the standard before getting here.
 
 ## Why This Got Delayed, and What That Tells You
 
-The rule was originally supposed to take effect January 1, 2026. It didn't. The reason is worth understanding because it says something real about how this industry works: there simply weren't enough commercially certified GMI devices available for manufacturers to use. You can't require something that doesn't exist in sufficient supply. RVIA pushed the enforcement date to a January 1, 2027 standard effective date, with the model year 2028 cutoff giving manufacturers time to actually source and install the hardware.
+The rule was originally supposed to take effect January 1, 2026. It didn't, and the reason matters: there simply weren't enough commercially certified GMI devices available for manufacturers to use. You can't require something that doesn't exist in sufficient supply. RVIA pushed the enforcement date to January 1, 2027, with the model year 2028 cutoff giving manufacturers time to actually source and install the hardware.
 
-That delay frustrated some safety advocates, but honestly, rushing a mandate before the supply chain can support it would have created a different kind of chaos. The extra lead time also gives campground operators a window to get their pedestals in order, which is the part of this story I don't think is getting enough attention.
+Some safety advocates were frustrated by the delay. But honestly, rushing a mandate before the supply chain could handle it would've created different chaos. The extra lead time also gives campground operators a window to get their pedestals in order, which is the part of this story that deserves way more attention than it's getting.
 
 ## The Campground Problem Is Real
 
-Here's the part that should make every future GMI-equipped RV owner pay attention. When your new rig pulls into a campground with a bad ground on the pedestal, the GMI isn't going to shrug and let the power through anyway. It's going to do exactly what it's designed to do: block the connection. You'll be sitting there with no shore power, staring at a pedestal that looks fine from the outside, while your batteries drain and your refrigerator warms up.
+Here's what should worry every future GMI-equipped RV owner. When your new rig pulls into a campground with a bad ground on the pedestal, the GMI isn't going to shrug and let power through anyway. It'll do exactly what it's designed to do: block the connection. You'll be sitting there with no shore power, staring at a pedestal that looks fine from the outside, while your batteries drain and your refrigerator warms up.
 
-RVIA is already urging campground operators to test ground continuity from each pedestal back to the main service panel, and some parks are expected to start advertising "GMI-compatible" pedestals as a selling point, as noted in RV Travel's December 2025 coverage of the incoming rule. That's a good sign. But let's be honest about the reality: a lot of campgrounds, especially smaller private parks and older state park systems, are running infrastructure that hasn't been seriously evaluated in years. The GMI requirement is going to expose that gap in a very direct way.
+RVIA is already urging campground operators to test ground continuity from each pedestal back to the main service panel. Some parks are expected to start advertising "GMI-compatible" pedestals as a selling point, as noted in RV Travel's December 2025 coverage of the incoming rule. That's a good sign. But let's be honest: a lot of campgrounds, especially smaller private parks and older state park systems, are running infrastructure that hasn't been seriously evaluated in years. The GMI requirement is going to expose that gap in a very direct way.
 
-If you manage a campground, I'd treat the next 18 months as a gift. You have time to audit your pedestals before a wave of new GMI-equipped rigs starts showing up and refusing to connect. The cost of fixing a bad ground now is a lot less than the cost of reputation damage when guests can't get power.
+If you manage a campground, treat the next 18 months as a gift. You have time to audit your pedestals before a wave of new GMI-equipped rigs shows up and refuses to connect. The cost of fixing a bad ground now is way less than the cost of reputation damage when guests can't get power.
 
 ## What This Means If You're Buying a New RV
 
 If you're shopping for a 2026 or 2027 model year rig right now, GMI is not required. Those rigs don't have to have it, and most won't. The mandate applies to model year 2028 and beyond. So if you buy something this summer or fall, you're in the current system: no GMI, same shore power behavior you've always had.
 
-That's not necessarily a reason to rush your purchase. Camper Report's June 9, 2026 coverage of the announcement makes clear that the rule is now settled, and manufacturers have the runway to implement it properly. When 2028 model year rigs start shipping, the GMI hardware should be mature, tested, and integrated cleanly. Early adoption of a new safety system isn't always where you want to be.
+That's not necessarily a reason to rush your purchase. Camper Report's June 9, 2026 coverage made clear that the rule is now settled, and manufacturers have the runway to implement it properly. When 2028 model year rigs start shipping, the GMI hardware should be mature, tested, and integrated cleanly. Early adoption of a new safety system isn't always where you want to be.
 
-One thing that won't change: if you already own an RV, you're not required to retrofit a GMI. The rule only applies to new rigs. You might eventually want one, and I suspect the aftermarket will respond with retrofit options once the standard matures, but nobody's mandating it for existing owners.
+One thing that won't change: if you already own an RV, you're not required to retrofit a GMI. The rule only applies to new rigs. You might eventually want one, and I suspect the aftermarket will respond with retrofit options once the standard matures. But nobody's mandating it for existing owners.
 
 ## What I'd Watch for Between Now and 2028
 
@@ -50,7 +49,7 @@ The next 18 months are going to be telling. Watch for campground rating systems 
 
 The underlying goal here is one that anyone who's spent time in campgrounds should appreciate. Bad campground power is a real problem, and the industry has been working around it with surge protectors and EMS devices for years. A GMI baked into every new rig is a more permanent answer. It puts the compliance pressure where it belongs: on the infrastructure, not on individual owners buying aftermarket protection.
 
-Six years of development, two editions of the National Electrical Code, a missed 2026 deadline, and now a firm 2028 line in the sand. This one's actually happening. If you're buying new, or running a park, now is when to start paying attention.
+Six years of development, two editions of the National Electrical Code, a missed 2026 deadline, and now a firm 2028 line in the sand. This one's actually happening. If you're buying new or running a park, now is when to start paying attention.
 
 ## Sources
 - [New RV Safety Rule Could Change How Campers Plug In – Camper Report](https://camperreport.com/new-rv-safety-rule-could-change-how-campers-plug-in/) (June 9, 2026)
@@ -61,12 +60,9 @@ Six years of development, two editions of the National Electrical Code, a missed
 
 *Photo: [Charles Criscuolo](https://www.pexels.com/@onetrillionpixels) via Pexels*
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Kidde 10-Year Battery Smoke & CO Detector](https://www.amazon.com/dp/B0CX6BWRMM/?tag=contentportfo-20)** (~$32), Dual smoke and carbon monoxide detector with 10-year sealed battery, no battery replacement needed for a decade.
 - **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
-

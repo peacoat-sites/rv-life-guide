@@ -25,7 +25,6 @@ author_title: "Finance Writer"
 author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
 
 ---
-
 The day we signed the title on our 38-foot fifth wheel, I was convinced we'd made the perfect choice. Eighteen months later, we sold it at a $14,000 loss and bought something completely different. If someone had told me the truth about full-time RV selection before we started, I would have saved that money, avoided a blown tire on I-40 outside Amarillo, and skipped approximately 200 arguments about slide-room maintenance. So let me be that person for you.
 
 ---
@@ -50,25 +49,25 @@ Your answers to those three questions should eliminate at least half the options
 
 **Class A Motorhome (Gas or Diesel)**
 
-These are the big bus-style rigs. Diesel pushers, which are Class A coaches with the engine in the rear, typically start around $100,000 used and go up from there. They offer the most residential feel: full-size refrigerators, washer/dryer combos, king beds, and living room space that doesn't feel like a penalty box.
+These are the big bus-style rigs. Diesel pushers, which are Class A coaches with the engine in the rear, typically start around $100,000 used and go up from there. They offer the most residential feel: full-size refrigerators, washer/dryer combos, king beds, living room space that doesn't feel like a penalty box.
 
-The catch: fuel economy of 7-10 mpg if you're lucky, expensive repairs when something goes wrong (and something always goes wrong), and a learning curve on driving that takes most people about 3,000 miles to feel comfortable. Towing a car behind a Class A (called flat towing or dolly towing) adds cost, complexity, and another thing to maintain.
+The catch is real, though. You're looking at fuel economy of 7-10 mpg if you're lucky, expensive repairs when something fails (and something always fails), and a learning curve on driving that takes most people about 3,000 miles to feel comfortable. Towing a car behind a Class A adds cost, complexity, and another thing to maintain.
 
 **Fifth Wheels**
 
-After our experience, I'll be direct: fifth wheels are probably the best value proposition for couples or small families who want residential space. You get the most square footage per dollar, the bedroom over the hitch pin gives you separation from the living area, and modern fifth wheels can be genuinely comfortable. The trade-off is that you need a capable truck to pull one, which means owning two vehicles and managing the fuel costs of a half-ton or three-quarter-ton diesel.
+After our experience, I'll be direct: fifth wheels are probably the best value for couples or small families who want residential space. You get the most square footage per dollar, the bedroom over the hitch pin gives you actual separation from the living area, and modern fifth wheels can be genuinely comfortable. The trade-off is that you need a capable truck to pull one, which means owning two vehicles and managing the fuel costs of a half-ton or three-quarter-ton diesel.
 
 A used 2018-2020 Keystone Montana or Grand Design Reflection will run you $35,000 to $55,000 in decent condition. Grand Design in particular has a reputation for building quality that holds up better than average under full-time use, though no RV manufacturer is going to win awards for construction standards compared to a stick-built home.
 
 **Class C Motorhomes**
 
-These are the cab-over style rigs built on a van or truck chassis. They're more maneuverable than a Class A, easier to drive, and often more affordable. The downside is that the cab-over sleeping area collects every bit of heat when it's 95 degrees outside, and the floor plans can feel cramped for full-timing after a few months.
+The cab-over style rigs built on a van or truck chassis. More maneuverable than a Class A, easier to drive, often more affordable. But that cab-over sleeping area collects every bit of heat when it's 95 degrees outside, and the floor plans can feel cramped for full-timing after a few months.
 
 For solo travelers or couples who prioritize drivability and want something under $60,000, a used Class C from Coachmen or Winnebago is worth serious consideration.
 
 **Travel Trailers**
 
-These get overlooked by full-timers who think bigger is automatically better. Don't make that mistake. A 28-32 foot travel trailer from Airstream or Oliver Travel Trailers is built to a quality standard that the rest of the industry doesn't touch. The Airstream Classic runs $90,000+ new, but their resale value is nearly unmatched and the aluminum construction handles full-time use in a way that most fiberglass-and-staple-gun trailers do not.
+These get overlooked by full-timers who think bigger is automatically better. Don't make that mistake. A 28-32 foot travel trailer from Airstream or Oliver Travel Trailers is built to a quality standard that the rest of the industry doesn't touch. The Airstream Classic runs $90,000+ new, but resale value is nearly unmatched and the aluminum construction handles full-time use in a way that most fiberglass-and-staple-gun trailers do not.
 
 For budget-conscious full-timers, a travel trailer under 30 feet towed by a mid-size truck can cut your fuel costs substantially compared to pulling a large fifth wheel.
 
@@ -95,11 +94,11 @@ These are ballpark figures for used rigs in reasonable condition. The market shi
 
 ## The Systems That Actually Make or Break Full-Time Living
 
-Forget the floor plan for a minute. The systems inside your rig are what determine whether full-time living is pleasant or miserable.
+Forget the floor plan for a minute. The systems inside your rig determine whether full-time living is pleasant or miserable.
 
 **Electrical**
 
-A weekend RV might have one 100-watt solar panel and a single Group 27 lead-acid battery. That setup will last about four hours of real use before you're sitting in the dark. For full-time living, especially if you work remotely, you need a minimum of 300 watts of solar and 200 amp-hours of lithium battery capacity, and that's a modest setup. Most serious full-timers run 600-800 watts of solar and 300+ amp-hours of Battle Born or Renogy lithium batteries.
+A weekend RV might have one 100-watt solar panel and a single Group 27 lead-acid battery. That setup will last about four hours of real use before you're sitting in the dark. For full-time living, especially if you work remotely, you need a minimum of 300 watts of solar and 200 amp-hours of lithium battery capacity. That's a modest setup. Most serious full-timers run 600-800 watts of solar and 300+ amp-hours of Battle Born or Renogy lithium batteries.
 
 Whatever you buy, get a battery monitor installed. A [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor) gives you real-time state of charge, consumption data, and will tell you exactly when you're going to run out of power before it becomes an emergency. (This site may earn a commission on qualifying purchases.)
 
@@ -109,11 +108,11 @@ Every time you plug into a campground pedestal, you're trusting that the park's 
 
 **Water Quality**
 
-Municipal water quality varies wildly across North America. In some areas of the Southwest, the water coming through your hose will leave mineral deposits in your pipes within weeks. A [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter) at the connection point is a $20 to $40 investment that protects your water heater, your ice maker if you have one, and your health. I use a Camco TastePURE with a secondary sediment filter and have for years.
+Municipal water quality varies wildly across North America. In some areas of the Southwest, the water coming through your hose will leave mineral deposits in your pipes within weeks. An [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter) at the connection point is a $20 to $40 investment that protects your water heater, your ice maker if you have one, and your health. I use a Camco TastePURE with a secondary sediment filter and have for years.
 
 **Leveling**
 
-If you're not level, you're not sleeping well, your refrigerator may not function correctly, and your slide rooms don't seal evenly. Automatic leveling jacks are worth their weight on larger rigs. For trailers and smaller units, [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv) are inexpensive, stackable, and far more reliable than the wooden boards I used the first year.
+If you're not level, you're not sleeping well. Your refrigerator may not function correctly, and your slide rooms won't seal evenly. Automatic leveling jacks are worth their weight on larger rigs. For trailers and smaller units, [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv) are inexpensive, stackable, and far more reliable than the wooden boards I used the first year.
 
 ---
 
@@ -127,9 +126,6 @@ Never buy a used full-timer without doing these steps, in this order:
 4. **Fill and dump the holding tanks.** Gray and black tank sensors fail constantly on used rigs. Watch for slow draining.
 5. **Check all exterior seams with a flashlight.** Delamination, which is when the outer wall separates from the inner structure, is expensive and sometimes unfixable. Look for soft spots along the walls and roof.
 6. **Test the generator under load.** Turn on the AC, the microwave, and the slide room simultaneously. If the generator hesitates or cuts out, budget for a rebuild or replacement.
-
----
-
 
 ---
 

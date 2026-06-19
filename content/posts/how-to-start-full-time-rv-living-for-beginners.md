@@ -25,7 +25,6 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 
 ---
-
 Most advice about starting full-time RV living begins with the wrong question. Everyone asks "which RV should I buy?" when the thing that will actually determine whether you last six months or six years is whether you've thought through the non-glamorous stuff: mail, health insurance, your domicile state, where your money is coming from, and what happens when the water pump dies at 9pm on a Saturday in Amarillo.
 
 I made plenty of those early mistakes myself. Let me spare you some of them.
@@ -36,9 +35,9 @@ The number most people quote is around $1,500 to $2,500 per month for a solo ful
 
 Budget separately for a maintenance fund. I put $300/month into a dedicated account for rig repairs and never touch it for anything else. In some months it sits there accumulating. In other months I blow through $900 in a single visit to a mobile RV tech. The $300/month average has held up over eight years.
 
-Campground costs vary wildly. State and national forest campgrounds can run $12 to $22/night. Private RV parks with full hookups in popular areas (Sedona, coastal Maine, Myrtle Beach in summer) can hit $70 to $90/night. If you plan to stay in those spots regularly, your budget math is going to hurt. Get a $30/year America the Beautiful pass and learn to use Freecampsites.net and iOverlander before you spend a dollar on paid camping.
+Campground costs are all over the place. State and national forest campgrounds run $12 to $22/night. Private RV parks with full hookups in popular spots (Sedona, coastal Maine, Myrtle Beach in summer) can hit $70 to $90/night. If you plan to stay in those places regularly, your budget's going to take a hit. Get a $30/year America the Beautiful pass and learn Freecampsites.net and iOverlander before you spend a dollar on paid camping.
 
-Monthly income is the gating factor nobody wants to talk about honestly. Remote work, a pension or Social Security, investment income, or a business you can run from a laptop, these are the real prerequisites. "I'll figure out the income part later" is how people end up back in apartments by month four. Sort the income side before you give notice.
+Remote work, a pension or Social Security, investment income, or a business you can run from a laptop, these are the real prerequisites. "I'll figure out the income part later" is how people end up back in apartments by month four. Sort this before you give notice.
 
 ## Choosing Your Rig: A Practical Framework, Not a Dream Sheet
 
@@ -48,23 +47,23 @@ A 40-foot Class A diesel pusher looks incredible on YouTube. It also costs $180,
 
 The categories worth considering for a beginner, ranked by how forgiving they are to learn on:
 
-**Class B / Camper Vans.** Lowest cost of entry, easiest to drive, you can park anywhere a car parks. Limited living space, but if you're single or two people who actually like each other in tight quarters, a used high-roof Transit or Sprinter conversion in the $40,000 to $75,000 range is a legitimate starting point. Repairs are done at any Ford or Mercedes dealer instead of a specialty RV shop. That matters at 7pm on a Sunday.
+**Class B / Camper Vans.** Lowest cost of entry, easiest to drive, you can park anywhere a car parks. Limited living space, but if you're single or two people who actually like each other in tight quarters, a used high-roof Transit or Sprinter conversion in the $40,000 to $75,000 range is a legitimate starting point. Repairs happen at any Ford or Mercedes dealer instead of a specialty RV shop. That matters at 7pm on a Sunday.
 
-**Class C Motorhomes.** Built on a truck or van chassis, which means the drivetrain issues are handled at a regular mechanic. A used 24 to 28-foot Class C from a reputable brand (Winnebago, Coachmen) in the $35,000 to $65,000 range gives you enough room without being unwieldy. I'd prioritize one from 2015 or newer to avoid older slide-room mechanism headaches.
+**Class C Motorhomes.** Built on a truck or van chassis, which means the drivetrain issues get handled at a regular mechanic. A used 24 to 28-foot Class C from a reputable brand (Winnebago, Coachmen) in the $35,000 to $65,000 range gives you enough room without being unwieldy. I'd prioritize one from 2015 or newer to avoid older slide-room mechanism headaches.
 
-**Travel Trailers / Fifth Wheels.** The advantage is that you unhitch and have a separate vehicle to drive around. The disadvantage is you're managing two vehicles. A quality 5th wheel with residential amenities costs serious money (Keystone Montana or Grand Design Reflection start around $50,000 used), and you'll need a capable truck to pull it, which adds another $35,000 to $60,000 to your entry cost if you don't already have one. Not the cheapest option once you add it all up.
+**Travel Trailers / Fifth Wheels.** You unhitch and have a separate vehicle to drive around. You're also managing two vehicles, which isn't free. A quality 5th wheel with residential amenities costs serious money (Keystone Montana or Grand Design Reflection start around $50,000 used), and you'll need a capable truck to pull it, which adds another $35,000 to $60,000 if you don't already have one. Not the cheapest option once you add it all up.
 
-Whatever you buy, have it inspected by a certified RV inspector (find one at nrvia.org) before you hand over money. This costs around $400 to $600 and has saved multiple readers I know from buying someone else's water damage nightmare.
+Whatever you buy, get it inspected by a certified RV inspector before you hand over money. Find one at nrvia.org. This costs around $400 to $600 and has saved multiple readers I know from buying someone else's water damage nightmare.
 
 ## The Paperwork Nobody Warns You About
 
-Pick a domicile state before you sell or vacate your house or apartment. This is your legal home state for taxes, vehicle registration, and voting. The three most popular among full-timers are South Dakota, Texas, and Florida, all for similar reasons: no state income tax, relatively easy to establish residency without actually living there, and vehicle registration processes that are friendly to nomads.
+Pick a domicile state before you sell or vacate your house. This is your legal home state for taxes, vehicle registration, and voting. South Dakota, Texas, and Florida are the three most popular among full-timers, all for similar reasons: no state income tax, relatively easy to establish residency without actually living there, and vehicle registration processes that don't make your brain hurt.
 
-South Dakota is probably the most common choice. You can establish residency in a single day by staying one night at a motel, visiting the DMV in person, and getting a South Dakota driver's license. Companies like America's Mailbox in Box Elder, SD ($179/year) will handle your mail forwarding and serve as your permanent address. I've used this system for years. It works.
+South Dakota's probably the most common choice. You can establish residency in a single day by staying one night at a motel, visiting the DMV in person, and getting a South Dakota driver's license. Companies like America's Mailbox in Box Elder, SD ($179/year) will handle your mail forwarding and serve as your permanent address. I've used this system for years. It works.
 
 Mail forwarding is non-negotiable. You need a real street address (not a PO box) for your driver's license, vehicle registration, and most banking. Escapees RV Club offers mail forwarding and a domicile package out of Livingston, Texas, and their service is solid. Their basic mail forwarding plan runs about $100/year plus postage.
 
-Health insurance is the one that keeps people stuck. If you're under 65 and don't have coverage through a remote employer or a spouse's plan, you're looking at ACA marketplace plans. Get a plan with a national network, not an HMO tied to a specific region. Many full-timers use Sedera or Liberty HealthShare as a cost-sharing alternative, though those are not insurance and come with real limitations. The research here is genuinely mixed, and this is worth talking to a broker about.
+Health insurance is the one that keeps people stuck. If you're under 65 and don't have coverage through a remote employer or a spouse's plan, you're looking at ACA marketplace plans. Get a plan with a national network, not an HMO tied to a specific region. Many full-timers use Sedera or Liberty HealthShare as a cost-sharing alternative, though those aren't insurance and come with real limitations. The research here is genuinely mixed, and this is worth talking to a broker about.
 
 ## Setting Up the Rig to Actually Live In It
 
@@ -82,16 +81,11 @@ Cell boosters and hotspots deserve a whole article. Short version: a WeBoost Dri
 
 ## The First 90 Days: What to Expect
 
-The first month is usually a mix of exhilarating and overwhelming. You'll discover things about your rig that the previous owner or dealer didn't mention. The refrigerator might not hold temp when it's 95 degrees out. The slideout might have a slow leak you missed during inspection. Plan to spend your first few weeks parked somewhere stable (a campground with hookups, near a city with RV parts availability) rather than immediately chasing remote destinations.
+The first month is usually a mix of exhilarating and overwhelming. You'll discover things about your rig that the previous owner or dealer didn't mention. The refrigerator might not hold temp when it's 95 degrees out. The slideout might have a slow leak you missed during inspection. Plan to spend your first few weeks parked somewhere stable with hookups, near a city with RV parts availability, rather than immediately chasing remote destinations.
 
 Year one is when most expensive mistakes happen, so staying near repair resources matters. I spent my first three months in the Phoenix area specifically because there were four RV repair shops within 20 miles and parts availability was good. Not glamorous. Practical.
 
 The loneliness issue is real and underreported. If you're coming from a tight social network, the first few months of constant movement can feel isolating. Apps like Meetup, communities like the Xscapers RV group (part of Escapees, aimed at working-age full-timers), and campgrounds that host rallies help. Slow down enough to actually meet people. The full-timers who thrive long-term build community on the road; the ones who don't eventually burn out.
-
----
-
-
----
 
 The first year is hard in ways you won't fully predict, and worth it in ways that are also hard to predict. Spend less on the rig than your gut says, more on reliability gear than you think you need, and build the logistics infrastructure (domicile, mail, insurance) before you leave. The scenic drives are great. Everything surrounding them is what actually determines whether this life sticks.
 

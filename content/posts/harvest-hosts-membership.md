@@ -25,18 +25,17 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 
 ---
+Most people think Harvest Hosts is just a fancy campground discount club. I thought the same thing when a fellow full-timer mentioned it at a dump station in eastern Tennessee about five years ago. I nodded politely and moved on. Six months later, broke down in rural New Mexico and killing time scrolling forums at 11pm, I finally looked it up properly. What I found was nothing like what I'd assumed, and I'll be honest: skipping it for those six months was a genuine mistake.
 
-Most people assume Harvest Hosts is basically a fancy campground discount club. I thought the same thing when a fellow full-timer mentioned it at a dump station in eastern Tennessee about five years ago. I nodded politely and kept doing what I was doing. Six months later, broke down in rural New Mexico and killing time scrolling forums at 11pm, I finally looked it up properly. What I found was nothing like what I'd assumed, and I'll be honest: skipping it for those six months was a genuine mistake.
-
-Harvest Hosts is not a campground network. That's the thing most people get wrong right out of the gate. It's a membership that lets self-contained RVers stay overnight, usually for free, at wineries, breweries, farms, distilleries, museums, golf courses, and other working businesses that have opted into the program. As of 2024 there are over 5,000 host locations across North America. You're not parking in a gravel lot next to hookups and a laundry room. You're parking in a vineyard, or behind a working lavender farm, or next to a small-batch whiskey distillery in the hill country of Texas. The experience is categorically different from anything else in the RV space.
+Harvest Hosts isn't a campground network. That's the biggest thing people get wrong right out of the gate. It's a membership that lets self-contained RVers stay overnight, usually for free, at wineries, breweries, farms, distilleries, museums, golf courses, and other working businesses that have opted into the program. As of 2024 there are over 5,000 host locations across North America. You're not parking in a gravel lot next to hookups and a laundry room. You're parking in a vineyard, or behind a working lavender farm, or next to a small-batch whiskey distillery in the hill country of Texas. It's categorically different from anything else in the RV space.
 
 ## What You Actually Get (And What You Don't)
 
-Let's be real about the mechanics first, because a few things will trip you up if you go in with wrong expectations.
+Let's be real about the mechanics first, because a few things'll trip you up if you go in with the wrong expectations.
 
-You need to be self-contained. That means your rig needs to hold its own water, manage its own waste, and not need shore power to survive the night. If you're running a 45-foot diesel pusher with six slide-outs and a residential refrigerator that dies without 30-amp service, Harvest Hosts stays are going to be a problem. Most host locations offer zero hookups. Some have electricity, but you can't count on it. I run a 27-foot travel trailer with 400 watts of solar and a 200Ah lithium battery setup, and I've never had an issue. If you're still figuring out the power side of boondocking, a solid [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) will change how confidently you manage overnight stays without hookups. (This site may earn a commission on qualifying purchases.)
+You need to be self-contained. Your rig needs to hold its own water, manage its own waste, and not need shore power to survive the night. If you're running a 45-foot diesel pusher with six slide-outs and a residential refrigerator that dies without 30-amp service, Harvest Hosts stays are going to be a problem. Most host locations offer zero hookups. Some have electricity, but you can't count on it. I run a 27-foot travel trailer with 400 watts of solar and a 200Ah lithium battery setup, and I've never had an issue. If you're still figuring out the power side of boondocking, a solid [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) will change how confidently you manage overnight stays without hookups. (This site may earn a commission on qualifying purchases.)
 
-You're expected to be a patron. This is the part the membership page glosses over a little. Harvest Hosts operates on an implicit social contract: the business hosts you for free, and you buy something from them. A bottle of wine, a six-pack, some farm stand produce, a round of golf. The expectation isn't stated as a hard rule, but it's culturally baked in, and if you park at a family winery and leave without buying a single thing, you're kind of being a jerk. Budget $20 to $40 per stop as a patron contribution, and think of it as what you'd otherwise spend on a campground fee.
+You're expected to be a patron. This is the part the membership page glosses over a little. Harvest Hosts operates on an implicit social contract: the business hosts you for free, and you buy something from them. A bottle of wine, a six-pack, some farm stand produce, a round of golf. The expectation isn't stated as a hard rule, but it's culturally baked in, and if you park at a family winery and leave without buying a single thing, you're being a jerk. Budget $20 to $40 per stop as a patron contribution, and think of it as what you'd otherwise spend on a campground fee.
 
 Stays are typically one night. Most hosts allow one night, occasionally two if you ask and they're flexible. This isn't a place to park for a week. You're a guest, not a long-term resident.
 
@@ -46,7 +45,7 @@ The membership runs $99 per year for the standard tier (as of this writing, they
 
 On a per-stay basis, if you use Harvest Hosts 10 times in a year, you've paid roughly $10 per night in membership cost, plus your patron purchase. That's still well under $30 total per stay at most locations, versus the $45 to $75 you'd spend at an average private campground. If you're doing 20 or more Harvest Hosts nights a year, the math gets almost embarrassing in your favor.
 
-I tracked my usage over one 14-month stretch: 34 Harvest Hosts nights. My average spend per stop (patron purchase plus the prorated membership cost) was $19. The campgrounds I skipped would have averaged around $52 per night. That's roughly $1,100 saved, and honestly the stays were more memorable than any campground I would've used instead.
+I tracked my usage over one 14-month stretch: 34 Harvest Hosts nights. My average spend per stop (patron purchase plus the prorated membership cost) was $19. The campgrounds I skipped would've averaged around $52 per night. That's roughly $1,100 saved, and honestly the stays were more memorable than any campground I'd have used instead.
 
 ## The Hosts Themselves: What the Experience Is Like on the Ground
 
@@ -56,7 +55,7 @@ I've stayed at a working apple orchard in the Finger Lakes where the owner spent
 
 The booking process is straightforward: you browse hosts on the app or website, filter by location and amenities, and request a stay. The host confirms. You show up, check in, buy something, and you're done. Most interactions are warm and relaxed because these hosts opted into the program voluntarily. They want you there. The vibe is genuinely different from checking into a campground where you're just another site number.
 
-That said, I'll be honest about the variance. Some locations are incredible. Some are fine but unremarkable. A few have felt a little awkward, especially at busy wineries during tasting room hours when you can tell the staff wasn't really expecting you or didn't quite know what to do with an RV parked in the back lot. The host quality is uneven, and the reviews on the app are genuinely useful for sorting this out. Read them. A location with 15 reviews averaging 4.8 stars is probably going to be great. A location with 2 reviews and a vague description, a little harder to predict.
+But I'll be honest about the variance. Some locations are incredible. Some are fine but unremarkable. A few have felt a little awkward, especially at busy wineries during tasting room hours when you can tell the staff wasn't expecting you or didn't quite know what to do with an RV parked in the back lot. The host quality is uneven, and the reviews on the app are genuinely useful for sorting this out. Read them. A location with 15 reviews averaging 4.8 stars is probably going to be great. A location with 2 reviews and a vague description, harder to predict.
 
 ## Harvest Hosts vs. Boondockers Welcome vs. Passport America
 
@@ -69,37 +68,32 @@ Since people always ask, here's a quick comparison of the main membership altern
 | Passport America | $44 | 50% off fees at participating campgrounds | Yes, usually | Just pay the discounted rate |
 | Thousand Trails | $600+ | Campground network, full hookups | Yes | Stay within the system |
 
-These serve different needs. Harvest Hosts is for people who want memorable overnight stops with no hookups required. Boondockers Welcome is for people who are comfortable with the slightly more personal dynamic of staying on another RVer's property. Passport America is for people who want hookups but at a discount. They're not really competitors; I've used all four at different times.
+These serve different needs. Harvest Hosts is for people who want memorable overnight stops with no hookups required. Boondockers Welcome is for people who're comfortable with the slightly more personal dynamic of staying on another RVer's property. Passport America is for people who want hookups but at a discount. They're not really competitors; I've used all four at different times.
 
 The Harvest Hosts Plus plan ($135/year as of 2024) bundles Harvest Hosts and Boondockers Welcome together, which is worth it if you'd use both.
 
 ## How to Get the Most Out of the Membership
 
-If you join and just browse casually, you'll use it three times a year and wonder if it was worth it. Here's how to actually extract value:
+If you join and just browse casually, you'll use it three times a year and wonder if it was worth it. Here's how to actually extract value.
 
 **Plan your route around hosts, not the other way around.** The biggest shift in how I use the app was starting my route planning inside Harvest Hosts, then filling in the gaps with campgrounds. Instead of "I need to be in Asheville by Friday, let me find a campground Thursday night," it became "there's an incredible cidery 40 miles east of Asheville, let me structure Thursday around that."
 
 **Book early, especially at popular locations.** A well-reviewed winery in wine country during fall harvest gets booked up fast. Don't assume you can book day-of.
 
-**Keep a small buffer in your water and holding tanks.** If you're rolling into a host with a nearly full gray tank, that's a problem. A good rule: arrive with gray tank at 50% or less, and arrive with enough fresh water to get through the night without stressing about it.
+**Keep a small buffer in your water and holding tanks.** If you're rolling into a host with a nearly full gray tank, that's a problem. Good rule: arrive with gray tank at 50% or less, and arrive with enough fresh water to get through the night without stressing about it.
 
 **Leave a review every single time.** The ecosystem depends on it. If a host was great, say so specifically. If something was off, be diplomatic but honest. Future members rely on these.
 
 **Carry cash or be ready to buy intentionally.** Some farm stands are cash-only. Some small wineries are too. Don't be the person who shows up and has to awkwardly explain you only have Venmo.
 
-Practical gear note: if you're doing a lot of Harvest Hosts nights without hookups, you'll want to think about water filtration and power. I run an [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) anytime I'm filling from an unfamiliar source, and a [solar panel setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20) makes no-hookup nights genuinely comfortable rather than just survivable.
+If you're doing a lot of Harvest Hosts nights without hookups, think about water filtration and power. I run an [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) anytime I'm filling from an unfamiliar source, and a [solar panel setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20) makes no-hookup nights genuinely comfortable rather than just survivable.
 
 ## Who This Is Actually For (And Who Should Skip It)
 
-Harvest Hosts is a great fit if you're a full-timer who moves frequently and values experience over amenities. It's great for weekend warriors who want to do something more interesting than another state park campground. It's great for anyone who's self-contained and comfortable boondocking even for just one night.
+Harvest Hosts works great if you're a full-timer who moves frequently and values experience over amenities. It's great for weekend warriors who want to do something more interesting than another state park campground. It's great for anyone who's self-contained and comfortable boondocking even for just one night.
 
-It's not a good fit if you need hookups every night. It's not ideal if you're traveling with kids who want a playground and a pool and structured campground activities. And honestly, if you're the kind of person who just wants to park it and stay in all evening, the social dimension of Harvest Hosts (the patron expectation, the occasional conversation with a host) might feel like more effort than it's worth to you.
+It's not a good fit if you need hookups every night. It's not ideal if you're traveling with kids who want a playground and a pool and structured campground activities. And honestly, if you're the kind of person who just wants to park it and stay in all evening, the social dimension of Harvest Hosts (the patron expectation, the occasional conversation with a host) might feel like more effort than it's worth.
 
 I'm not saying that as a judgment. Different travel styles are real. But be honest with yourself about which category you fall into before you spend the $99.
-
----
-
-
----
 
 Five years after blowing off that conversation at the dump station in Tennessee, Harvest Hosts has become one of maybe three memberships I'd pay for without a second thought. The money math is straightforward, but the real value is harder to quantify: the stories you come home with, the people you meet, the nights that feel like something other than just logistics. If you're already living on the road or seriously planning to, it's worth the $99 to find out for yourself.

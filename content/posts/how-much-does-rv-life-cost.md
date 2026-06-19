@@ -25,7 +25,6 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 
 ---
-
 My first month on the road, I spent $6,800. My best month ever cost $1,340. Both were real, both were full-time RV life, and neither number tells the whole story. If you've been Googling "how much does RV life cost" and getting answers that range from $1,500 to $5,000 a month with no real explanation of why, you're not crazy for being confused. The range is that wide because the variables are enormous, and most people writing about this have a vested interest in making it sound either thrillingly affordable or comfortably manageable.
 
 I'll just tell you what I actually know after six years and 90,000 miles.
@@ -38,9 +37,9 @@ Every month, certain costs exist whether you're parked or driving, whether you h
 
 **RV payment or depreciation.** If you financed your rig, that monthly payment is real money. A $60,000 Class C at 7% interest over 15 years runs about $540 a month just in interest and principal. A $120,000 Class A? You could be paying $900 to $1,100 a month. If you bought with cash, you don't have a payment but you have depreciation. That's not abstract. If your rig is worth $20,000 less after three years, that's $555 a month in lost wealth you'll feel when you sell.
 
-**Insurance.** Full-time RV insurance is not the same as regular auto insurance, and regular auto policies often won't cover you if you're living in the vehicle full time. Good full-time RV insurance from companies like National General or Progressive runs $150 to $350 a month depending on rig type, your driving record, and coverage limits. Don't skip it or fudge the details. A single accident can wipe out years of "savings" from the lifestyle.
+**Insurance.** Full-time RV insurance isn't the same as regular auto insurance, and regular auto policies often won't cover you if you're living in the vehicle full time. Good full-time coverage from companies like National General or Progressive runs $150 to $350 a month depending on rig type, your driving record, and coverage limits. Don't skip it or fudge the details. A single accident wipes out years of "savings" from the lifestyle.
 
-**Health insurance.** This one silences people fast. If you're under 65 and not covered by an employer or a spouse's plan, you're buying your own. Marketplace plans for a healthy 45-year-old can run $400 to $700 a month depending on the state you use as your domicile. Many full-timers use South Dakota, Texas, or Florida for domicile because of favorable insurance markets. This is real money and non-negotiable if you value not going bankrupt from a medical issue.
+**Health insurance.** This one silences people fast. If you're under 65 and not covered by an employer or a spouse's plan, you're buying your own. Marketplace plans for a healthy 45-year-old can run $400 to $700 a month depending on the state you use as your domicile. Many full-timers use South Dakota, Texas, or Florida for domicile because of favorable insurance markets. This is real money and non-negotiable if you don't want to go bankrupt from a medical issue.
 
 Before you even eat, fuel, or park anywhere, your fixed monthly floor might be $1,200 to $2,000 for a single person or $1,800 to $3,000 for a couple. That's just existing.
 
@@ -54,12 +53,7 @@ A full hookup site at a private campground like KOA in a popular area runs $50 t
 
 On the other end, serious boondockers who rely on Bureau of Land Management (BLM) land, National Forest dispersed camping, and Walmart/Cracker Barrel overnights can camp for free or near-free. I spent one 47-day stretch in Arizona and Utah where my total campground cost was $0. BLM land around Quartzsite, Moab, and Escalante is staggeringly beautiful and genuinely free for up to 14 days per location.
 
-The realistic middle is a hybrid approach. Many full-timers combine:
-
-- Free or cheap BLM/dispersed camping when they can
-- Harvest Hosts membership ($99/year) for overnights at wineries and farms
-- Thousand Trails or Passport America memberships for discounted private parks
-- The occasional splurge on a full-hookup site when they need laundry, water refill, or a proper power connection
+The realistic middle is a hybrid approach. Many full-timers combine free or cheap BLM/dispersed camping when they can, Harvest Hosts membership ($99/year) for overnights at wineries and farms, Thousand Trails or Passport America memberships for discounted private parks, and the occasional splurge on a full-hookup site when they need laundry, water refill, or a proper power connection.
 
 Budget this line item honestly at somewhere between $200 and $900 a month depending on your mix. The lower end requires solar capability and water independence. Which brings us to equipment.
 
@@ -69,15 +63,9 @@ Budget this line item honestly at somewhere between $200 and $900 a month depend
 
 Fuel is simple math until it isn't. A Class A diesel motorhome gets 7 to 10 miles per gallon. A gas Class C gets 10 to 14. A truck-towed fifth wheel depends on the truck, but figure 10 to 12 mpg towing. At $3.50 per gallon diesel (prices fluctuate wildly, especially in California where I've paid $6.40), driving 1,500 miles in a month in a diesel Class A costs $525 to $750. If you're a slow mover who picks a spot for a month, fuel costs almost nothing. If you're chasing weather or covering long distances, it adds up fast.
 
-Maintenance is where people get humbled. An RV is a house on wheels, and both the house part and the wheel part break. I've had:
+Maintenance is where people get humbled. An RV is a house on wheels, and both the house part and the wheel part break. I've had a refrigerator compressor fail ($1,200 repair), a slide room motor seize up ($800), a tire blowout that damaged a wheel well ($600 out of pocket after insurance), an inverter die in the middle of nowhere ($450), and a water pump fail twice ($130 each time, I started buying spares).
 
-- A refrigerator compressor fail ($1,200 repair)
-- A slide room motor seize up ($800)
-- A tire blowout that damaged a wheel well ($600 out of pocket after insurance)
-- An inverter die in the middle of nowhere ($450)
-- A water pump fail twice ($130 each time, I started buying spares)
-
-The industry rule of thumb is to budget 1% to 2% of the RV's value per year in maintenance and repairs. On a $80,000 motorhome that's $800 to $1,600 per year, or $65 to $135 a month. From my experience, that's optimistic in the early years before you've found and fixed all the hidden problems in a used rig.
+The industry rule of thumb is to budget 1% to 2% of the RV's value per year in maintenance and repairs. On an $80,000 motorhome that's $800 to $1,600 per year, or $65 to $135 a month. From my experience, that's optimistic in the early years before you've found and fixed all the hidden problems in a used rig.
 
 An extended warranty can help, but read the fine print. Many exclude "wear items" which can mean almost anything when an adjuster is trying to deny a claim.
 
@@ -130,14 +118,9 @@ The budget traveler has a paid-off older rig, uses BLM land heavily, cooks almos
 
 ---
 
-
----
-
 Six years in, my average monthly spend across all of 2023 was $2,780 for one person. That includes everything: rig costs, insurance, food, fuel, the $1,800 slide repair in May. Some months I'm under $2,000. Some months I'm over $4,000. The honest truth is that RV life costs what you make it cost, within real constraints, and the best thing you can do before you start is build a budget around your actual numbers, not someone else's highlight reel.
 
 *Photo: [Viktoria B.](https://www.pexels.com/@viktoriab) via Pexels*
-
----
 
 ---
 
@@ -147,4 +130,3 @@ Six years in, my average monthly spend across all of 2023 was $2,780 for one per
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-
