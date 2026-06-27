@@ -66,3 +66,13 @@ But the overall trajectory here is unmistakable. The de minimis loophole that ma
 - [RVIA, Latest Tariff Developments](https://www.rvia.org/news-insights/latest-tariff-developments) (June 25, 2026)
 
 *Photo: [Timothy Huliselan](https://www.pexels.com/@timothy-huliselan-205951426) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+
