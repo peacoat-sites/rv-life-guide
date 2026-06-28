@@ -1,0 +1,380 @@
+{
+  "moat_name": "RV Fuel Cost & Trip Calculator",
+  "last_updated": "2026-06-28",
+  "source": "EIA (U.S. Energy Information Administration), AAA Fuel Prices, RV Consumer Group",
+  "disclaimer": "Fuel prices fluctuate weekly. This calculator uses June 2026 averages; check current prices at EIA.gov or GasBuddy.com. Actual MPG depends on driving conditions, load, terrain, and speed.",
+  "fuel_prices": {
+    "national_average_june_2026": {
+      "gasoline": {
+        "price_per_gallon": 3.914,
+        "unit": "USD",
+        "date": "2026-06-22"
+      },
+      "diesel": {
+        "price_per_gallon": 4.832,
+        "unit": "USD",
+        "date": "2026-06-22"
+      }
+    },
+    "regional_prices_gasoline": [
+      {
+        "region": "Gulf Coast (PADD3)",
+        "price_per_gallon": 3.437,
+        "description": "Most economical gasoline region in U.S."
+      },
+      {
+        "region": "Midwest (PADD2)",
+        "price_per_gallon": 3.723,
+        "description": "Lowest gasoline region"
+      },
+      {
+        "region": "Rocky Mountain (PADD4)",
+        "price_per_gallon": 3.845,
+        "description": "Moderate pricing"
+      },
+      {
+        "region": "East Coast (PADD1)",
+        "price_per_gallon": 3.777,
+        "description": "Moderate-high pricing"
+      },
+      {
+        "region": "West Coast (PADD5)",
+        "price_per_gallon": 5.057,
+        "description": "Premium pricing, 29% above national average"
+      }
+    ],
+    "regional_prices_diesel": [
+      {
+        "region": "Gulf Coast (PADD3)",
+        "price_per_gallon": 4.415,
+        "description": "Lowest diesel region in U.S."
+      },
+      {
+        "region": "Midwest (PADD2)",
+        "price_per_gallon": 4.751,
+        "description": "Moderate pricing"
+      },
+      {
+        "region": "Rocky Mountain (PADD4)",
+        "price_per_gallon": 4.795,
+        "description": "Moderate-high pricing"
+      },
+      {
+        "region": "East Coast (PADD1)",
+        "price_per_gallon": 4.886,
+        "description": "High pricing"
+      },
+      {
+        "region": "West Coast (PADD5)",
+        "price_per_gallon": 5.809,
+        "description": "Premium pricing, 20% above national average"
+      }
+    ],
+    "state_extremes_gasoline": [
+      {
+        "state": "Oklahoma",
+        "price_per_gallon": 3.310,
+        "category": "Lowest"
+      },
+      {
+        "state": "Indiana",
+        "price_per_gallon": 3.232,
+        "category": "Lowest"
+      },
+      {
+        "state": "Texas",
+        "price_per_gallon": 3.310,
+        "category": "Lowest"
+      },
+      {
+        "state": "Hawaii",
+        "price_per_gallon": 5.517,
+        "category": "Highest"
+      },
+      {
+        "state": "California",
+        "price_per_gallon": 5.460,
+        "category": "Highest"
+      },
+      {
+        "state": "Washington",
+        "price_per_gallon": 5.200,
+        "category": "Highest"
+      }
+    ],
+    "state_extremes_diesel": [
+      {
+        "state": "Oklahoma",
+        "price_per_gallon": 4.157,
+        "category": "Lowest"
+      },
+      {
+        "state": "Texas",
+        "price_per_gallon": 4.243,
+        "category": "Lowest"
+      },
+      {
+        "state": "Hawaii",
+        "price_per_gallon": 7.015,
+        "category": "Highest"
+      },
+      {
+        "state": "California",
+        "price_per_gallon": 6.468,
+        "category": "Highest"
+      }
+    ],
+    "price_volatility_note": "June 2026 prices declining from April-May peak caused by March 2026 supply disruption (Strait of Hormuz). Diesel spiked +41% year-over-year; gasoline +28.6% year-over-year."
+  },
+  "rv_fuel_efficiency": [
+    {
+      "rv_type": "Class A Motorhome - Gasoline",
+      "typical_mpg_min": 6,
+      "typical_mpg_max": 10,
+      "average_mpg": 8,
+      "fuel_type": "Gasoline",
+      "tank_size_gallons": "80-150",
+      "cost_per_mile": 0.49,
+      "cost_per_mile_fuel_price": 3.91,
+      "notes": "Least fuel-efficient motorhome option; weight and aerodynamics impact economy."
+    },
+    {
+      "rv_type": "Class A Motorhome - Diesel (Pusher)",
+      "typical_mpg_min": 7,
+      "typical_mpg_max": 13,
+      "average_mpg": 10,
+      "fuel_type": "Diesel",
+      "tank_size_gallons": "100-200",
+      "cost_per_mile": 0.48,
+      "cost_per_mile_fuel_price": 4.83,
+      "notes": "15-25% better MPG than gasoline equivalent; diesel premium nearly offsets fuel savings."
+    },
+    {
+      "rv_type": "Class B Campervan - Diesel (Mercedes Sprinter)",
+      "typical_mpg_min": 18,
+      "typical_mpg_max": 22,
+      "average_mpg": 20,
+      "fuel_type": "Diesel",
+      "tank_size_gallons": "26-28",
+      "cost_per_mile": 0.24,
+      "cost_per_mile_fuel_price": 4.83,
+      "notes": "Most fuel-efficient motorhome platform; limited interior space but best economy."
+    },
+    {
+      "rv_type": "Class B Campervan - Gasoline (Mercedes Sprinter)",
+      "typical_mpg_min": 12,
+      "typical_mpg_max": 17,
+      "average_mpg": 15,
+      "fuel_type": "Gasoline",
+      "tank_size_gallons": "26-28",
+      "cost_per_mile": 0.26,
+      "cost_per_mile_fuel_price": 3.91,
+      "notes": "Better economy than gas Class A but worse MPG than diesel Sprinter."
+    },
+    {
+      "rv_type": "Class C Motorhome",
+      "typical_mpg_min": 8,
+      "typical_mpg_max": 18,
+      "average_mpg": 12,
+      "fuel_type": "Gasoline",
+      "tank_size_gallons": "60-100",
+      "cost_per_mile": 0.33,
+      "cost_per_mile_fuel_price": 3.91,
+      "notes": "Wide range depends on engine (7.3L V8 vs V10) and size (22ft vs 35ft). Smaller C-class more efficient."
+    },
+    {
+      "rv_type": "Travel Trailer (towed)",
+      "tow_vehicle": "Half-Ton Gas Truck (Ford F-150 Ecoboost)",
+      "solo_mpg": 18,
+      "towing_mpg": 9,
+      "efficiency_loss_percent": 50,
+      "fuel_type": "Gasoline",
+      "cost_per_mile_towing": 0.43,
+      "cost_per_mile_fuel_price": 3.91,
+      "notes": "Towing reduces MPG by 30-50%; speed and trailer weight are critical variables."
+    },
+    {
+      "rv_type": "Fifth Wheel (towed)",
+      "tow_vehicle": "Diesel Pickup Truck (Ram 3500)",
+      "solo_mpg": 22,
+      "towing_mpg": 11,
+      "efficiency_loss_percent": 50,
+      "fuel_type": "Diesel",
+      "cost_per_mile_towing": 0.44,
+      "cost_per_mile_fuel_price": 4.83,
+      "notes": "Similar MPG loss as travel trailer; slightly better efficiency with diesel engine."
+    }
+  ],
+  "towing_factors": {
+    "speed_impact": {
+      "note": "Most critical factor affecting towing MPG",
+      "examples": [
+        {
+          "speed_mph": 60,
+          "mpg": 13,
+          "description": "Optimal for fuel economy"
+        },
+        {
+          "speed_mph": 65,
+          "mpg": 10,
+          "description": "Moderate efficiency"
+        },
+        {
+          "speed_mph": 70,
+          "mpg": 8,
+          "description": "Significant efficiency penalty"
+        }
+      ]
+    },
+    "weight_impact": {
+      "formula": "1-2% efficiency loss per 100 lbs added",
+      "example": "Adding 1,000 lbs reduces MPG by 10-20%"
+    },
+    "aerodynamic_drag": {
+      "note": "More impactful than weight at highway speeds",
+      "efficiency_factor": "Improper hitch angle or unsecured load increases drag coefficient"
+    }
+  },
+  "propane_pricing": {
+    "national_average_june_2026": 2.67,
+    "unit": "USD per gallon",
+    "regional_range": [
+      {
+        "region": "Lowest",
+        "state": "Nebraska",
+        "price": 1.64
+      },
+      {
+        "region": "Highest",
+        "state": "Florida",
+        "price": 4.71
+      }
+    ],
+    "typical_rv_usage": {
+      "monthly_gallons": "20-30",
+      "monthly_cost": "$50-$80",
+      "usage_note": "Propane used for cooking, heating, water heater, refrigerator"
+    },
+    "seasonal_note": "Summer prices typically $0.50-$1.00/gallon below winter peaks"
+  },
+  "campground_costs": {
+    "national_range": "$30-$100 per night",
+    "average_koa": "$50 per night",
+    "by_type": [
+      {
+        "type": "National Park",
+        "price_range": "$20-$45",
+        "entrance_fee": "$20-$35 additional",
+        "average": "$35 per night"
+      },
+      {
+        "type": "State Parks",
+        "price_range": "$20-$55",
+        "average": "$40 per night"
+      },
+      {
+        "type": "Corps of Engineers",
+        "price_range": "$20-$40",
+        "average": "$30 per night"
+      },
+      {
+        "type": "KOA Private",
+        "price_range": "$40-$80",
+        "average": "$50 per night"
+      }
+    ],
+    "regional_variation": [
+      {
+        "region": "West Coast Urban",
+        "price_range": "$60-$100+",
+        "note": "California coast premium"
+      },
+      {
+        "region": "Midwest Rural",
+        "price_range": "$40-$60 (full hookups)",
+        "note": "Best value with full amenities"
+      },
+      {
+        "region": "Southeast Coastal",
+        "price_range": "$45-$70 (summer)",
+        "note": "Seasonal premium in season"
+      },
+      {
+        "region": "Gulf Coast",
+        "price_range": "$35-$55",
+        "note": "Affordable year-round"
+      }
+    ],
+    "seasonal_adjustment": "Peak season (summer, holidays) adds 20-40% premium"
+  },
+  "sample_trip_calculations": [
+    {
+      "scenario": "Cross-Country Class A Diesel, Summer 2026",
+      "rv_type": "Class A Diesel Motorhome",
+      "trip_miles": 5000,
+      "mpg": 10,
+      "gallons_needed": 500,
+      "fuel_price_per_gallon": 4.83,
+      "fuel_cost": 2415,
+      "cost_per_mile": 0.48,
+      "propane_monthly": 75,
+      "campground_nights": 20,
+      "campground_price_per_night": 50,
+      "campground_cost": 1000,
+      "total_trip_cost": 3490,
+      "breakdown": "Fuel 69%, Campground 29%, Propane 2%"
+    },
+    {
+      "scenario": "Van Life Class B Diesel, Summer 2026",
+      "rv_type": "Class B Diesel Sprinter",
+      "trip_miles": 5000,
+      "mpg": 20,
+      "gallons_needed": 250,
+      "fuel_price_per_gallon": 4.83,
+      "fuel_cost": 1208,
+      "cost_per_mile": 0.24,
+      "propane_monthly": 35,
+      "campground_nights": 20,
+      "campground_price_per_night": 50,
+      "campground_cost": 1000,
+      "total_trip_cost": 2243,
+      "breakdown": "Fuel 54%, Campground 45%, Propane 1%",
+      "savings_vs_class_a": 1247
+    },
+    {
+      "scenario": "Towing Travel Trailer, 3000 Miles Summer",
+      "rv_type": "Travel Trailer (gas truck)",
+      "trip_miles": 3000,
+      "tow_vehicle_mpg": 9,
+      "gallons_needed": 333,
+      "fuel_price_per_gallon": 3.91,
+      "fuel_cost": 1303,
+      "cost_per_mile": 0.43,
+      "campground_nights": 15,
+      "campground_price_per_night": 50,
+      "campground_cost": 750,
+      "total_trip_cost": 2053,
+      "breakdown": "Fuel 63%, Campground 37%",
+      "notes": "No propane; truck only. Lowest infrastructure cost."
+    }
+  ],
+  "calculator_features": {
+    "inputs": [
+      "Trip miles",
+      "RV type (Class A/B/C, trailer, fifth wheel)",
+      "Fuel type (gasoline/diesel)",
+      "RV MPG (auto-populated by type, user customizable)",
+      "Region (auto-calculates fuel price)",
+      "Campground duration and estimated cost per night",
+      "Propane usage (optional)"
+    ],
+    "outputs": [
+      "Fuel cost (total and per mile)",
+      "Campground cost (total)",
+      "Propane cost (optional)",
+      "Total trip cost",
+      "Cost breakdown by category",
+      "Comparison to other RV types (matrix)"
+    ]
+  }
+}

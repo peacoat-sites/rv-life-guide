@@ -1,0 +1,557 @@
+{{- $data := site.Data.rv_fuel_calculator -}}
+
+<div class="rv-calculator-moat">
+  <div class="calculator-disclaimer">
+    <p><strong>⚠️ Disclaimer:</strong> {{ $data.disclaimer }}</p>
+  </div>
+
+  <div class="calculator-container">
+    <h3>RV Trip Cost Calculator</h3>
+
+    <form id="rv-calculator" class="calculator-form">
+      <!-- Trip Miles -->
+      <div class="form-group">
+        <label for="trip-miles">Trip Distance (miles)</label>
+        <input type="number" id="trip-miles" name="tripMiles" placeholder="5000" value="5000" min="100" max="100000" />
+      </div>
+
+      <!-- RV Type -->
+      <div class="form-group">
+        <label for="rv-type">RV Type</label>
+        <select id="rv-type" name="rvType">
+          <option value="class-a-gas">Class A Motorhome (Gasoline)</option>
+          <option value="class-a-diesel" selected>Class A Motorhome (Diesel)</option>
+          <option value="class-b-diesel">Class B Campervan (Diesel Sprinter)</option>
+          <option value="class-b-gas">Class B Campervan (Gasoline)</option>
+          <option value="class-c">Class C Motorhome (Gasoline)</option>
+          <option value="trailer-gas">Travel Trailer (Gas Truck)</option>
+          <option value="fifth-wheel-diesel">Fifth Wheel (Diesel Truck)</option>
+        </select>
+      </div>
+
+      <!-- MPG (Auto-populated, customizable) -->
+      <div class="form-group">
+        <label for="rv-mpg">Expected MPG <span class="help-text">(adjust based on your experience)</span></label>
+        <input type="number" id="rv-mpg" name="rvMpg" placeholder="10" value="10" min="1" max="50" step="0.1" />
+      </div>
+
+      <!-- Region / Fuel Price -->
+      <div class="form-group">
+        <label for="region">Region or Manual Fuel Price</label>
+        <select id="region" name="region" onchange="updateFuelPrice()">
+          <option value="us-avg" selected>U.S. National Average ($4.83/gal diesel, $3.91/gal gas)</option>
+          <option value="gulf-coast">Gulf Coast - Lowest ($4.42/gal diesel, $3.44/gal gas)</option>
+          <option value="midwest">Midwest ($4.75/gal diesel, $3.72/gal gas)</option>
+          <option value="rocky-mountain">Rocky Mountain ($4.80/gal diesel, $3.85/gal gas)</option>
+          <option value="east-coast">East Coast ($4.89/gal diesel, $3.78/gal gas)</option>
+          <option value="west-coast">West Coast - Highest ($5.81/gal diesel, $5.06/gal gas)</option>
+          <option value="custom">Custom Price</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="custom-price-group" style="display: none;">
+        <label for="custom-fuel-price">Fuel Price per Gallon ($)</label>
+        <input type="number" id="custom-fuel-price" name="customFuelPrice" placeholder="4.83" value="4.83" min="0.50" max="10" step="0.01" />
+      </div>
+
+      <!-- Campground Days & Cost -->
+      <div class="form-group">
+        <label for="campground-days">Estimated Campground Nights</label>
+        <input type="number" id="campground-days" name="campgroundDays" placeholder="20" value="20" min="0" max="365" />
+      </div>
+
+      <div class="form-group">
+        <label for="campground-cost">Avg Cost per Night ($)</label>
+        <input type="number" id="campground-cost" name="campgroundCost" placeholder="50" value="50" min="0" max="500" step="5" />
+      </div>
+
+      <!-- Propane Usage (Optional) -->
+      <div class="form-group">
+        <label for="propane-usage">Monthly Propane Usage (gallons) - Optional</label>
+        <input type="number" id="propane-usage" name="propaneUsage" placeholder="20" value="20" min="0" max="100" step="5" />
+      </div>
+
+      <div class="form-group">
+        <label for="propane-price">Propane Price per Gallon ($)</label>
+        <input type="number" id="propane-price" name="propanePrice" placeholder="2.67" value="2.67" min="0" max="10" step="0.01" />
+      </div>
+
+      <button type="button" onclick="calculateTrip()" class="calc-button">Calculate Trip Cost</button>
+    </form>
+
+    <!-- Results -->
+    <div id="results" class="calculator-results" style="display: none;">
+      <h4>Your Trip Cost Breakdown</h4>
+
+      <div class="result-card">
+        <div class="result-row">
+          <span class="result-label">Fuel Cost:</span>
+          <span class="result-value" id="fuel-cost">$0.00</span>
+        </div>
+        <div class="result-row small">
+          <span class="result-label">(<span id="fuel-details">0</span> gal × <span id="fuel-price-display">$0.00</span>/gal)</span>
+        </div>
+      </div>
+
+      <div class="result-card">
+        <div class="result-row">
+          <span class="result-label">Campground Cost:</span>
+          <span class="result-value" id="campground-cost-total">$0.00</span>
+        </div>
+        <div class="result-row small">
+          <span class="result-label">(<span id="campground-nights-display">0</span> nights × <span id="campground-price-display">$0.00</span>/night)</span>
+        </div>
+      </div>
+
+      <div class="result-card">
+        <div class="result-row">
+          <span class="result-label">Propane Cost:</span>
+          <span class="result-value" id="propane-cost-total">$0.00</span>
+        </div>
+        <div class="result-row small">
+          <span class="result-label">(<span id="propane-details">0</span> gal × <span id="propane-price-display">$0.00</span>/gal)</span>
+        </div>
+      </div>
+
+      <div class="result-card result-total">
+        <div class="result-row">
+          <span class="result-label">TOTAL TRIP COST:</span>
+          <span class="result-value" id="total-cost">$0.00</span>
+        </div>
+        <div class="result-row small">
+          <span class="result-label">Cost per Mile: $<span id="cost-per-mile">0.00</span></span>
+        </div>
+      </div>
+
+      <div class="result-breakdown">
+        <h5>Cost Breakdown</h5>
+        <canvas id="breakdown-chart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- RV Type Reference Table -->
+  <div class="rv-reference">
+    <h3>RV Fuel Efficiency Reference</h3>
+    <table class="efficiency-table">
+      <thead>
+        <tr>
+          <th>RV Type</th>
+          <th>Typical MPG</th>
+          <th>Cost per Mile</th>
+          <th>Best For</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range $data.rv_fuel_efficiency }}
+        <tr>
+          <td><strong>{{ .rv_type }}</strong></td>
+          <td>{{ .average_mpg }} MPG ({{ .typical_mpg_min }}-{{ .typical_mpg_max }})</td>
+          <td>${{ .cost_per_mile }}</td>
+          <td>{{ .notes }}</td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Regional Pricing -->
+  <div class="regional-pricing">
+    <h3>Current Fuel Prices by Region (June 2026)</h3>
+    <div class="pricing-grid">
+      <div class="pricing-card">
+        <h4>Diesel Prices</h4>
+        <ul>
+          {{- range $data.regional_prices_diesel }}
+          <li><strong>{{ .region }}:</strong> ${{ .price_per_gallon }}/gal</li>
+          {{- end }}
+        </ul>
+      </div>
+      <div class="pricing-card">
+        <h4>Gasoline Prices</h4>
+        <ul>
+          {{- range $data.regional_prices_gasoline }}
+          <li><strong>{{ .region }}:</strong> ${{ .price_per_gallon }}/gal</li>
+          {{- end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Towing Considerations -->
+  <div class="towing-guide">
+    <h3>Towing MPG Factors</h3>
+    <p><strong>Speed Impact (Most Critical):</strong></p>
+    <ul>
+      <li>60 mph: ~13 MPG (optimal)</li>
+      <li>65 mph: ~10 MPG (moderate loss)</li>
+      <li>70 mph: ~8 MPG (significant penalty)</li>
+    </ul>
+    <p><strong>Weight & Aerodynamics:</strong> 1-2% efficiency loss per 100 lbs added. Improper hitch angle or unsecured load further reduces economy.</p>
+  </div>
+
+  <!-- Sources -->
+  <div class="calculator-sources">
+    <h4>Data Sources</h4>
+    <ul>
+      <li><a href="https://www.eia.gov/petroleum/gasdiesel/" target="_blank">U.S. Energy Information Administration (EIA) - Fuel Prices</a></li>
+      <li><a href="https://gasprices.aaa.com/" target="_blank">AAA Fuel Prices - State-by-State</a></li>
+      <li><a href="https://rv.org/" target="_blank">RV Consumer Group - Fuel Efficiency Data</a></li>
+    </ul>
+    <p class="data-updated">Calculator updated: June 28, 2026. Prices refresh weekly at EIA.gov.</p>
+  </div>
+</div>
+
+<script>
+const rvData = {
+  "class-a-gas": { mpg: 8, fuelType: "gasoline" },
+  "class-a-diesel": { mpg: 10, fuelType: "diesel" },
+  "class-b-diesel": { mpg: 20, fuelType: "diesel" },
+  "class-b-gas": { mpg: 15, fuelType: "gasoline" },
+  "class-c": { mpg: 12, fuelType: "gasoline" },
+  "trailer-gas": { mpg: 9, fuelType: "gasoline" },
+  "fifth-wheel-diesel": { mpg: 11, fuelType: "diesel" }
+};
+
+const fuelPrices = {
+  "us-avg": { gasoline: 3.91, diesel: 4.83 },
+  "gulf-coast": { gasoline: 3.44, diesel: 4.42 },
+  "midwest": { gasoline: 3.72, diesel: 4.75 },
+  "rocky-mountain": { gasoline: 3.85, diesel: 4.80 },
+  "east-coast": { gasoline: 3.78, diesel: 4.89 },
+  "west-coast": { gasoline: 5.06, diesel: 5.81 },
+  "custom": { gasoline: 0, diesel: 0 }
+};
+
+function updateFuelPrice() {
+  const region = document.getElementById("region").value;
+  const customGroup = document.getElementById("custom-price-group");
+  const mpgInput = document.getElementById("rv-mpg");
+  const rvType = document.getElementById("rv-type").value;
+
+  if (region === "custom") {
+    customGroup.style.display = "block";
+  } else {
+    customGroup.style.display = "none";
+    const fuelType = rvData[rvType].fuelType;
+    const defaultMpg = rvData[rvType].mpg;
+    mpgInput.value = defaultMpg;
+  }
+}
+
+function calculateTrip() {
+  const tripMiles = parseFloat(document.getElementById("trip-miles").value) || 0;
+  const rvType = document.getElementById("rv-type").value;
+  let mpg = parseFloat(document.getElementById("rv-mpg").value) || 1;
+  let region = document.getElementById("region").value;
+
+  const campgroundDays = parseFloat(document.getElementById("campground-days").value) || 0;
+  const campgroundCost = parseFloat(document.getElementById("campground-cost").value) || 0;
+  const propaneUsage = parseFloat(document.getElementById("propane-usage").value) || 0;
+  const propanePrice = parseFloat(document.getElementById("propane-price").value) || 2.67;
+
+  // Determine fuel type and price
+  const fuelType = rvData[rvType].fuelType;
+  let fuelPrice;
+
+  if (region === "custom") {
+    fuelPrice = parseFloat(document.getElementById("custom-fuel-price").value) || 4.83;
+  } else {
+    fuelPrice = fuelPrices[region][fuelType];
+  }
+
+  // Calculate costs
+  const gallonsNeeded = tripMiles / mpg;
+  const fuelCost = gallonsNeeded * fuelPrice;
+  const campgroundCostTotal = campgroundDays * campgroundCost;
+  const propaneCostTotal = propaneUsage * propanePrice;
+  const totalCost = fuelCost + campgroundCostTotal + propaneCostTotal;
+  const costPerMile = totalCost / tripMiles;
+
+  // Update results
+  document.getElementById("fuel-cost").textContent = "$" + fuelCost.toFixed(2);
+  document.getElementById("fuel-details").textContent = gallonsNeeded.toFixed(1);
+  document.getElementById("fuel-price-display").textContent = fuelPrice.toFixed(2);
+
+  document.getElementById("campground-cost-total").textContent = "$" + campgroundCostTotal.toFixed(2);
+  document.getElementById("campground-nights-display").textContent = campgroundDays;
+  document.getElementById("campground-price-display").textContent = campgroundCost.toFixed(2);
+
+  document.getElementById("propane-cost-total").textContent = "$" + propaneCostTotal.toFixed(2);
+  document.getElementById("propane-details").textContent = propaneUsage.toFixed(1);
+  document.getElementById("propane-price-display").textContent = propanePrice.toFixed(2);
+
+  document.getElementById("total-cost").textContent = "$" + totalCost.toFixed(2);
+  document.getElementById("cost-per-mile").textContent = costPerMile.toFixed(2);
+
+  // Show results
+  document.getElementById("results").style.display = "block";
+
+  // Simple breakdown display (no chart library needed)
+  console.log(`Fuel: $${fuelCost.toFixed(2)}, Campground: $${campgroundCostTotal.toFixed(2)}, Propane: $${propaneCostTotal.toFixed(2)}`);
+}
+
+// Initialize on load
+document.getElementById("rv-type").addEventListener("change", function() {
+  const rvType = this.value;
+  const mpgInput = document.getElementById("rv-mpg");
+  mpgInput.value = rvData[rvType].mpg;
+});
+
+document.getElementById("region").addEventListener("change", updateFuelPrice);
+</script>
+
+<style>
+.rv-calculator-moat {
+  max-width: 900px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.calculator-disclaimer {
+  background: #fff3cd;
+  border-left: 4px solid #ff9800;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.calculator-container {
+  background: #f9f9f9;
+  border-radius: 8px;
+  padding: 24px;
+  margin-bottom: 32px;
+}
+
+.calculator-form {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  font-weight: 600;
+  margin-bottom: 6px;
+  font-size: 0.95em;
+}
+
+.form-group input,
+.form-group select {
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.95em;
+  font-family: inherit;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: #0066cc;
+  box-shadow: 0 0 0 2px rgba(0, 102, 204, 0.1);
+}
+
+.help-text {
+  font-size: 0.85em;
+  font-weight: normal;
+  color: #666;
+}
+
+.calc-button {
+  grid-column: 1 / -1;
+  padding: 12px 24px;
+  background: #0066cc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.calc-button:hover {
+  background: #0052a3;
+}
+
+.calculator-results {
+  margin-top: 24px;
+}
+
+.result-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+.result-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.95em;
+}
+
+.result-row.small {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 4px;
+}
+
+.result-label {
+  font-weight: 500;
+}
+
+.result-value {
+  font-weight: 700;
+  color: #0066cc;
+  font-size: 1.1em;
+}
+
+.result-total {
+  background: #e8f4f8;
+  border: 2px solid #0066cc;
+}
+
+.result-total .result-value {
+  font-size: 1.4em;
+}
+
+.efficiency-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 32px;
+  font-size: 0.95em;
+}
+
+.efficiency-table thead {
+  background: #f5f5f5;
+}
+
+.efficiency-table th,
+.efficiency-table td {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.efficiency-table th {
+  font-weight: 600;
+}
+
+.efficiency-table tbody tr:hover {
+  background: #fafafa;
+}
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.pricing-card {
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.pricing-card h4 {
+  margin-top: 0;
+  color: #333;
+}
+
+.pricing-card ul {
+  margin: 12px 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.pricing-card li {
+  padding: 6px 0;
+  font-size: 0.95em;
+  border-bottom: 1px solid #eee;
+}
+
+.pricing-card li:last-child {
+  border-bottom: none;
+}
+
+.towing-guide {
+  background: #f0f7ff;
+  border-left: 4px solid #0066cc;
+  padding: 16px;
+  border-radius: 4px;
+  margin-bottom: 24px;
+}
+
+.towing-guide h3 {
+  margin-top: 0;
+}
+
+.calculator-sources {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 16px;
+  margin-top: 32px;
+}
+
+.calculator-sources h4 {
+  margin-top: 0;
+}
+
+.calculator-sources ul {
+  margin: 12px 0;
+  padding-left: 24px;
+}
+
+.calculator-sources li {
+  margin-bottom: 8px;
+}
+
+.calculator-sources a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.calculator-sources a:hover {
+  text-decoration: underline;
+}
+
+.data-updated {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 16px;
+  border-top: 1px solid #ddd;
+  padding-top: 12px;
+}
+
+h3 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1.05em;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 600px) {
+  .calculator-form {
+    grid-template-columns: 1fr;
+  }
+
+  .pricing-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
