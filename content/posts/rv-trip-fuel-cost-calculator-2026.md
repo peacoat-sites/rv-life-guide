@@ -20,6 +20,7 @@ faqs:
     answer: "Winter (December-February) has the lowest fuel prices (we hit $2.88/gal average in Feb 2026). Spring summer prices spike—April-May peaked at $4.50/gal. Winter RVing = 35-40% fuel savings if you can handle cold weather."
 categories: ["RV Budget", "Travel Costs", "Fuel Efficiency"]
 keywords: ["RV fuel cost", "motorhome MPG", "trip cost calculator", "diesel vs gasoline RV", "towing fuel economy"]
+featured_depth: true
 ---
 
 I spent $8,400 on fuel for a 5,000-mile trip last summer. I was shocked. After 8 years full-time, I should've known better.
