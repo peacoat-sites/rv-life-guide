@@ -91,6 +91,15 @@ Where I'd push back on conventional wisdom: the obsessive focus on tissue type m
 
 ## A few things I wish someone had told me in year one
 
+## Sources
+
+- [Camco's basic tank sensor cleaning solution](https://amzn.to/3fake)
+- [Valterra T1020-1 Swivel Stick](https://www.amazon.com/dp/B000EDPNQM)
+- [Thetford Aqua-Foam Toilet Treatment](https://www.amazon.com/dp/B000HHO7AC)
+- [Ana Benet](https://www.pexels.com/@ana-benet)
+- is somewhat mixed
+
+
 Don't use bleach in your black tank. I know it sounds like a good cleaner. It damages the seals, degrades sensors faster, and kills the biological activity you want if you're using enzyme treatments.
 
 Toilet bowl cleaners with bleach? Same problem. If you need to clean the bowl, use a product specifically rated as RV-safe. [Thetford Aqua-Foam Toilet Treatment](https://www.amazon.com/dp/B000HHO7AC) is the standard here, or plain white vinegar.

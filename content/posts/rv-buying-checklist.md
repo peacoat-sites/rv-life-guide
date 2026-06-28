@@ -95,6 +95,15 @@ If you're adding solar or planning to, a **battery monitor** like the Victron Sm
 
 ## Negotiating the Deal and Avoiding Dealer Traps
 
+## Sources
+
+- [Check current pricing on Amazon](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [Grab a set before you leave the driveway](https://www.amazon.com/s?k=rv+leveling+blocks+camco&tag=contentportfo-20)
+- [Find one here](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Battery monitors on Amazon](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 Dealers mark up RVs aggressively. MSRP is not a real number; it's a starting point for a conversation.
 
 For new units, figure out the dealer's invoice price if you can, either through NADA guides or by calling multiple dealers for competing quotes. Offer 15-20% below MSRP to start and work up slowly. If they won't budge past 10% off MSRP, walk out. There is always another dealer.

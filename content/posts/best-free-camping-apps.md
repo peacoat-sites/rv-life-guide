@@ -100,6 +100,15 @@ Cell signal reality is something Campendium handles better than others, but even
 
 ## Setting Up Your Rig for Boondocking Success
 
+## Sources
+
+- [The Dyrt Pro subscription](https://www.amazon.com/s?k=the+dyrt+pro+rv+camping)
+- [WeBoost Drive 4G-X signal booster](https://www.amazon.com/s?k=weboost+drive+rv+signal+booster)
+- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor)
+- [Berkey or Sawyer water filter](https://www.amazon.com/s?k=berkey+water+filter+rv)
+- [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv)
+
+
 Using free camping apps is step one. Having your rig ready to actually stay off-grid is step two, and plenty of people arrive at a beautiful BLM spot and realize they can't stay more than one night because they haven't addressed the basics.
 
 **Power** is the constraint most people hit first. If you're running on a single 100Ah lead acid battery, you're firing up the engine to charge by morning two. I upgraded to 200Ah of lithium (a Battle Born setup) and added 400 watts of solar. That handles my laptop, phone, lighting, a fan, and my 12V fridge indefinitely in decent sun. A [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor) isn't optional in my opinion. You need to know your actual state of charge, not guess based on a voltage meter. *(Heads up: links on this page may earn a small commission at no cost to you.)*

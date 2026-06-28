@@ -107,6 +107,15 @@ The best boondocking rigs I've seen in six years of campfire conversations have 
 
 ## Resale Value and Long-Term Depreciation
 
+## Sources
+
+- [Camco's Fasten leveling system](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [30 or 50-amp surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [filtered water hose](https://www.amazon.com/s?k=rv+water+filter+hose&tag=contentportfo-20)
+- [solar panels](https://www.amazon.com/s?k=rv+solar+panels&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+
+
 Neither RVs nor travel trailers are investments. Let's be honest about that upfront.
 
 RVs depreciate hard. A new motorhome can lose 20 to 30 percent of its value in the first two years. Travel trailers aren't much better, though their lower starting price means the raw dollar loss is smaller.

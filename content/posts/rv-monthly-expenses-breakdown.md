@@ -129,6 +129,15 @@ A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentpor
 
 ## What a Realistic Full Monthly Budget Actually Looks Like
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [RV water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
+- [WeBoost Drive Reach](https://www.amazon.com/s?k=weboost+drive+reach&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+
+
 Here's an honest breakdown for a solo full-timer in a mid-size fifth wheel or Class C who drives a moderate amount and mixes camping styles:
 
 | Category | Low End | High End |

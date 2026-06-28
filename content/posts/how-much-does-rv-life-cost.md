@@ -126,6 +126,15 @@ Six years in, my average monthly spend across all of 2023 was $2,780 for one per
 
 ## Recommended Resources
 
+## Sources
+
+- [Progressive Industries EMS-HW50C](https://www.amazon.com/s?k=Progressive+Industries+surge+protector+RV)
+- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor)
+- [Camco TastePURE](https://www.amazon.com/s?k=Camco+TastePURE+water+filter)
+- [Renogy leveling kit](https://www.amazon.com/s?k=RV+leveling+blocks)
+- [Viktoria B.](https://www.pexels.com/@viktoriab)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

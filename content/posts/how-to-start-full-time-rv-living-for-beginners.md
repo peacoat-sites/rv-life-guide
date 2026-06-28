@@ -81,6 +81,14 @@ Cell boosters and hotspots deserve a whole article. Short version: a WeBoost Dri
 
 ## The First 90 Days: What to Expect
 
+## Sources
+
+- [dedicated RV inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [Clément Proust](https://www.pexels.com/@clement-proust-363898785)
+- here is genuinely mixed
+
+
 The first month is usually a mix of exhilarating and overwhelming. You'll discover things about your rig that the previous owner or dealer didn't mention. The refrigerator might not hold temp when it's 95 degrees out. The slideout might have a slow leak you missed during inspection. Plan to spend your first few weeks parked somewhere stable with hookups, near a city with RV parts availability, rather than immediately chasing remote destinations.
 
 Year one is when most expensive mistakes happen, so staying near repair resources matters. I spent my first three months in the Phoenix area specifically because there were four RV repair shops within 20 miles and parts availability was good. Not glamorous. Practical.

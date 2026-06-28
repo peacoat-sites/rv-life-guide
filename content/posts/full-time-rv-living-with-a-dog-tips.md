@@ -97,6 +97,15 @@ Separation anxiety showed up around year two, probably because we were together 
 
 ## Gear Worth Having (And Stuff That's Overpriced Hype)
 
+## Sources
+
+- [temperature monitoring devices](https://www.amazon.com/s?k=rv+temperature+monitor+alert&tag=contentportfo-20)
+- [quality dog crate](https://www.amazon.com/s?k=collapsible+dog+crate+travel&tag=contentportfo-20)
+- [Flexi retractable leash](https://www.amazon.com/s?k=flexi+retractable+leash&tag=contentportfo-20)
+- [Ruffwear Bivy Bowl](https://www.amazon.com/s?k=ruffwear+bivy+bowl&tag=contentportfo-20)
+- [filtered water solution](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+
+
 Quick take on this since there's endless garbage marketed at dog-owning RVers.
 
 Worth the money: a good retractable hose with spray nozzle for muddy paws before they track inside (I use a [Flexi retractable leash](https://www.amazon.com/s?k=flexi+retractable+leash&tag=contentportfo-20) for campground walks, though a standard 6-footer is better for hiking), a hands-free leash for trails so both arms stay free on rocky terrain, the Temp Stick I mentioned, and a proper first aid kit designed for dogs. The Kurgo kit runs about $25 and has saved me from panicking over minor trail injuries repeatedly.

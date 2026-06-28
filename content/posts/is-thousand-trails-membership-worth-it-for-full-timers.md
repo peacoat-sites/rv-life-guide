@@ -72,6 +72,11 @@ The people who get the least value out of Thousand Trails are the ones who bough
 
 ### FAQ
 
+## Sources
+
+- [Viktoria B.](https://www.pexels.com/@viktoriab)
+
+
 #### How long does it take to "break even" on a Thousand Trails membership?
 
 If you buy a resale membership for around $200 to $300, pay the transfer fee, and your annual maintenance is around $350, you're looking at roughly $650 in year one. At average campsite rates of $45 per night, you break even at around 15 nights of use. For a full-timer spending even a few weeks at TT parks, that's achievable pretty quickly. Buying retail at $699 pushes that break-even point out to 30 or more nights in year one.

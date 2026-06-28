@@ -94,6 +94,15 @@ A [surge protector with EMS](https://www.amazon.com/s?k=RV+surge+protector+EMS+5
 
 ## Budget Reality Check for Full-Time Travel Trailer Living
 
+## Sources
+
+- [Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20)
+- [surge protector with EMS](https://www.amazon.com/s?k=RV+surge+protector+EMS+50+amp&tag=contentportfo-20)
+- [dedicated RV inline water filter](https://www.amazon.com/s?k=RV+inline+water+filter&tag=contentportfo-20)
+- [Andersen Leveling Blocks](https://www.amazon.com/s?k=Andersen+Leveling+Blocks+RV&tag=contentportfo-20)
+- [lynx levelers](https://www.amazon.com/s?k=lynx+levelers+RV&tag=contentportfo-20)
+
+
 People new to this lifestyle routinely underestimate ongoing costs by 40 to 60 percent. Here's what a realistic monthly budget looks like for one or two people:
 
 - Campground fees: $600 to $1,400 per month (mix of full hookup and dry camping keeps this lower)

@@ -77,6 +77,12 @@ Door seals deserve attention too. My slide-out seals get treated with rubber con
 
 ## Off-Grid Winter Living vs. Hookups: The Power Side of This
 
+## Sources
+
+- [Thirdman](https://www.pexels.com/@thirdman)
+- here is honestly mixed on how well lithium batteries perform in extreme cold
+
+
 If you're wintering in a campground with 30 or 50 amp hookups, the electric side of winter is relatively forgiving. Shore power runs your space heater, your tank heaters, your heated hose.
 
 But if you're boondocking in winter, or even in a campground where shore power is unreliable or limited, your battery bank and solar situation becomes critical.

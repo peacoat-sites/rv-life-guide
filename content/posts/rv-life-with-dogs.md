@@ -85,6 +85,14 @@ One more thing: not everyone likes dogs. Even friendly, quiet dogs. Some campgro
 
 ## Keeping a Dog Safe Inside a Moving Rig
 
+## Sources
+
+- [Chewy's Connect With a Vet](https://www.chewy.com)
+- [This one from Tuff Mutt](https://www.amazon.com/s?k=hands+free+dog+leash)
+- [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter+camco)
+- [Oliver Wagenblatt](https://www.pexels.com/@oliver-wagenblatt-238537059)
+
+
 This is where I'll say something slightly unpopular: most full-timers don't properly restrain their dogs while driving. Including me for the first few years.
 
 A dog loose in the cab or passenger seat is a projectile in a collision. A 65-lb dog hits at roughly 2,600 lbs of force in a 40mph crash. That's not a statistic I invented: it comes from the Center for Pet Safety's crash testing research. I know it's comfortable to have your dog next to you. I know most drives go fine. But.

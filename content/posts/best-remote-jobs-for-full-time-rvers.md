@@ -81,6 +81,14 @@ The thing nobody says out loud: if you're going to job-hunt while already on the
 
 ## Building a Sustainable Income Stack
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- consumption pattern</td><td>Text-based tools primary (Slack
+- way faster than you expect
+- which compacts your license type qualifies for
+
+
 A lot of successful full-timers don't have one job. They have an income stack. A primary remote role covering the baseline (say, $4,500 to $6,000 monthly), supplemented by a side contract or two that runs when life is stable and pauses when it isn't. That flexibility is hard to get from a single employer.
 
 The more years you spend on the road, the more you accumulate RV-specific knowledge that other people will pay for. This site is an example. Readers serious about this lifestyle invest in information, gear, and planning help. If you write well and know your stuff, that can turn into real supplementary income over time.

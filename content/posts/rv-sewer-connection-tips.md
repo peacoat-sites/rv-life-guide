@@ -105,6 +105,12 @@ Backflow is less common but worth knowing about. If a heavy rainstorm fills the 
 
 ## Comparison: Dump Station vs. Full-Hookup Sewer Connection
 
+## Sources
+
+- [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=contentportfo-20)
+- [Marta Wave](https://www.pexels.com/@marta-wave)
+
+
 | Factor | Dump Station | Full-Hookup Site |
 |---|---|---|
 | Cost | Typically $5-$20 per use, or included with stay | Included with site; sites cost $10-$30 more per night |

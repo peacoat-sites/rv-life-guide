@@ -91,6 +91,11 @@ You'll also want a quality surge protector for your electrical connections at ca
 
 ## Step-by-Step: How to Verify Your Tow Setup Before Every Trip
 
+## Sources
+
+- [Airam Dato-on](https://www.pexels.com/@airamdphoto)
+
+
 Follow this before you pull out of the driveway, especially if you're new to towing or have changed anything about your load.
 
 1. **Find your truck's actual payload.** Look at the yellow sticker inside the driver's door jamb. This number is specific to your truck's exact build, not the class maximum.

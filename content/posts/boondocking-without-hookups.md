@@ -108,6 +108,15 @@ A [quality surge protector](https://amzn.to/3example4) is more relevant when you
 
 ## Managing Budget and Expectations Long-Term
 
+## Sources
+
+- [battery monitor like the Victron BMV-712](https://amzn.to/3example)
+- [iOverlander](https://www.ioverlander.com)
+- [quality inline water filter](https://amzn.to/3example2)
+- [Garmin inReach Mini](https://amzn.to/3example3)
+- [quality surge protector](https://amzn.to/3example4)
+
+
 Let's be honest about what full-time boondocking actually costs because the "free camping" narrative leaves some important asterisks out.
 
 **The real costs:**

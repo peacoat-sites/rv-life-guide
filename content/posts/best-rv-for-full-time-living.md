@@ -118,6 +118,15 @@ If you're not level, you're not sleeping well. Your refrigerator may not functio
 
 ## What to Look for When Inspecting a Used RV
 
+## Sources
+
+- [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor)
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp)
+- [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter)
+- [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv)
+- [Viktoria B.](https://www.pexels.com/@viktoriab)
+
+
 Never buy a used full-timer without doing these steps, in this order:
 
 1. **Get a professional RV inspection.** NRVIA-certified inspectors charge $300 to $500 and will find things you can't. This is non-negotiable.

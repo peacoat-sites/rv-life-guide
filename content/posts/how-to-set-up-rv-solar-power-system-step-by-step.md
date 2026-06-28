@@ -103,6 +103,14 @@ Wire the inverter directly to the batteries with appropriately sized cable (chec
 
 ## The Things Nobody Warns You About
 
+## Sources
+
+- [Victron BMV-712](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20)
+- [Blue Sea Systems](https://www.amazon.com/s?k=Blue+Sea+Systems+ANL+fuse+holder&tag=contentportfo-20)
+- [solar cable entry gland](https://www.amazon.com/s?k=rv+solar+cable+entry+gland&tag=contentportfo-20)
+- [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009)
+
+
 Roof weight adds up faster than you think. Four 200-watt panels at roughly 25 lbs each is 100 lbs before brackets and wire. Know your roof rating. Fiberglass roofs on older rigs can flex and crack under that load if the mounting spans poorly.
 
 Shade management is the biggest ongoing performance issue after installation. One big tree shadow across two panels at noon can drop your production 60-70%. It changes where you camp and how you position. Get used to thinking about it.

@@ -140,6 +140,15 @@ RV maintenance isn't a mystery. It doesn't have to be a financial nightmare. It 
 
 ## Recommended Resources
 
+## Sources
+
+- [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+- [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
+- Hey, plan on spending another $3,000 to $5,000 a year just keeping this thing running right. For
+- when you get them talking honestly
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

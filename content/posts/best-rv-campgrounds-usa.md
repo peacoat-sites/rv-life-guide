@@ -99,6 +99,15 @@ New to this or tired of striking out on reservations? Here's what works.
 
 ## What Full-Timers Get Wrong About Campground Planning
 
+## Sources
+
+- [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector)
+- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks)
+- [inline water filter](https://www.amazon.com/s?k=rv+water+filter)
+- [A solar panel setup](https://www.amazon.com/s?k=rv+solar+panel+kit)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor)
+
+
 The biggest mistake I see from people new to full-time living is treating campground research like vacation planning. It's not. You're choosing where you'll work, sleep, cook, and manage your health for weeks or months at a time.
 
 Chasing "Top 10 Most Beautiful" lists will burn you out and your fuel budget. Beautiful and livable aren't the same thing. I've stayed in visually stunning campgrounds with no cell signal, 20-amp pedestals, and gravel so deep your leveling blocks sank. I've also stayed at parks that look like a Kmart parking lot that had flawless 50-amp service, 40 Mbps on Verizon, and a hardware store three minutes away.

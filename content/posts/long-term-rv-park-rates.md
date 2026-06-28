@@ -100,6 +100,15 @@ I've watched people sign seasonal leases and regret it within a month because th
 
 ## Recommended Resources
 
+## Sources
+
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [solar panel system](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
+- [water filtration system](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

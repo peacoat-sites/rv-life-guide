@@ -90,6 +90,14 @@ Keep a running list of campgrounds where work actually happened. I have a note i
 
 ## The Real Budget: What Nobody Publishes
 
+## Sources
+
+- [Check pricing on Amazon](https://www.amazon.com/s?k=Victron+BMV-712+battery+monitor&tag=contentportfo-20)
+- [See it on Amazon](https://www.amazon.com/s?k=Progressive+Industries+EMS+PT30X&tag=contentportfo-20)
+- [folding ergonomic travel chair](https://www.amazon.com/s?k=portable+ergonomic+office+chair+travel&tag=contentportfo-20)
+- [Sóc Năng Động](https://www.pexels.com/@soc-nang-d-ng-2150345854)
+
+
 Here are actual numbers instead of the vague "it depends" answer most articles hide behind.
 
 | Expense Category | Approximate Monthly Cost |

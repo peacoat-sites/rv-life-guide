@@ -107,6 +107,15 @@ A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentpor
 
 ## Roof Space, Portable Panels, and Real-World Constraints
 
+## Sources
+
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [100-watt portable panels](https://www.amazon.com/s?k=portable+solar+panels+rv&tag=contentportfo-20)
+- [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
+- [Los Muertos Crew](https://www.pexels.com/@cristian-rojas)
+
+
 Math says you need 3,000 watts. Your roof holds 1,800 watts. Now what?
 
 A standard RV roof yields somewhere between 15 and 30 square feet of workable panel space after you subtract vents, AC units, antennas, and roof rails. A 400-watt monocrystalline panel runs about 22 square feet. You see how fast roof real estate disappears.

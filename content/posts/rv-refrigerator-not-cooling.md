@@ -77,6 +77,14 @@ This is where I'll give you my honest opinion: if the refrigerator is more than 
 
 ## Ventilation and Ambient Temperature (Seriously Underrated)
 
+## Sources
+
+- [Southwire 40030S](https://www.amazon.com/s?k=RV+outlet+voltage+tester&tag=contentportfo-20)
+- [computer-style 12V fan](https://www.amazon.com/s?k=12v+fan+rv+refrigerator+vent&tag=contentportfo-20)
+- [Caio](https://www.pexels.com/@caio)
+- yellow light flashing. Feel
+
+
 I keep coming back to this because it's the most consistently overlooked factor. Absorption refrigerators are rated to cool to a certain temperature *differential* below ambient, not to a fixed temperature. Most are rated for something like 50°F below the temperature at the cooling fins. When it's 100°F outside and your refrigerator compartment vents are in direct sun, that fridge is working against serious heat load.
 
 Adding a small 12V fan inside the refrigerator compartment (behind the access panel, blowing across the fins) makes a meaningful difference in hot weather. A [computer-style 12V fan](https://www.amazon.com/s?k=12v+fan+rv+refrigerator+vent&tag=contentportfo-20) zip-tied in the right spot costs $8 and can drop your internal fridge temps by 10-15 degrees in summer. I've done this on three different rigs. It works.

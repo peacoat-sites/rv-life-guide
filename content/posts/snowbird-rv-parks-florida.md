@@ -77,6 +77,15 @@ And that heat: even in January you might run your AC in the afternoon. Your roof
 
 ## What Nobody Warns You About
 
+## Sources
+
+- [Progressive Industries surge protectors are on Amazon here](https://www.amazon.com/s?k=Progressive+Industries+surge+protector+RV)
+- [Camco water filters are easy to find on Amazon](https://www.amazon.com/s?k=Camco+TastePURE+water+filter)
+- [They're inexpensive and hold up fine](https://www.amazon.com/s?k=Camco+leveling+blocks+RV)
+- [Arian Fernandez](https://www.pexels.com/@troopper84)
+- something neither of those
+
+
 The social dynamics of a big Florida snowbird park can be intense. You're living at close quarters with hundreds of other people, many of whom have been coming to the same park for 15 years and have strong opinions about where you park your golf cart and how loud your grandkids are.
 
 Most parks are genuinely wonderful communities. I don't want to overstate the negative. But if you're introverted, or you're younger than 55 and trying to fit into a 55+ park on a "family member" exception, or you just want to be left alone to read your book, some parks are better fits than others. Read reviews specifically for those dynamics.

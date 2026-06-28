@@ -106,6 +106,15 @@ Know what you're signing up for before you hand over a credit card.
 
 ## The Underused Government Resources
 
+## Sources
+
+- [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko)
+- gotten me into free camps I never would've
+- is community-sourced and genuinely extensive
+- quality in the American West and border regions is really strong
+- is thin in places
+
+
 Recreation.gov covers National Park campgrounds, most with fees. But it also lists some first-come, first-served sites at smaller areas that people don't know about. Not free, but often $5 to $10 a night, which starts to matter when you're budgeting $600 to $800 a month for all campsite costs like I was my first two years out.
 
 For genuinely free federal land camping, don't skip the BLM's own website before you start an app search. Go to blm.gov, find the state office for wherever you're headed, and look for their camping or recreation page. I found a stunning pullout spot on BLM land outside Escalante, Utah this way, no app involved, just a PDF map from the Escalante field office. It'd been free for years, had a rock fire ring, and I still think about the canyon view.

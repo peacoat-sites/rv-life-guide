@@ -112,6 +112,15 @@ The lithium upgrade isn't a magic fix for everything, but after eight years of f
 
 ## Recommended Resources
 
+## Sources
+
+- [Renogy 200Ah 12V LiFePO4 battery](https://www.amazon.com/s?k=renogy+200ah+lifepo4+lithium+battery&tag=contentportfo-20)
+- [AIMS Power lithium charger](https://www.amazon.com/s?k=AIMS+Power+lithium+battery+charger&tag=contentportfo-20)
+- [Victron SmartShunt 500A](https://www.amazon.com/s?k=victron+smartshunt+500a&tag=contentportfo-20)
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
+- [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)** (~$599), 1024Wh LFP battery with 1800W output, top-rated solar generator for home backup power. Charges in under 2 hours.

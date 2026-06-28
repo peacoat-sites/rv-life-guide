@@ -80,6 +80,14 @@ Leveling blocks are something you absolutely need in the desert where pullouts a
 
 ## The 14-Day Rule and How to Move Smart
 
+## Sources
+
+- [Camco leveling blocks](https://amzn.to/camco-tri-leveler)
+- [Progressive Industries EMS surge protector](https://amzn.to/progressive-ems)
+- [Alfo Medeiros](https://www.pexels.com/@alfomedeiros)
+- this: the hardest part isn't finding BLM land
+
+
 BLM land has a standard 14-day stay limit in most areas. After that, you're required to move at least 25 miles before returning to the same area. Most people know this rule. Fewer people follow it.
 
 What experienced boondockers do is string together a circuit of BLM areas that let them move every two weeks without ever paying for a campsite. My standard fall circuit in the Southwest covers spots near Moab, the Escalante, the Kanab area, and finally down to the Sonoran Desert near Ajo, Arizona, before looping up through the Owens Valley in spring. You're covering ground, but you're not running aimlessly. Each spot has something specific to offer at a specific time of year.

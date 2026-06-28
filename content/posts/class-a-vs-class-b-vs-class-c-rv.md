@@ -98,6 +98,15 @@ One thing that table can't capture: water and electrical systems are a major var
 
 ## How to Actually Choose: A Practical Framework
 
+## Sources
+
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Camco TastePURE inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [Bryan Mendez](https://www.pexels.com/@lightskiing)
+
+
 Don't start with the rig. Start with these questions.
 
 **Step 1: Define your use pattern.** Are you full-timing year-round, or weekend tripping 20 times a year? Weekend warriors get more mileage out of a Class B or smaller Class C. Full-timers who work remotely generally need a Class A or larger Class C for the workspace.

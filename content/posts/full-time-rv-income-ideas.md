@@ -81,6 +81,11 @@ Online courses are potentially the highest-margin thing on this entire list. If 
 
 ## The Stuff I'd Actually Try First
 
+## Sources
+
+- [Alfo Medeiros](https://www.pexels.com/@alfomedeiros)
+
+
 If I were starting over with no income and a paid-for rig, here's my order:
 
 Get remote work or freelance income going first, because it pays fastest. Apply to roles on We Work Remotely, Remote.co, and FlexJobs before you even list your house. Something with predictable income, even at $3,000 a month, makes every other decision less desperate.

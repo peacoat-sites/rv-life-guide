@@ -76,6 +76,15 @@ Diesel vs. gas is a real debate. Diesel trucks get significantly better mileage 
 
 ## Making a Fifth Wheel Actually Livable Full-Time: Practical Upgrades
 
+## Sources
+
+- [battery monitor like the Victron BMV-712](https://amzn.to/3example)
+- [Progressive Industries EMS-HW50C hardwired surge protector](https://amzn.to/3example)
+- [Camco TastePURE water filter](https://amzn.to/3example)
+- [Lynx Leveling blocks](https://amzn.to/3example)
+- [Mo Eid](https://www.pexels.com/@mo-eid-1268975)
+
+
 The rig that comes off the dealer lot is a starting point, not a finished home. Every serious full-timer I know has made significant modifications in the first year. Here are the ones that matter most.
 
 **Power management.** Shore power isn't always available, and generators are loud and expensive to run constantly. A solar and lithium battery system is the single most impactful upgrade for full-time living flexibility. A 400-watt to 800-watt solar array paired with 200 to 400 amp-hours of lithium (LiFePO4) batteries gives you several days of independent living. A [battery monitor like the Victron BMV-712](https://amzn.to/3example) (affiliate link, we may earn a commission) tells you exactly what's going in and coming out so you're never guessing.

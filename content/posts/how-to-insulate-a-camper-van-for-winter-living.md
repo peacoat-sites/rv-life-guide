@@ -79,6 +79,13 @@ Good insulation lets your heater run less, which extends its life and saves fuel
 
 ## The One Thing People Almost Always Underspend On
 
+## Sources
+
+- [Reflectix cut-to-fit window insulation](https://www.amazon.com/s?k=reflectix+van+window+insulation&tag=contentportfo-20)
+- [humidity meter like the ThermoPro TP49](https://www.amazon.com/s?k=ThermoPro+TP49+humidity+meter&tag=contentportfo-20)
+- [Thirdman](https://www.pexels.com/@thirdman)
+
+
 Vapor and condensation control accessories. A [humidity meter like the ThermoPro TP49](https://www.amazon.com/s?k=ThermoPro+TP49+humidity+meter&tag=contentportfo-20) costs $10 and tells you when your van interior is getting into the danger zone for condensation (above 55-60% relative humidity is where you start getting trouble). A small 12V fan to circulate air, a Maxxair roof vent that you crack even in winter to let humid air escape, and that humidity monitor will prevent more damage than an extra inch of insulation.
 
 ---

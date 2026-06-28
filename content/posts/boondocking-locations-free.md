@@ -126,6 +126,15 @@ For off-grid stays to actually work, the gear matters. A quality [solar panel se
 
 ## What Nobody Tells You About Free Camping Realities
 
+## Sources
+
+- [solar panel setup](https://www.amazon.com/s?k=rv+solar+panels&tag=contentportfo-20)
+- [lithium battery bank](https://www.amazon.com/s?k=rv+lithium+battery&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [quality water filter](https://www.amazon.com/s?k=rv+water+filter+berkey&tag=contentportfo-20)
+- [quality leveling system](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+
+
 I'd be doing you a disservice if I made this sound effortless.
 
 Cell signal is genuinely bad in most of the best boondocking spots. I've adapted. I download offline maps and entertainment in advance, I schedule check-ins with family using Garmin inReach messaging, and I've learned to actually enjoy disconnecting. But if you work remotely and need consistent internet, you'll need a Starlink and even that has limitations depending on obstructions.

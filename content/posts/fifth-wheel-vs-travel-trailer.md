@@ -97,6 +97,15 @@ If you're going solar, which I'd recommend evaluating for any serious RV use, fi
 
 ## How to Actually Decide
 
+## Sources
+
+- [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20)
+- [on Amazon here](https://www.amazon.com/s?k=rv+surge+protector+progressive+industries&tag=contentportfo-20)
+- [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Ellie Burgin](https://www.pexels.com/@ellie-burgin-1661546)
+
+
 Stop looking at floor plans online and answer these three questions honestly.
 
 What do you already own or plan to buy as a tow vehicle? If you drive a Ford Expedition or a half-ton Ram 1500, you're probably in travel trailer territory unless you're budgeting for a new truck. If you already have a diesel F-250 or Ram 2500, a fifth wheel becomes financially reasonable.

@@ -94,6 +94,15 @@ If you're leaning used, here's how to approach it without making an expensive mi
 
 ## Financing and Total Cost of Ownership
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Anton Massalov](https://www.pexels.com/@antonhansenphotography)
+
+
 People focus on the monthly payment. That's the mistake.
 
 RV loans carry higher interest rates than mortgage loans and often longer terms, sometimes 15 to 20 years on expensive units. A $150,000 motorhome at 8 percent over 15 years runs you about $1,430 per month, and you'll pay roughly $107,000 in interest over the life of the loan. That's not a horror story if you're living in the thing full-time (since you're replacing rent), but it's a fact you should stare at before you sign.

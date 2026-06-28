@@ -108,6 +108,15 @@ After 90,000 miles and six years, I still don't have a perfect answer to the rel
 
 ## Recommended Resources
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [water filter system](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [RV living guides](https://www.amazon.com/s?k=rv+living+guide+book&tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299), Complete home security kit with video doorbell, documents visitors and can lower home insurance premiums by up to 20%.

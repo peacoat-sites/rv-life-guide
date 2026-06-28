@@ -82,6 +82,15 @@ One I didn't expect to care about: leveling. A rig that's consistently unlevel m
 
 ## What the Kids Actually Get Out of It
 
+## Sources
+
+- [Kidde KN-COPP-3 units](https://www.amazon.com/s?k=Kidde+carbon+monoxide+detector+RV&tag=contentportfo-20)
+- [Progressive Industries EMS-HW50C](https://www.amazon.com/s?k=Progressive+Industries+EMS+RV+surge+protector&tag=contentportfo-20)
+- [dedicated inline filter](https://www.amazon.com/s?k=RV+inline+water+filter+drinking&tag=contentportfo-20)
+- [Camco leveling blocks](https://www.amazon.com/s?k=Camco+leveling+blocks+RV&tag=contentportfo-20)
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 This section exists because it's real, not because the article needs a feel-good moment.
 
 My kids, now teenagers, have a geographic fluency that their friends don't have. My son can look at a topographic map and read it. My daughter navigated us through a road closure in southern Utah at age eight because she'd been reading the atlas for two years. They've both had conversations with strangers, handled unexpected situations, and adapted to discomfort in ways that I attribute directly to this life.

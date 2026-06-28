@@ -95,6 +95,14 @@ Most manufacturers rate appliances for 110-120V nominal operation, and consisten
 
 ## Boondocking, Solar, and the 30/50 Amp Conversation
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
+- [50 amp surge protector with EMS](https://www.amazon.com/s?k=rv+surge+protector+50+amp+ems&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20)
+- [zvika shmaya](https://www.pexels.com/@zvika-shmaya-1391475)
+
+
 If you're spending significant time off-grid, the 30 vs. 50 amp question shifts entirely. You're not plugging into a pedestal, so shore power capacity matters less than your battery bank, solar input, and inverter capacity.
 
 What does matter off-grid is understanding your rig's 12-volt DC system versus its 120-volt AC system. Most RVs run lights, fans, and the furnace blower on 12V DC. Your ACs, microwave, and residential fridge run on 120V AC, which off-grid means you need an inverter pulling from your batteries.

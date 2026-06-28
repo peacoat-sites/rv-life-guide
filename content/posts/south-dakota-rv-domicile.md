@@ -92,6 +92,11 @@ Our article on [how much RV life actually costs](/how-much-does-rv-life-cost/) p
 
 ## Common Pitfalls and How to Avoid Them
 
+## Sources
+
+- [Maria Sablina](https://www.pexels.com/@maria-sablina-2159246562)
+
+
 The process is straightforward. People still mess it up.
 
 **Using a P.O. box.** DMV won't take it. You need a real street address from a mail forwarding service. Confirm with them that the format works for South Dakota DMV before signing up.

@@ -83,6 +83,15 @@ When you disconnect: close both valves, remove the hose from the cleanout first,
 
 ## A Quick Comparison: Full Hookups vs. Partial Hookups vs. Dry Camping
 
+## Sources
+
+- [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20)
+- [pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=contentportfo-20)
+- [two-stage inline filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [sewer hose support/slinky](https://www.amazon.com/s?k=rv+sewer+hose+support&tag=contentportfo-20)
+- [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20)
+
+
 | Setup | What You Have | What You Manage |
 |---|---|---|
 | Full hookups (W/E/S) | Water, 30/50-amp electric, sewer | Almost nothing actively |

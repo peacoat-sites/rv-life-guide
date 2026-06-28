@@ -83,6 +83,13 @@ If your new job classifies you as a W-2 employee, check whether your employer is
 
 ## The Honest Budget Check
 
+## Sources
+
+- [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20)
+- [Vitaly Gariev](https://www.pexels.com/@silverkblack)
+- remote work for two years before they ever take a single trip
+
+
 A lot of people doing remote work from an RV are trying to clear $4,000-$6,000/month after expenses and feel comfortable. That's achievable across most of the categories above, but it takes 6-18 months to build to in most cases, especially if you're going the freelance route.
 
 If you're leaving a job with a specific salary and jumping to freelance at the same time you're transitioning to RV life, you're stacking two major changes simultaneously. Nothing wrong with that, but go in with savings. I tell people: have three to four months of living expenses liquid before you hit the road as a freelancer. RV repairs come out of nowhere (my slide-out motor died in Flagstaff in 2022, $1,100 parts and labor), and you don't want a slow client month to coincide with a busted water heater.

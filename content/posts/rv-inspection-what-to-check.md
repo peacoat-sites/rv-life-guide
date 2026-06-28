@@ -117,6 +117,15 @@ Bring some [leveling blocks](https://amzn.to/example) and a level to your inspec
 
 ## Step-by-Step: A Practical Pre-Purchase Inspection Sequence
 
+## Sources
+
+- [water filter](https://amzn.to/example)
+- [battery monitor](https://amzn.to/example)
+- [surge protector](https://amzn.to/example)
+- [leveling blocks](https://amzn.to/example)
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 Follow this order. It's designed to save time and catch the big problems early before you spend an hour testing the coffee maker.
 
 1. **Climb the roof first.** Check all sealant, membrane condition, and AC mounts. If the roof is bad, you may want to stop here.

@@ -124,6 +124,15 @@ My honest advice: plan your first month at established campgrounds with full hoo
 
 ## Making Money on the Road: Remote Work, Seasonal Jobs, and the Mail Thing
 
+## Sources
+
+- [progressive surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
+- [Andersen camper leveling blocks](https://www.amazon.com/s?k=andersen+rv+leveling+blocks&tag=contentportfo-20)
+- [two-stage inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Victron SmartShunt](https://www.amazon.com/s?k=victron+smartshunt+battery+monitor&tag=contentportfo-20)
+- [portable solar panels](https://www.amazon.com/s?k=portable+rv+solar+panel+kit&tag=contentportfo-20)
+
+
 Two questions I get constantly: "How do you afford it?" and "Where is your mail?"
 
 You need a plan before you leave. Don't quit your job and hope something works out. If you have a remote-capable job, negotiate that arrangement before you give notice on your house. If you're self-employed or freelance, make sure your income is genuinely location-independent and test it for a few months before going full-time.

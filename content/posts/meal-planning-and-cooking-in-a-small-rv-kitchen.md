@@ -63,6 +63,11 @@ Instacart and grocery delivery to campgrounds has gotten more reliable since aro
 
 ## The Fridge Problem (and What to Do About It)
 
+## Sources
+
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 Standard RV absorption refrigerators are not good. They're slow to cool, sensitive to being off-level, and power-hungry. If your rig came with one, it's probably fine for occasional use, but if you're cooking seriously, you want a 12-volt compressor fridge.
 
 I replaced my absorption fridge with a Dometic CFX3 55 portable about three years ago. It cost $700, which felt steep, but it's been worth every dollar. Cools to 35°F in about 20 minutes, runs efficiently on 12 volts, and works regardless of whether I'm perfectly level. The capacity is 55 liters, which is enough for one person eating real food or two people being thoughtful about it.

@@ -104,6 +104,15 @@ A [surge protector rated for RV use](https://www.amazon.com/s?k=progressive+indu
 
 ## The Emotional Reality: What They Don't Tell You in the Facebook Groups
 
+## Sources
+
+- [Camco Tri-Levelers](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20)
+- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
+- [surge protector rated for RV use](https://www.amazon.com/s?k=progressive+industries+rv+surge+protector&tag=contentportfo-20)
+- [RV water filter](https://www.amazon.com/s?k=camco+rv+water+filter&tag=contentportfo-20)
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 I'm going to be honest here because I think people deserve it.
 
 Full-time RV life can be incredibly lonely. This is the thing that catches people off guard more than any mechanical breakdown or budget overrun. When you leave your geographic community, you leave your doctor, your dentist, your friends of 15 years, your favorite coffee shop, the neighbor whose name you barely knew but who still represented continuity. You don't replace all of that quickly.

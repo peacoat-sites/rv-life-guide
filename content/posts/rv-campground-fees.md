@@ -102,6 +102,15 @@ Protecting your rig when you do arrive matters too. A quality [surge protector](
 
 ## Comparison: Full Hookup Private Park vs. BLM/Free Camping (Monthly Cost Breakdown)
 
+## Sources
+
+- [portable solar setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
+- [whole-house water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Yakup  Polat](https://www.pexels.com/@yakup-polat-420882786)
+
+
 | Category | Private Park (Monthly) | BLM/Free Camping (Monthly) |
 |---|---|---|
 | Site fee | $700 avg | $0 |

@@ -113,6 +113,15 @@ The RV market throws a lot of terminology at you fast, and dealerships aren't al
 
 ## Recommended Resources
 
+## Sources
+
+- [Camco RV Leveling Blocks](https://www.amazon.com/s?k=rv+leveling+blocks)
+- [RV surge protector](https://www.amazon.com/s?k=rv+surge+protector)
+- [dedicated RV inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor)
+- [Wolfgang Weiser](https://www.pexels.com/@wolfgang-weiser-467045605)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.

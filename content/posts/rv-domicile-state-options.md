@@ -93,6 +93,12 @@ If you're still deciding what kind of rig you'll be living in, our guide to [cho
 
 ## Common Pitfalls and How to Avoid Them
 
+## Sources
+
+- and probably a conversation with a tax attorney before you try it
+- and one trip to the right DMV can realistically save you thousands of dollars ev
+
+
 A few mistakes show up over and over with RV domicile decisions.
 
 **Not actually cutting ties with your old state.** This is the most common and costly error. If your kids are still enrolled in school in California, if you're still receiving mail at a California address, or if you spend more than 183 days a year in a high-tax state, that state may assert you're still a resident. Keep travel logs, receipts, and calendar records. Document where you are.

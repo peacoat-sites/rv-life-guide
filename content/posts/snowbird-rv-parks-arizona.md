@@ -76,6 +76,15 @@ A [surge protector](https://www.amazon.com/s?k=rv+surge+protector) is non-negoti
 
 ## What Actually Makes a Good Park for Long-Term Living
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector)
+- [Ken Cheung](https://www.pexels.com/@ken-cheung-3355734)
+- year than any other city in the United
+- complimentary wifi. Pull
+- plan as your primary connection
+
+
 After this many seasons, here's what matters and what doesn't.
 
 The wifi at most Arizona snowbird parks is, charitably, challenged. Shared bandwidth across 300 rigs doesn't work for anyone who needs to stream or work remotely. Budget for a cell data plan as your primary connection. A Pepwave router can help you manage data and combine signals. Don't pick a park based on "complimentary wifi."

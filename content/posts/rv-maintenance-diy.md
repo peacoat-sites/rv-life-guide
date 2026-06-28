@@ -96,6 +96,15 @@ Leveling blocks deserve a mention here too. Properly leveling your rig isn't jus
 
 ## Recommended Resources
 
+## Sources
+
+- [A good plug-in surge protector like the Progressive Industries SSP-30XL](https://www.amazon.com/s?k=progressive+industries+SSP-30XL+surge+protector+rv&tag=contentportfo-20)
+- [water pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=contentportfo-20)
+- [whole-house style inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Camco's Fasten leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks+rv&tag=contentportfo-20)
+- [Peter Dyllong](https://www.pexels.com/@peter-dyllong-2158803154)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.

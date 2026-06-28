@@ -87,6 +87,13 @@ None of this replaces a good membership if you want hookups or amenities. But if
 
 ## Building a Stack That Actually Works
 
+## Sources
+
+- [you still need one of those](https://amzn.to/3surge)
+- [Tom Fisk](https://www.pexels.com/@tomfisk)
+- by Membership Type (2024 Rates)</caption><thead><tr><th>Membership</th><th>Annua
+
+
 My current setup, refined over three years: Passport America ($44), Harvest Hosts + Boondockers Welcome bundle ($119), and Escapees ($49). Total: $212/year. I dropped Thousand Trails after year two because my route didn't justify it. Good Sam stays only for occasional Camping World parts runs.
 
 That $212 stack probably saves me $3,000-4,000 annually compared to paying full rates at comparable parks. My camping costs now run around $400-500 per month, down from $900+ when I was paying rack rates everywhere with no system.

@@ -71,6 +71,14 @@ Apps like iOverlander and Campendium have user-reported Cracker Barrel reviews. 
 
 ## The Bigger Context
 
+## Sources
+
+- [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20)
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Capitol Reef RV Park Glamping A-frames](https://www.pexels.com/@capitol-reef-rv-park-glamping-a-frames-1266940476)
+
+
 Cracker Barrel is part of a broader category of free overnight stops that includes Walmart, Cabela's, Flying J, and casino lots. Of those, Cracker Barrel is my consistent second choice after a good casino lot (casinos are quieter than you'd think and often have better surfaces). Walmart has gotten significantly more restrictive in the past few years, with maybe 40-50% of locations posting no-overnight signs as of 2026. Cracker Barrel has held steadier, but the trend isn't moving in a great direction for any of these.
 
 Use it while it works. Be the kind of guest that keeps it working.

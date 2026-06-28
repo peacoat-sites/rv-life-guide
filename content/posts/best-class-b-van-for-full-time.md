@@ -93,6 +93,15 @@ Here's the honest setup I'd build if I were starting over, knowing what I know n
 
 ## The Things Nobody Tells You About Full-Timing in a Class B
 
+## Sources
+
+- [Renogy 200W solar panel](https://www.amazon.com/s?k=renogy+200w+solar+panel)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron)
+- [Progressive Industries EMS-PT30C](https://www.amazon.com/s?k=progressive+industries+ems+pt30c)
+- [inline water filter](https://www.amazon.com/s?k=inline+rv+water+filter)
+- [Andersen Camper Levelers](https://www.amazon.com/s?k=andersen+camper+levelers)
+
+
 You will feel small. Not metaphorically. Physically small. A Class B has somewhere between 65 and 100 square feet of living space. That's not a tiny house. That's a studio apartment without the "apartment" part. Some people adapt in two weeks. Others feel claustrophobic for months. There's no way to predict which camp you'll fall into without living it.
 
 Relationships get stress-tested. I've watched couples thrive in Class Bs and I've watched couples dissolve inside of a year. The van doesn't cause problems, but it removes every place you'd normally go to decompress. When you're angry at your partner, you can't go to another room. You can go outside, which helps, but it's raining in the Pacific Northwest six months a year.

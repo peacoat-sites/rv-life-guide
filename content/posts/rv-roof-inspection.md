@@ -81,6 +81,15 @@ I do a quick scan after any significant hailstorm. Hail won't typically penetrat
 
 ## What to Fix Yourself and What to Pay Someone For
 
+## Sources
+
+- [Dicor lap sealant](https://www.amazon.com/s?k=dicor+lap+sealant&tag=contentportfo-20)
+- [good surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735)
+- above where you
+- on which roof type actually lasts longest is honestly mixed
+
+
 Most sealant work is genuinely DIY-friendly if you're willing to prep correctly. Prep is 90% of a good sealant repair. Clean the area with a dedicated cleaner (Dicor makes one, so does Proflux), let it dry completely, and apply the correct sealant for your roof type.
 
 [Dicor lap sealant](https://www.amazon.com/s?k=dicor+lap+sealant&tag=contentportfo-20) runs about $9 to $12 per tube and is the standard for EPDM roofs. For TPO roofs, you want a TPO-compatible product. A reader emailed me last month asking why their repair was peeling after two weeks. They'd used the wrong product, and the incompatibility between the sealant and the TPO membrane just wouldn't allow adhesion. The right product matters more than technique.

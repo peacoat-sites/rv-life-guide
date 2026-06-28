@@ -113,6 +113,12 @@ If your membrane is aged and the entire surface looks worn, a liquid RV roof coa
 
 ## The Cost Reality: DIY vs. Professional Repair
 
+## Sources
+
+- [Dicor lap sealant is widely available on Amazon](https://www.amazon.com/s?k=dicor+lap+sealant)
+- [Indiana Barriopedro](https://www.pexels.com/@indiana-barriopedro-639081391)
+
+
 A basic resealing job you do yourself might run $50-150 in materials. A full rubber roof replacement at a dealership or RV repair shop can run $3,000 to $8,000 depending on the rig size. If there's subfloor rot involved, add more.
 
 Here's the calculus I give people: if the damage is isolated to failed sealant with no structural rot underneath, DIY is a reasonable call. If you're finding soft spots in the roof decking, water damage in walls, or any sign of delamination on the exterior sidewalls, get a professional involved before you seal over the top of a bigger problem. Sealing over wet rot accelerates the damage. The moisture gets trapped and has nowhere to go.

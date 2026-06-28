@@ -106,6 +106,13 @@ One product worth having in your toolkit: [Eternabond Tape](https://www.amazon.c
 
 ## Climate-Specific Considerations
 
+## Sources
+
+- [Eternabond Tape](https://www.amazon.com/s?k=eternabond+tape&tag=contentportfo-20)
+- [Camco Vent Covers](https://www.amazon.com/s?k=camco+rv+vent+cover&tag=contentportfo-20)
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 Desert parking (Phoenix, Tucson, southern Nevada): UV is the dominant threat. Your sealant life is shorter here than anywhere. Annual resealing on all penetrations is not excessive. Cover your roof vents with vent covers like [Camco Vent Covers](https://www.amazon.com/s?k=camco+rv+vent+cover&tag=contentportfo-20) to reduce heat buildup and slow UV damage on the plastic rims.
 
 Coastal parking: Salt air attacks aluminum and metal hardware on your roof. Every inspection, check the condition of screws and bolts holding down your vents and A/C units. A corroded screw head means a loose vent, means water intrusion. Use stainless hardware when you're replacing anything up there.

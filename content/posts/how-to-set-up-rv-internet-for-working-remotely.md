@@ -77,6 +77,15 @@ I won't pretend setting up a Pepwave is plug-and-play. The first time I configur
 
 ## Making It Work Day-to-Day
 
+## Sources
+
+- [Camco leveling blocks](https://amzn.to/leveling-blocks)
+- [Lisha Dunlap](https://www.pexels.com/@lishadunlap)
+- is still the workhorse
+- plans are the ongoing cost you need to budget for
+- for RV use tends to run $80-120/month per line from resellers on plans like Moba
+
+
 The best internet setup fails if you don't plan your campsite selection around connectivity. I check signal maps before I commit to a location. Coverage Critic and the T-Mobile and Verizon coverage maps are decent starting points, but the most reliable intel is other RVers. The Campendium app has real reviews from people who note signal quality. So does the FreeRoam app for dispersed camping.
 
 For video calls specifically, I try to schedule them when I know my connection is at its best. That usually means mornings, before campground neighbors are all awake and hammering the local cell tower. It means having Starlink up and running, not relying on cellular backup. It means testing everything the day before a big call.

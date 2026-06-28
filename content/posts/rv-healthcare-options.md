@@ -87,6 +87,12 @@ The practical move is identifying a telehealth provider before you need one and 
 
 ## Managing Costs Without Losing Coverage
 
+## Sources
+
+- [contact me +923323219715](https://www.pexels.com/@contact-me-923323219715-262056873)
+- until after they were already on the road
+
+
 Healthcare costs money. There's no way around it. But full-timers have some cost management tools that stick-and-brick residents often don't think about.
 
 The biggest one is income-based ACA subsidies. If you're self-employed, retired early, or working remotely and controlling your taxable income, you may qualify for significant premium tax credits. A couple earning $60,000 a year might pay only $200 to $400 a month combined for a solid silver plan after subsidies. This requires some planning around your income sources, but it's real money worth pursuing with a tax professional who understands the nuance.

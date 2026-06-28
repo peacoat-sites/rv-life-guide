@@ -108,6 +108,15 @@ Storage units are a sneaky recurring cost. A lot of people pay $100 to $200 a mo
 
 ## How to Build Your Personal Budget Before You Hit the Road
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [water pressure regulator and inline filter](https://www.amazon.com/s?k=rv+water+filter+pressure+regulator&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [solar panel kit](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
+- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+
+
 Don't guess. Build a real spending plan before your first month out.
 
 1. **Pick your domicile state first.** This affects your vehicle registration cost, income taxes, and health insurance options. Do this research before you quit your lease or sell your house.

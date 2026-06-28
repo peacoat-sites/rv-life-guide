@@ -104,6 +104,12 @@ Knowing what tends to go wrong saves you from learning it the hard way.
 
 ## Building Confidence Over Time
 
+## Sources
+
+- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- backed in on the first try. Start
+
+
 Confidence comes from mileage. There's no shortcut. But there are ways to make that mileage count more.
 
 Keep a short trip journal for your first few months. Note what was hard, what worked, and what you'd do differently. You'll be surprised how fast the entries shift from "everything was scary" to "backed in on the first try."

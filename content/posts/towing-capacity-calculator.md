@@ -103,6 +103,11 @@ People who skip the calculator, or use it carelessly, tend to make the same pred
 
 ## Gear That Makes the Process Easier
 
+## Sources
+
+- [Tom Jackson](https://www.pexels.com/@tom-jackson-1238161)
+
+
 A few specific tools can make towing capacity calculations less abstract and more actionable.
 
 A **tongue weight scale** removes the guesswork from one of the most underestimated numbers in the calculation. The Weigh Safe hitch ball mount is popular among fifth wheel and travel trailer owners because it shows tongue weight in real time as you load up.

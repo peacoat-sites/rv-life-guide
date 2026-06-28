@@ -85,6 +85,12 @@ If pressure is fine and the valve still drips, replace the valve. Don't try to c
 
 ## What Most Troubleshooting Guides Won't Tell You
 
+## Sources
+
+- [water pressure regulator](https://amzn.to/3example)
+- [Juan Hernandez Jr](https://www.pexels.com/@r7shutter)
+
+
 The bypass valve. When you winterize an RV, you (or someone) engages the water heater bypass to keep antifreeze out of the tank. If spring rolls around and you forget to switch it back, you'll get hot water at some fixtures but not others, or dramatically reduced flow, or the heater will cycle constantly trying to heat water that isn't really in the tank properly. I've seen this trip up experienced RVers. It's embarrassing but extremely common. Check your bypass valve configuration before you diagnose anything else in spring.
 
 Also: if your water heater is taking forever to produce hot water or you're constantly running out, the problem might not be the heater at all. Check for a cross-connection between your hot and cold lines. This happens sometimes after plumbing work or fitting failures, and cold water bleeds back into the hot side. A quick test is simple. Turn off cold water supply and open a hot tap. If water keeps flowing, you've got a cross-connection somewhere.

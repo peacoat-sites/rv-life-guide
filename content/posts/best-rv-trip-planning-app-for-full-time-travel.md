@@ -67,6 +67,14 @@ One more thing. Your phone dies, your tablet crashes, things happen. I keep a pr
 
 ## What About Passport America, Good Sam, and the Rest of the Discount Club Apps?
 
+## Sources
+
+- [AS Photography](https://www.pexels.com/@asphotography)
+- skews toward smaller rigs
+- it's a solid companion to Campendium
+- and you'll wonder if they're worth the subscription
+
+
 These aren't really trip planning apps, but they belong in this conversation because they'll come up in your research and you'll wonder if they're worth the subscription.
 
 **Passport America** ($44/year) claims 50% off participating campgrounds. The actual discount is usually real, but the participating campground list skews toward older, less-desirable parks, and the app itself is pretty clunky. If you're moving constantly and staying in a mix of campground types, it can pay off. If you're a boondocker or Harvest Hosts person, probably skip it.

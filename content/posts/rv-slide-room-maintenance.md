@@ -59,6 +59,11 @@ The fix, if you catch it early, is doable. Dry it out, treat it with a wood hard
 
 ## What a maintenance schedule actually looks like
 
+## Sources
+
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 Every trip: visually inspect the slide seals for tears, debris caught in the folds, or any debris on the slide track. Takes 30 seconds.
 
 Monthly: wipe down and condition the perimeter seals. Lubricate the drive mechanism if it's rack-and-pinion or cable-based. Check that the slide is sitting level when fully extended (it should have even gaps on all sides).

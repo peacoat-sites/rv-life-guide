@@ -91,6 +91,15 @@ Get a proper battery monitor. The [Victron BMV-712](https://www.amazon.com/s?k=v
 
 ## What the Influencers Get Wrong
 
+## Sources
+
+- [BougeRV 12V compressor fridge](https://www.amazon.com/s?k=12v+compressor+fridge+rv&tag=contentportfo-20)
+- [Jackery SolarSaga 200W](https://www.amazon.com/s?k=jackery+solarsaga+200w&tag=contentportfo-20)
+- [solar charge controller](https://www.amazon.com/s?k=mppt+solar+charge+controller+rv&tag=contentportfo-20)
+- [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
+- [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
+
+
 Here's the contrarian take: most solar build videos are filmed in summer, in the Southwest, at full sun. Then they're watched in January in Oregon.
 
 The Pacific Northwest, the Upper Midwest in winter, the Gulf Coast in rainy season, the Northeast in November through March. These regions cut your effective solar production by 40-60% compared to the summer Arizona numbers everybody uses for their "proof of concept" videos. If you're full-timing and you move around, design your system for bad sun conditions, not the best ones. That means more panels than the math says you need on a perfect day.

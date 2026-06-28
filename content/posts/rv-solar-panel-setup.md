@@ -103,6 +103,15 @@ Pair your solar with a [quality surge protector on shore power](https://www.amaz
 
 ## Common Mistakes That Cost Real Money
 
+## Sources
+
+- [Renogy Rover 40A MPPT](https://www.amazon.com/s?k=renogy+rover+40a+mppt+charge+controller&tag=contentportfo-20)
+- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20)
+- [quality surge protector on shore power](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
+- [proper water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625)
+
+
 What surprised me when I started connecting with other full-timers was how often people make the same expensive mistakes.
 
 **Mixing old and new batteries.** Adding a new battery to a bank with older ones drags the new battery down to match the degraded ones. If you're expanding your bank, start fresh.

@@ -100,6 +100,15 @@ Specialty camps work too. Not full-time summer camps, but week-long programs in 
 
 ## Keeping Records (So Future You Doesn't Panic)
 
+## Sources
+
+- [Escapees RV Club](https://www.escapees.com/)
+- [Boondockers Welcome](https://boondockerswelcome.com/)
+- [WeBoost Drive Reach](https://amzn.to/3xample)
+- [VIVO laptop stand](https://amzn.to/3example)
+- [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
+
+
 If your child might ever return to traditional school, apply to college, or need a transcript, keeping reasonable records from the start saves an enormous headache later.
 
 You don't need to be elaborate. A simple spreadsheet logging hours by subject, plus a folder where you save completed work samples, tests, and projects, is enough to construct a transcript or satisfy a school district if you need to re-enroll. Google Drive is free and accessible from anywhere.

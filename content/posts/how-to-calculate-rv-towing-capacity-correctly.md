@@ -73,6 +73,11 @@ Tire pressure matters too, and it changes the effective carrying capacity of you
 
 ## What Happens When You're Over Capacity
 
+## Sources
+
+- [Wolfgang Vrede](https://www.pexels.com/@wolfgang-vrede-9996223)
+
+
 The honest answer is: sometimes nothing. People tow over their limits and arrive safely, which is the worst possible outcome because it teaches them the wrong lesson. The problems show up in your brakes wearing faster, your transmission running hotter, your suspension wearing unevenly, and occasionally in a jackknife situation on a downgrade when you discover the combination of weight and speed exceeded the truck's ability to manage it.
 
 Insurance companies are also starting to look more carefully at towing situations in accidents. If you're over your rated capacity and you have an accident, you could have a coverage problem on top of everything else. I've talked to two full-timers who dealt with this. It's not hypothetical.

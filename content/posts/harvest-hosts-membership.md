@@ -90,6 +90,13 @@ If you're doing a lot of Harvest Hosts nights without hookups, think about water
 
 ## Who This Is Actually For (And Who Should Skip It)
 
+## Sources
+
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [solar panel setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
+
+
 Harvest Hosts works great if you're a full-timer who moves frequently and values experience over amenities. It's great for weekend warriors who want to do something more interesting than another state park campground. It's great for anyone who's self-contained and comfortable boondocking even for just one night.
 
 It's not a good fit if you need hookups every night. It's not ideal if you're traveling with kids who want a playground and a pool and structured campground activities. And honestly, if you're the kind of person who just wants to park it and stay in all evening, the social dimension of Harvest Hosts (the patron expectation, the occasional conversation with a host) might feel like more effort than it's worth.

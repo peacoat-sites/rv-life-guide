@@ -106,6 +106,15 @@ The number that will actually matter is yours. Not mine. Not some YouTuber's hig
 
 ## Recommended Resources
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [water filters](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
+- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [ArtHouse Studio](https://www.pexels.com/@arthousestudio)
+- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.

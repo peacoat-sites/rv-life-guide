@@ -94,6 +94,12 @@ Don't overlook your hitch. A quality B&W Companion fifth-wheel hitch runs $1,200
 
 ### FAQ
 
+## Sources
+
+- [Vadym Alyekseyenko](https://www.pexels.com/@vadym-alyekseyenko-137433856)
+- with gas engines under the same conditions)
+
+
 #### How do I know if my truck can actually tow a specific fifth wheel?
 
 Add up your trailer's loaded GVWR, check your truck's tow rating (must exceed GVWR plus a safety buffer), then separately verify your truck's payload rating covers the pin weight plus all passengers and cargo in the truck. Both numbers have to work, not just one.

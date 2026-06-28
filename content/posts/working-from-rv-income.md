@@ -89,6 +89,11 @@ My honest floor for comfortable full-timing with a modest safety net is $5,000/m
 
 ## Building Income Before You Leave
 
+## Sources
+
+- [www.kaboompics.com](https://www.pexels.com/@karola-g)
+
+
 If I were advising someone starting from scratch today, here's the sequence I'd recommend.
 
 Start 12-18 months before your planned departure date. Use that time to pick up freelance work on the side while you still have stable housing and reliable internet. Get two or three clients paying you consistently before you leave. Don't leave with one client. Don't leave with the promise of a client. Leave with 90 days of invoices sent and paid.

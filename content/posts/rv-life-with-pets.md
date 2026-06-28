@@ -73,6 +73,14 @@ Pet insurance deserves a real conversation before you go full-time. The research
 
 ## The Daily Rhythm That Actually Works
 
+## Sources
+
+- [Doggie Dooley waste disposal system](https://www.amazon.com/s?k=doggie+dooley+waste+disposal)
+- [Helena Lopes](https://www.pexels.com/@helenalopes)
+- part pit. What
+- here is mixed on whether it saves money in aggregate
+
+
 The thing that took me longest to figure out wasn't a gear problem or a logistics problem. It was understanding that my pets needed a routine even when geography was completely fluid.
 
 Dogs especially. They don't care that you're parked in a new state. They care whether they went on a walk this morning and whether someone is acting weird (you), and whether that thing outside the window smells threatening. Keeping feeding times, walk times, and bedtime rituals consistent across wildly different environments dramatically reduces anxious behavior. It sounds obvious but I still see people wondering why their dog is barking all night in a new campground when they've completely abandoned the cues the dog has always used to understand what day it is.

@@ -109,6 +109,15 @@ But boondocking isn't entirely free. You'll use more propane (no electric hookup
 
 ## Choosing the Right RV for Boondocking
 
+## Sources
+
+- [Motor Vehicle Use Maps (MVUM)](https://www.fs.usda.gov/maps)
+- [100W flexible solar panel](https://www.amazon.com/s?k=rv+solar+panel+100w&tag=contentportfo-20)
+- [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
+- [quality inline water filter](https://www.amazon.com/s?k=camco+tastepure+water+filter+rv&tag=contentportfo-20)
+- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+
+
 Not all RVs boondock equally. A 45-foot diesel pusher with residential everything requires serious solar and battery investment. Smaller rigs have a natural advantage.
 
 Class B campervans are probably the best boondocking vehicles available. Compact. Easy to fit into dispersed sites. Small enough that power and water needs stay manageable. Our deep dive on [the best Class B vans for full-time living](/best-class-b-van-for-full-time/) covers top options in detail.

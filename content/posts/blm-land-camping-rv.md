@@ -98,6 +98,15 @@ The practical takeaway: BLM developed areas like Cottonwood Cove in Nevada or th
 
 ## The Real Costs and the Mistakes That Add Up
 
+## Sources
+
+- [quality inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=contentportfo-20)
+- easy. BLM
+
+
 "Free" BLM camping is real, but it's not cheap if you're not prepared.
 
 Fuel is the invisible cost. Moving every 14 days burns gas. A 35-foot Class A getting 8 mpg, driving 25 miles to a new site plus 60 miles round trip to town for water and supplies twice a week, burns $50 to $100 weekly on fuel alone. That's real money.

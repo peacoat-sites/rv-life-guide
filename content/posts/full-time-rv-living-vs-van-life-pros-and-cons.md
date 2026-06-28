@@ -98,6 +98,15 @@ If true off-grid capability matters to you, both setups require real investment.
 
 ## The Social and Relationship Angle
 
+## Sources
+
+- [leveling kit](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
+- [gravity water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
+- [Victron SmartSolar MPPT controllers](https://www.amazon.com/s?k=victron+mppt+solar+controller&tag=contentportfo-20)
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Charlie Seidowsky](https://www.pexels.com/@charlie-seidowsky-2154710744)
+
+
 Nobody in the comparison articles talks about this, and it matters.
 
 Van life can be isolating in a specific way. When you pull into a campground in a van, you're often invisible. Other RVers set up camp chairs, neighbors wander over, there's social gravity to the bigger setups. Van lifers I know who've been at it for years are almost universally strong introverts or they've built a travel partner situation that works. Solo van life long-term is hard psychologically in ways that have nothing to do with the vehicle.

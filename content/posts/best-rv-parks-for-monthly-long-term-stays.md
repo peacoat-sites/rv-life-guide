@@ -91,6 +91,13 @@ Two pieces of gear that have saved me from campground headaches: a [surge protec
 
 ## The Parks Nobody Mentions: Corps of Engineers and State Park Loops
 
+## Sources
+
+- [surge protector](https://www.amazon.com/s?k=rv+surge+protector)
+- [whole-rig water filter](https://www.amazon.com/s?k=rv+water+filter+system)
+- [Matheus Bertelli](https://www.pexels.com/@bertellifotografia)
+
+
 Corps of Engineers parks are the most underrated long-term option in the country and almost never appear on "best RV park" lists because they don't have Instagram-friendly pool complexes. What they do have: beautiful settings (most are lakefront or riverside), low rates ($15-25/night, which works out to $450-750/month at the higher end), and genuine quiet. Most cap stays at 14 days per site, but many have multiple loops, and rangers at some locations are flexible about extended stays if you're not monopolizing a high-demand site. Call the specific site manager, not a central number.
 
 State parks have the same ceiling issue. Most cap at 14-30 days consecutively. The workaround is annoying but real: book day 1 through the maximum, check out, move to another state park nearby for a night, check back in. Some full-timers run this circuit successfully for months. I've done it in both Texas and the Pacific Northwest. It requires planning and flexibility, but the cost savings are significant.

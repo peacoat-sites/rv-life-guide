@@ -88,6 +88,15 @@ One thing that's actually worked well: leaving a note on Freecampsites or The Dy
 
 ## Before You Go: The Gear Reality
 
+## Sources
+
+- [Freecampsites.net](https://freecampsites.net)
+- [iOverlander](https://www.ioverlander.com)
+- [National Map Viewer](https://www.blm.gov/maps)
+- [USFS Motor Vehicle Use Maps](https://www.fs.usda.gov/managing-land/travel-management/motor-vehicle-use-maps)
+- [Renogy 200W solar setup](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20)
+
+
 You're camping without hookups. Water capacity, battery capacity, and waste capacity are all finite and entirely your problem.
 
 I run a [Renogy 200W solar setup](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20) that handles most of my needs, but anyone new to boondocking consistently underestimates how fast they drain their batteries without shore power. Get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron&tag=contentportfo-20) before you go. Guessing your state of charge by how bright the lights are is not a strategy.

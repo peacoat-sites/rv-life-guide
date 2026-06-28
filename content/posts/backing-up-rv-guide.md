@@ -139,6 +139,14 @@ Consider a wireless rear camera system with a dedicated monitor if your factory 
 
 ## Common Backing Mistakes and How to Stop Making Them
 
+## Sources
+
+- [Furrion Vision S](https://www.amazon.com/s?k=rv+backup+camera+wireless&tag=contentportfo-20)
+- [Lynx Levelers](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=contentportfo-20)
+- [two-way radios](https://www.amazon.com/s?k=walkie+talkie+two+way+radio&tag=contentportfo-20)
+- [Osmany Mederos](https://www.pexels.com/@osmany-mederos-211956483)
+
+
 **Overcorrecting the trailer.** Small steering inputs. The trailer multiplies every movement. If you're making big wheel corrections, you're already behind. Think of steering the tow vehicle's rear axle, not the trailer.
 
 **Waiting too long to pull forward and reset.** Pride is expensive. If your angle is bad at 20 feet out, it won't fix itself in the final 10. Pull forward, reset your entry angle, try again. Nobody's judging. Well, some campground neighbors are, but they've all been there.

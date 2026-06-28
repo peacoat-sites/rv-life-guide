@@ -99,6 +99,15 @@ One rule specific to motorized camping: don't drive off existing tracks to make 
 
 ## Safety and Emergency Prep When You're Truly Off-Grid
 
+## Sources
+
+- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
+- [Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20)
+- [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
+- [gravity-fed water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
+- phase matters
+
+
 This is the section I wish someone had walked me through seriously in my first year. Being 40 miles from cell signal with a blown tire or a propane leak is different from being 40 miles from signal in a well-stocked, capable camp.
 
 Here's what my off-grid safety kit includes after 8 years of refining it:
