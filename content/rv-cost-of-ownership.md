@@ -17,6 +17,7 @@ faqs:
     answer: "If you camp 30 or fewer nights per year, renting usually wins on paper — rentals run $150–300/night. Owning starts to make financial sense around 60+ nights of use annually, once you account for all carrying costs."
   - question: "What are the hidden costs of RV ownership?"
     answer: "The biggest surprises are storage ($75–300/month), registration fees (some states charge 1%+ of vehicle value annually), roadside assistance and club memberships, propane, and the cost of upgrades and repairs that pile up over time."
+image: "https://images.pexels.com/photos/33305255/pexels-photo-33305255.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Buying an RV feels like buying freedom. But before you sign the papers, there is one number most salespeople never show you: the true all-in cost over the years you actually own the rig.

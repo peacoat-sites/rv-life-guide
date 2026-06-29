@@ -5,6 +5,7 @@ slug: "rv-tank-duration-calculator"
 description: "Calculate how long your RV fresh water, gray tank, and black tank will last based on your rig's tank sizes, number of people, shower habits, and toilet type."
 categories: ["RV Boondocking"]
 author: "Cody & Brenna Pierce"
+image: "https://images.pexels.com/photos/15422206/pexels-photo-15422206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 The moment you leave a campground with full hookups and head into dry camping territory, water management becomes the central logistics challenge of your trip. How long your fresh water lasts determines how far you can go and how long you can stay. How fast your gray and black tanks fill determines when you need to move or dump. Getting this calculation wrong leads to the kind of trip-ruining moments we have all experienced: running out of water on day two of a planned five-day boondock, or cutting a remote stay short because the gray tank overflowed.
