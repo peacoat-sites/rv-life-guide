@@ -13,19 +13,19 @@ author_bio: "Greg Hoffman made the financial case for full-time RV living before
 slug: "backing-into-rv-campsite"
 affiliate_disclosure: false
 faqs:
-  - q: "Do I really need a spotter to back into a campsite?"
-    a: "No, but you need something: either a good wireless backup camera, a reliable spotter with agreed signals, or a lot of practice. Solo backing is absolutely doable, and many full-timers do it every day. A wireless camera is probably the single best investment for solo backing."
-  - q: "How do I back in a trailer without jackknifing?"
-    a: "The key is recognizing the moment to straighten your wheel. Once the trailer is tracking into the site and roughly aligned, start bringing your steering wheel back toward center. If you keep turning past that point, the trailer and tow vehicle fold toward each other. Going slowly makes this correction easier to catch."
-  - q: "Should I back in or pull through at a campsite?"
-    a: "Pull-throughs are easier, no question. But they're not always available, they sometimes cost more, and they can leave you positioned poorly relative to hookups or views. If you're a full-timer, learning to back in confidently means you never have to pay a premium or wait for a pull-through. It's worth learning."
-  - q: "How do I back a trailer to the left vs. to the right?"
-    a: "Right-side backing (most common) is generally easier because you're using your driver's side mirror and have better visibility. Left-side backing (passenger side) is harder because your view is more limited. For left-side backing, get out and walk the site even more carefully, take your time, and consider using a camera or spotter for the blind side."
-  - q: "What are leveling blocks and do I actually need them?"
-    a: "Leveling blocks are stackable plastic platforms you drive your tires onto to raise the low side of your rig on an uneven site. You need them more than you'd think. Most campsites have at least a slight grade, and an unlevel rig affects your refrigerator performance (especially propane absorption fridges), your sleep, and your door alignment. The Camco leveling blocks around $25-$30 are the standard and they work. (The site may earn a commission on purchases made through links here.)"
+ - q: "Do I really need a spotter to back into a campsite?"
+ a: "No, but you need something: either a good wireless backup camera, a reliable spotter with agreed signals, or a lot of practice. Solo backing is absolutely doable, and many full-timers do it every day. A wireless camera is probably the single best investment for solo backing."
+ - q: "How do I back in a trailer without jackknifing?"
+ a: "The key is recognizing the moment to straighten your wheel. Once the trailer is tracking into the site and roughly aligned, start bringing your steering wheel back toward center. If you keep turning past that point, the trailer and tow vehicle fold toward each other. Going slowly makes this correction easier to catch."
+ - q: "Should I back in or pull through at a campsite?"
+ a: "Pull-throughs are easier, no question. But they're not always available, they sometimes cost more, and they can leave you positioned poorly relative to hookups or views. If you're a full-timer, learning to back in confidently means you never have to pay a premium or wait for a pull-through. It's worth learning."
+ - q: "How do I back a trailer to the left vs. to the right?"
+ a: "Right-side backing (most common) is generally easier because you're using your driver's side mirror and have better visibility. Left-side backing (passenger side) is harder because your view is more limited. For left-side backing, get out and walk the site even more carefully, take your time, and consider using a camera or spotter for the blind side."
+ - q: "What are leveling blocks and do I actually need them?"
+ a: "Leveling blocks are stackable plastic platforms you drive your tires onto to raise the low side of your rig on an uneven site. You need them more than you'd think. Most campsites have at least a slight grade, and an unlevel rig affects your refrigerator performance (especially propane absorption fridges), your sleep, and your door alignment. The Camco leveling blocks around $25-$30 are the standard and they work. (The site may earn a commission on purchases made through links here.)"
 ---
 
-Most people think backing into a campsite is harder than it actually is. The thing that makes it hard isn't the physics — it's the panic. And panic is fixable.
+Most people think backing into a campsite is harder than it actually is. The thing that makes it hard isn't the physics, it's the panic. And panic is fixable.
 
 I've been backing 40-foot fifth wheels and 26-foot travel trailers into tight spots for eight years now. I've done it solo at 11pm with a headlamp, in the rain, on a slight downhill grade with a gravel shoulder crumbling under my driver's side tires. I'm not telling you it gets effortless, but I will tell you that the gap between "white-knuckling it every time" and "doing it confidently" is mostly just understanding a handful of things nobody explains clearly.
 

@@ -13,16 +13,16 @@ author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel
 slug: "how-many-watts-of-solar-for-full-time-rv-living"
 affiliate_disclosure: false
 faqs:
-  - q: "How many watts of solar do I need to run a full-time RV without a generator?"
-    a: "For a no-air-conditioning setup, 600-800W is a realistic minimum for most full-timers. If you're running an AC unit even occasionally, plan for 1,200W minimum and pair it with 400Ah of lithium storage. Without that, a generator isn't optional, it's a gap-filler you'll use constantly."
-  - q: "Is 400 watts of solar enough for full-time RV living?"
-    a: "It can be, with strict power discipline and consistent sun. Fridge, lights, a laptop, and phone charging are workable at 400W in summer or in the Sun Belt. Add a CPAP, cloudy weather, or a full week of rain, and 400W will leave you watching your state of charge drop with no good options. Most people who start at 400W add more within a year."
-  - q: "What's better for full-time RV solar: one large panel or several smaller ones?"
-    a: "Multiple smaller panels (100-200W each) give you more flexibility for roof layout and shade management, since you can wire them in configurations that minimize the impact when one panel is partially shaded. One big panel is cheaper per watt but if a tree or vent shadows part of it, the whole thing underperforms. For most builds, I'd take four 200W panels over one 800W unit."
-  - q: "Do I need lithium batteries if I'm running a large solar system?"
-    a: "You don't need lithium, but it's the better choice for full-timing. Lead-acid (AGM specifically) works, but you're limited to using 50% of rated capacity without shortening lifespan, they're heavy, and they need to return to full charge regularly to avoid sulfation. With a large solar array that might not always complete a full charge cycle, lithium handles partial state of charge far better. The price premium has also dropped significantly; a 100Ah LiFePO4 drop-in is around $200-280 today."
-  - q: "How do I know if my solar system is actually working correctly?"
-    a: "A battery monitor like the Victron BMV-712 is the baseline. It tracks cumulative amp-hours in and out, calculates true state of charge, and logs history so you can see patterns. Pair it with a Victron SmartSolar charge controller and the VictronConnect app, and you can pull detailed production data by day. If your system doesn't have monitoring, you're flying blind and you'll misdiagnose problems for months before figuring out what's actually wrong."
+ - q: "How many watts of solar do I need to run a full-time RV without a generator?"
+ a: "For a no-air-conditioning setup, 600-800W is a realistic minimum for most full-timers. If you're running an AC unit even occasionally, plan for 1,200W minimum and pair it with 400Ah of lithium storage. Without that, a generator isn't optional, it's a gap-filler you'll use constantly."
+ - q: "Is 400 watts of solar enough for full-time RV living?"
+ a: "It can be, with strict power discipline and consistent sun. Fridge, lights, a laptop, and phone charging are workable at 400W in summer or in the Sun Belt. Add a CPAP, cloudy weather, or a full week of rain, and 400W will leave you watching your state of charge drop with no good options. Most people who start at 400W add more within a year."
+ - q: "What's better for full-time RV solar: one large panel or several smaller ones?"
+ a: "Multiple smaller panels (100-200W each) give you more flexibility for roof layout and shade management, since you can wire them in configurations that minimize the impact when one panel is partially shaded. One big panel is cheaper per watt but if a tree or vent shadows part of it, the whole thing underperforms. For most builds, I'd take four 200W panels over one 800W unit."
+ - q: "Do I need lithium batteries if I'm running a large solar system?"
+ a: "You don't need lithium, but it's the better choice for full-timing. Lead-acid (AGM specifically) works, but you're limited to using 50% of rated capacity without shortening lifespan, they're heavy, and they need to return to full charge regularly to avoid sulfation. With a large solar array that might not always complete a full charge cycle, lithium handles partial state of charge far better. The price premium has also dropped significantly; a 100Ah LiFePO4 drop-in is around $200-280 today."
+ - q: "How do I know if my solar system is actually working correctly?"
+ a: "A battery monitor like the Victron BMV-712 is the baseline. It tracks cumulative amp-hours in and out, calculates true state of charge, and logs history so you can see patterns. Pair it with a Victron SmartSolar charge controller and the VictronConnect app, and you can pull detailed production data by day. If your system doesn't have monitoring, you're flying blind and you'll misdiagnose problems for months before figuring out what's actually wrong."
 ---
 
 Most solar sizing guides will tell you to "calculate your daily watt-hours, then add 20% for buffer." That advice isn't wrong, but it's incomplete enough to get you into real trouble. I've watched people park a shiny new rig loaded with 400 watts of rooftop panels and then scratch their heads when they're running on empty by 7 PM. The math wasn't the problem. The assumptions were.

@@ -11,10 +11,7 @@ author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 slug: "how-to-camp-by-rv-at-a-fifa-world-cup-host-city-this-summer"
-affiliate_disclosure: false
----
-
-Most people watching the World Cup this summer booked a hotel six months ago and are now quietly panicking about the bill. That's the assumption, anyway. The reality in June 2026 is stranger and more interesting: hotel occupancy across U.S. host cities is running *below* forecast, RV park supply has exploded, and a genuine window has opened for fans who want to actually be there without paying $400 a night for a Marriott within commuting distance of a stadium.
+affiliate_disclosure: false, Most people watching the World Cup this summer booked a hotel six months ago and are now quietly panicking about the bill. That's the assumption, anyway. The reality in June 2026 is stranger and more interesting: hotel occupancy across U.S. host cities is running *below* forecast, RV park supply has exploded, and a genuine window has opened for fans who want to actually be there without paying $400 a night for a Marriott within commuting distance of a stadium.
 
 I'll be honest, I didn't expect to be writing about soccer. But when the data started coming in about what's happening to RV park inventory and pricing near World Cup host cities right now, it was too interesting to ignore. This isn't a travel trend piece. It's a look at a real, time-sensitive set of conditions that won't exist again.
 
@@ -58,11 +55,11 @@ The honest summary is this: the conditions that make RV camping a legitimate Wor
 
 ## Sources
 
-- [RV Park Supply Near World Cup Host Cities More Than Triples – RVBusiness](https://rvbusiness.com/rv-park-supply-near-world-cup-host-cities-more-than-triples/) (May 19, 2026)
-- [FIFA World Cup 2026 Drives Surge in RV Parks Near US Stadiums – FTN News](https://ftnnews.com/travel-news/sports/fifa-world-cup-2026-drives-surge-in-rv-parks-near-us-stadiums/) (May 19, 2026)
-- [How to Avoid FIFA World Cup Hotel Prices and See the Games by RV – Matador Network](https://matadornetwork.com/read/fifa-world-cup-by-rv/) (November 25, 2025)
-- [Plan an Epic RV Road Trip for 2026 Soccer – Outdoorsy](https://www.outdoorsy.com/blog/rv-soccer-road-trip) (May 5, 2026)
-- [Top 10 RV Industry News of June 2026 – Go RV Rentals](https://gorvrentals.com/blog/latest-rv-news-june-2026) (June 2026)
-- [Upcoming FIFA World Cup Triples RV Park Supply Near US Host Cities – RV PRO](https://rv-pro.com/news/upcoming-fifa-world-cup-triples-rv-park-supply-near-us-host-cities/) (May 20, 2026)
+- [RV Park Supply Near World Cup Host Cities More Than Triples, RVBusiness](https://rvbusiness.com/rv-park-supply-near-world-cup-host-cities-more-than-triples/) (May 19, 2026)
+- [FIFA World Cup 2026 Drives Surge in RV Parks Near US Stadiums, FTN News](https://ftnnews.com/travel-news/sports/fifa-world-cup-2026-drives-surge-in-rv-parks-near-us-stadiums/) (May 19, 2026)
+- [How to Avoid FIFA World Cup Hotel Prices and See the Games by RV, Matador Network](https://matadornetwork.com/read/fifa-world-cup-by-rv/) (November 25, 2025)
+- [Plan an Epic RV Road Trip for 2026 Soccer, Outdoorsy](https://www.outdoorsy.com/blog/rv-soccer-road-trip) (May 5, 2026)
+- [Top 10 RV Industry News of June 2026, Go RV Rentals](https://gorvrentals.com/blog/latest-rv-news-june-2026) (June 2026)
+- [Upcoming FIFA World Cup Triples RV Park Supply Near US Host Cities, RV PRO](https://rv-pro.com/news/upcoming-fifa-world-cup-triples-rv-park-supply-near-us-host-cities/) (May 20, 2026)
 
 *Photo: [KEREM TAŞER](https://www.pexels.com/@keremtaser) via Pexels*

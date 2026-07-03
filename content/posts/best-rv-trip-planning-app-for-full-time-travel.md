@@ -13,16 +13,16 @@ author_bio: "Sandra Park is the person her whole RV community comes to when they
 slug: "best-rv-trip-planning-app-for-full-time-travel"
 affiliate_disclosure: false
 faqs:
-  - q: "Is there one single RV trip planning app that does everything?"
-    a: "Not really, and you should be skeptical of any one app claiming to. The functionality you actually need for full-time travel (safe routing, campground research, offline maps, boondocking spots, and booking) is split across several tools. A two or three-app workflow is the norm for full-timers, not a sign that you're doing it wrong."
-  - q: "Do I need to pay for any of these apps, or are free options good enough?"
-    a: "If you're living in your RV full-time, pay for The Dyrt Pro and RV LIFE Pro at minimum. The offline maps and RV-specific routing are not features you want to find out you needed after the fact. The combined cost is under $90 a year. A single avoidance of a bridge-height incident, a campsite that doesn't fit your rig, or a night without a reservation in a crowded area will justify it."
-  - q: "How do I plan for areas with no cell signal?"
-    a: "Download offline maps before you leave signal range. The Dyrt Pro, Gaia GPS, and RV LIFE all support offline downloads. Make a habit of doing this every morning or the night before when you're planning the next leg. And keep a printed or screen-shotted backup of your campground info, including address, phone number, and directions from the last town with reliable GPS."
-  - q: "Are these apps useful for van lifers, or are they too focused on big rigs?"
-    a: "Most of them work well for both. The Dyrt and Campendium have large communities of van lifers and have reviews from smaller-rig travelers. You can actually filter by rig type in some searches. iOverlander and Gaia GPS are arguably even more useful for van lifers doing dispersed camping. The main feature you'd skip is the RV-routing component of RV LIFE, since clearance and weight restrictions matter less in a van."
-  - q: "What's the best app for finding free camping specifically?"
-    a: "Campendium is my first stop, specifically filtering for $0/night sites. The free camping data there is strong and the community is active. The Dyrt also has free camping pins. For BLM land specifically, pairing Campendium with Gaia GPS (for the land ownership layer) gives you a pretty complete picture of where you're allowed to camp for free and for how long."
+ - q: "Is there one single RV trip planning app that does everything?"
+ a: "Not really, and you should be skeptical of any one app claiming to. The functionality you actually need for full-time travel (safe routing, campground research, offline maps, boondocking spots, and booking) is split across several tools. A two or three-app workflow is the norm for full-timers, not a sign that you're doing it wrong."
+ - q: "Do I need to pay for any of these apps, or are free options good enough?"
+ a: "If you're living in your RV full-time, pay for The Dyrt Pro and RV LIFE Pro at minimum. The offline maps and RV-specific routing are not features you want to find out you needed after the fact. The combined cost is under $90 a year. A single avoidance of a bridge-height incident, a campsite that doesn't fit your rig, or a night without a reservation in a crowded area will justify it."
+ - q: "How do I plan for areas with no cell signal?"
+ a: "Download offline maps before you leave signal range. The Dyrt Pro, Gaia GPS, and RV LIFE all support offline downloads. Make a habit of doing this every morning or the night before when you're planning the next leg. And keep a printed or screen-shotted backup of your campground info, including address, phone number, and directions from the last town with reliable GPS."
+ - q: "Are these apps useful for van lifers, or are they too focused on big rigs?"
+ a: "Most of them work well for both. The Dyrt and Campendium have large communities of van lifers and have reviews from smaller-rig travelers. You can actually filter by rig type in some searches. iOverlander and Gaia GPS are arguably even more useful for van lifers doing dispersed camping. The main feature you'd skip is the RV-routing component of RV LIFE, since clearance and weight restrictions matter less in a van."
+ - q: "What's the best app for finding free camping specifically?"
+ a: "Campendium is my first stop, specifically filtering for $0/night sites. The free camping data there is strong and the community is active. The Dyrt also has free camping pins. For BLM land specifically, pairing Campendium with Gaia GPS (for the land ownership layer) gives you a pretty complete picture of where you're allowed to camp for free and for how long."
 ---
 
 You've probably spent the last few hours with six browser tabs open, reading "top 10 RV apps" articles that all recommend the same five apps in the same order, none of which explain what full-time travel actually requires versus a weekend camping trip. I know that feeling. I spent my first three months on the road with a patchwork of tools that worked fine individually and constantly failed me together, and it took a blown tire on a mountain road outside Durango with no cell signal and no real offline map to finally force me to get serious about this.

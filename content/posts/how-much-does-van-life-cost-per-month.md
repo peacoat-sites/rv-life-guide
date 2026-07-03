@@ -9,16 +9,16 @@ tags: ["much", "does", "life", "cost", "month"]
 slug: "how-much-does-van-life-cost-per-month"
 affiliate_disclosure: false
 faqs:
-  - q: "How much money should I save before starting van life?"
-    a: "At minimum, six months of expected monthly expenses as an emergency fund on top of your build costs. If your budget is $1,800/month, you want at least $10,800 liquid before you leave. Three months is not enough when you factor in vehicle emergencies."
-  - q: "Can I live in a van on $1,000 a month?"
-    a: "Technically yes, but it requires a paid-off van, no debt, strong DIY mechanical skills, and staying in the western US where free camping is plentiful. It's a tight margin that leaves almost nothing for repairs or emergencies. Most people who claim they're doing $1,000/month aren't accounting for depreciation or maintenance reserves."
-  - q: "Is van life cheaper than renting an apartment?"
-    a: "In many US cities, yes. A one-bedroom in Austin or Denver runs $1,400 to $2,200/month before utilities. A realistic van life budget of $1,500 to $2,000/month can genuinely be cheaper, especially if you're not carrying a van payment. But the comparison only holds if you're honest about all the van costs including maintenance."
-  - q: "What's the biggest hidden cost of van life?"
-    a: "Vehicle repairs, without question. Most people budget for them but underestimate the frequency and size of the bills. I'd also add the cost of your time: being your own mechanic, researching camping spots, planning routes around weather. It's not a cash expense, but it's real."
-  - q: "Do van lifers pay for camping every night?"
-    a: "No. Most experienced full-timers average maybe 30-50% paid camping nights and the rest free on BLM land, national forests, Walmart/Cracker Barrel lots (where allowed), or friends' driveways. The mix shifts depending on where in the country you are and what time of year it is."
+ - q: "How much money should I save before starting van life?"
+ a: "At minimum, six months of expected monthly expenses as an emergency fund on top of your build costs. If your budget is $1,800/month, you want at least $10,800 liquid before you leave. Three months is not enough when you factor in vehicle emergencies."
+ - q: "Can I live in a van on $1,000 a month?"
+ a: "Technically yes, but it requires a paid-off van, no debt, strong DIY mechanical skills, and staying in the western US where free camping is plentiful. It's a tight margin that leaves almost nothing for repairs or emergencies. Most people who claim they're doing $1,000/month aren't accounting for depreciation or maintenance reserves."
+ - q: "Is van life cheaper than renting an apartment?"
+ a: "In many US cities, yes. A one-bedroom in Austin or Denver runs $1,400 to $2,200/month before utilities. A realistic van life budget of $1,500 to $2,000/month can genuinely be cheaper, especially if you're not carrying a van payment. But the comparison only holds if you're honest about all the van costs including maintenance."
+ - q: "What's the biggest hidden cost of van life?"
+ a: "Vehicle repairs, without question. Most people budget for them but underestimate the frequency and size of the bills. I'd also add the cost of your time: being your own mechanic, researching camping spots, planning routes around weather. It's not a cash expense, but it's real."
+ - q: "Do van lifers pay for camping every night?"
+ a: "No. Most experienced full-timers average maybe 30-50% paid camping nights and the rest free on BLM land, national forests, Walmart/Cracker Barrel lots (where allowed), or friends' driveways. The mix shifts depending on where in the country you are and what time of year it is."
 author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
@@ -34,12 +34,12 @@ So let's talk about what van life actually costs. Not the fantasy version. The r
 ---
 
 <div class="value-module">
-  <div class="vm-head">Van Life Monthly Budget: Real vs. Ideal</div>
-  <div class="vm-body">
-    <p class="vm-intro">This comparison shows the gap between optimistic YouTube budgets and what full-timers actually report spending, including the emergency costs most calculators ignore.</p>
-    <table><caption>Monthly Van Life Cost Comparison: Ideal Projections vs. Real-World Ranges</caption><thead><tr><th>Expense Category</th><th>Optimistic Budget</th><th>Realistic Range</th><th>Hidden Cost Factors</th></tr></thead><tbody><tr><td>Vehicle Payment</td><td>$0</td><td>$0–$400</td><td>Older vans = lower payment but higher repair risk</td></tr><tr><td>Insurance</td><td>$80</td><td>$100–$200</td><td>Full-timer coverage costs more; lying voids claims</td></tr><tr><td>Fuel</td><td>$150</td><td>$200–$500</td><td>Relocating for weather/work spikes costs 2–3×</td></tr><tr><td>Camping/Parking</td><td>$0–$100</td><td>$150–$400</td><td>Free spots limited; coastal/mountain areas charge premium</td></tr><tr><td>Food</td><td>$200</td><td>$300–$500</td><td>Small fridge = more frequent shopping, less bulk savings</td></tr><tr><td>Phone/Internet</td><td>$50</td><td>$100–$180</td><td>Remote workers need backup hotspot + signal booster</td></tr><tr><td>Propane/Power</td><td>$20</td><td>$30–$80</td><td>Winter heating and summer cooling drain budgets</td></tr><tr><td>Laundry/Showers</td><td>$20</td><td>$40–$80</td><td>Gym memberships ($25–$50) often cheaper than pay-per-use</td></tr><tr><td>Maintenance Reserve</td><td>$0</td><td>$150–$300</td><td>Rule of thumb: save $0.10–$0.15 per mile driven</td></tr><tr><td>Emergency Fund Draw</td><td>$0</td><td>$100–$400</td><td>Average major repair: $800–$2,500; happens 1–2× yearly</td></tr><tr><th>Total</th><th>$520–$620</th><th>$1,200–$2,500+</th><th>Bad months can hit $3,000+ with one breakdown</th></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Van Life Monthly Budget: Real vs. Ideal</div>
+ <div class="vm-body">
+ <p class="vm-intro">This comparison shows the gap between optimistic YouTube budgets and what full-timers actually report spending, including the emergency costs most calculators ignore.</p>
+ <table><caption>Monthly Van Life Cost Comparison: Ideal Projections vs. Real-World Ranges</caption><thead><tr><th>Expense Category</th><th>Optimistic Budget</th><th>Realistic Range</th><th>Hidden Cost Factors</th></tr></thead><tbody><tr><td>Vehicle Payment</td><td>$0</td><td>$0–$400</td><td>Older vans = lower payment but higher repair risk</td></tr><tr><td>Insurance</td><td>$80</td><td>$100–$200</td><td>Full-timer coverage costs more; lying voids claims</td></tr><tr><td>Fuel</td><td>$150</td><td>$200–$500</td><td>Relocating for weather/work spikes costs 2–3×</td></tr><tr><td>Camping/Parking</td><td>$0–$100</td><td>$150–$400</td><td>Free spots limited; coastal/mountain areas charge premium</td></tr><tr><td>Food</td><td>$200</td><td>$300–$500</td><td>Small fridge = more frequent shopping, less bulk savings</td></tr><tr><td>Phone/Internet</td><td>$50</td><td>$100–$180</td><td>Remote workers need backup hotspot + signal booster</td></tr><tr><td>Propane/Power</td><td>$20</td><td>$30–$80</td><td>Winter heating and summer cooling drain budgets</td></tr><tr><td>Laundry/Showers</td><td>$20</td><td>$40–$80</td><td>Gym memberships ($25–$50) often cheaper than pay-per-use</td></tr><tr><td>Maintenance Reserve</td><td>$0</td><td>$150–$300</td><td>Rule of thumb: save $0.10–$0.15 per mile driven</td></tr><tr><td>Emergency Fund Draw</td><td>$0</td><td>$100–$400</td><td>Average major repair: $800–$2,500; happens 1–2× yearly</td></tr><tr><th>Total</th><th>$520–$620</th><th>$1,200–$2,500+</th><th>Bad months can hit $3,000+ with one breakdown</th></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Core Monthly Expenses: What Everyone Has

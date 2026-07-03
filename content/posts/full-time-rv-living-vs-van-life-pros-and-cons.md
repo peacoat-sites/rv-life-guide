@@ -9,16 +9,16 @@ tags: ["full-time", "living", "life", "pros", "cons"]
 slug: "full-time-rv-living-vs-van-life-pros-and-cons"
 affiliate_disclosure: false
 faqs:
-  - q: "Can I work remotely from either a van or an RV full-time?"
-    a: "Yes, people do it in both, but an RV is generally easier because you can separate your workspace from your sleep space and you typically have better electrical capacity for running monitors, lighting, and charging multiple devices. In a van you'll need to be more intentional about your setup, and a dedicated power system (400+ watts solar, 100Ah+ lithium) isn't optional if you're billing real hours."
-  - q: "Which is better for full-timing with a partner or family?"
-    a: "An RV, without much debate. Two adults in a van full-time is doable with the right relationship and personalities, but one sick day or one argument and that 80 square feet feels like a jail cell. Families with kids in a van is possible but I've seen it create serious strain. A 30+ foot fifth wheel or Class A gives you the breathing room that saves relationships."
-  - q: "How do I handle mail and my address living in either?"
-    a: "This is the same problem regardless of vehicle. Most full-timers use a mail forwarding service like Traveling Mailbox ($15 to $30/month), America's Mailbox, or Escapees. You'll also want to establish residency in a state with no income tax and favorable vehicle registration rules -- South Dakota, Texas, and Florida are the most popular choices for this."
-  - q: "Is van life actually cheaper than full-time RV living?"
-    a: "It can be, but it's not automatic. The lower campground costs from stealth camping and dispersed public land camping are real, but van repair costs (especially European vans like Sprinters) can be brutal. Over a five-year period, the total costs often end up closer than people expect. Your actual savings depend heavily on how much free camping you can realistically access."
-  - q: "What's the biggest mistake people make choosing between the two?"
-    a: "Choosing based on aesthetics instead of their actual daily life. If you work a demanding remote job, cook real food, live in a climate with weather extremes, or have any chronic health stuff that requires space and comfort, the van is going to fight you. If you're young, healthy, flexible, and genuinely love minimalism as a practice and not just a concept, the van experience is legitimately rewarding. Be honest about which person you actually are, not which person you want to be."
+ - q: "Can I work remotely from either a van or an RV full-time?"
+ a: "Yes, people do it in both, but an RV is generally easier because you can separate your workspace from your sleep space and you typically have better electrical capacity for running monitors, lighting, and charging multiple devices. In a van you'll need to be more intentional about your setup, and a dedicated power system (400+ watts solar, 100Ah+ lithium) isn't optional if you're billing real hours."
+ - q: "Which is better for full-timing with a partner or family?"
+ a: "An RV, without much debate. Two adults in a van full-time is doable with the right relationship and personalities, but one sick day or one argument and that 80 square feet feels like a jail cell. Families with kids in a van is possible but I've seen it create serious strain. A 30+ foot fifth wheel or Class A gives you the breathing room that saves relationships."
+ - q: "How do I handle mail and my address living in either?"
+ a: "This is the same problem regardless of vehicle. Most full-timers use a mail forwarding service like Traveling Mailbox ($15 to $30/month), America's Mailbox, or Escapees. You'll also want to establish residency in a state with no income tax and favorable vehicle registration rules, South Dakota, Texas, and Florida are the most popular choices for this."
+ - q: "Is van life actually cheaper than full-time RV living?"
+ a: "It can be, but it's not automatic. The lower campground costs from stealth camping and dispersed public land camping are real, but van repair costs (especially European vans like Sprinters) can be brutal. Over a five-year period, the total costs often end up closer than people expect. Your actual savings depend heavily on how much free camping you can realistically access."
+ - q: "What's the biggest mistake people make choosing between the two?"
+ a: "Choosing based on aesthetics instead of their actual daily life. If you work a demanding remote job, cook real food, live in a climate with weather extremes, or have any chronic health stuff that requires space and comfort, the van is going to fight you. If you're young, healthy, flexible, and genuinely love minimalism as a practice and not just a concept, the van experience is legitimately rewarding. Be honest about which person you actually are, not which person you want to be."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
@@ -34,12 +34,12 @@ I'm talking to people who want to live in their vehicle full-time, not people ch
 ---
 
 <div class="value-module">
-  <div class="vm-head">5-Year Total Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's the cumulative cost math over five years that most van-vs-RV comparisons skip, showing how monthly savings compound or erode your initial investment advantage.</p>
-    <table><thead><tr><th>Cost Category</th><th>Converted Van (Sprinter Example)</th><th>Travel Trailer + Tow Vehicle</th></tr></thead><tbody><tr><td>Initial Purchase (used, livable condition)</td><td>$55,000–$85,000</td><td>$40,000–$70,000 combined</td></tr><tr><td>Monthly Overnight Costs (stealth + paid mix)</td><td>$250–$400</td><td>$500–$800</td></tr><tr><td>5-Year Overnight Total</td><td>$15,000–$24,000</td><td>$30,000–$48,000</td></tr><tr><td>Fuel (12,000 mi/year, typical nomad)</td><td>$3,600–$4,800/year</td><td>$4,200–$5,400/year (towing)</td></tr><tr><td>5-Year Fuel Total</td><td>$18,000–$24,000</td><td>$21,000–$27,000</td></tr><tr><td>Major Repairs Reserve (realistic)</td><td>$8,000–$15,000 (Sprinter dealer labor rates)</td><td>$5,000–$10,000 (domestic truck + trailer)</td></tr><tr><td>Insurance (5 years)</td><td>$6,000–$9,000</td><td>$7,500–$12,000 (two policies)</td></tr><tr><td><strong>5-Year Total Range</strong></td><td><strong>$102,000–$157,000</strong></td><td><strong>$103,500–$167,000</strong></td></tr><tr><td>Resale Value Retained</td><td>50–65% (vans hold value well)</td><td>40–55% (trailers depreciate faster)</td></tr><tr><td><strong>Net 5-Year Cost After Resale</strong></td><td><strong>$55,000–$95,000</strong></td><td><strong>$60,000–$110,000</strong></td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">5-Year Total Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's the cumulative cost math over five years that most van-vs-RV comparisons skip, showing how monthly savings compound or erode your initial investment advantage.</p>
+ <table><thead><tr><th>Cost Category</th><th>Converted Van (Sprinter Example)</th><th>Travel Trailer + Tow Vehicle</th></tr></thead><tbody><tr><td>Initial Purchase (used, livable condition)</td><td>$55,000–$85,000</td><td>$40,000–$70,000 combined</td></tr><tr><td>Monthly Overnight Costs (stealth + paid mix)</td><td>$250–$400</td><td>$500–$800</td></tr><tr><td>5-Year Overnight Total</td><td>$15,000–$24,000</td><td>$30,000–$48,000</td></tr><tr><td>Fuel (12,000 mi/year, typical nomad)</td><td>$3,600–$4,800/year</td><td>$4,200–$5,400/year (towing)</td></tr><tr><td>5-Year Fuel Total</td><td>$18,000–$24,000</td><td>$21,000–$27,000</td></tr><tr><td>Major Repairs Reserve (realistic)</td><td>$8,000–$15,000 (Sprinter dealer labor rates)</td><td>$5,000–$10,000 (domestic truck + trailer)</td></tr><tr><td>Insurance (5 years)</td><td>$6,000–$9,000</td><td>$7,500–$12,000 (two policies)</td></tr><tr><td><strong>5-Year Total Range</strong></td><td><strong>$102,000–$157,000</strong></td><td><strong>$103,500–$167,000</strong></td></tr><tr><td>Resale Value Retained</td><td>50–65% (vans hold value well)</td><td>40–55% (trailers depreciate faster)</td></tr><tr><td><strong>Net 5-Year Cost After Resale</strong></td><td><strong>$55,000–$95,000</strong></td><td><strong>$60,000–$110,000</strong></td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Money Math Nobody Does Honestly

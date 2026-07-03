@@ -13,16 +13,16 @@ author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel
 slug: "how-to-calculate-rv-towing-capacity-correctly"
 affiliate_disclosure: false
 faqs:
-  - q: "What's the difference between towing capacity and payload capacity?"
-    a: "Towing capacity is the maximum weight your vehicle can pull behind it. Payload capacity is the maximum weight it can carry in or on itself, including passengers, cargo, and the downward force of the trailer tongue or pin. Both limits apply at the same time, and many people exceed payload while staying under tow rating."
-  - q: "Can I tow more if I upgrade my hitch?"
-    a: "No. A bigger or heavier-duty hitch doesn't increase your vehicle's tow or payload ratings. Those limits are set by the engine, transmission, frame, brakes, and axles. An upgraded hitch is useful for other reasons (receiver class, ball size, weight distribution capability), but it doesn't change the vehicle's rated capacity."
-  - q: "How do I find the payload capacity for my specific truck?"
-    a: "Look at the yellow sticker on the inside of the driver's door jamb. That number is specific to your vehicle's exact build and is the only one that matters. Don't use a website, a forum post, or the owner's manual, use the sticker."
-  - q: "Is the trailer's GVWR the same as its actual weight?"
-    a: "No. GVWR is the maximum allowable loaded weight. The actual weight depends on how much water, gear, and cargo you have in it. Your trailer might have a GVWR of 10,000 lbs but only weigh 7,500 lbs loaded. For towing calculations, use the actual loaded weight, not the GVWR, when estimating tongue weight and total towing load."
-  - q: "Do I need a special license to tow a large RV?"
-    a: "In most U.S. states, a standard Class C driver's license covers combinations under a certain total weight, typically 26,000 lbs GVWR. For very large diesel pushers or commercial-style configurations, some states require a non-commercial Class A or B. Check your specific state's DMV requirements, because this varies and has real legal consequences."
+ - q: "What's the difference between towing capacity and payload capacity?"
+ a: "Towing capacity is the maximum weight your vehicle can pull behind it. Payload capacity is the maximum weight it can carry in or on itself, including passengers, cargo, and the downward force of the trailer tongue or pin. Both limits apply at the same time, and many people exceed payload while staying under tow rating."
+ - q: "Can I tow more if I upgrade my hitch?"
+ a: "No. A bigger or heavier-duty hitch doesn't increase your vehicle's tow or payload ratings. Those limits are set by the engine, transmission, frame, brakes, and axles. An upgraded hitch is useful for other reasons (receiver class, ball size, weight distribution capability), but it doesn't change the vehicle's rated capacity."
+ - q: "How do I find the payload capacity for my specific truck?"
+ a: "Look at the yellow sticker on the inside of the driver's door jamb. That number is specific to your vehicle's exact build and is the only one that matters. Don't use a website, a forum post, or the owner's manual, use the sticker."
+ - q: "Is the trailer's GVWR the same as its actual weight?"
+ a: "No. GVWR is the maximum allowable loaded weight. The actual weight depends on how much water, gear, and cargo you have in it. Your trailer might have a GVWR of 10,000 lbs but only weigh 7,500 lbs loaded. For towing calculations, use the actual loaded weight, not the GVWR, when estimating tongue weight and total towing load."
+ - q: "Do I need a special license to tow a large RV?"
+ a: "In most U.S. states, a standard Class C driver's license covers combinations under a certain total weight, typically 26,000 lbs GVWR. For very large diesel pushers or commercial-style configurations, some states require a non-commercial Class A or B. Check your specific state's DMV requirements, because this varies and has real legal consequences."
 ---
 
 Most people get this wrong. Not a little wrong, significantly, dangerously wrong, and it's not entirely their fault because the RV industry has made "towing capacity" sound like a single number you look up in a brochure and compare to the weight of your trailer. It's not. It's the result of several interconnected calculations, and missing even one of them can put you in a situation you can't drive your way out of.

@@ -9,16 +9,16 @@ tags: ["best", "apps", "finding", "free", "campsites"]
 slug: "best-apps-for-finding-free-campsites"
 affiliate_disclosure: false
 faqs:
-  - q: "Is Freecampsites.net actually free to use?"
-    a: "Yes, completely free. The website and the app have no paywall, no membership fee. They run on donations and ads. If you use it regularly, throw them $5 or $10 occasionally. The data is community-maintained and it's worth supporting."
-  - q: "Can I find campsites for a big rig (40+ feet) using these apps?"
-    a: "You can, but it takes more filtering. The Dyrt PRO lets you filter by rig length. Freecampsites.net reviews often include notes about length, though not always. The most reliable method is reading the full review text for any mention of turning radius, road conditions, or size limits, and then checking Google Street View on the access road if you're worried."
-  - q: "How do I know if a free campsite is actually still free?"
-    a: "You don't, not with certainty. The best proxy is a recent review (within the past three to six months) from someone who confirms no fee. Call the local BLM or Forest Service field office if you're unsure. Fifteen minutes on the phone is worth it before a two-hour drive."
-  - q: "What's the best app if I have no cell service at all?"
-    a: "The Dyrt PRO with offline maps downloaded in advance. Download before you leave signal range. Gaia GPS is worth mentioning too, it's popular with overlanders and lets you cache large areas for offline use, though it's more navigation-focused than camp-finding."
-  - q: "Do these apps work outside the United States?"
-    a: "iOverlander is the strongest option internationally. It has active data in Mexico, Central America, Europe, and parts of South America. Freecampsites.net is almost entirely US-focused. The Dyrt is US and some Canada. If you're headed into Baja or beyond, iOverlander plus some offline mapping in Gaia or Maps.me is the combination I'd use."
+ - q: "Is Freecampsites.net actually free to use?"
+ a: "Yes, completely free. The website and the app have no paywall, no membership fee. They run on donations and ads. If you use it regularly, throw them $5 or $10 occasionally. The data is community-maintained and it's worth supporting."
+ - q: "Can I find campsites for a big rig (40+ feet) using these apps?"
+ a: "You can, but it takes more filtering. The Dyrt PRO lets you filter by rig length. Freecampsites.net reviews often include notes about length, though not always. The most reliable method is reading the full review text for any mention of turning radius, road conditions, or size limits, and then checking Google Street View on the access road if you're worried."
+ - q: "How do I know if a free campsite is actually still free?"
+ a: "You don't, not with certainty. The best proxy is a recent review (within the past three to six months) from someone who confirms no fee. Call the local BLM or Forest Service field office if you're unsure. Fifteen minutes on the phone is worth it before a two-hour drive."
+ - q: "What's the best app if I have no cell service at all?"
+ a: "The Dyrt PRO with offline maps downloaded in advance. Download before you leave signal range. Gaia GPS is worth mentioning too, it's popular with overlanders and lets you cache large areas for offline use, though it's more navigation-focused than camp-finding."
+ - q: "Do these apps work outside the United States?"
+ a: "iOverlander is the strongest option internationally. It has active data in Mexico, Central America, Europe, and parts of South America. Freecampsites.net is almost entirely US-focused. The Dyrt is US and some Canada. If you're headed into Baja or beyond, iOverlander plus some offline mapping in Gaia or Maps.me is the combination I'd use."
 author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
@@ -32,12 +32,12 @@ If you're reading this, you're probably in one of two places: either you just st
 ---
 
 <div class="value-module">
-  <div class="vm-head">Free Camping App Comparison Matrix</div>
-  <div class="vm-body">
-    <p class="vm-intro">This decision matrix scores the major free camping apps across the criteria that actually matter for finding legitimate dispersed sites.</p>
-    <table><thead><tr><th>App</th><th>Best For</th><th>Dispersed/BLM Coverage</th><th>Review Recency</th><th>Offline Maps</th><th>Rig Size Filters</th><th>Cost</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Freecampsites.net</td><td>Dedicated boondockers in US West</td><td>Excellent</td><td>Good (sortable)</td><td>No</td><td>In reviews only</td><td>Free</td><td>Outdated UI; no trip planning</td></tr><tr><td>iOverlander</td><td>Van lifers; Mexico/Canada crossings</td><td>Good</td><td>Variable</td><td>Yes</td><td>No</td><td>Free</td><td>US rural areas thin; international focus</td></tr><tr><td>Campendium</td><td>RVers wanting cell signal data</td><td>Good</td><td>Good</td><td>Pro only ($30/yr)</td><td>Yes</td><td>Free/Pro</td><td>Best features paywalled</td></tr><tr><td>The Dyrt</td><td>Mixed free/paid site hunters</td><td>Fair</td><td>Good</td><td>Pro only ($36/yr)</td><td>Yes</td><td>Free/Pro</td><td>Heavily weighted toward paid campgrounds</td></tr><tr><td>US Public Lands (USFS/BLM)</td><td>Verifying official land status</td><td>Authoritative</td><td>N/A</td><td>Partial</td><td>No</td><td>Free</td><td>No user reviews; steep learning curve</td></tr><tr><td>Gaia GPS / OnX</td><td>Finding unmarked dispersed roads</td><td>Land ownership only</td><td>N/A</td><td>Yes</td><td>No</td><td>$20-40/yr</td><td>Shows where, not if camping allowed</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Free Camping App Comparison Matrix</div>
+ <div class="vm-body">
+ <p class="vm-intro">This decision matrix scores the major free camping apps across the criteria that actually matter for finding legitimate dispersed sites.</p>
+ <table><thead><tr><th>App</th><th>Best For</th><th>Dispersed/BLM Coverage</th><th>Review Recency</th><th>Offline Maps</th><th>Rig Size Filters</th><th>Cost</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Freecampsites.net</td><td>Dedicated boondockers in US West</td><td>Excellent</td><td>Good (sortable)</td><td>No</td><td>In reviews only</td><td>Free</td><td>Outdated UI; no trip planning</td></tr><tr><td>iOverlander</td><td>Van lifers; Mexico/Canada crossings</td><td>Good</td><td>Variable</td><td>Yes</td><td>No</td><td>Free</td><td>US rural areas thin; international focus</td></tr><tr><td>Campendium</td><td>RVers wanting cell signal data</td><td>Good</td><td>Good</td><td>Pro only ($30/yr)</td><td>Yes</td><td>Free/Pro</td><td>Best features paywalled</td></tr><tr><td>The Dyrt</td><td>Mixed free/paid site hunters</td><td>Fair</td><td>Good</td><td>Pro only ($36/yr)</td><td>Yes</td><td>Free/Pro</td><td>Heavily weighted toward paid campgrounds</td></tr><tr><td>US Public Lands (USFS/BLM)</td><td>Verifying official land status</td><td>Authoritative</td><td>N/A</td><td>Partial</td><td>No</td><td>Free</td><td>No user reviews; steep learning curve</td></tr><tr><td>Gaia GPS / OnX</td><td>Finding unmarked dispersed roads</td><td>Land ownership only</td><td>N/A</td><td>Yes</td><td>No</td><td>$20-40/yr</td><td>Shows where, not if camping allowed</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The App That Actually Changed My Routing

@@ -9,16 +9,16 @@ tags: ["boondocking", "locations", "free"]
 slug: "boondocking-locations-free"
 affiliate_disclosure: false
 faqs:
-  - q: "Is it actually legal to sleep on BLM land for free?"
-    a: "Yes, in most cases. Dispersed camping on BLM land is legal and free for up to 14 consecutive days in most areas. After 14 days, you must move at least 25 miles before camping in the same area again. Some BLM areas have specific restrictions or require permits, so checking with the local field office before you go is always the right move."
-  - q: "Do I need any kind of pass or permit to camp on national forest land?"
-    a: "Usually not for basic dispersed camping. However, some heavily used national forests now require day-use passes or specific camping permits. The Coconino National Forest in Arizona and the Inyo National Forest in California are examples of places where rules have gotten stricter in recent years. Always check the specific forest's website. Recreation.gov handles permits for any managed areas that require them."
-  - q: "What's the smallest rig that can realistically access good boondocking spots?"
-    a: "The research here is mixed depending on what 'good' means to you. I'll say this from experience: a van or truck camper opens up 80% of boondocking spots. A Class B or small Class C gets you maybe 60%. A 30-35 foot Class A or fifth wheel limits you to maybe 30-40% of spots but those spots still exist and are often spectacular. The real constraint is road width and clearance, not necessarily the camping itself. Sites in popular BLM areas like Quartzsite or the California desert accommodate big rigs just fine."
-  - q: "How do I find out if an area has been recently closed or has fire restrictions?"
-    a: "The most reliable source is the managing agency's website. For BLM, that's blm.gov and you navigate to your specific state and then field office. For national forests, fs.usda.gov has individual forest pages. The InciWeb site tracks active wildfire closures. You can also call the field office directly. Don't rely on apps alone; crowd-sourced data lags behind real-time closures by days or weeks."
-  - q: "Can I boondock on state land?"
-    a: "It depends entirely on the state. Arizona, Montana, Nevada, New Mexico, and Wyoming have state land programs that allow dispersed camping, usually with an inexpensive annual recreational permit. Other states are far more restrictive and most of their state land is closed to camping. Look up your specific state's State Land Department or equivalent agency and look for recreational use policies."
+ - q: "Is it actually legal to sleep on BLM land for free?"
+ a: "Yes, in most cases. Dispersed camping on BLM land is legal and free for up to 14 consecutive days in most areas. After 14 days, you must move at least 25 miles before camping in the same area again. Some BLM areas have specific restrictions or require permits, so checking with the local field office before you go is always the right move."
+ - q: "Do I need any kind of pass or permit to camp on national forest land?"
+ a: "Usually not for basic dispersed camping. However, some heavily used national forests now require day-use passes or specific camping permits. The Coconino National Forest in Arizona and the Inyo National Forest in California are examples of places where rules have gotten stricter in recent years. Always check the specific forest's website. Recreation.gov handles permits for any managed areas that require them."
+ - q: "What's the smallest rig that can realistically access good boondocking spots?"
+ a: "The research here is mixed depending on what 'good' means to you. I'll say this from experience: a van or truck camper opens up 80% of boondocking spots. A Class B or small Class C gets you maybe 60%. A 30-35 foot Class A or fifth wheel limits you to maybe 30-40% of spots but those spots still exist and are often spectacular. The real constraint is road width and clearance, not necessarily the camping itself. Sites in popular BLM areas like Quartzsite or the California desert accommodate big rigs just fine."
+ - q: "How do I find out if an area has been recently closed or has fire restrictions?"
+ a: "The most reliable source is the managing agency's website. For BLM, that's blm.gov and you navigate to your specific state and then field office. For national forests, fs.usda.gov has individual forest pages. The InciWeb site tracks active wildfire closures. You can also call the field office directly. Don't rely on apps alone; crowd-sourced data lags behind real-time closures by days or weeks."
+ - q: "Can I boondock on state land?"
+ a: "It depends entirely on the state. Arizona, Montana, Nevada, New Mexico, and Wyoming have state land programs that allow dispersed camping, usually with an inexpensive annual recreational permit. Other states are far more restrictive and most of their state land is closed to camping. Look up your specific state's State Land Department or equivalent agency and look for recreational use policies."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
@@ -32,12 +32,12 @@ I've spent eight years finding free land, making mistakes, getting stuck (litera
 ---
 
 <div class="value-module">
-  <div class="vm-head">Public Land Stay Limits by Agency</div>
-  <div class="vm-body">
-    <p class="vm-intro">Each federal land agency enforces different dispersed camping rules-knowing these before you arrive prevents fines and forced relocations.</p>
-    <table><thead><tr><th>Land Type</th><th>Typical Stay Limit</th><th>Distance Rule</th><th>Permit Required?</th><th>Key Restrictions</th></tr></thead><tbody><tr><td>BLM (Standard Areas)</td><td>14 days per 28-day period</td><td>25–100 ft from water</td><td>No (most areas)</td><td>Must move 25+ miles after limit; no dumping gray water</td></tr><tr><td>BLM Long-Term Visitor Areas (AZ/CA)</td><td>Up to 7 months (seasonal)</td><td>Designated sites only</td><td>Yes ($40–$180/season)</td><td>Only 9 locations exist; dates vary Sept–April</td></tr><tr><td>National Forest (Dispersed)</td><td>14 days per 30-day period</td><td>200 ft from water/roads</td><td>No (most forests)</td><td>Fire restrictions vary; some forests require free fire permits</td></tr><tr><td>National Grasslands</td><td>14 days</td><td>Varies by unit</td><td>No</td><td>Often fewer restrictions than forests; less crowded</td></tr><tr><td>Army Corps of Engineers</td><td>14 days (free areas rare)</td><td>Designated areas only</td><td>Sometimes</td><td>Most sites are developed with fees; dispersed limited</td></tr><tr><td>State Trust Lands (AZ, NM, UT)</td><td>14 days typical</td><td>Varies</td><td>Yes ($15–$35/year)</td><td>Recreational permit required; not all states allow camping</td></tr><tr><td>Wildlife Management Areas</td><td>Often prohibited or hunt-season only</td><td>N/A</td><td>Varies</td><td>Many WMAs ban overnight stays entirely</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Public Land Stay Limits by Agency</div>
+ <div class="vm-body">
+ <p class="vm-intro">Each federal land agency enforces different dispersed camping rules-knowing these before you arrive prevents fines and forced relocations.</p>
+ <table><thead><tr><th>Land Type</th><th>Typical Stay Limit</th><th>Distance Rule</th><th>Permit Required?</th><th>Key Restrictions</th></tr></thead><tbody><tr><td>BLM (Standard Areas)</td><td>14 days per 28-day period</td><td>25–100 ft from water</td><td>No (most areas)</td><td>Must move 25+ miles after limit; no dumping gray water</td></tr><tr><td>BLM Long-Term Visitor Areas (AZ/CA)</td><td>Up to 7 months (seasonal)</td><td>Designated sites only</td><td>Yes ($40–$180/season)</td><td>Only 9 locations exist; dates vary Sept–April</td></tr><tr><td>National Forest (Dispersed)</td><td>14 days per 30-day period</td><td>200 ft from water/roads</td><td>No (most forests)</td><td>Fire restrictions vary; some forests require free fire permits</td></tr><tr><td>National Grasslands</td><td>14 days</td><td>Varies by unit</td><td>No</td><td>Often fewer restrictions than forests; less crowded</td></tr><tr><td>Army Corps of Engineers</td><td>14 days (free areas rare)</td><td>Designated areas only</td><td>Sometimes</td><td>Most sites are developed with fees; dispersed limited</td></tr><tr><td>State Trust Lands (AZ, NM, UT)</td><td>14 days typical</td><td>Varies</td><td>Yes ($15–$35/year)</td><td>Recreational permit required; not all states allow camping</td></tr><tr><td>Wildlife Management Areas</td><td>Often prohibited or hunt-season only</td><td>N/A</td><td>Varies</td><td>Many WMAs ban overnight stays entirely</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What "Free Camping" Actually Means (and What It Doesn't)

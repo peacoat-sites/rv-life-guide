@@ -9,16 +9,16 @@ tags: ["best", "camping", "memberships", "save", "money"]
 slug: "best-rv-camping-memberships-to-save-money"
 affiliate_disclosure: false
 faqs:
-  - q: "Is Thousand Trails worth buying for full-timers?"
-    a: "It depends entirely on your travel geography. If you camp frequently in the Pacific Northwest, California, the Southwest, or the mid-Atlantic corridor where they have strong park clusters, it's an excellent value. If you roam widely across the South and Midwest, you'll struggle to justify the annual fee. Map their parks against your actual routes before committing."
-  - q: "Can I use multiple RV memberships at the same time?"
-    a: "Yes, and you should. Most experienced full-timers stack two or three memberships because they cover different park networks. Passport America and Thousand Trails don't significantly overlap, so using both makes sense if your camping volume supports it. There's no conflict between any of the major programs."
-  - q: "Does Passport America work at KOA campgrounds?"
-    a: "No. KOA runs its own loyalty program (KOA Rewards, $30/year), which gives 10% off at their locations. Passport America and KOA are entirely separate networks. If you stay at KOA frequently, their program is worth having, though I'll be honest, the price-per-night at KOA even after a 10% discount is rarely the best value on the market."
-  - q: "What's the best membership for occasional RVers who only camp 20-30 nights per year?"
-    a: "At that volume, Passport America is probably the only one that makes mathematical sense. Harvest Hosts could also work well if you're self-contained and enjoy unique stops. Skip Thousand Trails entirely unless you can identify specific parks you'll use repeatedly."
-  - q: "Are any of these memberships transferable if I sell my RV?"
-    a: "Some are, some aren't. Good Sam is tied to a person, not a rig. Thousand Trails memberships can sometimes be transferred depending on the membership type; the older legacy memberships are transferable and actually sell on eBay. Passport America is personal. Always check the transfer policy before buying, especially for anything over $200, because a non-transferable membership is a real hit when you're changing rigs or leaving the lifestyle."
+ - q: "Is Thousand Trails worth buying for full-timers?"
+ a: "It depends entirely on your travel geography. If you camp frequently in the Pacific Northwest, California, the Southwest, or the mid-Atlantic corridor where they have strong park clusters, it's an excellent value. If you roam widely across the South and Midwest, you'll struggle to justify the annual fee. Map their parks against your actual routes before committing."
+ - q: "Can I use multiple RV memberships at the same time?"
+ a: "Yes, and you should. Most experienced full-timers stack two or three memberships because they cover different park networks. Passport America and Thousand Trails don't significantly overlap, so using both makes sense if your camping volume supports it. There's no conflict between any of the major programs."
+ - q: "Does Passport America work at KOA campgrounds?"
+ a: "No. KOA runs its own loyalty program (KOA Rewards, $30/year), which gives 10% off at their locations. Passport America and KOA are entirely separate networks. If you stay at KOA frequently, their program is worth having, though I'll be honest, the price-per-night at KOA even after a 10% discount is rarely the best value on the market."
+ - q: "What's the best membership for occasional RVers who only camp 20-30 nights per year?"
+ a: "At that volume, Passport America is probably the only one that makes mathematical sense. Harvest Hosts could also work well if you're self-contained and enjoy unique stops. Skip Thousand Trails entirely unless you can identify specific parks you'll use repeatedly."
+ - q: "Are any of these memberships transferable if I sell my RV?"
+ a: "Some are, some aren't. Good Sam is tied to a person, not a rig. Thousand Trails memberships can sometimes be transferred depending on the membership type; the older legacy memberships are transferable and actually sell on eBay. Passport America is personal. Always check the transfer policy before buying, especially for anything over $200, because a non-transferable membership is a real hit when you're changing rigs or leaving the lifestyle."
 author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
@@ -31,12 +31,12 @@ Here's what nobody tells you upfront: the RV membership game is complicated, the
 
 
 <div class="value-module">
-  <div class="vm-head">RV Membership Break-Even Calculator</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these annual camping night thresholds to determine which memberships will actually save you money based on your travel style.</p>
-    <table><caption>Break-Even Analysis by Membership Type (2024 Rates)</caption><thead><tr><th>Membership</th><th>Annual Cost</th><th>Typical Savings Per Night</th><th>Break-Even Nights</th><th>Best For</th></tr></thead><tbody><tr><td>Passport America</td><td>$44</td><td>$15–$25 (50% off avg $30–$50 sites)</td><td>2–3 nights</td><td>Any camper; lowest risk entry point</td></tr><tr><td>Good Sam Club</td><td>$29–$79 (tier-dependent)</td><td>$3–$6 (10% off at participating parks)</td><td>5–26 nights</td><td>Fuel/retail discounts add value beyond camping</td></tr><tr><td>Thousand Trails Zone Pass</td><td>$600–$700</td><td>$30–$45 (free nights vs avg private park)</td><td>15–23 nights</td><td>Regional campers staying 2+ weeks per zone</td></tr><tr><td>Thousand Trails Elite (resale)</td><td>$3,000–$8,000 + $550–$700/yr dues</td><td>$35–$50 per night</td><td>60–80 nights in year one; 12–20 thereafter</td><td>Full-timers committed to TT network</td></tr><tr><td>Harvest Hosts</td><td>$99–$179</td><td>$25–$40 (free overnight vs budget campground)</td><td>3–7 nights</td><td>Self-contained rigs; unique experiences over amenities</td></tr><tr><td>Boondockers Welcome</td><td>$79</td><td>$25–$35 (free private driveways)</td><td>2–4 nights</td><td>Flexible travelers comfortable with host interactions</td></tr><tr><td>Escapees RV Club</td><td>$50</td><td>$5–$15 (network discounts + mail service value)</td><td>4–10 nights</td><td>Full-timers needing domicile/mail forwarding</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">RV Membership Break-Even Calculator</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these annual camping night thresholds to determine which memberships will actually save you money based on your travel style.</p>
+ <table><caption>Break-Even Analysis by Membership Type (2024 Rates)</caption><thead><tr><th>Membership</th><th>Annual Cost</th><th>Typical Savings Per Night</th><th>Break-Even Nights</th><th>Best For</th></tr></thead><tbody><tr><td>Passport America</td><td>$44</td><td>$15–$25 (50% off avg $30–$50 sites)</td><td>2–3 nights</td><td>Any camper; lowest risk entry point</td></tr><tr><td>Good Sam Club</td><td>$29–$79 (tier-dependent)</td><td>$3–$6 (10% off at participating parks)</td><td>5–26 nights</td><td>Fuel/retail discounts add value beyond camping</td></tr><tr><td>Thousand Trails Zone Pass</td><td>$600–$700</td><td>$30–$45 (free nights vs avg private park)</td><td>15–23 nights</td><td>Regional campers staying 2+ weeks per zone</td></tr><tr><td>Thousand Trails Elite (resale)</td><td>$3,000–$8,000 + $550–$700/yr dues</td><td>$35–$50 per night</td><td>60–80 nights in year one; 12–20 thereafter</td><td>Full-timers committed to TT network</td></tr><tr><td>Harvest Hosts</td><td>$99–$179</td><td>$25–$40 (free overnight vs budget campground)</td><td>3–7 nights</td><td>Self-contained rigs; unique experiences over amenities</td></tr><tr><td>Boondockers Welcome</td><td>$79</td><td>$25–$35 (free private driveways)</td><td>2–4 nights</td><td>Flexible travelers comfortable with host interactions</td></tr><tr><td>Escapees RV Club</td><td>$50</td><td>$5–$15 (network discounts + mail service value)</td><td>4–10 nights</td><td>Full-timers needing domicile/mail forwarding</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Passport America: The One Most People Overlook

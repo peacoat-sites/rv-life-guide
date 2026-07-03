@@ -13,16 +13,16 @@ author_bio: "Sandra Park is the person her whole RV community comes to when they
 slug: "full-time-rv-living-with-a-dog-tips"
 affiliate_disclosure: false
 faqs:
-  - q: "How do you handle a dog that barks at neighbors in tight campgrounds?"
-    a: "Consistent counter-conditioning from day one, and I mean from the very first site you pull into. I click-and-treat Biscuit every time she notices a neighbor and stays quiet. After years of practice she's reliable, but she wasn't at first -- we stayed in bigger, more spread-out sites when she was learning, which helped enormously."
-  - q: "What do you do with your dog when you have to make a long drive?"
-    a: "Biscuit rides in the cab with me, secured with a Sleepypod Clickit Sport harness that's been crash-tested. I stop every 2-3 hours minimum for a water and stretch break. On drives over 8 hours, I book a pet-friendly motel for the night rather than push through -- she handles a good night's sleep better than 14 hours in a moving vehicle."
-  - q: "Are there campgrounds that don't allow dogs at all?"
-    a: "Yes, and more than people expect. Some national park campgrounds, certain membership resorts, and a handful of state parks in specific areas either ban dogs from certain sites or from the campground entirely. Always verify before you book, not when you pull in."
-  - q: "How much does it actually cost to keep a dog healthy on the road?"
-    a: "Realistically, I budget $150-200 per month for Biscuit, which covers the Banfield wellness plan, monthly flea/tick/heartworm prevention (essential because you're in so many different environments), occasional telehealth visits, and a food budget for her Purina Pro Plan. That doesn't include emergency vet visits, which I keep a $1,500 dedicated emergency fund for. She's had two significant vet visits in eight years that cost $800 and $1,100 respectively."
-  - q: "Can a large dog actually live comfortably in an RV?"
-    a: "Biscuit is 65 pounds, which is solidly 'large dog' territory, and she's genuinely happy. What matters far more than rig size is how much time you spend outside. If you're a screen-and-campfire person who stays parked for days at a time, a big dog will go stir-crazy regardless of how spacious your rig is. If you're active and moving, a dog that size adjusts fine -- I've met Great Dane owners doing this life who would argue the same."
+ - q: "How do you handle a dog that barks at neighbors in tight campgrounds?"
+ a: "Consistent counter-conditioning from day one, and I mean from the very first site you pull into. I click-and-treat Biscuit every time she notices a neighbor and stays quiet. After years of practice she's reliable, but she wasn't at first, we stayed in bigger, more spread-out sites when she was learning, which helped enormously."
+ - q: "What do you do with your dog when you have to make a long drive?"
+ a: "Biscuit rides in the cab with me, secured with a Sleepypod Clickit Sport harness that's been crash-tested. I stop every 2-3 hours minimum for a water and stretch break. On drives over 8 hours, I book a pet-friendly motel for the night rather than push through, she handles a good night's sleep better than 14 hours in a moving vehicle."
+ - q: "Are there campgrounds that don't allow dogs at all?"
+ a: "Yes, and more than people expect. Some national park campgrounds, certain membership resorts, and a handful of state parks in specific areas either ban dogs from certain sites or from the campground entirely. Always verify before you book, not when you pull in."
+ - q: "How much does it actually cost to keep a dog healthy on the road?"
+ a: "Realistically, I budget $150-200 per month for Biscuit, which covers the Banfield wellness plan, monthly flea/tick/heartworm prevention (essential because you're in so many different environments), occasional telehealth visits, and a food budget for her Purina Pro Plan. That doesn't include emergency vet visits, which I keep a $1,500 dedicated emergency fund for. She's had two significant vet visits in eight years that cost $800 and $1,100 respectively."
+ - q: "Can a large dog actually live comfortably in an RV?"
+ a: "Biscuit is 65 pounds, which is solidly 'large dog' territory, and she's genuinely happy. What matters far more than rig size is how much time you spend outside. If you're a screen-and-campfire person who stays parked for days at a time, a big dog will go stir-crazy regardless of how spacious your rig is. If you're active and moving, a dog that size adjusts fine, I've met Great Dane owners doing this life who would argue the same."
 ---
 My dog Biscuit has logged more miles than most people's cars. Somewhere north of 60,000 miles across 34 states, all from a custom platform bed wedged into the passenger-side corner of my 32-foot fifth wheel. When I started full-timing with her in 2018, I figured the hardest part would be tracking down pet-friendly campgrounds. I was completely wrong about that.
 
@@ -31,19 +31,19 @@ The hardest part is everything you don't anticipate. The vet situation. The anxi
 ---
 
 <div class="value-module">
-  <div class="vm-head">Dog-Friendly Campground Type Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here's how the main campground categories stack up for full-time RVers with dogs, based on factors that actually matter beyond just 'pets allowed.'</p>
-    <table><thead><tr><th>Campground Type</th><th>Typical Dog Space</th><th>Leash Flexibility</th><th>Neighbor Density</th><th>Hookups</th><th>Avg. Nightly Cost</th><th>Best For</th></tr></thead><tbody><tr><td>Corps of Engineers</td><td>Large natural sites, often waterfront</td><td>Moderate (6-ft standard but room to roam)</td><td>Low to moderate</td><td>Varies (many electric-only or dry)</td><td>$20–$35</td><td>Active dogs needing space; budget-conscious</td></tr><tr><td>State Parks</td><td>Good natural terrain, trails common</td><td>Strict 6-ft enforcement typical</td><td>Moderate</td><td>Varies widely by state</td><td>$25–$45</td><td>Hiking dogs; scenic longer stays</td></tr><tr><td>KOA</td><td>Consistent but compact sites</td><td>Strict; often fenced dog parks</td><td>High</td><td>Full hookups standard</td><td>$45–$75</td><td>Amenity needs; predictable experience</td></tr><tr><td>Thousand Trails</td><td>Highly variable by location</td><td>Moderate</td><td>Moderate to high</td><td>Full hookups typical</td><td>Membership-based ($500–$600/yr + fees)</td><td>Long-term stays; membership value</td></tr><tr><td>Harvest Hosts</td><td>Usually open land (farms, wineries)</td><td>Often flexible; property-dependent</td><td>Very low</td><td>None (dry camping only)</td><td>Membership only ($99–$179/yr)</td><td>Social dogs; one-night variety stops</td></tr><tr><td>Boondocking (BLM/Forest)</td><td>Unlimited open space</td><td>Typically no restrictions</td><td>None to very low</td><td>None</td><td>Free</td><td>Off-leash needs; self-sufficient rigs</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Dog-Friendly Campground Type Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here's how the main campground categories stack up for full-time RVers with dogs, based on factors that actually matter beyond just 'pets allowed.'</p>
+ <table><thead><tr><th>Campground Type</th><th>Typical Dog Space</th><th>Leash Flexibility</th><th>Neighbor Density</th><th>Hookups</th><th>Avg. Nightly Cost</th><th>Best For</th></tr></thead><tbody><tr><td>Corps of Engineers</td><td>Large natural sites, often waterfront</td><td>Moderate (6-ft standard but room to roam)</td><td>Low to moderate</td><td>Varies (many electric-only or dry)</td><td>$20–$35</td><td>Active dogs needing space; budget-conscious</td></tr><tr><td>State Parks</td><td>Good natural terrain, trails common</td><td>Strict 6-ft enforcement typical</td><td>Moderate</td><td>Varies widely by state</td><td>$25–$45</td><td>Hiking dogs; scenic longer stays</td></tr><tr><td>KOA</td><td>Consistent but compact sites</td><td>Strict; often fenced dog parks</td><td>High</td><td>Full hookups standard</td><td>$45–$75</td><td>Amenity needs; predictable experience</td></tr><tr><td>Thousand Trails</td><td>Highly variable by location</td><td>Moderate</td><td>Moderate to high</td><td>Full hookups typical</td><td>Membership-based ($500–$600/yr + fees)</td><td>Long-term stays; membership value</td></tr><tr><td>Harvest Hosts</td><td>Usually open land (farms, wineries)</td><td>Often flexible; property-dependent</td><td>Very low</td><td>None (dry camping only)</td><td>Membership only ($99–$179/yr)</td><td>Social dogs; one-night variety stops</td></tr><tr><td>Boondocking (BLM/Forest)</td><td>Unlimited open space</td><td>Typically no restrictions</td><td>None to very low</td><td>None</td><td>Free</td><td>Off-leash needs; self-sufficient rigs</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Finding Campgrounds That Actually Work For Dogs
 
 "Pet-friendly" is basically marketing language for "we allow dogs." It tells you nothing about whether there's actual grass, whether the leash rule means a strict 6-foot enforcement, whether the dog park is a fenced mud pit, or whether a dozen yappy dogs are parked within earshot of your site.
 
-What I've learned to actually look for: KOAs are reliably dog-tolerant but hit-or-miss on space. State parks almost always have better natural terrain and room to breathe, though hookups vary. Thousand Trails properties have been unpredictable -- some have fantastic dog walks, others are wall-to-wall gravel pads. Corps of Engineers campgrounds are genuinely underrated. Lots of space, actual ground (not asphalt), usually water nearby, and genuinely cheap rates.
+What I've learned to actually look for: KOAs are reliably dog-tolerant but hit-or-miss on space. State parks almost always have better natural terrain and room to breathe, though hookups vary. Thousand Trails properties have been unpredictable, some have fantastic dog walks, others are wall-to-wall gravel pads. Corps of Engineers campgrounds are genuinely underrated. Lots of space, actual ground (not asphalt), usually water nearby, and genuinely cheap rates.
 
 Before I book anywhere now, I search Campendium and filter for reviews mentioning pets. Real campers write things like "tiny sites packed together" or "gorgeous nature trails, dogs loved it" and that tells me infinitely more than any website description.
 

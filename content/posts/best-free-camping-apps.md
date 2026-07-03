@@ -9,16 +9,16 @@ tags: ["best", "free", "camping", "apps"]
 slug: "best-free-camping-apps"
 affiliate_disclosure: false
 faqs:
-  - q: "Are BLM and National Forest dispersed camping spots actually free?"
-    a: "Most of them, yes. On BLM land, dispersed camping is typically free with a 14-day stay limit at any single spot before you need to move at least 25 miles. National Forest rules vary by forest and district, with most allowing free dispersed camping unless posted otherwise. Some popular areas have transitioned to permit systems or fee sites. Always verify with the specific land management office before assuming free."
-  - q: "Can I trust the GPS coordinates in these apps?"
-    a: "Usually, but not always. I've had coordinates drop me 200 feet from the actual site entrance, which doesn't sound like much until it's a narrow forest road and you've overshot the turn. Use coordinates as a general guide and watch for physical markers. Screenshots of approach notes from the app are often more useful than the pin itself."
-  - q: "What's the difference between dispersed camping and boondocking?"
-    a: "They're often used interchangeably but technically dispersed camping refers specifically to camping on public land outside of designated campgrounds, while boondocking is the broader term for any camping without hookups, including Walmart lots and casino parking. Both are covered by the apps above, just in different sections."
-  - q: "Is it safe to camp alone at free sites?"
-    a: "I've done it for years, including as a solo woman. Most dispersed sites are safe. Common sense applies: tell someone your coordinates and check-in plan, keep your phone charged, and trust your gut about a spot. If another vehicle is parked in a way that makes you uncomfortable, move on. The apps often have comments about whether a spot felt safe, and those notes are worth reading."
-  - q: "What should I do if a spot listed as free now has a fee or is closed?"
-    a: "Report it in the app. Every major app has a 'suggest edit' or comment function. The whole system works because people contribute updates. If you find a closed gate or a new fee station, spending 90 seconds to update the listing is how you pay it forward to the next person who searches that spot."
+ - q: "Are BLM and National Forest dispersed camping spots actually free?"
+ a: "Most of them, yes. On BLM land, dispersed camping is typically free with a 14-day stay limit at any single spot before you need to move at least 25 miles. National Forest rules vary by forest and district, with most allowing free dispersed camping unless posted otherwise. Some popular areas have transitioned to permit systems or fee sites. Always verify with the specific land management office before assuming free."
+ - q: "Can I trust the GPS coordinates in these apps?"
+ a: "Usually, but not always. I've had coordinates drop me 200 feet from the actual site entrance, which doesn't sound like much until it's a narrow forest road and you've overshot the turn. Use coordinates as a general guide and watch for physical markers. Screenshots of approach notes from the app are often more useful than the pin itself."
+ - q: "What's the difference between dispersed camping and boondocking?"
+ a: "They're often used interchangeably but technically dispersed camping refers specifically to camping on public land outside of designated campgrounds, while boondocking is the broader term for any camping without hookups, including Walmart lots and casino parking. Both are covered by the apps above, just in different sections."
+ - q: "Is it safe to camp alone at free sites?"
+ a: "I've done it for years, including as a solo woman. Most dispersed sites are safe. Common sense applies: tell someone your coordinates and check-in plan, keep your phone charged, and trust your gut about a spot. If another vehicle is parked in a way that makes you uncomfortable, move on. The apps often have comments about whether a spot felt safe, and those notes are worth reading."
+ - q: "What should I do if a spot listed as free now has a fee or is closed?"
+ a: "Report it in the app. Every major app has a 'suggest edit' or comment function. The whole system works because people contribute updates. If you find a closed gate or a new fee station, spending 90 seconds to update the listing is how you pay it forward to the next person who searches that spot."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
@@ -32,12 +32,12 @@ Let me walk you through the apps I actually use, how I use them together, and wh
 ---
 
 <div class="value-module">
-  <div class="vm-head">Free Camping App Comparison Matrix</div>
-  <div class="vm-body">
-    <p class="vm-intro">This decision matrix compares the most-used free camping apps across the criteria that matter most when you're tired and need a spot tonight.</p>
-    <table><thead><tr><th>App</th><th>Best For</th><th>Coverage Strength</th><th>Offline Maps</th><th>Cell Signal Needed</th><th>Key Limitation</th></tr></thead><tbody><tr><td>iOverlander</td><td>BLM/Forest dispersed camping</td><td>Southwest US, Mexico, Canada</td><td>Yes (download areas)</td><td>No (once downloaded)</td><td>Sparse coverage in Eastern US</td></tr><tr><td>Campendium</td><td>Reviews + cell signal reports</td><td>All US, strongest in West</td><td>Limited (premium)</td><td>Yes for full features</td><td>Best features require $30/year</td></tr><tr><td>FreeRoam</td><td>BLM land boundaries overlay</td><td>Western public lands</td><td>Yes</td><td>No</td><td>Fewer user reviews than competitors</td></tr><tr><td>Harvest Hosts</td><td>Wineries, farms, attractions</td><td>Nationwide US</td><td>No</td><td>Yes</td><td>Membership required ($99+/year)</td></tr><tr><td>AllStays (free tier)</td><td>Walmart/overnight parking</td><td>Nationwide US</td><td>No</td><td>Yes</td><td>Full features need $10 one-time</td></tr><tr><td>US Public Lands</td><td>Verifying land ownership</td><td>All federal lands</td><td>Yes</td><td>No</td><td>No campsite-specific info</td></tr><tr><td>Recreation.gov</td><td>Free developed campgrounds</td><td>Federal campgrounds only</td><td>No</td><td>Yes</td><td>Limited dispersed camping data</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Free Camping App Comparison Matrix</div>
+ <div class="vm-body">
+ <p class="vm-intro">This decision matrix compares the most-used free camping apps across the criteria that matter most when you're tired and need a spot tonight.</p>
+ <table><thead><tr><th>App</th><th>Best For</th><th>Coverage Strength</th><th>Offline Maps</th><th>Cell Signal Needed</th><th>Key Limitation</th></tr></thead><tbody><tr><td>iOverlander</td><td>BLM/Forest dispersed camping</td><td>Southwest US, Mexico, Canada</td><td>Yes (download areas)</td><td>No (once downloaded)</td><td>Sparse coverage in Eastern US</td></tr><tr><td>Campendium</td><td>Reviews + cell signal reports</td><td>All US, strongest in West</td><td>Limited (premium)</td><td>Yes for full features</td><td>Best features require $30/year</td></tr><tr><td>FreeRoam</td><td>BLM land boundaries overlay</td><td>Western public lands</td><td>Yes</td><td>No</td><td>Fewer user reviews than competitors</td></tr><tr><td>Harvest Hosts</td><td>Wineries, farms, attractions</td><td>Nationwide US</td><td>No</td><td>Yes</td><td>Membership required ($99+/year)</td></tr><tr><td>AllStays (free tier)</td><td>Walmart/overnight parking</td><td>Nationwide US</td><td>No</td><td>Yes</td><td>Full features need $10 one-time</td></tr><tr><td>US Public Lands</td><td>Verifying land ownership</td><td>All federal lands</td><td>Yes</td><td>No</td><td>No campsite-specific info</td></tr><tr><td>Recreation.gov</td><td>Free developed campgrounds</td><td>Federal campgrounds only</td><td>No</td><td>Yes</td><td>Limited dispersed camping data</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Landscape of Free Camping Apps (And Why You Need More Than One)

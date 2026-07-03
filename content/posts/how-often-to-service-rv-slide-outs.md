@@ -13,16 +13,16 @@ author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel
 slug: "how-often-to-service-rv-slide-outs"
 affiliate_disclosure: false
 faqs:
-  - q: "How often should I lubricate RV slide-out rails?"
-    a: "Every three months for full-timers moving regularly, or every 3,000 miles, whichever comes first. Use a dry PTFE lubricant rather than a petroleum-based spray, which attracts grit and can accelerate rail wear over time."
-  - q: "Can I use WD-40 on my slide-out seals?"
-    a: "No. WD-40 will temporarily soften rubber seals but accelerates drying and cracking with repeated use. Use a product specifically formulated for EPDM or TPO rubber seals, like Camco's slide-out conditioner."
-  - q: "How do I know if my slide-out seals need replacing?"
-    a: "Look for visible cracks, tears, or permanent compression in the rubber (seals that no longer spring back when pressed). You'll also hear road noise or feel drafts near the slide that weren't there before. Discoloration on interior walls near the slide corners is a late-stage warning sign."
-  - q: "What's the difference between hydraulic and electric slide maintenance?"
-    a: "Electric systems focus on rail lubrication and motor health. Hydraulic systems require fluid level checks, fluid condition monitoring, and periodic seal inspections at the cylinders. Hydraulic systems fail more catastrophically when neglected but give more warning signs (slow operation, fluid leaks, uneven extension) before full failure."
-  - q: "How much does a slide-out repair typically cost in 2026?"
-    a: "Range is wide. A seal replacement runs $150-400 depending on seal length and labor rates. Rail roller replacement averages $200-350. A failed electric motor runs $400-700 installed. Full hydraulic slide rebuild or cylinder replacement can reach $1,500-3,000. Catching problems early makes an enormous financial difference."
+ - q: "How often should I lubricate RV slide-out rails?"
+ a: "Every three months for full-timers moving regularly, or every 3,000 miles, whichever comes first. Use a dry PTFE lubricant rather than a petroleum-based spray, which attracts grit and can accelerate rail wear over time."
+ - q: "Can I use WD-40 on my slide-out seals?"
+ a: "No. WD-40 will temporarily soften rubber seals but accelerates drying and cracking with repeated use. Use a product specifically formulated for EPDM or TPO rubber seals, like Camco's slide-out conditioner."
+ - q: "How do I know if my slide-out seals need replacing?"
+ a: "Look for visible cracks, tears, or permanent compression in the rubber (seals that no longer spring back when pressed). You'll also hear road noise or feel drafts near the slide that weren't there before. Discoloration on interior walls near the slide corners is a late-stage warning sign."
+ - q: "What's the difference between hydraulic and electric slide maintenance?"
+ a: "Electric systems focus on rail lubrication and motor health. Hydraulic systems require fluid level checks, fluid condition monitoring, and periodic seal inspections at the cylinders. Hydraulic systems fail more catastrophically when neglected but give more warning signs (slow operation, fluid leaks, uneven extension) before full failure."
+ - q: "How much does a slide-out repair typically cost in 2026?"
+ a: "Range is wide. A seal replacement runs $150-400 depending on seal length and labor rates. Rail roller replacement averages $200-350. A failed electric motor runs $400-700 installed. Full hydraulic slide rebuild or cylinder replacement can reach $1,500-3,000. Catching problems early makes an enormous financial difference."
 ---
 
 Eight years. That's how long I've been living full-time in a rig, and I can tell you with complete confidence that slide-outs are responsible for more roadside panic texts in my reader inbox than anything else. More than tire blowouts. More than generator failures. More than the great gray water mystery of 2022 (don't ask).
@@ -134,5 +134,5 @@ I'd also keep a bottle of Dicor Lap Sealant on hand for any tiny gaps that devel
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

@@ -11,10 +11,7 @@ author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 slug: "loves-is-building-out-the-biggest-rv-stop-network-on-the-road"
-affiliate_disclosure: false
----
-
-You're somewhere on I-80, it's 9 p.m., you've been driving since noon, and your only options within 30 miles are a Walmart lot, a dark rest area with a broken bathroom, or the Love's you just passed. You've probably made this call before. What's changing is that Love's is actively betting you'll make it more often, and they're spending $700 million to make sure you can.
+affiliate_disclosure: false, You're somewhere on I-80, it's 9 p.m., you've been driving since noon, and your only options within 30 miles are a Walmart lot, a dark rest area with a broken bathroom, or the Love's you just passed. You've probably made this call before. What's changing is that Love's is actively betting you'll make it more often, and they're spending $700 million to make sure you can.
 
 Love's Travel Stops announced their "Road Ahead Plan" for 2026 earlier this year, and the RV piece of it is real and moving fast. Twenty-three new RV locations are rolling out this summer, which will push their network past 140 locations and over 2,000 hookups nationwide. For context: they hit their 100th RV Stop milestone in Carlin, Nevada in summer 2025. They're going from 100 to 140-plus in about a year. That's not incremental. That's a company that's decided the full-timer and road-tripper market is worth chasing hard.
 
@@ -59,10 +56,10 @@ Love's hitting 140-plus locations and 2,000 hookups reshapes the map in a real w
 I've never loved truck stops as overnight destinations. But I've also never regretted having one available when I needed it. Love's is making that availability more consistent across more of the country, and the addition of tires and batteries shows they're thinking about full-timers as a real customer, not just an afterthought. Whether the community warms up to them or keeps griping about the noise is almost beside the point. When your house is on wheels, options are assets.
 
 ## Sources
-- [Love's Travel Stops Expansion Includes 23 New RV Locations – Camper Report](https://camperreport.com/loves-travel-stops-expansion-includes-23-new-rv-locations/) (February 10, 2026)
-- [Love's Travel Stops Focuses on Growth & Reinvestment in 2026 – RV PRO](https://rv-pro.com/news/loves-travel-stops-focuses-on-growth-reinvestment-in-2026/) (February 5, 2026)
-- [Love's Travel Stops Expands RV Services – NACS](https://www.convenience.org/stay-current/news/2026/june/love%E2%80%99s-travel-stops-expands-rv-services) (June 2026)
-- [Love's Opens Locations in Montana and New Mexico – Love's Newsroom](https://www.loves.com/news/2026/april/loves-opens-locations-in-montana-and-new-mexico) (April 2, 2026)
-- [Are Love's Truck Stop RV Sites Worth the Price and Convenience? – Keystone Forums](https://www.keystoneforums.com/threads/are-loves-truck-stop-rv-sites-worth-the-price-and-convenience.2185545/) (February 2026)
+- [Love's Travel Stops Expansion Includes 23 New RV Locations, Camper Report](https://camperreport.com/loves-travel-stops-expansion-includes-23-new-rv-locations/) (February 10, 2026)
+- [Love's Travel Stops Focuses on Growth & Reinvestment in 2026, RV PRO](https://rv-pro.com/news/loves-travel-stops-focuses-on-growth-reinvestment-in-2026/) (February 5, 2026)
+- [Love's Travel Stops Expands RV Services, NACS](https://www.convenience.org/stay-current/news/2026/june/love%E2%80%99s-travel-stops-expands-rv-services) (June 2026)
+- [Love's Opens Locations in Montana and New Mexico, Love's Newsroom](https://www.loves.com/news/2026/april/loves-opens-locations-in-montana-and-new-mexico) (April 2, 2026)
+- [Are Love's Truck Stop RV Sites Worth the Price and Convenience?, Keystone Forums](https://www.keystoneforums.com/threads/are-loves-truck-stop-rv-sites-worth-the-price-and-convenience.2185545/) (February 2026)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

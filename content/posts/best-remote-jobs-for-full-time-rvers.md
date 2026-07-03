@@ -13,16 +13,16 @@ author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel
 slug: "best-remote-jobs-for-full-time-rvers"
 affiliate_disclosure: false
 faqs:
-  - q: "Do I need to tell employers I live in an RV?"
-    a: "No, and most full-timers don't. You're legally required to report where you pay taxes, which is your domicile state (South Dakota, Texas, and Florida are the most common for RVers for various tax and registration reasons). Where your RV physically is on any given day is generally not your employer's business unless they have a specific policy about work location."
-  - q: "What internet setup do I actually need for remote work?"
-    a: "At minimum: a cellular hotspot plan with at least 100GB of high-speed data per month, a signal booster like the Weboost Drive Reach, and a backup device on a different carrier. T-Mobile and Verizon have the most complementary coverage patterns across the US. Budget around $150 to $200 per month total for solid connectivity. (Weboost boosters on Amazon can make a significant difference in marginal signal areas -- affiliate link.)"
-  - q: "What state should I use as my domicile for tax purposes?"
-    a: "This is a real question with real legal consequences, so get actual advice from a CPA who works with RVers (there are several who specialize in this). Generally speaking, South Dakota has no state income tax and very easy domicile requirements, which is why it's the most popular choice. But your specific situation, especially if you have business income or property in another state, could change that calculus."
-  - q: "Is it realistic to earn $60,000+ per year working remotely as a full-timer?"
-    a: "Yes, and honestly that income level is not even the ceiling. Technical writers, developers, UX designers, and consultants all routinely earn well above that. The harder question is whether you can get there quickly. For most people making a career transition onto the road, it takes 12 to 24 months to reach income stability. Going in with three to six months of savings as a cushion is not overcautious; it's realistic."
-  - q: "What's the biggest mistake people make with remote work on the road?"
-    a: "Underestimating their data and connectivity needs, then taking on a job that exposes that gap. The second biggest is taking a role with rigid Eastern time zone hours while planning to travel the Western US. Both are fixable problems, but they'll stress you out badly if you don't address them upfront."
+ - q: "Do I need to tell employers I live in an RV?"
+ a: "No, and most full-timers don't. You're legally required to report where you pay taxes, which is your domicile state (South Dakota, Texas, and Florida are the most common for RVers for various tax and registration reasons). Where your RV physically is on any given day is generally not your employer's business unless they have a specific policy about work location."
+ - q: "What internet setup do I actually need for remote work?"
+ a: "At minimum: a cellular hotspot plan with at least 100GB of high-speed data per month, a signal booster like the Weboost Drive Reach, and a backup device on a different carrier. T-Mobile and Verizon have the most complementary coverage patterns across the US. Budget around $150 to $200 per month total for solid connectivity. (Weboost boosters on Amazon can make a significant difference in marginal signal areas, affiliate link.)"
+ - q: "What state should I use as my domicile for tax purposes?"
+ a: "This is a real question with real legal consequences, so get actual advice from a CPA who works with RVers (there are several who specialize in this). Generally speaking, South Dakota has no state income tax and very easy domicile requirements, which is why it's the most popular choice. But your specific situation, especially if you have business income or property in another state, could change that calculus."
+ - q: "Is it realistic to earn $60,000+ per year working remotely as a full-timer?"
+ a: "Yes, and honestly that income level is not even the ceiling. Technical writers, developers, UX designers, and consultants all routinely earn well above that. The harder question is whether you can get there quickly. For most people making a career transition onto the road, it takes 12 to 24 months to reach income stability. Going in with three to six months of savings as a cushion is not overcautious; it's realistic."
+ - q: "What's the biggest mistake people make with remote work on the road?"
+ a: "Underestimating their data and connectivity needs, then taking on a job that exposes that gap. The second biggest is taking a role with rigid Eastern time zone hours while planning to travel the Western US. Both are fixable problems, but they'll stress you out badly if you don't address them upfront."
 ---
 Most remote work advice for RVers is written by people who've never actually tried to get reliable WiFi at a campground in rural Montana. I have. It's a different world.
 
@@ -33,12 +33,12 @@ Let me tell you what's actually working for full-timers in 2026, with none of th
 ---
 
 <div class="value-module">
-  <div class="vm-head">RV Job Compatibility Scoring Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these specific thresholds to evaluate any remote position before accepting, score 5+ points for sustainable full-time RV compatibility.</p>
-    <table><thead><tr><th>Criteria</th><th>Green Flag (+1 pt)</th><th>Red Flag (−1 pt)</th></tr></thead><tbody><tr><td>Synchronous meeting load</td><td>≤3 hours/week of scheduled calls</td><td>Daily standups or 4+ hours/week video required</td></tr><tr><td>Response time expectations</td><td>4+ hour reply window standard</td><td>Expected response within 30 minutes during work hours</td></tr><tr><td>Time zone policy</td><td>Core overlap ≤4 hours or async-first documented</td><td>Must match specific timezone; no flexibility stated</td></tr><tr><td>Data consumption pattern</td><td>Text-based tools primary (Slack, email, docs)</td><td>Constant screen-share, video-on culture, large file uploads</td></tr><tr><td>Equipment requirements</td><td>Laptop + hotspot sufficient; no VPN IP restrictions</td><td>Requires hardwired connection, static IP, or employer-monitored network</td></tr><tr><td>Schedule autonomy</td><td>Deadline-based deliverables; self-structured days</td><td>Must log hours in real-time or use activity-tracking software</td></tr><tr><td>Coverage/on-call duties</td><td>Scheduled shifts with 72+ hour advance notice</td><td>Unscheduled on-call rotation or "as needed" availability expected</td></tr><tr><td>PTO/travel friendliness</td><td>Unlimited or flexible PTO; no blackout dates</td><td>Requires manager approval 2+ weeks ahead; travel discouraged</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">RV Job Compatibility Scoring Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these specific thresholds to evaluate any remote position before accepting, score 5+ points for sustainable full-time RV compatibility.</p>
+ <table><thead><tr><th>Criteria</th><th>Green Flag (+1 pt)</th><th>Red Flag (−1 pt)</th></tr></thead><tbody><tr><td>Synchronous meeting load</td><td>≤3 hours/week of scheduled calls</td><td>Daily standups or 4+ hours/week video required</td></tr><tr><td>Response time expectations</td><td>4+ hour reply window standard</td><td>Expected response within 30 minutes during work hours</td></tr><tr><td>Time zone policy</td><td>Core overlap ≤4 hours or async-first documented</td><td>Must match specific timezone; no flexibility stated</td></tr><tr><td>Data consumption pattern</td><td>Text-based tools primary (Slack, email, docs)</td><td>Constant screen-share, video-on culture, large file uploads</td></tr><tr><td>Equipment requirements</td><td>Laptop + hotspot sufficient; no VPN IP restrictions</td><td>Requires hardwired connection, static IP, or employer-monitored network</td></tr><tr><td>Schedule autonomy</td><td>Deadline-based deliverables; self-structured days</td><td>Must log hours in real-time or use activity-tracking software</td></tr><tr><td>Coverage/on-call duties</td><td>Scheduled shifts with 72+ hour advance notice</td><td>Unscheduled on-call rotation or "as needed" availability expected</td></tr><tr><td>PTO/travel friendliness</td><td>Unlimited or flexible PTO; no blackout dates</td><td>Requires manager approval 2+ weeks ahead; travel discouraged</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Real Criteria (Before You Touch a Job Board)

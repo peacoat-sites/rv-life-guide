@@ -13,16 +13,16 @@ author_bio: "Sandra Park is the person her whole RV community comes to when they
 slug: "average-monthly-cost-of-full-time-rv-living"
 affiliate_disclosure: false
 faqs:
-  - q: "Is full-time RV living actually cheaper than renting an apartment?"
-    a: "It can be, but it depends heavily on where you'd be renting and how you approach RV life. In expensive metros, yes, full-timing often wins on cost. But if you're comparing to renting in a low-cost-of-living area, the numbers are closer than people expect, especially once you factor in RV maintenance and the hidden costs above."
-  - q: "What's the cheapest type of RV to full-time in?"
-    a: "From a pure cost standpoint, a van or Class B is cheapest to fuel and easiest to park for free. The tradeoff is space and comfort over long periods. Class C rigs in the $30,000 to $60,000 range tend to hit the best balance of livability and cost for most solo travelers or couples."
-  - q: "Do I need an emergency fund specifically for RV repairs?"
-    a: "Yes. Absolutely yes. Keep at least $3,000 to $5,000 liquid and earmarked for the rig. Things break at the worst possible time, often when you're far from a dealer. A decent battery monitor and regular maintenance help you catch problems early, but you can't prevent all of it."
-  - q: "How do full-timers handle health insurance costs?"
-    a: "Most use the ACA marketplace and choose their domicile state partly based on what exchange plans are available. South Dakota is popular for its low registration costs but has limited plan options. Florida and Texas have more competition on the marketplace. Some full-timers use health share ministries to keep costs down, but those aren't insurance and have real limitations you need to understand before committing."
-  - q: "Can you full-time on Social Security or a fixed income?"
-    a: "Some people do it on $1,800 to $2,200 a month by boondocking aggressively, owning their rig outright, and keeping a tight budget. It's harder now than it was a few years ago given fuel and campground cost increases, but it's not impossible. Rig choice matters enormously here: a paid-off, reliable, fuel-efficient setup changes everything."
+ - q: "Is full-time RV living actually cheaper than renting an apartment?"
+ a: "It can be, but it depends heavily on where you'd be renting and how you approach RV life. In expensive metros, yes, full-timing often wins on cost. But if you're comparing to renting in a low-cost-of-living area, the numbers are closer than people expect, especially once you factor in RV maintenance and the hidden costs above."
+ - q: "What's the cheapest type of RV to full-time in?"
+ a: "From a pure cost standpoint, a van or Class B is cheapest to fuel and easiest to park for free. The tradeoff is space and comfort over long periods. Class C rigs in the $30,000 to $60,000 range tend to hit the best balance of livability and cost for most solo travelers or couples."
+ - q: "Do I need an emergency fund specifically for RV repairs?"
+ a: "Yes. Absolutely yes. Keep at least $3,000 to $5,000 liquid and earmarked for the rig. Things break at the worst possible time, often when you're far from a dealer. A decent battery monitor and regular maintenance help you catch problems early, but you can't prevent all of it."
+ - q: "How do full-timers handle health insurance costs?"
+ a: "Most use the ACA marketplace and choose their domicile state partly based on what exchange plans are available. South Dakota is popular for its low registration costs but has limited plan options. Florida and Texas have more competition on the marketplace. Some full-timers use health share ministries to keep costs down, but those aren't insurance and have real limitations you need to understand before committing."
+ - q: "Can you full-time on Social Security or a fixed income?"
+ a: "Some people do it on $1,800 to $2,200 a month by boondocking aggressively, owning their rig outright, and keeping a tight budget. It's harder now than it was a few years ago given fuel and campground cost increases, but it's not impossible. Rig choice matters enormously here: a paid-off, reliable, fuel-efficient setup changes everything."
 ---
 
 The number that stopped me cold when I first started researching full-time RV living was $1,800 a month. I'd seen it everywhere online, this tidy figure that made living on the road sound almost affordable. Then I actually did it, and year one cost me closer to $3,400 a month. Not because I was careless or living lavishly. Because the $1,800 number leaves out half the real expenses.
@@ -101,6 +101,6 @@ The math works. For a lot of people it works really well. But go in knowing the 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

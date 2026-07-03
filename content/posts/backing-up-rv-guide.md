@@ -9,16 +9,16 @@ tags: ["backing", "guide"]
 slug: "backing-up-rv-guide"
 affiliate_disclosure: false
 faqs:
-  - q: "How do I keep my trailer straight while backing?"
-    a: "Use very small steering inputs and look at your mirrors more than your camera. The most common cause of a trailer going sideways is overcorrection: you correct right, overcorrect left, then you're in a jackknife. When the trailer starts to angle, apply a small correction in the opposite direction of where you want the trailer nose, then straighten the wheel. Think in degrees, not quarter turns."
-  - q: "What's the best way to back in solo without a spotter?"
-    a: "Walk the site completely before you attempt anything. Then back in stages: move 15 feet, get out and check your angle and clearance, get back in and continue. It takes longer, but you'll have zero surprises. A wireless backup camera with a phone app connection so your passenger (or you, standing outside) can monitor from behind the rig is a solid solo-backing upgrade."
-  - q: "Should I back in driver's side or passenger's side?"
-    a: "Driver's side whenever possible. You have a direct line of sight out your window to the rear of the rig. Passenger's side backing is a blind-side maneuver and requires more reliance on your spotter or more out-of-cab checks. Most experienced drivers will choose a site based on this if they have options."
-  - q: "My trailer jackknifes almost every time I try to back up. What's wrong?"
-    a: "Almost always a speed problem combined with overcorrection. You feel the trailer going wrong, you make a large correction, it goes more wrong in the other direction, you overcorrect again. The fix: back slower and make tiny steering adjustments. If you feel a jackknife starting, pull forward immediately and reset rather than trying to steer out of it."
-  - q: "How do toad (dinghy) vehicles affect backing a motorhome?"
-    a: "Significantly. A flat-towed vehicle behind a motorhome behaves similarly to a trailer, but with less control because it's connected with a tow bar, not a fifth wheel or ball hitch. Most experienced tower simply disconnect the toad before attempting a back-in. It takes five minutes and eliminates an enormous amount of complexity. Don't try to back a motorhome with a toad attached unless you've specifically practiced it and have someone spotting the toad."
+ - q: "How do I keep my trailer straight while backing?"
+ a: "Use very small steering inputs and look at your mirrors more than your camera. The most common cause of a trailer going sideways is overcorrection: you correct right, overcorrect left, then you're in a jackknife. When the trailer starts to angle, apply a small correction in the opposite direction of where you want the trailer nose, then straighten the wheel. Think in degrees, not quarter turns."
+ - q: "What's the best way to back in solo without a spotter?"
+ a: "Walk the site completely before you attempt anything. Then back in stages: move 15 feet, get out and check your angle and clearance, get back in and continue. It takes longer, but you'll have zero surprises. A wireless backup camera with a phone app connection so your passenger (or you, standing outside) can monitor from behind the rig is a solid solo-backing upgrade."
+ - q: "Should I back in driver's side or passenger's side?"
+ a: "Driver's side whenever possible. You have a direct line of sight out your window to the rear of the rig. Passenger's side backing is a blind-side maneuver and requires more reliance on your spotter or more out-of-cab checks. Most experienced drivers will choose a site based on this if they have options."
+ - q: "My trailer jackknifes almost every time I try to back up. What's wrong?"
+ a: "Almost always a speed problem combined with overcorrection. You feel the trailer going wrong, you make a large correction, it goes more wrong in the other direction, you overcorrect again. The fix: back slower and make tiny steering adjustments. If you feel a jackknife starting, pull forward immediately and reset rather than trying to steer out of it."
+ - q: "How do toad (dinghy) vehicles affect backing a motorhome?"
+ a: "Significantly. A flat-towed vehicle behind a motorhome behaves similarly to a trailer, but with less control because it's connected with a tow bar, not a fifth wheel or ball hitch. Most experienced tower simply disconnect the toad before attempting a back-in. It takes five minutes and eliminates an enormous amount of complexity. Don't try to back a motorhome with a toad attached unless you've specifically practiced it and have someone spotting the toad."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
@@ -32,12 +32,12 @@ Let me give you what actually works.
 ---
 
 <div class="value-module">
-  <div class="vm-head">RV Backing Spotter Signal Protocol</div>
-  <div class="vm-body">
-    <p class="vm-intro">Agree on these exact signals before anyone touches the steering wheel, ambiguity causes collisions.</p>
-    <table><thead><tr><th>Signal</th><th>Spotter Action</th><th>Driver Response</th></tr></thead><tbody><tr><td>STOP (fist raised)</td><td>Closed fist held high, maintained until acknowledged</td><td>Brake immediately, wait for next signal</td></tr><tr><td>COME BACK (beckoning)</td><td>Both hands wave toward body, palms up</td><td>Continue straight back at idle speed</td></tr><tr><td>DRIVER'S LEFT</td><td>Left arm extended, pointing left</td><td>Turn steering wheel left (trailer goes left)</td></tr><tr><td>DRIVER'S RIGHT</td><td>Right arm extended, pointing right</td><td>Turn steering wheel right (trailer goes right)</td></tr><tr><td>SLOW DOWN (patting)</td><td>Palm-down patting motion toward ground</td><td>Reduce to creep speed (&lt;1 mph)</td></tr><tr><td>CUT WHEEL HARD</td><td>Exaggerated arm sweep in turn direction</td><td>Full lock in indicated direction</td></tr><tr><td>DISTANCE (hands apart)</td><td>Hands held apart showing gap to obstacle</td><td>Use gap width to gauge remaining clearance</td></tr><tr><td>KILL IT (crossing arms)</td><td>Arms crossed overhead repeatedly</td><td>Stop, set brake, driver exits to assess</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">RV Backing Spotter Signal Protocol</div>
+ <div class="vm-body">
+ <p class="vm-intro">Agree on these exact signals before anyone touches the steering wheel, ambiguity causes collisions.</p>
+ <table><thead><tr><th>Signal</th><th>Spotter Action</th><th>Driver Response</th></tr></thead><tbody><tr><td>STOP (fist raised)</td><td>Closed fist held high, maintained until acknowledged</td><td>Brake immediately, wait for next signal</td></tr><tr><td>COME BACK (beckoning)</td><td>Both hands wave toward body, palms up</td><td>Continue straight back at idle speed</td></tr><tr><td>DRIVER'S LEFT</td><td>Left arm extended, pointing left</td><td>Turn steering wheel left (trailer goes left)</td></tr><tr><td>DRIVER'S RIGHT</td><td>Right arm extended, pointing right</td><td>Turn steering wheel right (trailer goes right)</td></tr><tr><td>SLOW DOWN (patting)</td><td>Palm-down patting motion toward ground</td><td>Reduce to creep speed (&lt;1 mph)</td></tr><tr><td>CUT WHEEL HARD</td><td>Exaggerated arm sweep in turn direction</td><td>Full lock in indicated direction</td></tr><tr><td>DISTANCE (hands apart)</td><td>Hands held apart showing gap to obstacle</td><td>Use gap width to gauge remaining clearance</td></tr><tr><td>KILL IT (crossing arms)</td><td>Arms crossed overhead repeatedly</td><td>Stop, set brake, driver exits to assess</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why Backing an RV Feels So Wrong at First (and What Changes That)
