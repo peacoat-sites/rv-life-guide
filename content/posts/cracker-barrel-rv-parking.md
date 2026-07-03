@@ -14,15 +14,15 @@ slug: "cracker-barrel-rv-parking"
 affiliate_disclosure: false
 faqs:
  - q: "Do I need to ask permission before parking overnight at Cracker Barrel?"
- a: "Yes, always. Walk in and ask a manager directly. It takes two minutes and protects you from getting tapped on the window at midnight by a manager who didn't know you were there."
+   a: "Yes, always. Walk in and ask a manager directly. It takes two minutes and protects you from getting tapped on the window at midnight by a manager who didn't know you were there."
  - q: "Can I run my generator at a Cracker Barrel overnight?"
- a: "Technically nothing stops you, but keep it to before 10 PM and after 6 AM. Running a generator at 2 AM in a restaurant parking lot is a fast way to get asked to leave and to get the location added to the 'no overnight RVs' list."
+   a: "Technically nothing stops you, but keep it to before 10 PM and after 6 AM. Running a generator at 2 AM in a restaurant parking lot is a fast way to get asked to leave and to get the location added to the 'no overnight RVs' list."
  - q: "Is Cracker Barrel overnight parking free?"
- a: "The parking itself is free. The expectation, unwritten but real, is that you buy a meal. Honor it."
+   a: "The parking itself is free. The expectation, unwritten but real, is that you buy a meal. Honor it."
  - q: "What's the best way to find Cracker Barrel locations along my route?"
- a: "The Cracker Barrel website has a store locator. Apps like Roadtrippers and RV Trip Wizard let you plot stops along an interstate corridor and flag Cracker Barrel locations specifically. Campendium has user reviews for many individual locations that tell you whether overnight parking is still being allowed."
+   a: "The Cracker Barrel website has a store locator. Apps like Roadtrippers and RV Trip Wizard let you plot stops along an interstate corridor and flag Cracker Barrel locations specifically. Campendium has user reviews for many individual locations that tell you whether overnight parking is still being allowed."
  - q: "How long can I stay at a Cracker Barrel?"
- a: "One night. Don't push it to two. This isn't a campground and treating it like one is how individual locations end the policy."
+   a: "One night. Don't push it to two. This isn't a campground and treating it like one is how individual locations end the policy."
 ---
 
 Most coverage of Cracker Barrel overnight parking reads like a press release. "Free parking! Family-friendly! Just be courteous!" None of it tells you what you actually need to know before you pull a 40-foot fifth wheel off the interstate at 10 PM looking for a place to sleep.

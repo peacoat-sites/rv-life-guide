@@ -14,15 +14,15 @@ slug: "rv-refrigerator-not-cooling"
 affiliate_disclosure: false
 faqs:
  - q: "Why does my RV refrigerator work on propane but not on electric?"
- a: "The electric heating element has likely failed. It's a separate component from the propane burner assembly. Test it with a multimeter for continuity. If it reads open, the element needs to be replaced, which is a relatively straightforward repair."
+   a: "The electric heating element has likely failed. It's a separate component from the propane burner assembly. Test it with a multimeter for continuity. If it reads open, the element needs to be replaced, which is a relatively straightforward repair."
  - q: "How long does it take for an RV refrigerator to cool down after turning it on?"
- a: "Absorption refrigerators are slow. Plan on 4-8 hours to reach operating temperature in mild conditions, and potentially longer in high heat. Pre-chill the fridge before loading it, and don't put warm food directly in when you first start it."
+   a: "Absorption refrigerators are slow. Plan on 4-8 hours to reach operating temperature in mild conditions, and potentially longer in high heat. Pre-chill the fridge before loading it, and don't put warm food directly in when you first start it."
  - q: "Can a clogged vent really cause my RV fridge to stop cooling?"
- a: "Yes, absolutely. The cooling unit generates heat as part of the absorption process and that heat has to escape through the exterior vents. If airflow is restricted, heat builds up and the cooling efficiency drops dramatically. Check the vents for debris, bird nests, or anything blocking them before assuming there's a mechanical failure."
+   a: "Yes, absolutely. The cooling unit generates heat as part of the absorption process and that heat has to escape through the exterior vents. If airflow is restricted, heat builds up and the cooling efficiency drops dramatically. Check the vents for debris, bird nests, or anything blocking them before assuming there's a mechanical failure."
  - q: "My RV fridge shows a 'no co' or fault light. What does that mean?"
- a: "On Dometic and Norcold units, fault codes typically indicate ignition failure (couldn't light the propane burner after multiple attempts), a thermistor problem, or a control board issue. Check that propane is on and the tank has gas first. If it's failing to light repeatedly, inspect the igniter and burner orifice for blockage or damage."
+   a: "On Dometic and Norcold units, fault codes typically indicate ignition failure (couldn't light the propane burner after multiple attempts), a thermistor problem, or a control board issue. Check that propane is on and the tank has gas first. If it's failing to light repeatedly, inspect the igniter and burner orifice for blockage or damage."
  - q: "Is it worth fixing an old RV refrigerator, or should I just replace it?"
- a: "If the cooling unit has failed and the fridge is over 12-15 years old, replacing with a 12V compressor-style fridge is worth serious consideration. The operating cost, reliability, and performance in hot weather are all meaningfully better. If it's a simple part like a heating element or igniter, repair is almost always the right call."
+   a: "If the cooling unit has failed and the fridge is over 12-15 years old, replacing with a 12V compressor-style fridge is worth serious consideration. The operating cost, reliability, and performance in hot weather are all meaningfully better. If it's a simple part like a heating element or igniter, repair is almost always the right call."
 ---
 
 You open up your RV after a three-hour drive to a summer campground in 90-degree heat, reach into the fridge for a cold drink, and find everything is warm. The milk is already questionable. That's not a hypothetical. That happened to me on a Friday night outside Moab, Utah, with no parts store or mobile tech within 40 miles. What followed was three hours of troubleshooting by headlamp, and eventually a warm beer, because that's what was left that I wasn't worried about.

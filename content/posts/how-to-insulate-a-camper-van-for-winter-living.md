@@ -14,15 +14,15 @@ slug: "how-to-insulate-a-camper-van-for-winter-living"
 affiliate_disclosure: false
 faqs:
  - q: "Is there a minimum R-value I should aim for in a van?"
- a: "For year-round living with cold winters, target R-12 to R-15 total in your walls and ceiling, and R-10 in your floor. Those aren't magic numbers, but they're where most van dwellers report comfort down to the 0-10°F range with supplemental heat. You can go higher in the roof if you have headroom to spare."
+   a: "For year-round living with cold winters, target R-12 to R-15 total in your walls and ceiling, and R-10 in your floor. Those aren't magic numbers, but they're where most van dwellers report comfort down to the 0-10°F range with supplemental heat. You can go higher in the roof if you have headroom to spare."
  - q: "Should I use a vapor barrier in my van build?"
- a: "In cold, humid climates, yes. A layer of 6-mil poly sheeting on the warm side of your insulation reduces moisture migration into the wall cavity. In dry climates like the Southwest, many builders skip it with no problems. If you're unsure, use it, because retrofitting vapor control after the walls are closed up is painful."
+   a: "In cold, humid climates, yes. A layer of 6-mil poly sheeting on the warm side of your insulation reduces moisture migration into the wall cavity. In dry climates like the Southwest, many builders skip it with no problems. If you're unsure, use it, because retrofitting vapor control after the walls are closed up is painful."
  - q: "Can I insulate over existing rust?"
- a: "Not without treating it first. Spray foam and adhesive will seal moisture against the metal and accelerate rusting underneath the insulation. Treat any rust with a converter, prime bare metal, and let it cure before you start insulating."
+   a: "Not without treating it first. Spray foam and adhesive will seal moisture against the metal and accelerate rusting underneath the insulation. Treat any rust with a converter, prime bare metal, and let it cure before you start insulating."
  - q: "How do I handle condensation on the windows?"
- a: "Custom-fit window covers made from Reflectix or foam board, installed at night, are the single best solution. They keep the glass surface warmer and dramatically reduce condensation. Maintaining interior humidity below 55% with ventilation helps too. Some people add a thin film of Rain-X to interior glass surfaces, which at least makes the condensation bead instead of pooling."
+   a: "Custom-fit window covers made from Reflectix or foam board, installed at night, are the single best solution. They keep the glass surface warmer and dramatically reduce condensation. Maintaining interior humidity below 55% with ventilation helps too. Some people add a thin film of Rain-X to interior glass surfaces, which at least makes the condensation bead instead of pooling."
  - q: "Do I really need spray foam or can I just use rigid board everywhere?"
- a: "You can build a functional van with rigid board alone if you're careful about gaps. But the corrugated ribs need something that conforms to their shape, and rigid board doesn't. If you skip the ribs, you leave significant thermal bridging in place and you'll feel it on cold nights. Even a few cans of Great Stuff foam in the structural members makes a noticeable difference."
+   a: "You can build a functional van with rigid board alone if you're careful about gaps. But the corrugated ribs need something that conforms to their shape, and rigid board doesn't. If you skip the ribs, you leave significant thermal bridging in place and you'll feel it on cold nights. Even a few cans of Great Stuff foam in the structural members makes a noticeable difference."
 ---
 
 Most people discover the hard truth about van insulation in October, when the temperature drops faster than expected and they're lying awake at 2 a.m. listening to condensation drip off their ceiling panels. I did exactly that during my first winter in a Ford Transit, back when I thought a layer of Reflectix and a good sleeping bag was a real insulation strategy. It isn't. Let me save you the miserable nights.

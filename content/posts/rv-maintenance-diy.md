@@ -14,15 +14,15 @@ slug: "rv-maintenance-diy"
 affiliate_disclosure: false
 faqs:
  - q: "How often should I reseal my RV roof?"
- a: "Inspect it every 90 days if you're driving regularly, and reapply sealant anywhere you see cracking, lifting, or gaps. Full recoating of an EPDM roof with a product like Dicor RVSCT is typically recommended every 3 to 5 years depending on sun exposure and condition."
+   a: "Inspect it every 90 days if you're driving regularly, and reapply sealant anywhere you see cracking, lifting, or gaps. Full recoating of an EPDM roof with a product like Dicor RVSCT is typically recommended every 3 to 5 years depending on sun exposure and condition."
  - q: "Can I really do my own RV plumbing repairs without experience?"
- a: "Yes, for most of it. The 12V water pump, tank sensors, faucets, and water heater anode rods are all well within reach for someone with basic mechanical comfort. Start with something low-stakes like changing the anode rod and you'll quickly see how approachable it is."
+   a: "Yes, for most of it. The 12V water pump, tank sensors, faucets, and water heater anode rods are all well within reach for someone with basic mechanical comfort. Start with something low-stakes like changing the anode rod and you'll quickly see how approachable it is."
  - q: "Is it safe to DIY my own solar and lithium battery install?"
- a: "The 12V wiring side is manageable for someone willing to learn, but don't skip the details around Battery Management Systems, proper fuse sizing, and setting your converter/charger to the correct lithium profile. The research here is genuinely mixed on risks from shortcuts. A kit from a reputable supplier is safer than improvising."
+   a: "The 12V wiring side is manageable for someone willing to learn, but don't skip the details around Battery Management Systems, proper fuse sizing, and setting your converter/charger to the correct lithium profile. The research here is genuinely mixed on risks from shortcuts. A kit from a reputable supplier is safer than improvising."
  - q: "What's the most commonly neglected RV maintenance item?"
- a: "The anode rod in a tank water heater, without question. I've asked hundreds of RVers at campgrounds over the years, and easily 70% of people with Atwood or Suburban water heaters had no idea it existed. It costs $8 and takes 20 minutes to replace."
+   a: "The anode rod in a tank water heater, without question. I've asked hundreds of RVers at campgrounds over the years, and easily 70% of people with Atwood or Suburban water heaters had no idea it existed. It costs $8 and takes 20 minutes to replace."
  - q: "Should I winterize my RV myself or pay a shop?"
- a: "Do it yourself. The process is straightforward, it takes about an hour once you've done it once, and the shops charge $80-150 for exactly what you can learn from a 15-minute video. Buy two or three gallons of RV antifreeze, bypass your water heater, and run pink through everything. That's the whole job."
+   a: "Do it yourself. The process is straightforward, it takes about an hour once you've done it once, and the shops charge $80-150 for exactly what you can learn from a 15-minute video. Buy two or three gallons of RV antifreeze, bypass your water heater, and run pink through everything. That's the whole job."
 ---
 
 Most RV owners are throwing money away. Not on fuel, not on campground fees, on service calls for problems they could've fixed themselves in an afternoon with a $40 kit from Amazon.

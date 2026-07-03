@@ -14,15 +14,15 @@ slug: "rv-life-bloggers-follow"
 affiliate_disclosure: false
 faqs:
  - q: "How do I know if an RV blogger is actually full-time or just doing trips?"
- a: "Look for posts about mail forwarding, domicile setup, health insurance decisions, and vehicle registration. Weekend warriors don't deal with South Dakota residency paperwork. If those topics are missing, they're probably not full-timers regardless of what the bio says."
+   a: "Look for posts about mail forwarding, domicile setup, health insurance decisions, and vehicle registration. Weekend warriors don't deal with South Dakota residency paperwork. If those topics are missing, they're probably not full-timers regardless of what the bio says."
  - q: "Are RV bloggers getting paid to recommend products?"
- a: "Almost all of them, yes, through affiliate links or sponsorships. That's not automatically disqualifying, but look for bloggers who also recommend products they don't earn commissions on, or who explicitly say 'I bought this myself.' That's your tell for editorial independence."
+   a: "Almost all of them, yes, through affiliate links or sponsorships. That's not automatically disqualifying, but look for bloggers who also recommend products they don't earn commissions on, or who explicitly say 'I bought this myself.' That's your tell for editorial independence."
  - q: "Which RV blogs are best for mechanical and repair content?"
- a: "Technomadia for electrical systems, RVwithTito for hands-on DIY, and honestly, the iRV2 forums aren't a blog but they're more useful than most blogs for model-specific repair issues. Search your exact rig model plus the problem there before you call a shop."
+   a: "Technomadia for electrical systems, RVwithTito for hands-on DIY, and honestly, the iRV2 forums aren't a blog but they're more useful than most blogs for model-specific repair issues. Search your exact rig model plus the problem there before you call a shop."
  - q: "How often should good RV blogs be updated?"
- a: "For infrastructure-type content (campground costs, solar pricing, cellular plans), anything older than 12 to 18 months should be treated as a starting point only, not current fact. Lifestyle and philosophical content ages better. Pricing and gear recommendations don't."
+   a: "For infrastructure-type content (campground costs, solar pricing, cellular plans), anything older than 12 to 18 months should be treated as a starting point only, not current fact. Lifestyle and philosophical content ages better. Pricing and gear recommendations don't."
  - q: "Is there a good RV blogger for people who aren't retired or wealthy?"
- a: "Marc and Julie cover budget realities more honestly than most. Also look for bloggers who list actual monthly expenses rather than vague 'you can do it for less than you think' encouragement. If a blogger won't publish a real number, move on."
+   a: "Marc and Julie cover budget realities more honestly than most. Also look for bloggers who list actual monthly expenses rather than vague 'you can do it for less than you think' encouragement. If a blogger won't publish a real number, move on."
 ---
 
 Most "best RV bloggers" lists are basically just SEO bait. They rank by Instagram follower counts, not by whether anyone actually learned something useful. I've been living full-time in a rig since 2018, and the blogs that actually helped me were rarely the ones winning "top 10" roundups.

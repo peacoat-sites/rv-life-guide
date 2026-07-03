@@ -14,15 +14,15 @@ slug: "meal-planning-and-cooking-in-a-small-rv-kitchen"
 affiliate_disclosure: false
 faqs:
  - q: "How do I keep produce from going bad so fast in an RV?"
- a: "Airflow and temperature are the two levers. Don't store produce in sealed plastic bags, use mesh bags or paper instead, and keep ethylene-sensitive things like berries away from ethylene producers like bananas and apples. A small USB-powered fan in your fridge can make a noticeable difference in produce life."
+   a: "Airflow and temperature are the two levers. Don't store produce in sealed plastic bags, use mesh bags or paper instead, and keep ethylene-sensitive things like berries away from ethylene producers like bananas and apples. A small USB-powered fan in your fridge can make a noticeable difference in produce life."
  - q: "Is it worth getting an Instant Pot for RV cooking?"
- a: "If you have shore power regularly or a solid solar setup, yes. The 3-quart Mini is sized right for RV kitchens and handles lentils, beans from scratch, rice, and tough cuts of meat faster than stovetop. If you're mostly boondocking, the power draw makes it harder to justify."
+   a: "If you have shore power regularly or a solid solar setup, yes. The 3-quart Mini is sized right for RV kitchens and handles lentils, beans from scratch, rice, and tough cuts of meat faster than stovetop. If you're mostly boondocking, the power draw makes it harder to justify."
  - q: "Can I bake bread in an RV?"
- a: "You can, but manage your expectations. I've had good results with no-knead bread in the cast iron skillet using a convection toaster oven. Dutch oven bread over a campfire also works surprisingly well. Standard RV oven bread is hit or miss until you learn your specific oven's hot spots."
+   a: "You can, but manage your expectations. I've had good results with no-knead bread in the cast iron skillet using a convection toaster oven. Dutch oven bread over a campfire also works surprisingly well. Standard RV oven bread is hit or miss until you learn your specific oven's hot spots."
  - q: "What's the best way to handle meal planning when my schedule changes constantly?"
- a: "Build around flexible core ingredients instead of rigid meal plans. If you know you have eggs, beans, canned tomatoes, and rice, you can make four or five different things depending on your mood and situation. A tight plan breaks down the second you change locations. A stocked pantry doesn't."
+   a: "Build around flexible core ingredients instead of rigid meal plans. If you know you have eggs, beans, canned tomatoes, and rice, you can make four or five different things depending on your mood and situation. A tight plan breaks down the second you change locations. A stocked pantry doesn't."
  - q: "How do full-timers handle cooking smells in a small space?"
- a: "Crack a window and use the vent fan every single time you cook. Cooking fish, curries, or anything with strong aromatics without ventilation is a mistake you make once. Some people avoid certain foods entirely in the RV, but I refuse to give up garlic and sardines, so I've just gotten religious about ventilation."
+   a: "Crack a window and use the vent fan every single time you cook. Cooking fish, curries, or anything with strong aromatics without ventilation is a mistake you make once. Some people avoid certain foods entirely in the RV, but I refuse to give up garlic and sardines, so I've just gotten religious about ventilation."
 ---
 
 The first meal I cooked in my rig was a disaster. A full pot of pasta water sloshed off a two-burner propane cooktop somewhere outside Flagstaff, I had no colander that fit my one deep bowl, and the cutting board slid off the counter every time I touched it. I ate gas station chips that night. That was eight years ago, and I've cooked somewhere between 5,000 and 6,000 meals in small RV kitchens since then. The learning curve is real, but it's shorter than you think.
