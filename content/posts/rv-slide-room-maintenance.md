@@ -13,16 +13,16 @@ author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning
 slug: "rv-slide-room-maintenance"
 affiliate_disclosure: false
 faqs:
-  - q: "How often should I lubricate my RV slide-out seals?"
-    a: "Every 90 days is the minimum. If you're in a hot, dry climate or a high-UV environment (desert Southwest, high elevation), every 60 days is better. Use a rubber conditioner specifically rated for EPDM, not petroleum-based products."
-  - q: "Can I use WD-40 on slide-out tracks and gear racks?"
-    a: "Don't. WD-40 is a solvent and water displacer, not a long-term lubricant, and it attracts dust to mechanical components. Use a dry PTFE lubricant like Super Lube on gear racks and a silicone spray on rubber seals."
-  - q: "My slide-out is making a grinding noise. Should I keep cycling it?"
-    a: "Stop immediately. A grinding noise on a rack-and-pinion or Schwintek system usually means misalignment or debris in the gear track. Continuing to operate it compounds the damage. Get it diagnosed before you move the slide again."
-  - q: "How do I know if my slide-out seals need replacing vs. just conditioning?"
-    a: "If you see visible cracks, tears, or chunks missing from the seal, it's past conditioning. Also run a bright flashlight along the seal perimeter at night with the interior lights on. Light showing through from outside means air and water can get through too."
-  - q: "Is it worth fixing subfloor rot myself, or should I take it to a shop?"
-    a: "Early-stage rot (soft but structurally intact wood) is a realistic DIY job with wood hardener and good sealant. Once the wood is crumbling or the surrounding structure is compromised, a shop is the right call. The real risk of DIY-ing a compromised slide opening is inadequately sealing it afterward, which means you're back in the same spot in another year."
+ - q: "How often should I lubricate my RV slide-out seals?"
+ a: "Every 90 days is the minimum. If you're in a hot, dry climate or a high-UV environment (desert Southwest, high elevation), every 60 days is better. Use a rubber conditioner specifically rated for EPDM, not petroleum-based products."
+ - q: "Can I use WD-40 on slide-out tracks and gear racks?"
+ a: "Don't. WD-40 is a solvent and water displacer, not a long-term lubricant, and it attracts dust to mechanical components. Use a dry PTFE lubricant like Super Lube on gear racks and a silicone spray on rubber seals."
+ - q: "My slide-out is making a grinding noise. Should I keep cycling it?"
+ a: "Stop immediately. A grinding noise on a rack-and-pinion or Schwintek system usually means misalignment or debris in the gear track. Continuing to operate it compounds the damage. Get it diagnosed before you move the slide again."
+ - q: "How do I know if my slide-out seals need replacing vs. just conditioning?"
+ a: "If you see visible cracks, tears, or chunks missing from the seal, it's past conditioning. Also run a bright flashlight along the seal perimeter at night with the interior lights on. Light showing through from outside means air and water can get through too."
+ - q: "Is it worth fixing subfloor rot myself, or should I take it to a shop?"
+ a: "Early-stage rot (soft but structurally intact wood) is a realistic DIY job with wood hardener and good sealant. Once the wood is crumbling or the surrounding structure is compromised, a shop is the right call. The real risk of DIY-ing a compromised slide opening is inadequately sealing it afterward, which means you're back in the same spot in another year."
 ---
 
 Slide rooms will quietly destroy your RV if you ignore them long enough. Most maintenance articles list "lubricate the seals" and call it good. That's like telling someone to "check the engine" and expecting them to actually fix anything. Here's what actually goes wrong, how to catch it early, and what to do about it.

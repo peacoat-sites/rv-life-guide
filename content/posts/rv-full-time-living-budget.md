@@ -9,16 +9,16 @@ tags: ["full", "time", "living", "budget"]
 slug: "rv-full-time-living-budget"
 affiliate_disclosure: false
 faqs:
-  - q: "How much money do I need to start full-time RVing?"
-    a: "Beyond the cost of your rig, you'll want at least 3 to 6 months of living expenses as a cushion. Count on $500 to $1,500 in first-month gear purchases you didn't think of. If you're buying a used rig, budget $1,000 to $2,000 for immediate repairs or upgrades you'll discover in the first few weeks. Going in with a cash cushion of at least $10,000 to $15,000 beyond your rig purchase is not being paranoid. It's being prepared."
-  - q: "Is full-time RV living cheaper than renting an apartment?"
-    a: "In many markets, yes. If you were paying $1,800 a month for a one-bedroom apartment in a major metro, you can absolutely live well on the road for less than that with a paid-off rig and disciplined camping habits. But it's not automatically cheaper, and the first year rarely is, because of startup costs, learning curves, and more expensive site choices while you figure things out."
-  - q: "What's the cheapest way to camp full-time?"
-    a: "Boondocking on BLM and National Forest land, combined with Harvest Hosts stays and the occasional free Walmart or Cracker Barrel overnight, is the cheapest approach. Realistically, you need a solar setup, adequate battery capacity, and enough water storage to stay off-grid for 3 to 7 days at a time. It's not comfortable for everyone, but people do it on $300 to $500 a month in site fees."
-  - q: "Do full-time RVers pay state income tax?"
-    a: "It depends on your domicile state. South Dakota and Florida have no state income tax, which is why they're popular choices for full-timers. Texas has no personal income tax either. Whichever state you claim as your legal domicile is where you'll pay taxes, register your vehicles, and vote. Talk to a CPA familiar with full-time travelers before you make this decision."
-  - q: "What do full-time RVers do for health insurance?"
-    a: "Most use ACA marketplace plans through their domicile state, short-term health plans, health-sharing ministries (which have significant limitations), or they're covered through a spouse's employer. If you're over 65, Medicare solves most of this. If you're not, it's genuinely one of the hardest parts of this lifestyle and one of the most important things to have figured out before you leave."
+ - q: "How much money do I need to start full-time RVing?"
+ a: "Beyond the cost of your rig, you'll want at least 3 to 6 months of living expenses as a cushion. Count on $500 to $1,500 in first-month gear purchases you didn't think of. If you're buying a used rig, budget $1,000 to $2,000 for immediate repairs or upgrades you'll discover in the first few weeks. Going in with a cash cushion of at least $10,000 to $15,000 beyond your rig purchase is not being paranoid. It's being prepared."
+ - q: "Is full-time RV living cheaper than renting an apartment?"
+ a: "In many markets, yes. If you were paying $1,800 a month for a one-bedroom apartment in a major metro, you can absolutely live well on the road for less than that with a paid-off rig and disciplined camping habits. But it's not automatically cheaper, and the first year rarely is, because of startup costs, learning curves, and more expensive site choices while you figure things out."
+ - q: "What's the cheapest way to camp full-time?"
+ a: "Boondocking on BLM and National Forest land, combined with Harvest Hosts stays and the occasional free Walmart or Cracker Barrel overnight, is the cheapest approach. Realistically, you need a solar setup, adequate battery capacity, and enough water storage to stay off-grid for 3 to 7 days at a time. It's not comfortable for everyone, but people do it on $300 to $500 a month in site fees."
+ - q: "Do full-time RVers pay state income tax?"
+ a: "It depends on your domicile state. South Dakota and Florida have no state income tax, which is why they're popular choices for full-timers. Texas has no personal income tax either. Whichever state you claim as your legal domicile is where you'll pay taxes, register your vehicles, and vote. Talk to a CPA familiar with full-time travelers before you make this decision."
+ - q: "What do full-time RVers do for health insurance?"
+ a: "Most use ACA marketplace plans through their domicile state, short-term health plans, health-sharing ministries (which have significant limitations), or they're covered through a spouse's employer. If you're over 65, Medicare solves most of this. If you're not, it's genuinely one of the hardest parts of this lifestyle and one of the most important things to have figured out before you leave."
 author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
@@ -137,4 +137,4 @@ Don't guess. Build a real spending plan before your first month out.
 
 The truth about full-time RV living costs is that the budget isn't fixed and it isn't magic. It's a skill you develop over months of trial and error, of realizing you drove too much in October and overspent on sites in March, and adjusting. I've had months that cost me $1,100 and months that cost me $3,400. Most of them land somewhere in the $1,400 to $1,800 range now because I know my habits, my rig, and my priorities. You'll learn yours. Just go in with honest numbers and realistic expectations, and give yourself at least a year before you decide whether it's working.
 
-*Photo: [Melike  B](https://www.pexels.com/@mlkbnl) via Pexels*
+*Photo: [Melike B](https://www.pexels.com/@mlkbnl) via Pexels*

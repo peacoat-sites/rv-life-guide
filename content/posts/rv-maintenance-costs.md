@@ -9,16 +9,16 @@ tags: ["maintenance", "costs"]
 slug: "rv-maintenance-costs"
 affiliate_disclosure: false
 faqs:
-  - q: "How much should I budget for RV maintenance per month?"
-    a: "A reasonable starting point is 1% to 2% of your RV's purchase price per year in maintenance costs, divided monthly. A $60,000 travel trailer might cost $600 to $1,200 annually, or $50 to $100 per month. Older or higher-mileage rigs should lean toward the higher end of that range."
-  - q: "What's the most expensive thing to repair on an RV?"
-    a: "Roof and water damage is consistently the most expensive repair category. A delaminated sidewall from prolonged moisture intrusion can cost $8,000 to $20,000 to fix properly. Slideout frame damage and diesel engine work are close runners-up. All three are preventable with regular inspection and timely maintenance."
-  - q: "How often should I reseal my RV roof?"
-    a: "Inspect every six months. Apply fresh lap sealant to any cracked, peeling, or compromised seams immediately regardless of schedule. Most EPDM rubber roofs benefit from a conditioning treatment with a product like 303 Aerospace Protectant two to four times per year to prevent cracking and oxidation."
-  - q: "Is an RV extended warranty worth the cost?"
-    a: "It depends on the rig and coverage terms. On diesel coaches over five years old with high component replacement costs, a warranty can pay for itself in a single repair event. On newer gas rigs still under the original manufacturer warranty, the overlap often makes an extended warranty a poor value. Always read the exclusions list carefully. Many exclude 'wear items' like seals, belts, and brake pads that account for a lot of actual repair costs."
-  - q: "Can I do my own RV maintenance to save money?"
-    a: "Absolutely, and most experienced full-timers do exactly that for the majority of preventive tasks. Roof sealing, water system maintenance, generator service, lubrication, and filter changes are all well within reach of a DIY-capable owner. Work that involves propane systems, chassis brakes, or structural repairs is best left to certified technicians for safety and liability reasons."
+ - q: "How much should I budget for RV maintenance per month?"
+ a: "A reasonable starting point is 1% to 2% of your RV's purchase price per year in maintenance costs, divided monthly. A $60,000 travel trailer might cost $600 to $1,200 annually, or $50 to $100 per month. Older or higher-mileage rigs should lean toward the higher end of that range."
+ - q: "What's the most expensive thing to repair on an RV?"
+ a: "Roof and water damage is consistently the most expensive repair category. A delaminated sidewall from prolonged moisture intrusion can cost $8,000 to $20,000 to fix properly. Slideout frame damage and diesel engine work are close runners-up. All three are preventable with regular inspection and timely maintenance."
+ - q: "How often should I reseal my RV roof?"
+ a: "Inspect every six months. Apply fresh lap sealant to any cracked, peeling, or compromised seams immediately regardless of schedule. Most EPDM rubber roofs benefit from a conditioning treatment with a product like 303 Aerospace Protectant two to four times per year to prevent cracking and oxidation."
+ - q: "Is an RV extended warranty worth the cost?"
+ a: "It depends on the rig and coverage terms. On diesel coaches over five years old with high component replacement costs, a warranty can pay for itself in a single repair event. On newer gas rigs still under the original manufacturer warranty, the overlap often makes an extended warranty a poor value. Always read the exclusions list carefully. Many exclude 'wear items' like seals, belts, and brake pads that account for a lot of actual repair costs."
+ - q: "Can I do my own RV maintenance to save money?"
+ a: "Absolutely, and most experienced full-timers do exactly that for the majority of preventive tasks. Roof sealing, water system maintenance, generator service, lubrication, and filter changes are all well within reach of a DIY-capable owner. Work that involves propane systems, chassis brakes, or structural repairs is best left to certified technicians for safety and liability reasons."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "Finance Writer"
@@ -134,7 +134,7 @@ Getting a [used vs. new RV comparison](/new-vs-used-rv-buying/) is worth your ti
 
 RV maintenance isn't a mystery. It doesn't have to be a financial nightmare. It rewards preparation, consistency, and a willingness to learn. The owners who enjoy this lifestyle for years without drama are almost always the ones who treat their rig like the complex, expensive, livable machine it actually is. A Saturday morning on the roof with a tube of Dicor is genuinely more enjoyable than a week waiting at a dealership service bay. Start building those habits now and your future self will be grateful.
 
-*Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
+*Photo: [AI25.Studio Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
 ---
 
@@ -142,7 +142,7 @@ RV maintenance isn't a mystery. It doesn't have to be a financial nightmare. It 
 
 ## Sources
 
-- [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai)
+- [AI25.Studio Studio](https://www.pexels.com/@ai25studioai)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - Hey, plan on spending another $3,000 to $5,000 a year just keeping this thing running right. For

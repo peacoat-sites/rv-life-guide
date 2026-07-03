@@ -13,16 +13,16 @@ author_bio: "Julia Davidson has spent most of her last four years dry camping on
 slug: "rv-black-tank-treatment"
 affiliate_disclosure: false
 faqs:
-  - q: "How often should I treat my black tank?"
-    a: "After every dump. The point is to re-establish the right conditions (water level, lubrication, biological activity if you use enzymes) before the tank starts filling again, not to treat a problem after it develops."
-  - q: "Can I use regular household toilet paper in my RV?"
-    a: "Yes, with caveats. Do the dissolve test: drop a few sheets in a glass of water and shake it. If they break apart quickly, you're fine. Scott 1000 passes easily. Thick, quilted paper like some Charmin varieties don't, and they'll cause problems over time especially in a tank that doesn't have enough water."
-  - q: "Why does my black tank smell even after treatment?"
-    a: "Usually one of three things: not enough water in the tank, the roof vent is blocked or undersized, or you've got a dried-out toilet seal (sometimes called a 'blade seal') that's letting sewer gas through. Check the seal first, it's the easiest to rule out."
-  - q: "What's the best black tank treatment product?"
-    a: "Honestly, Happy Campers Organic RV Holding Tank Treatment is my recommendation for a dedicated product. It's a small tub, it lasts a long time, and it works in temperature ranges where a lot of other enzyme products fall apart. But for day-to-day maintenance, the Dawn and Calgon combination is cheaper and performs comparably when water management is solid."
-  - q: "How do I know if I have a pyramid plug?"
-    a: "If your tank reads full but you know it shouldn't be, if your toilet drains slowly, or if you can't get the dump valve to open freely, a plug is likely. Start with the fill-and-drive method: fill the tank completely with water, add soap, drive around to slosh it, then dump. Repeat two or three times. If that doesn't clear it, a tank wand or a professional flush service is the next step."
+ - q: "How often should I treat my black tank?"
+ a: "After every dump. The point is to re-establish the right conditions (water level, lubrication, biological activity if you use enzymes) before the tank starts filling again, not to treat a problem after it develops."
+ - q: "Can I use regular household toilet paper in my RV?"
+ a: "Yes, with caveats. Do the dissolve test: drop a few sheets in a glass of water and shake it. If they break apart quickly, you're fine. Scott 1000 passes easily. Thick, quilted paper like some Charmin varieties don't, and they'll cause problems over time especially in a tank that doesn't have enough water."
+ - q: "Why does my black tank smell even after treatment?"
+ a: "Usually one of three things: not enough water in the tank, the roof vent is blocked or undersized, or you've got a dried-out toilet seal (sometimes called a 'blade seal') that's letting sewer gas through. Check the seal first, it's the easiest to rule out."
+ - q: "What's the best black tank treatment product?"
+ a: "Honestly, Happy Campers Organic RV Holding Tank Treatment is my recommendation for a dedicated product. It's a small tub, it lasts a long time, and it works in temperature ranges where a lot of other enzyme products fall apart. But for day-to-day maintenance, the Dawn and Calgon combination is cheaper and performs comparably when water management is solid."
+ - q: "How do I know if I have a pyramid plug?"
+ a: "If your tank reads full but you know it shouldn't be, if your toilet drains slowly, or if you can't get the dump valve to open freely, a plug is likely. Start with the fill-and-drive method: fill the tank completely with water, add soap, drive around to slosh it, then dump. Repeat two or three times. If that doesn't clear it, a tank wand or a professional flush service is the next step."
 ---
 
 Most people treating their black tank are solving the wrong problem. They're focused on odor, dumping products in after every flush, buying expensive enzyme treatments, when the real enemy is something most tank guides don't even mention: the pyramid plug.

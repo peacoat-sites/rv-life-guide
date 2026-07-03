@@ -13,16 +13,16 @@ author_bio: "Julia Davidson has spent most of her last four years dry camping on
 slug: "rv-extended-warranty-worth-it"
 affiliate_disclosure: false
 faqs:
-  - q: "Is an RV extended warranty the same as an RV service contract?"
-    a: "Technically, no. A true 'warranty' is backed by the manufacturer. What dealers and third parties sell are service contracts, though everyone calls them warranties. The distinction matters legally if the company goes bankrupt or denies a claim."
-  - q: "Can I buy an extended warranty after I've already purchased the RV?"
-    a: "Yes, but the window narrows. Most providers require the rig to be under a certain age (typically under ten years) and mileage. Some require a pre-purchase inspection. The longer you wait, the more likely pre-existing conditions get excluded."
-  - q: "What RV repairs are almost never covered by extended warranties?"
-    a: "Roof membrane damage, water intrusion and the rot that follows, awning fabric, tires, and cosmetic items like interior fabric or cabinetry. These are the expensive headaches that warranties quietly exclude. Roof maintenance and sealant inspection (do it yourself twice a year) will save you more money than most warranties ever will."
-  - q: "Does extended warranty coverage work at any repair shop?"
-    a: "Depends entirely on the contract. Some require manufacturer-authorized service centers, which can mean waiting weeks for an appointment. Better plans allow any licensed RV technician. Confirm this in writing before you sign."
-  - q: "Are extended warranties worth it on older used RVs?"
-    a: "Sometimes, but the exclusion risk is highest here. Older rigs have more pre-existing wear, and adjusters will use that against you. If you buy coverage on a rig over seven years old, read the pre-existing condition language twice, and get any known issues in writing as 'accepted' before the contract starts."
+ - q: "Is an RV extended warranty the same as an RV service contract?"
+ a: "Technically, no. A true 'warranty' is backed by the manufacturer. What dealers and third parties sell are service contracts, though everyone calls them warranties. The distinction matters legally if the company goes bankrupt or denies a claim."
+ - q: "Can I buy an extended warranty after I've already purchased the RV?"
+ a: "Yes, but the window narrows. Most providers require the rig to be under a certain age (typically under ten years) and mileage. Some require a pre-purchase inspection. The longer you wait, the more likely pre-existing conditions get excluded."
+ - q: "What RV repairs are almost never covered by extended warranties?"
+ a: "Roof membrane damage, water intrusion and the rot that follows, awning fabric, tires, and cosmetic items like interior fabric or cabinetry. These are the expensive headaches that warranties quietly exclude. Roof maintenance and sealant inspection (do it yourself twice a year) will save you more money than most warranties ever will."
+ - q: "Does extended warranty coverage work at any repair shop?"
+ a: "Depends entirely on the contract. Some require manufacturer-authorized service centers, which can mean waiting weeks for an appointment. Better plans allow any licensed RV technician. Confirm this in writing before you sign."
+ - q: "Are extended warranties worth it on older used RVs?"
+ a: "Sometimes, but the exclusion risk is highest here. Older rigs have more pre-existing wear, and adjusters will use that against you. If you buy coverage on a rig over seven years old, read the pre-existing condition language twice, and get any known issues in writing as 'accepted' before the contract starts."
 ---
 
 Most RV warranty advice online is written by people trying to sell you a warranty. That's the problem. Let's fix it.

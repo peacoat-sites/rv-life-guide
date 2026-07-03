@@ -11,9 +11,7 @@ author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "new-shore-power-safety-rule-is-coming-for-all-new-rvs"
-affiliate_disclosure: false
----
-If you're shopping for a new RV right now, or you manage a campground, something just shifted that you need to know about. On June 9, 2026, the RV Industry Association confirmed a model year 2028 effective date for mandatory Grounding Monitor Interrupters on all new 30-amp and 50-amp RVs. This isn't a rumor or a proposal still working through committees. It's done. And depending on which side of the pedestal you're standing on, it changes things.
+affiliate_disclosure: false, If you're shopping for a new RV right now, or you manage a campground, something just shifted that you need to know about. On June 9, 2026, the RV Industry Association confirmed a model year 2028 effective date for mandatory Grounding Monitor Interrupters on all new 30-amp and 50-amp RVs. This isn't a rumor or a proposal still working through committees. It's done. And depending on which side of the pedestal you're standing on, it changes things.
 
 ## What a GMI Actually Does (and Why It Matters)
 
@@ -52,11 +50,11 @@ The underlying goal here is one that anyone who's spent time in campgrounds shou
 Six years of development, two editions of the National Electrical Code, a missed 2026 deadline, and now a firm 2028 line in the sand. This one's actually happening. If you're buying new or running a park, now is when to start paying attention.
 
 ## Sources
-- [New RV Safety Rule Could Change How Campers Plug In – Camper Report](https://camperreport.com/new-rv-safety-rule-could-change-how-campers-plug-in/) (June 9, 2026)
-- [RV Camping News & Tips of the Week – June 15th, 2026 – CamperFAQs](https://camperfaqs.com/community/topic/rv-camping-news-tips-of-the-week-june-15th-2026) (June 15, 2026)
-- [Grounding Monitor Interrupters On RVs and Their Impact On RV Parks And Campgrounds – RVIA](https://www.rvia.org/news-insights/grounding-monitor-interrupters-rvs-and-their-impact-rv-parks-and-campgrounds) (October 2025)
-- [New RV Electrical Rule Coming: Why Future Campers May Reject Bad Campground Power – CamperFAQs](https://camperfaqs.com/new-rv-electrical-rule-coming) (June 2026)
-- [New 2026 RV Rule Could Leave You Without Power at Some Campgrounds – RV Travel](https://www.rvtravel.com/2026-rv-rule-rig-power/) (December 2025)
+- [New RV Safety Rule Could Change How Campers Plug In, Camper Report](https://camperreport.com/new-rv-safety-rule-could-change-how-campers-plug-in/) (June 9, 2026)
+- [RV Camping News & Tips of the Week, June 15th, 2026, CamperFAQs](https://camperfaqs.com/community/topic/rv-camping-news-tips-of-the-week-june-15th-2026) (June 15, 2026)
+- [Grounding Monitor Interrupters On RVs and Their Impact On RV Parks And Campgrounds, RVIA](https://www.rvia.org/news-insights/grounding-monitor-interrupters-rvs-and-their-impact-rv-parks-and-campgrounds) (October 2025)
+- [New RV Electrical Rule Coming: Why Future Campers May Reject Bad Campground Power, CamperFAQs](https://camperfaqs.com/new-rv-electrical-rule-coming) (June 2026)
+- [New 2026 RV Rule Could Leave You Without Power at Some Campgrounds, RV Travel](https://www.rvtravel.com/2026-rv-rule-rig-power/) (December 2025)
 
 *Photo: [Charles Criscuolo](https://www.pexels.com/@onetrillionpixels) via Pexels*
 

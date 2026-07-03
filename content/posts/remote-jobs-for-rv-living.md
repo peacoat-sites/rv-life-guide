@@ -9,16 +9,16 @@ tags: ["remote", "jobs", "living"]
 slug: "remote-jobs-for-rv-living"
 affiliate_disclosure: false
 faqs:
-  - q: "What's the best remote job for someone with no tech background?"
-    a: "Bookkeeping, copywriting, and virtual assistance are three realistic entry points. Bookkeeping especially can be self-taught through free resources and the QuickBooks certification program in a few months. Virtual assistance pays less ($15-$30/hour typically) but has a low barrier to entry and flexible hours."
-  - q: "Do I need to tell my employer I live in an RV full-time?"
-    a: "Not necessarily, but you do need to disclose your state of domicile for tax withholding purposes. Some remote-friendly employers don't care where you physically are as long as your legal address is in a state where they can run payroll. Others have policies against employees living outside a specific region. Read your contract carefully and ask HR directly if it's unclear."
-  - q: "How much internet speed do I actually need to work remotely?"
-    a: "For most remote jobs, 25 Mbps download and 10 Mbps upload is workable. Video calls (Zoom, Google Meet) run fine at 5 Mbps but you'll want headroom. If you're uploading large files or on video all day, aim for 50 Mbps upload. Starlink's typical speeds are more than sufficient; the issue is latency in some satellite positions and occasional outages in heavy weather."
-  - q: "Can I do remote work while boondocking, or do I need campground hookups?"
-    a: "You can, but it requires planning. Starlink plus a solid solar setup handles the connectivity and power side. I know full-timers who boondock 90% of the time while working, but they've invested $2,000-$4,000 in solar, batteries, and connectivity gear. A reliable surge protector matters too once you do plug in at campgrounds with sketchy power quality. (Affiliate link.)"
-  - q: "Is remote work from an RV actually sustainable long-term, or do people burn out?"
-    a: "Both happen. People who struggle usually underestimate how much self-discipline async work requires without an office structure, or they pick jobs with too much real-time availability pressure. People who thrive tend to have clearly defined work hours, reliable internet infrastructure, and jobs that genuinely flex around travel. Eight years in, I'm still doing it -- but I've also made every mistake I described above at least once."
+ - q: "What's the best remote job for someone with no tech background?"
+ a: "Bookkeeping, copywriting, and virtual assistance are three realistic entry points. Bookkeeping especially can be self-taught through free resources and the QuickBooks certification program in a few months. Virtual assistance pays less ($15-$30/hour typically) but has a low barrier to entry and flexible hours."
+ - q: "Do I need to tell my employer I live in an RV full-time?"
+ a: "Not necessarily, but you do need to disclose your state of domicile for tax withholding purposes. Some remote-friendly employers don't care where you physically are as long as your legal address is in a state where they can run payroll. Others have policies against employees living outside a specific region. Read your contract carefully and ask HR directly if it's unclear."
+ - q: "How much internet speed do I actually need to work remotely?"
+ a: "For most remote jobs, 25 Mbps download and 10 Mbps upload is workable. Video calls (Zoom, Google Meet) run fine at 5 Mbps but you'll want headroom. If you're uploading large files or on video all day, aim for 50 Mbps upload. Starlink's typical speeds are more than sufficient; the issue is latency in some satellite positions and occasional outages in heavy weather."
+ - q: "Can I do remote work while boondocking, or do I need campground hookups?"
+ a: "You can, but it requires planning. Starlink plus a solid solar setup handles the connectivity and power side. I know full-timers who boondock 90% of the time while working, but they've invested $2,000-$4,000 in solar, batteries, and connectivity gear. A reliable surge protector matters too once you do plug in at campgrounds with sketchy power quality. (Affiliate link.)"
+ - q: "Is remote work from an RV actually sustainable long-term, or do people burn out?"
+ a: "Both happen. People who struggle usually underestimate how much self-discipline async work requires without an office structure, or they pick jobs with too much real-time availability pressure. People who thrive tend to have clearly defined work hours, reliable internet infrastructure, and jobs that genuinely flex around travel. Eight years in, I'm still doing it, but I've also made every mistake I described above at least once."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
@@ -57,7 +57,7 @@ I've run a dual-carrier setup for most of the past four years. Right now that's 
 
 Starlink has changed things significantly for full-timers. The RV/portable plan runs about $150/month plus $599 for hardware, and in my experience it delivers 50-200 Mbps in most locations including dispersed camping where cellular is nonexistent. If you're planning to boondock heavily and still work full-time, Starlink is probably the most important infrastructure decision you'll make. Not a cheap one, but real.
 
-One thing people underestimate: power. Running a laptop, a router, a hotspot, and maybe a secondary monitor off a 30-amp hookup is fine. Running all of that on battery power while boondocking is a different conversation. If remote work is your plan, you either need shore power access most of the time or a legitimate solar setup. A 400-watt solar panel array with 200Ah of lithium battery capacity can keep a work-from-RV setup running through a cloudy day, but it's not a small investment. [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20) will tell you exactly what you're working with so you're not surprised mid-call. (Affiliate link -- the site may earn a commission on purchases like this.)
+One thing people underestimate: power. Running a laptop, a router, a hotspot, and maybe a secondary monitor off a 30-amp hookup is fine. Running all of that on battery power while boondocking is a different conversation. If remote work is your plan, you either need shore power access most of the time or a legitimate solar setup. A 400-watt solar panel array with 200Ah of lithium battery capacity can keep a work-from-RV setup running through a cloudy day, but it's not a small investment. [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20) will tell you exactly what you're working with so you're not surprised mid-call. (Affiliate link, the site may earn a commission on purchases like this.)
 
 ## Finding the Jobs Themselves
 
@@ -69,7 +69,7 @@ You might be wondering where to actually look. Here's my honest take on the majo
 
 **FlexJobs** charges a subscription ($24.95/month or $49.95 for three months) to access listings. The reaction I get when I mention this is usually skepticism. Here's my actual experience: it's worth it for three months when you're first job searching, because they vet listings and screen out the garbage that floods free boards. Cancel after you land something.
 
-**Toptal** and **Upwork** are the freelance platforms worth your time if you're in tech, design, or writing. Toptal is harder to get into (they screen pretty rigorously) but the rates are higher. Upwork is more of a numbers game early on -- you'll undercharge to build reviews and then raise rates. I know people who've built solid $70,000+/year incomes on Upwork, but they were patient and strategic about their niche.
+**Toptal** and **Upwork** are the freelance platforms worth your time if you're in tech, design, or writing. Toptal is harder to get into (they screen pretty rigorously) but the rates are higher. Upwork is more of a numbers game early on, you'll undercharge to build reviews and then raise rates. I know people who've built solid $70,000+/year incomes on Upwork, but they were patient and strategic about their niche.
 
 Cold outreach still works. I landed a six-month contract in 2021 by emailing 22 small businesses directly about content strategy, getting three responses, and converting one. It's not scalable advice, but it's real.
 

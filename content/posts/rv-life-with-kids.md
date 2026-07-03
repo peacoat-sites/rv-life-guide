@@ -13,16 +13,16 @@ author_bio: "Greg Hoffman made the financial case for full-time RV living before
 slug: "rv-life-with-kids"
 affiliate_disclosure: false
 faqs:
-  - q: "How do you handle school when RVing full-time with kids?"
-    a: "Most full-timing families use accredited online programs like Connections Academy, K12, or Calvert Education, supplemented with hands-on learning tied to wherever they are. The key is treating school as a non-negotiable daily block, not something you fit in when convenient. Courts in most states require you to comply with compulsory education laws regardless of where you're parked, so know your domicile state's homeschool requirements."
-  - q: "What's a realistic monthly budget for RV life with kids?"
-    a: "Budget $4,500 to $6,500 per month for a family of four, depending on region and how much you move. That includes campground fees ($800 to $1,500), fuel ($400 to $900 depending on travel frequency), groceries ($1,000 to $1,400), insurance (rig plus health), and a maintenance reserve of at least $400 a month. The maintenance reserve is the number most budgets omit and then get destroyed by."
-  - q: "Is RV life safe for young children?"
-    a: "Yes, with appropriate setup. Carbon monoxide detectors, a reliable surge protector, a clean water filter, and basic fire safety (two exit routes from every sleeping area) cover the main hazards. The ER visit risk isn't higher than stationary life; it's just different because you're often further from specialized care, which is why a solid telehealth service and clear health insurance coverage matter more than they do at home."
-  - q: "How do other kids deal with not having a stable friend group?"
-    a: "Honestly, it varies by kid temperament more than anything else. Extroverted kids who make friends fast tend to do well. Kids who need long-term, stable friendships struggle. Joining Fulltime Families or attending RV rallies helps create a community of kids in the same situation. Extended stays of four to eight weeks in one spot allow real friendships to form. Don't pretend this isn't a real sacrifice, but it's a manageable one for most kids."
-  - q: "What size RV do you actually need for a family of four?"
-    a: "30 to 38 feet gives you enough space without becoming a handling nightmare. The sweet spot for a two-kid family is right around 34 to 36 feet with a bunkhouse or second bedroom. Below 28 feet and you're in each other's space constantly in ways that wear on everyone. Above 40 feet and you're dealing with restricted campsite access and significantly harder maneuvering."
+ - q: "How do you handle school when RVing full-time with kids?"
+ a: "Most full-timing families use accredited online programs like Connections Academy, K12, or Calvert Education, supplemented with hands-on learning tied to wherever they are. The key is treating school as a non-negotiable daily block, not something you fit in when convenient. Courts in most states require you to comply with compulsory education laws regardless of where you're parked, so know your domicile state's homeschool requirements."
+ - q: "What's a realistic monthly budget for RV life with kids?"
+ a: "Budget $4,500 to $6,500 per month for a family of four, depending on region and how much you move. That includes campground fees ($800 to $1,500), fuel ($400 to $900 depending on travel frequency), groceries ($1,000 to $1,400), insurance (rig plus health), and a maintenance reserve of at least $400 a month. The maintenance reserve is the number most budgets omit and then get destroyed by."
+ - q: "Is RV life safe for young children?"
+ a: "Yes, with appropriate setup. Carbon monoxide detectors, a reliable surge protector, a clean water filter, and basic fire safety (two exit routes from every sleeping area) cover the main hazards. The ER visit risk isn't higher than stationary life; it's just different because you're often further from specialized care, which is why a solid telehealth service and clear health insurance coverage matter more than they do at home."
+ - q: "How do other kids deal with not having a stable friend group?"
+ a: "Honestly, it varies by kid temperament more than anything else. Extroverted kids who make friends fast tend to do well. Kids who need long-term, stable friendships struggle. Joining Fulltime Families or attending RV rallies helps create a community of kids in the same situation. Extended stays of four to eight weeks in one spot allow real friendships to form. Don't pretend this isn't a real sacrifice, but it's a manageable one for most kids."
+ - q: "What size RV do you actually need for a family of four?"
+ a: "30 to 38 feet gives you enough space without becoming a handling nightmare. The sweet spot for a two-kid family is right around 34 to 36 feet with a bunkhouse or second bedroom. Below 28 feet and you're in each other's space constantly in ways that wear on everyone. Above 40 feet and you're dealing with restricted campsite access and significantly harder maneuvering."
 ---
 
 Most articles about RV life with kids show you smiling families at Yellowstone and leave out the part where your seven-year-old has a full meltdown in a Walmart parking lot in Amarillo because she hasn't had a real bedroom in four months. That gap between the Instagram version and the actual experience is where I'm going to spend this article.

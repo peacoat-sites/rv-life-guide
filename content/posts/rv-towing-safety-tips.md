@@ -13,16 +13,16 @@ author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning
 slug: "rv-towing-safety-tips"
 affiliate_disclosure: false
 faqs:
-  - q: "What's the most common towing mistake beginners make?"
-    a: "Exceeding tongue weight limits without realizing it. People focus on the trailer's total weight but ignore that 10-15% of it needs to be pressing down on the hitch ball, and too little tongue weight causes sway, too much overloads the tow vehicle's rear axle. Weigh your rig loaded and check tongue weight specifically, not just total trailer weight."
-  - q: "Do I really need a weight distribution hitch for a mid-size trailer?"
-    a: "If your loaded trailer weighs more than around 50% of your tow vehicle's weight, yes, almost certainly. If the rear of your truck squats noticeably when you hitch up, that's your answer. Running without one when you need one makes the front wheels lighter and degrades steering and braking response."
-  - q: "How do I correct a trailer sway if it starts on the highway?"
-    a: "Don't brake hard and don't accelerate. Hold the steering wheel firmly and let off the gas gradually to reduce speed. If your brake controller has a manual override button, apply it to slow the trailer independently. Most modern brake controllers handle this automatically if calibrated correctly. Getting below 55 mph usually stops the sway."
-  - q: "Is a 5th wheel actually safer to tow than a travel trailer?"
-    a: "Generally, yes. The kingpin coupling over the rear axle provides inherently better stability than a ball hitch at the bumper, and fifth wheels have less tendency to sway at speed. That said, they require a pickup truck with a bed, a proper fifth wheel hitch (usually $700-$1,500 installed), and they're harder to back into tight spaces. Safety advantage is real, but so are the tradeoffs."
-  - q: "How often should I check tire pressure on a towing setup?"
-    a: "Every morning before you drive, and after any stop longer than an hour or two if you're in significant temperature swings. RV trailer tires are especially prone to failure from underinflation. A tire pressure monitoring system that alerts you in real time is worth every dollar, particularly for rear trailer tires you can't see from the cab."
+ - q: "What's the most common towing mistake beginners make?"
+ a: "Exceeding tongue weight limits without realizing it. People focus on the trailer's total weight but ignore that 10-15% of it needs to be pressing down on the hitch ball, and too little tongue weight causes sway, too much overloads the tow vehicle's rear axle. Weigh your rig loaded and check tongue weight specifically, not just total trailer weight."
+ - q: "Do I really need a weight distribution hitch for a mid-size trailer?"
+ a: "If your loaded trailer weighs more than around 50% of your tow vehicle's weight, yes, almost certainly. If the rear of your truck squats noticeably when you hitch up, that's your answer. Running without one when you need one makes the front wheels lighter and degrades steering and braking response."
+ - q: "How do I correct a trailer sway if it starts on the highway?"
+ a: "Don't brake hard and don't accelerate. Hold the steering wheel firmly and let off the gas gradually to reduce speed. If your brake controller has a manual override button, apply it to slow the trailer independently. Most modern brake controllers handle this automatically if calibrated correctly. Getting below 55 mph usually stops the sway."
+ - q: "Is a 5th wheel actually safer to tow than a travel trailer?"
+ a: "Generally, yes. The kingpin coupling over the rear axle provides inherently better stability than a ball hitch at the bumper, and fifth wheels have less tendency to sway at speed. That said, they require a pickup truck with a bed, a proper fifth wheel hitch (usually $700-$1,500 installed), and they're harder to back into tight spaces. Safety advantage is real, but so are the tradeoffs."
+ - q: "How often should I check tire pressure on a towing setup?"
+ a: "Every morning before you drive, and after any stop longer than an hour or two if you're in significant temperature swings. RV trailer tires are especially prone to failure from underinflation. A tire pressure monitoring system that alerts you in real time is worth every dollar, particularly for rear trailer tires you can't see from the cab."
 ---
 
 Three years ago, I watched a 36-foot fifth wheel come completely uncoupled from a pickup on I-40 outside Amarillo. The trailer swung wide, took out a guardrail, and came to rest in a ditch. Nobody was hurt, which was miraculous. The driver had been towing for years. He knew what he was doing, or thought he did. Turned out he'd skipped one pre-trip check that morning because he was running late. One check.

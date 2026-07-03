@@ -13,16 +13,16 @@ author_bio: "Sandra Park is the person her whole RV community comes to when they
 slug: "sway-control-hitch-rv"
 affiliate_disclosure: false
 faqs:
-  - q: "Do I need sway control if my truck is rated to tow my trailer's weight?"
-    a: "Tow ratings and sway control are different things. Your truck's tow rating tells you what it can pull without mechanically failing. It says nothing about whether the trailer will stay stable at highway speed. A rig that's within tow capacity can still sway dangerously with the wrong load distribution or no sway control in place."
-  - q: "Can I use a sway control bar without a weight distribution hitch?"
-    a: "Technically yes, and plenty of people do it on smaller, lighter trailers (under 4,500 pounds or so). But on anything heavier, a friction bar without weight distribution is treating a symptom and not the cause. Your tow vehicle is still squatting, your steering is still compromised, and you're relying on a single sliding arm to bail you out if things go sideways. It's not a setup I'd trust for full-time travel."
-  - q: "How do I know if my trailer is swaying too much?"
-    a: "A little movement is normal and unavoidable. What you're watching for: any oscillation that takes more than one or two cycles to damp out after a disturbance, any swinging that feels like it's pulling the rear of your tow vehicle with it, or any movement you can see in your mirrors at highway speed. If your tow vehicle's rear end is moving left and right, that's too much sway."
-  - q: "Does trailer sway control affect how I back up?"
-    a: "With a friction bar: yes, significantly. You must disconnect the friction bar before backing. Forget this and you risk bending the A-frame or the bar itself. Integrated systems like the Equalizer or Andersen don't have this problem; you back up normally. This is one of the biggest practical reasons to spend the extra money on an integrated setup if you're doing full-time camping."
-  - q: "What speed should I worry about trailer sway?"
-    a: "Most sway events happen above 55 mph, and the risk curve goes up sharply above 65. I don't have a precise threshold that applies to every rig, but I'll say this: every full-timer I know who's had a serious sway incident was going faster than they should have been. The extra ten minutes isn't worth it."
+ - q: "Do I need sway control if my truck is rated to tow my trailer's weight?"
+ a: "Tow ratings and sway control are different things. Your truck's tow rating tells you what it can pull without mechanically failing. It says nothing about whether the trailer will stay stable at highway speed. A rig that's within tow capacity can still sway dangerously with the wrong load distribution or no sway control in place."
+ - q: "Can I use a sway control bar without a weight distribution hitch?"
+ a: "Technically yes, and plenty of people do it on smaller, lighter trailers (under 4,500 pounds or so). But on anything heavier, a friction bar without weight distribution is treating a symptom and not the cause. Your tow vehicle is still squatting, your steering is still compromised, and you're relying on a single sliding arm to bail you out if things go sideways. It's not a setup I'd trust for full-time travel."
+ - q: "How do I know if my trailer is swaying too much?"
+ a: "A little movement is normal and unavoidable. What you're watching for: any oscillation that takes more than one or two cycles to damp out after a disturbance, any swinging that feels like it's pulling the rear of your tow vehicle with it, or any movement you can see in your mirrors at highway speed. If your tow vehicle's rear end is moving left and right, that's too much sway."
+ - q: "Does trailer sway control affect how I back up?"
+ a: "With a friction bar: yes, significantly. You must disconnect the friction bar before backing. Forget this and you risk bending the A-frame or the bar itself. Integrated systems like the Equalizer or Andersen don't have this problem; you back up normally. This is one of the biggest practical reasons to spend the extra money on an integrated setup if you're doing full-time camping."
+ - q: "What speed should I worry about trailer sway?"
+ a: "Most sway events happen above 55 mph, and the risk curve goes up sharply above 65. I don't have a precise threshold that applies to every rig, but I'll say this: every full-timer I know who's had a serious sway incident was going faster than they should have been. The extra ten minutes isn't worth it."
 ---
 
 Trailer sway has tried to kill me exactly once.
