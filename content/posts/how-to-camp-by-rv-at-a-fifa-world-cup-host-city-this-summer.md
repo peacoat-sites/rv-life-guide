@@ -11,7 +11,9 @@ author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 slug: "how-to-camp-by-rv-at-a-fifa-world-cup-host-city-this-summer"
-affiliate_disclosure: false, Most people watching the World Cup this summer booked a hotel six months ago and are now quietly panicking about the bill. That's the assumption, anyway. The reality in June 2026 is stranger and more interesting: hotel occupancy across U.S. host cities is running *below* forecast, RV park supply has exploded, and a genuine window has opened for fans who want to actually be there without paying $400 a night for a Marriott within commuting distance of a stadium.
+affiliate_disclosure: false
+---
+Most people watching the World Cup this summer booked a hotel six months ago and are now quietly panicking about the bill. That's the assumption, anyway. The reality in June 2026 is stranger and more interesting: hotel occupancy across U.S. host cities is running *below* forecast, RV park supply has exploded, and a genuine window has opened for fans who want to actually be there without paying $400 a night for a Marriott within commuting distance of a stadium.
 
 I'll be honest, I didn't expect to be writing about soccer. But when the data started coming in about what's happening to RV park inventory and pricing near World Cup host cities right now, it was too interesting to ignore. This isn't a travel trend piece. It's a look at a real, time-sensitive set of conditions that won't exist again.
 

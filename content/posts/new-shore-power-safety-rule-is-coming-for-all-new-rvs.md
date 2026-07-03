@@ -11,7 +11,9 @@ author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "new-shore-power-safety-rule-is-coming-for-all-new-rvs"
-affiliate_disclosure: false, If you're shopping for a new RV right now, or you manage a campground, something just shifted that you need to know about. On June 9, 2026, the RV Industry Association confirmed a model year 2028 effective date for mandatory Grounding Monitor Interrupters on all new 30-amp and 50-amp RVs. This isn't a rumor or a proposal still working through committees. It's done. And depending on which side of the pedestal you're standing on, it changes things.
+affiliate_disclosure: false
+---
+If you're shopping for a new RV right now, or you manage a campground, something just shifted that you need to know about. On June 9, 2026, the RV Industry Association confirmed a model year 2028 effective date for mandatory Grounding Monitor Interrupters on all new 30-amp and 50-amp RVs. This isn't a rumor or a proposal still working through committees. It's done. And depending on which side of the pedestal you're standing on, it changes things.
 
 ## What a GMI Actually Does (and Why It Matters)
 

@@ -11,7 +11,9 @@ author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 slug: "new-gmi-rule-will-change-how-your-rv-accepts-shore-power"
-affiliate_disclosure: false, Most coverage treats this like a tech footnote. It's not.
+affiliate_disclosure: false
+---
+Most coverage treats this like a tech footnote. It's not.
 
 On June 4, 2026, the RVIA Board of Directors voted unanimously to mandate Grounding Monitor Interrupters on all new RVs with 30-amp or 50-amp service. The effective date is January 1, 2027, with mandatory enforcement tied to model year 2028 production. That means if you buy a new RV in the next 18 months, this directly affects what you're getting. If you own one now, it affects every campground you'll plug into.
 

@@ -11,7 +11,9 @@ author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 slug: "how-the-de-minimis-rule-change-will-raise-your-rv-parts-costs"
-affiliate_disclosure: false, If you've ever ordered a cheap LED strip light, a replacement water pump switch, or a set of leveling blocks from an overseas seller on Amazon or AliExpress and felt vaguely lucky that it arrived cheap and duty-free, that window is closing. It's already mostly shut, actually. And this week brought news that suggests it's probably not reopening.
+affiliate_disclosure: false
+---
+If you've ever ordered a cheap LED strip light, a replacement water pump switch, or a set of leveling blocks from an overseas seller on Amazon or AliExpress and felt vaguely lucky that it arrived cheap and duty-free, that window is closing. It's already mostly shut, actually. And this week brought news that suggests it's probably not reopening.
 
 On June 23, 2026, U.S. Customs and Border Protection published two proposed rules designed to create a permanent legal foundation for suspending the de minimis exemption, the rule that previously allowed any imported goods valued at $800 or less to enter the country duty-free. If you're not familiar with the term, you might be wondering why it matters to you. Here's the short answer: a significant chunk of the affordable aftermarket RV parts market was built on this exemption. And that market is changing fast.
 
