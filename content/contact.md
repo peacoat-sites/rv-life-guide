@@ -1,22 +1,22 @@
 ---
 title: "Contact"
-description: "Get in touch with Cody & Brenna Pierce at rv-life-guide.com."
+description: "Get in touch with the RV Life Guide editorial team. We read every message."
 ---
 
 # Contact Us
 
-Have a question, correction, or feedback about something you read on rv-life-guide.com? We’d love to hear from you.
+Have a question, spotted an error, or want to suggest a topic? We read every message personally and aim to reply within 2-3 business days.
 
-**Email:** [support@rv-life-guide.com](mailto:support@rv-life-guide.com)
+{{< contact-form >}}
 
-Cody & Brenna Pierce personally reads every message and aims to respond within 2–3 business days.
+## What we can help with
 
-## What to Include
+- **Corrections** — spotted something out of date or factually wrong? Please tell us. We take accuracy seriously and will review and update promptly.
+- **Topic suggestions** — if there's something we haven't covered that you'd find useful, we're listening.
+- **General questions** — anything about the site, our research process, or our content.
 
-To help us respond quickly, please include:
-- The article or topic your question is about
-- Any specific details that would help us assist you
+## What we can't help with
 
-## What We Can’t Help With
+We're a content publication, not a professional service. We can't provide personalized RV maintenance or route planning advice specific to your situation. For that, please consult a qualified professional.
 
-We’re a content-only publication and cannot provide personalized travel logistics advice. For professional guidance, please consult a qualified RV dealer or mechanic.
+*[Jordan Miles](/{editor_slug}/) personally reviews all messages sent through this form.*
