@@ -1,5 +1,6 @@
 ---
 title: "RV Fuel Cost Calculator"
+hide_title: true
 date: 2026-01-02
 draft: false
 description: "Estimate the fuel cost of any RV trip using current U.S. national average gas and diesel prices. Enter your distance and your rig's MPG to get an instant total."
