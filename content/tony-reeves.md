@@ -2,6 +2,7 @@
 title: "Tony Reeves"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
