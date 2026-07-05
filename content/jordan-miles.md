@@ -2,6 +2,7 @@
 title: "Jordan Miles"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Jordan Miles"
 author_slug: "jordan-miles"
 author_title: "Full-Time RVer & Fuel Cost Expert"
