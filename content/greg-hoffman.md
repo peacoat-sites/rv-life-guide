@@ -2,6 +2,7 @@
 title: "Greg Hoffman"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "Finance Writer"
