@@ -1,5 +1,6 @@
 ---
 title: "RV Towing Capacity Calculator: Know Your Limits Before You Hitch"
+hide_title: true
 date: 2026-06-10T08:00:00Z
 draft: false
 description: "Use our free RV towing capacity calculator to check if your tow vehicle can safely pull your trailer. Enter real weights and get instant pass/fail safety checks."
