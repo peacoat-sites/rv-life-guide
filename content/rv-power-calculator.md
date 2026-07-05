@@ -1,5 +1,6 @@
 ---
 title: "RV Solar & Battery Sizing Calculator: How Much Power Do You Actually Need?"
+hide_title: true
 date: 2026-06-10T09:00:00Z
 draft: false
 description: "Calculate your RV's daily power needs, battery bank size, and number of solar panels with our free RV solar sizing calculator. Works for boondocking and full-time living."
