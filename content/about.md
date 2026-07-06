@@ -5,7 +5,7 @@ date: 2026-01-01
 draft: false
 description: "About RV Life Guide,  meet Cody and Brenna Pierce, full-time RVers writing about life on the road."
 layout: "about-page"
-author_slug: "rv-life-guide"
+author_slug: "barbara-mitchell"
 author_name: "RV Life Guide"---
 
 ## About RV Life Guide
