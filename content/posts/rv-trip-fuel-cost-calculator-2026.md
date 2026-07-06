@@ -2,10 +2,10 @@
 title: "RV Trip Fuel Cost Calculator: Real Costs by RV Type & Region (2026)"
 image: "https://images.pexels.com/photos/1381806/pexels-photo-1381806.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Calculate your RV fuel costs with our interactive calculator. See real prices (EIA data), fuel economy by RV type, and compare Class A vs Class B vs towing costs across all U.S. regions."
-author: "Jordan Miles"
-author_slug: "jordan-miles"
-author_title: "Full-Time RVer, 8 years on the road + automotive maintenance background"
-author_bio: "8 years full-time RV living across all 50 states. I started as a casual road-tripper and quickly learned that fuel costs, not campground fees, make or break your budget. Now I help people plan realistic RV trips without sticker shock."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
+author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 date: 2026-06-28
 lastmod: 2026-06-28
 faqs:
