@@ -7,6 +7,7 @@ description: "About RV Life Guide,  meet Cody and Brenna Pierce, full-time RVers
 layout: "about-page"
 author_slug: "barbara-mitchell"
 author_name: "RV Life Guide"
+person_name: "Cody and Brenna Pierce"
 ---
 
 ## About RV Life Guide
