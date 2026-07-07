@@ -21,8 +21,8 @@ faqs:
    a: "It works, but it requires intentional layout choices. Look specifically for floor plans with a bunkhouse or a rear bedroom with a door that can serve as a kids' space. Families with school-age children typically use a mix of public school enrollment for short stints, homeschool curriculum, and online programs. The kids I've met who've grown up on the road are almost universally more adaptable, curious, and independent than their peers. That doesn't make it easy, but it does make it worth considering."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 The couple ahead of me at a Harvest Hosts winery in Oregon had been full-timing for three years in a 42-foot fifth wheel. Their rig had a washer/dryer combo, a residential refrigerator, a king-size bed, and enough storage that their teenage daughter had her own defined "zone" with a door. I was living in a 24-foot travel trailer at the time, doing laundry at coin-ops and sleeping on a mattress I could touch from both sides without moving. That conversation changed everything I thought I knew about full-time RV living. Fifth wheels, I learned that afternoon, are a different category entirely.

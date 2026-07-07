@@ -21,8 +21,8 @@ faqs:
     a: "This depends on the state. South Dakota and Texas have no state income tax, so there's nothing to file. Florida has no individual income tax either. If you're domiciled somewhere with an income tax, yes, you'd generally owe taxes there on income earned anywhere. This is one reason the no-income-tax states are so popular for domicile among full-timers, and it connects directly to your overall cost picture alongside insurance."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 The first year I lived in my RV full-time, I paid $847 a month for a COBRA plan I didn't even use because I was terrified of being without coverage and had no idea what my actual options were. That's nearly $10,000 I handed over to my former employer's insurance company while parked in state parks and BLM land, perfectly healthy, because nobody told me there was a better way. If you're about to make that same mistake, or you're already paying it, this is the article I wish I'd had.

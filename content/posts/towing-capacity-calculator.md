@@ -21,8 +21,8 @@ faqs:
    a: "Always use the trailer's GVWR (Gross Vehicle Weight Rating) as your planning number, not the dry weight. Your tow vehicle needs to handle the trailer at its maximum loaded capacity. If the GVWR is close to or exceeds your limits, you're in a precarious position regardless of how light you actually pack."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 Most people discover their truck can't actually tow their dream trailer *after* they've already signed the purchase agreement. That moment of panic, standing in a dealership lot with a spec sheet that doesn't quite add up, is more common than you'd think. The good news: understanding how a towing capacity calculator works, and what numbers actually matter, can save you from an expensive and potentially dangerous mistake.

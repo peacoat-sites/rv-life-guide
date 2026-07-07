@@ -21,8 +21,8 @@ faqs:
    a: "Floorplans do improve over time, and some newer coach designs have genuinely better layouts than what was available five or eight years ago. But I'd argue it's rarely worth paying a 30 percent premium purely for a layout. Check if the floorplan you love is available in a three or four-year-old model year. Often it is, or something close to it, at a fraction of the cost. The right answer here is personal, and anyone who tells you otherwise is either selling something or hasn't spent enough nights dealing with a broken slide in a Walmart parking lot to know what matters. Get the inspection. Know"
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 A brand-new Class A motorhome rolled out of a dealership in Phoenix last spring. Sticker price: $187,000. By the time the buyer drove it 400 miles to their first campsite in Sedona, three things had already stopped working: the slide-out motor was grinding, the bathroom exhaust fan was dead, and a cabinet door had popped off its track. The dealer fixed it all under warranty, sure. But that buyer spent their first week of "freedom" on the phone with a service department instead of hiking red rocks. I've heard this story, or some version of it, more times than I can count.

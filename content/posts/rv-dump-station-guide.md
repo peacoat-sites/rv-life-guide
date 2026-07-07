@@ -21,8 +21,8 @@ faqs:
    a: "Usually one of three things: you're not using enough water between uses, you're not using a tank treatment, or your tank sensors or seals have an issue. Add more water after each dump, use a quality enzyme treatment, and if the smell persists, try a dedicated tank flush treatment like Unique Tank Cleaner, which is designed to break down buildup on tank walls. Persistent sulfur smell sometimes indicates a vent pipe issue, which is worth having checked."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 If you're sitting in a campground right now with a full black tank and zero idea what happens next, take a breath. You're not the first person to pull up to a dump station and just stare at it. I've watched experienced campers fumble with their sewer hose on a windy Tuesday morning. I've been that person. The dump station is one of those things nobody really explains before you drive away from the RV dealership, and yet you'll deal with it every single week of full-time life.

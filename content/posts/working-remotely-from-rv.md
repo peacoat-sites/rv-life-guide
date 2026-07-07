@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but it requires real infrastructure investment. You need 200+ watts of solar, 100Ah minimum of lithium battery storage (200Ah is more realistic), and a quality inverter if you run AC-powered equipment. The laptop itself is efficient; it's your hotspot equipment, monitors, and lighting that add up. I've worked full days off-grid many times, but I keep a consistent eye on my battery monitor and I know exactly which campsites near my route have 30-amp electric hookups as a fallback."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 You're on a video call with your biggest client. The background shows pine trees and mountain light that would make anyone jealous. Then your hotspot drops, your laptop battery hits 11%, and the client asks you to share your screen. This is the moment nobody's Instagram post covers. Remote work from an RV is genuinely fantastic until it isn't, and the difference between those two outcomes comes down almost entirely to preparation.

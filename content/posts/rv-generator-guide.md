@@ -21,8 +21,8 @@ faqs:
    a: "For most single-AC, 30-amp rigs, the Honda EU3000iS is the sweet spot. It handles 3,000 running watts, starts a standard 13,500 BTU AC without a soft-start kit, is quiet enough for most campgrounds, and Honda's long-term reliability is hard to argue with. It runs around $2,000, which is real money, but for full-time or frequent boondocking use, it's the one I'd recommend without hesitation. Budget option with a soft-start kit on the AC: the Honda EU2200i at around $1,000."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. I've been in that exact situation, and the difference between "inconvenience" and "dangerous" came down to whether I actually understood my generator setup before I needed it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.

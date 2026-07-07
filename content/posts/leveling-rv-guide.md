@@ -21,8 +21,8 @@ faqs:
    a: "Most manufacturers recommend getting reasonably level before extending slides, usually within a bubble or so on a standard level. Extending slides before leveling isn't dangerous in most situations, but it puts extra strain on the slide mechanism over time and can make your final level check inaccurate because the slides shift the weight distribution. Level first, extend slides second, then do a final level verification."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 You've just pulled into a campsite after a long drive, it's getting dark, and you can feel the RV is sitting at an angle. Your coffee will pool to one side of the mug. Your refrigerator's cooling efficiency is already dropping (most RV fridges need to be within 3 degrees of level to work properly), and tonight you'll wake up at 2 a.m. feeling like you're slowly sliding toward the wall. Getting your RV level isn't just about comfort. It's about protecting your appliances, your sleep, and honestly, your sanity.

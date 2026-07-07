@@ -21,8 +21,8 @@ faqs:
    a: "It's both, honestly. Health sharing ministries have worked well for a lot of healthy full-timers who use minimal care. They've also failed people who had large, unexpected claims. They are not regulated the same way insurance is. If you go this route, read the membership guidelines exhaustively, understand what is and isn't shareable, and make sure you could absorb a significant bill if the sharing pool fell short."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_bio: "Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road."
+author_title: "RV Finance Specialist"
+author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 
 ---
 You've handed in your notice, sold most of your furniture, and signed the title on a used Class A motorhome. The excitement is real. Then someone at the going-away party asks, "So what are you doing for health insurance?" and the room gets quiet. It's one of the most overlooked logistical hurdles in full-time RV life, and it can genuinely derail your plans if you don't sort it out before you pull out of the driveway for the last time.

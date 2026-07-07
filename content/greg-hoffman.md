@@ -5,8 +5,8 @@ layout: "author-page"
 hide_title: true
 author_name: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "Finance Writer"
-author_specialty: "RV Financing, Insurance & Full-Time Budgeting"
+author_title: "RV Finance Specialist"
+author_specialty: "RV Financing, Insurance & Budgeting"
 ---
 
-Greg Hoffman made the financial case for full-time RV living before he ever bought a rig, building a detailed cost model comparing RV life to traditional housing. He has since helped dozens of aspiring full-timers run their own numbers and understand the true costs. At RV Life Guide, he covers RV financing, insurance options, full-time budget breakdowns, and the financial logistics of life on the road.
+Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting.
