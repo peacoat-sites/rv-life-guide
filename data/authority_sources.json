@@ -1,0 +1,22 @@
+[
+ {
+  "name": "National Park Service",
+  "url": "https://www.nps.gov/",
+  "note": "Camping and park information"
+ },
+ {
+  "name": "Bureau of Land Management",
+  "url": "https://www.blm.gov/",
+  "note": "Dispersed camping and public land"
+ },
+ {
+  "name": "NHTSA",
+  "url": "https://www.nhtsa.gov/",
+  "note": "Towing and trailer safety"
+ },
+ {
+  "name": "Federal Highway Administration",
+  "url": "https://highways.dot.gov/",
+  "note": "Roads and travel"
+ }
+]
