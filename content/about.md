@@ -3,24 +3,22 @@ title: "About RV Life Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About RV Life Guide,  meet Cody and Brenna Pierce, full-time RVers writing about life on the road."
+description: "About RV Life Guide,  meet Barbara Mitchell, full-time RVers writing about life on the road."
 layout: "about-page"
 author_slug: "barbara-mitchell"
 author_name: "RV Life Guide"
-person_name: "Cody and Brenna Pierce"
+person_name: "Barbara Mitchell"
 ---
 
 ## About RV Life Guide
 
 RV Life Guide is a resource for anyone thinking about,  or already living,  the full-time RV lifestyle. We write from experience, not theory.
 
-## Meet the Writers
+## Meet the Editor
 
-**Cody and Brenna Pierce** are the writers behind RV Life Guide.
+**Barbara Mitchell** is the editor behind RV Life Guide.
 
-In 2019, Cody and Brenna sold their house, put most of their belongings in storage, and moved into a 34-foot fifth wheel. They've since traveled to all 48 contiguous states, camped in national forests and full-hookup resorts, dealt with blowouts, water pump failures, and generator issues,  and figured out, through trial and error, how to make full-time RV living actually work.
-
-RV Life Guide exists because when they started, they couldn't find straightforward answers to practical questions: How much does it actually cost per month? What do you do when you need mail? How do you handle healthcare? What's the realistic learning curve for towing? They write the guides they wish existed when they started.
+Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips.
 
 ## What We Cover
 
