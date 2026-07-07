@@ -14,8 +14,6 @@ slug: "tpms-now-standard-on-towables-what-rv-buyers-need-to-know"
 affiliate_disclosure: false
 ---
 
-# Article Body
-
 If you've bought a trailer in the last few years or you're thinking about buying one in the next 18 months, you need to know what just happened in March. The RV Industry Association approved a mandate that will change every new towable RV hitting dealer lots starting in 2028. Tire pressure monitoring systems, or TPMS, are about to become standard equipment on all new trailers under 26,000 pounds GVWR. That's most of us.
 
 You might be wondering if this is actually a big deal, or if it's the kind of safety regulation that sounds important but doesn't really change your camping life. The honest answer is both. If you're shopping for a trailer now, you don't need to rush or panic. If you already own one, the mandate doesn't affect you. But the shift that's happening between now and 2028 matters more than you might think, and understanding what's coming will help you make smarter decisions about what to buy and when.
