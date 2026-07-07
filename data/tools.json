@@ -2,26 +2,45 @@
   {
     "label": "Cost Ownership Calc",
     "url": "/rv-cost-of-ownership-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "cost",
+      "ownership"
+    ]
   },
   {
     "label": "Fuel Cost Calc",
     "url": "/rv-fuel-cost-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "fuel",
+      "cost"
+    ]
   },
   {
     "label": "Solar Calc",
     "url": "/rv-solar-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "solar"
+    ]
   },
   {
     "label": "Pre Departure",
     "url": "/rv-pre-departure-checklist/",
-    "icon": "\u2705"
+    "icon": "\u2705",
+    "match": [
+      "pre",
+      "departure"
+    ]
   },
   {
     "label": "Towing Capacity Calc",
     "url": "/rv-towing-capacity-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "towing",
+      "capacity"
+    ]
   }
 ]
