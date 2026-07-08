@@ -23,7 +23,7 @@ faqs:
    a: "It depends on the country. Mexico, most of Central America, and many parts of Europe have no practical enforcement for short-to-medium stays. A few countries (Germany being the most famous example) actively prohibit homeschooling. For extended international travel, research the specific country before you go and factor residency length into your plans."
  - q: "How do we handle kids who push back on schoolwork while traveling?"
    a: "Honestly, this is mostly a first-year problem. The novelty of the road competes with sitting down to do math, and it's a real friction point. A few things help: keeping school sessions short and focused, connecting curriculum to wherever you are physically (if you're near a Civil War battlefield, that's history class today), and giving kids more agency in what they study and how. The kids who struggle most tend to be the ones with a very rigid schedule imposed on them. Some flexibility in the how tends to increase buy-in on the what."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My son was "behind" in math for exactly three weeks before his grandmother, a retired teacher, panicked and told my wife we were ruining his education. That was in our first year on the road. He's 14 now, reads at a college level, and recently spent two days absorbed in calculating the fuel-to-distance ratios of different diesel engines because we were shopping rigs. The math caught up.
 
@@ -55,7 +55,7 @@ One more thing: if you're traveling internationally, which a growing number of v
 
 ## Curriculum: Don't Overthink It, But Don't Underspend Either
 
-Here's where most new RV homeschool families waste the most money. They buy a boxed curriculum for $400–$600, use it for four months, hate it, and switch. I've done it. I know families who've done it twice.
+Here's where most new RV homeschool families waste the most money. They buy a boxed curriculum for $400-$600, use it for four months, hate it, and switch. I've done it. I know families who've done it twice.
 
 The options break down into a few categories:
 
@@ -73,7 +73,7 @@ One purchase I'd actually make before any curriculum: a **portable hotspot or ce
 
 Something I had to unlearn: the six-hour school day is an artifact of institutional schooling, not a reflection of how long learning actually takes.
 
-A focused homeschool session with one or two kids, no class transitions, no waiting for 28 other students, and no administrative overhead, takes roughly 2–3 hours to cover the same ground a traditional school day covers. This is well-documented among homeschool researchers and matches what I've experienced personally. By 11am most days, we're done with "school" and the afternoon is free for hiking, projects, or whatever rabbit hole my kid has fallen into that week.
+A focused homeschool session with one or two kids, no class transitions, no waiting for 28 other students, and no administrative overhead, takes roughly 2-3 hours to cover the same ground a traditional school day covers. This is well-documented among homeschool researchers and matches what I've experienced personally. By 11am most days, we're done with "school" and the afternoon is free for hiking, projects, or whatever rabbit hole my kid has fallen into that week.
 
 This matters for RV life because schooling doesn't eat your day. You can do morning school, then drive 200 miles, and still have time to explore wherever you land. The flexibility is real.
 
@@ -114,7 +114,7 @@ If your child might ever return to traditional school, apply to college, or need
 
 You don't need to be elaborate. A simple spreadsheet logging hours by subject, plus a folder where you save completed work samples, tests, and projects, is enough to construct a transcript or satisfy a school district if you need to re-enroll. Google Drive is free and accessible from anywhere.
 
-For high school: get familiar with the CLEP exam program. It lets students test out of college-level courses for around $90 per exam, and credits transfer to over 2,900 colleges. A well-prepared 16-year-old who's been doing serious self-directed learning can walk into college with 15–20 credits already earned. I've seen it.
+For high school: get familiar with the CLEP exam program. It lets students test out of college-level courses for around $90 per exam, and credits transfer to over 2,900 colleges. A well-prepared 16-year-old who's been doing serious self-directed learning can walk into college with 15-20 credits already earned. I've seen it.
 
 ---
 

@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just pulled into a full-hookup site after a 400-mile drive. Your back hurts, the dog needs out, and your partner's already asking when dinner is happening. You spot the pedestal with the water spigot, the 30-amp outlet, and the sewer cleanout cap, and you think: *I've got this*. Then you forget the order of operations, hook up water before leveling, and spend the next twenty minutes re-doing everything while your neighbor watches from a lawn chair. I've been that person. I've also been the neighbor watching someone flood their own sewer hose connection all over a perfectly nice campsite in Moab.
 
@@ -37,7 +37,7 @@ Most campground guides won't tell you this directly, but the sequence matters fo
 
 **Electric second.** Once you're parked, shore power goes in first. Your fridge, your CPAP charger, your battery management system, all of it benefits from being on shore power while you're setting up the rest. More importantly, you want a surge protector inline before anything else draws power.
 
-I've seen two inverters and one air conditioning unit get fried by power pedestals with wiring problems. A quality surge protector like the [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20) is one of the best $200–$300 you'll spend. The cheap plug-in versions offer some protection; the hardwired units are more comprehensive. Either beats nothing. *(Disclosure: this site may earn a commission on qualifying purchases.)*
+I've seen two inverters and one air conditioning unit get fried by power pedestals with wiring problems. A quality surge protector like the [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20) is one of the best $200-$300 you'll spend. The cheap plug-in versions offer some protection; the hardwired units are more comprehensive. Either beats nothing. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 **Water third.** Connect freshwater after you're on shore power. The order here matters less for safety and more for practicality. You want a clean drinking-water hose (white, not the green garden hose from home), a pressure regulator, and a water filter inline.
 

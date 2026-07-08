@@ -12,7 +12,7 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 slug: "dometics-new-electric-only-rv-water-heater-ditches-propane-for-good"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most RVers still think of propane as a permanent fixture, something you'll always need to fill, maintain, and occasionally troubleshoot at 6 a.m. when the pilot won't light. Dometic just made a concrete move toward proving that assumption wrong.
@@ -65,9 +65,9 @@ The industry is clearly moving somewhere. Whether "propane-free" becomes the def
 
 ## Sources
 
-- [Dometic Unveils Fully Electric RV Water Heater – RV PRO](https://rv-pro.com/news/dometic-unveils-fully-electric-rv-water-heater/) (July 1, 2026)
-- [RV News Roundup: July 3 – Camper Report](https://camperreport.com/rv-news-roundup-july-3/) (July 3, 2026)
-- [Winnebago's New 20-Foot Motorhome Packs a Real Bathroom and Sleeps Four – Men's Journal](https://www.mensjournal.com/news/winnebagos-new-20-foot-motorhome-packs-a-real-bathroom-and-sleeps-four) (July 1, 2026)
-- [Dometic Introduces a Fully Electric RV Water Heater System – RVBusiness](https://rvbusiness.com/dometic-introduces-a-fully-electric-rv-water-heater-system/) (July 1, 2026)
+- [Dometic Unveils Fully Electric RV Water Heater, RV PRO](https://rv-pro.com/news/dometic-unveils-fully-electric-rv-water-heater/) (July 1, 2026)
+- [RV News Roundup: July 3, Camper Report](https://camperreport.com/rv-news-roundup-july-3/) (July 3, 2026)
+- [Winnebago's New 20-Foot Motorhome Packs a Real Bathroom and Sleeps Four, Men's Journal](https://www.mensjournal.com/news/winnebagos-new-20-foot-motorhome-packs-a-real-bathroom-and-sleeps-four) (July 1, 2026)
+- [Dometic Introduces a Fully Electric RV Water Heater System, RVBusiness](https://rvbusiness.com/dometic-introduces-a-fully-electric-rv-water-heater-system/) (July 1, 2026)
 
 *Photo: [Claudia  Solano](https://www.pexels.com/@imagenesclau) via Pexels*
