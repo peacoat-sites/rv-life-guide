@@ -1,5 +1,5 @@
 ---
-title: "Best Class B Van For Full Time"
+title: "Top Class B Vans For Full-Time Living On The Road"
 date: 2026-05-29T15:01:55.090129+00:00
 draft: false
 description: "Discover the best Class B vans for full-time living. Compare top models for comfort, reliability, and features to find your perfect home on wheels today."
@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Six years ago I handed over the keys to my 2,400-square-foot house in Columbus, Ohio, drove to a dealership in Indiana, and came home in a 24-foot Class B motorhome. I thought I'd done my research. I had not. Three blown tires, two failed inverters, one terrifying moment on a mountain pass in Colorado, and roughly 90,000 miles later, I can tell you that choosing the *right* van makes or breaks [full-time living in ways](/full-time-rv-living-guide/) no YouTube walkthrough will fully prepare you for.
 

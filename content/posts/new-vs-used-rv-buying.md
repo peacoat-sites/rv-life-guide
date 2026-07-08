@@ -1,5 +1,5 @@
 ---
-title: "New Vs Used RV Buying"
+title: "New RV vs Used: Which Actually Makes Sense"
 date: 2026-05-26T16:07:06.447808+00:00
 draft: false
 description: "Deciding between a new or used RV? Compare costs, warranties, condition, and depreciation to find the best option for your budget and travel lifestyle."
@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A brand-new Class A motorhome rolled out of a dealership in Phoenix last spring. Sticker price: $187,000. By the time the buyer drove it 400 miles to their first campsite in Sedona, three things had already stopped working: the slide-out motor was grinding, the bathroom exhaust fan was dead, and a cabinet door had popped off its track. The dealer fixed it all under warranty, sure. But that buyer spent their first week of "freedom" on the phone with a service department instead of hiking red rocks. I've heard this story, or some version of it, more times than I can count.
 

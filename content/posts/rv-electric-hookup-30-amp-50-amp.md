@@ -1,5 +1,5 @@
 ---
-title: "RV Electric Hookup 30 Amp 50 Amp"
+title: "Power Up Your RV: 30 Amp vs. 50 Amp Guide"
 date: 2026-05-27T05:30:45.040165+00:00
 draft: false
 description: "Learn the differences between 30 amp and 50 amp RV electric hookups, how to connect safely, and which service your RV needs for the best camping experience."
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people think upgrading from 30 amp to 50 amp service is just "more power, problem solved." I believed that too, until I blew a pedestal breaker at a campground in the Texas Hill Country because I didn't understand what was actually happening inside those two very different electrical systems. Here's what I wish someone had explained before I spent three summers just plugging in and hoping.
 

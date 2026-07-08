@@ -1,5 +1,5 @@
 ---
-title: "Sway Control Hitch RV"
+title: "Stop Swaying On The Road: Choose The Right Hitch"
 date: 2026-06-29T20:46:06.892905+00:00
 draft: false
 description: "Discover how a sway control hitch improves RV towing safety by reducing trailer sway on highways and winding roads for a smoother, more confident drive."
@@ -23,7 +23,7 @@ faqs:
    a: "With a friction bar: yes, significantly. You must disconnect the friction bar before backing. Forget this and you risk bending the A-frame or the bar itself. Integrated systems like the Equalizer or Andersen don't have this problem; you back up normally. This is one of the biggest practical reasons to spend the extra money on an integrated setup if you're doing full-time camping."
  - q: "What speed should I worry about trailer sway?"
    a: "Most sway events happen above 55 mph, and the risk curve goes up sharply above 65. I don't have a precise threshold that applies to every rig, but I'll say this: every full-timer I know who's had a serious sway incident was going faster than they should have been. The extra ten minutes isn't worth it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Trailer sway has tried to kill me exactly once.

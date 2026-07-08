@@ -1,5 +1,5 @@
 ---
-title: "How Often To Service RV Slide-Outs"
+title: "Keep Your RV Slide-Outs Working Longer"
 date: 2026-07-01T20:31:54.729079+00:00
 draft: false
 description: "Learn how often to service RV slide-outs, what maintenance tasks to perform, and tips to keep your slide mechanism working smoothly for years."
@@ -23,7 +23,7 @@ faqs:
    a: "Electric systems focus on rail lubrication and motor health. Hydraulic systems require fluid level checks, fluid condition monitoring, and periodic seal inspections at the cylinders. Hydraulic systems fail more catastrophically when neglected but give more warning signs (slow operation, fluid leaks, uneven extension) before full failure."
  - q: "How much does a slide-out repair typically cost in 2026?"
    a: "Range is wide. A seal replacement runs $150-400 depending on seal length and labor rates. Rail roller replacement averages $200-350. A failed electric motor runs $400-700 installed. Full hydraulic slide rebuild or cylinder replacement can reach $1,500-3,000. Catching problems early makes an enormous financial difference."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Eight years. That's how long I've been living full-time in a rig, and I can tell you with complete confidence that slide-outs are responsible for more roadside panic texts in my reader inbox than anything else. More than tire blowouts. More than generator failures. More than the great gray water mystery of 2022 (don't ask).

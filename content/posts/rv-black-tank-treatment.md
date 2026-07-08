@@ -1,5 +1,5 @@
 ---
-title: "RV Black Tank Treatment"
+title: "Stop Black Tank Odors: A Real Solution for RVers"
 date: 2026-06-20T20:11:33.414949+00:00
 draft: false
 description: "Keep your RV black tank fresh and odor-free with the best treatment products and methods. Learn how to maintain your holding tank effectively."
@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, Happy Campers Organic RV Holding Tank Treatment is my recommendation for a dedicated product. It's a small tub, it lasts a long time, and it works in temperature ranges where a lot of other enzyme products fall apart. But for day-to-day maintenance, the Dawn and Calgon combination is cheaper and performs comparably when water management is solid."
  - q: "How do I know if I have a pyramid plug?"
    a: "If your tank reads full but you know it shouldn't be, if your toilet drains slowly, or if you can't get the dump valve to open freely, a plug is likely. Start with the fill-and-drive method: fill the tank completely with water, add soap, drive around to slosh it, then dump. Repeat two or three times. If that doesn't clear it, a tank wand or a professional flush service is the next step."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people treating their black tank are solving the wrong problem. They're focused on odor, dumping products in after every flush, buying expensive enzyme treatments, when the real enemy is something most tank guides don't even mention: the pyramid plug.

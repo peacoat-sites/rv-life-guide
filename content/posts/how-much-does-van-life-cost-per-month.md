@@ -1,5 +1,5 @@
 ---
-title: "How Much Does Van Life Cost Per Month"
+title: "What Van Life Really Costs Each Month"
 date: 2026-06-08T21:10:46.053769+00:00
 draft: false
 description: "Discover the real monthly costs of van life, from fuel and food to insurance and campsites, and find out if full-time van living fits your budget."

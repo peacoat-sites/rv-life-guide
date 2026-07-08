@@ -1,5 +1,5 @@
 ---
-title: "RV Healthcare Options"
+title: "Healthcare On Wheels: Best Coverage Plans For RV Life"
 date: 2026-05-22T03:07:19.473320+00:00
 draft: false
 description: "Explore RV healthcare options for full-time travelers. Learn about travel medical insurance, urgent care access, telemedicine, and staying healthy on the road."
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You wake up at a campground outside Sedona, Arizona, with what feels like a kidney stone. The pain is real. The nearest urgent care is 12 miles away. Your insurance card lists a primary care physician back in Ohio you haven't seen in three years. This moment catches most new full-timers completely off guard, more than almost anything else about life on the road. Healthcare is the single most complicated logistical puzzle in the full-time RV world. But it's absolutely solvable if you understand your options before the emergency happens.
 

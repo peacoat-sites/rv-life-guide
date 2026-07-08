@@ -1,5 +1,5 @@
 ---
-title: "RV Full Time Address Setup"
+title: "Your Full-Time RV Address: Legal Setup Guide"
 date: 2026-05-25T11:18:20.618027+00:00
 draft: false
 description: "Full-time RV living requires establishing a legal address. Learn how to set up mail forwarding, domicile, insurance, and registration for your mobile lifestyle."
@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just found the perfect rig, mapped out your first few destinations, and then someone asks: "So what's your address?" The excitement stalls. It's a deceptively simple question with surprisingly complicated answers. Your address affects your driver's license, vehicle registration, voting rights, taxes, insurance rates, and your ability to open a bank account. Getting this wrong costs people hundreds or thousands of dollars every year. Getting it right is one of the most important logistical moves you'll make before hitting the road full time.
 

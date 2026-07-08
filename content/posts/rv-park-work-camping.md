@@ -1,5 +1,5 @@
 ---
-title: "RV Park Work Camping"
+title: "Work Your Way Through America: The RV Park Job Guide"
 date: 2026-06-26T20:27:13.634010+00:00
 draft: false
 description: "Discover how work camping at RV parks lets you earn free site hookups and income while living the mobile lifestyle full time."
@@ -23,7 +23,7 @@ faqs:
    a: "For desirable parks, particularly state parks in the Pacific Northwest, Colorado, or national forest campgrounds, six to nine months in advance isn't too early. Private resort positions tend to have more turnover and shorter lead times, sometimes as little as four to six weeks. Summer positions at popular parks fill by February most years."
  - q: "What happens if the arrangement isn't working out?"
    a: "This depends entirely on what you agreed to upfront. Most informal arrangements have a two-week notice convention on both sides. If you're at an established park with a written agreement, read the exit clause before you sign. I've known workampers who left positions mid-season, and the main risk is losing any site deposit, plus burning a professional reference you might want later. It happens, and it's rarely catastrophic."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who discover work camping think they've found a secret. Free campsite, a little part-time work, problem solved. I thought the same thing my second year on the road, and I'll be honest: the reality was messier, more interesting, and ultimately more sustainable than I expected, but not in the ways the cheerful blog posts suggested.

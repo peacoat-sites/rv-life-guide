@@ -1,5 +1,5 @@
 ---
-title: "What I Wish I Knew Before Going Full-Time In An RV"
+title: "The Hidden Costs Of Full-Time RV Living Nobody Mentions"
 date: 2026-07-05T20:07:09.976953+00:00
 draft: false
 description: "Discover the real truths about full-time RV living before you make the leap. Learn what experienced RVers wish they had known from the start."
@@ -23,7 +23,7 @@ faqs:
     a: "As of July 2026, the most common working setup among full-timers I talk to is a Starlink RV plan combined with a cellular backup using a Pepwave router and SIM cards from T-Mobile and Verizon. Starlink runs about $150/month for the mobile-priority tier; it works nearly everywhere except deep canyons and dense forest. Cellular alone works fine in most of the country and is cheaper, but you'll hit dead zones."
   - q: "Is it safe to stay at Walmart parking lots and truck stops?"
     a: "Generally yes, though more Walmarts are restricting overnight parking than five years ago, so always confirm via the store manager before assuming. Truck stops are reliably safe and often more comfortable than sketchy campgrounds. I did it regularly early on; I'd just park near other RVs rather than at the edge of the lot, keep everything locked, and not run the generator past 10pm."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My first week full-time was in a Walmart parking lot in Barstow, California, in July, and the temperature inside my rig hit 104 degrees because I didn't yet understand that my roof AC unit needed 30-amp shore power to run properly and I was plugged into a 15-amp extension cord I'd bought at Home Depot like an absolute rookie. I ate warm string cheese and watched a YouTube video about amperage on my phone, sweating through my shirt, wondering what I had done.

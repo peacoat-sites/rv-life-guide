@@ -1,5 +1,5 @@
 ---
-title: "RV Life With Dogs"
+title: "Living on the Road With Your Dog: A Complete Guide"
 date: 2026-06-05T20:46:07.154674+00:00
 draft: false
 description: "Discover tips for living the RV life with dogs. Learn how to keep your pups safe, happy, and comfortable on the road in this complete guide for pet-loving trave"
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My dogs have been in this rig longer than some people have owned cars. Eight years, two dogs (one passed, one current), four different rigs, and more campgrounds than I can count. Most advice you'll find about full-timing with dogs is written by people who took one camping trip. It shows.
 

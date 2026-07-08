@@ -1,5 +1,5 @@
 ---
-title: "RV Refrigerator Not Cooling"
+title: "Why Your RV Fridge Stopped Cooling and How to Fix It"
 date: 2026-06-24T20:25:24.680386+00:00
 draft: false
 description: "Fix your RV refrigerator not cooling with these proven troubleshooting steps covering power issues, ventilation, leveling, and common part failures."
@@ -23,7 +23,7 @@ faqs:
    a: "On Dometic and Norcold units, fault codes typically indicate ignition failure (couldn't light the propane burner after multiple attempts), a thermistor problem, or a control board issue. Check that propane is on and the tank has gas first. If it's failing to light repeatedly, inspect the igniter and burner orifice for blockage or damage."
  - q: "Is it worth fixing an old RV refrigerator, or should I just replace it?"
    a: "If the cooling unit has failed and the fridge is over 12-15 years old, replacing with a 12V compressor-style fridge is worth serious consideration. The operating cost, reliability, and performance in hot weather are all meaningfully better. If it's a simple part like a heating element or igniter, repair is almost always the right call."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You open up your RV after a three-hour drive to a summer campground in 90-degree heat, reach into the fridge for a cold drink, and find everything is warm. The milk is already questionable. That's not a hypothetical. That happened to me on a Friday night outside Moab, Utah, with no parts store or mobile tech within 40 miles. What followed was three hours of troubleshooting by headlamp, and eventually a warm beer, because that's what was left that I wasn't worried about.

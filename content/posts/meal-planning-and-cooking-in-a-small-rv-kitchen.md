@@ -1,5 +1,5 @@
 ---
-title: "Meal Planning And Cooking In A Small RV Kitchen"
+title: "Cook Real Meals in Your Tiny RV Kitchen"
 date: 2026-06-25T20:54:25.584541+00:00
 draft: false
 description: "Discover smart meal planning and cooking tips for a small RV kitchen. Save space, reduce waste, and enjoy delicious meals on the road every trip."
@@ -23,7 +23,7 @@ faqs:
    a: "Build around flexible core ingredients instead of rigid meal plans. If you know you have eggs, beans, canned tomatoes, and rice, you can make four or five different things depending on your mood and situation. A tight plan breaks down the second you change locations. A stocked pantry doesn't."
  - q: "How do full-timers handle cooking smells in a small space?"
    a: "Crack a window and use the vent fan every single time you cook. Cooking fish, curries, or anything with strong aromatics without ventilation is a mistake you make once. Some people avoid certain foods entirely in the RV, but I refuse to give up garlic and sardines, so I've just gotten religious about ventilation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The first meal I cooked in my rig was a disaster. A full pot of pasta water sloshed off a two-burner propane cooktop somewhere outside Flagstaff, I had no colander that fit my one deep bowl, and the cutting board slid off the counter every time I touched it. I ate gas station chips that night. That was eight years ago, and I've cooked somewhere between 5,000 and 6,000 meals in small RV kitchens since then. The learning curve is real, but it's shorter than you think.

@@ -1,5 +1,5 @@
 ---
-title: "Backing Up RV Guide"
+title: "Master RV Backup Maneuvers Like a Pro"
 date: 2026-05-27T09:13:48.779638+00:00
 draft: false
 description: "Plan the perfect RV backup with our complete guide. Learn essential tips, tools, and techniques to safely and confidently back up your RV every time."
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-08
 ---
 Most RV accidents happen at under 5 mph. That stat sounds almost funny until it's your rear corner wrapped around a concrete bollard you never saw. Backing up a rig, whether it's a 40-foot Class A or a 24-foot travel trailer, is where confidence gets built or destroyed fast. Most guides online treat it like a parallel parking tutorial for sedans. It isn't. The physics are different, the consequences are more expensive, and the stakes include other people's campsites, sewer hookups, and occasionally their lawn chairs.
 

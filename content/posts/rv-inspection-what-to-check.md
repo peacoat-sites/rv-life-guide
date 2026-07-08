@@ -1,5 +1,5 @@
 ---
-title: "RV Inspection What To Check"
+title: "The Complete RV Inspection Checklist Before You Buy"
 date: 2026-05-28T06:28:12.352685+00:00
 draft: false
 description: "Learn what to check during an RV inspection before buying or hitting the road. From roof and plumbing to electrical systems, avoid costly surprises with this gu"
@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A couple in Tennessee bought a used [Class A motorhome](/class-a-vs-class-b-vs-class-c-rv/) for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.
 

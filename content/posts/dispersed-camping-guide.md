@@ -1,5 +1,5 @@
 ---
-title: "Dispersed Camping Guide"
+title: "Free Camping Spots: Where RVers Really Park for Nothing"
 date: 2026-05-27T20:16:23.958075+00:00
 draft: false
 description: "Discover everything you need to know about dispersed camping, from finding free campsites on public land to essential rules, gear tips, and Leave No Trace princ"
@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you've spent three nights wedged between two diesel pushers at a packed campground, paying $65 a night to hear someone else's generator at 10 PM, you already know why dispersed camping exists. Free land. Wide open. Nobody telling you to quiet down by 9.
 

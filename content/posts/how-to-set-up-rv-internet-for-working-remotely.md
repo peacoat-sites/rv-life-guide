@@ -1,5 +1,5 @@
 ---
-title: "How To Set Up RV Internet For Working Remotely"
+title: "Remote Work On The Road: Your RV Internet Setup Guide"
 date: 2026-06-12T20:58:11.853589+00:00
 draft: false
 description: "Discover the best RV internet options for remote work, including cellular data plans, mobile hotspots, and satellite solutions to stay connected on the road."
@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three years into full-time RV life, I was parked at a "campground with WiFi" outside Moab, Utah, on a Monday morning with a client call in 20 minutes. The campground WiFi password was taped to the front office door. The connection speed was 0.8 Mbps. I know that number because I still have the screenshot, saved forever as a reminder that campground WiFi is not a plan.
 

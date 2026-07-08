@@ -1,5 +1,5 @@
 ---
-title: "RV Water Tank Management"
+title: "Keep Your RV Water Tank Clean and Fresh"
 date: 2026-07-04T20:02:31.723360+00:00
 draft: false
 description: "Learn how to fill, sanitize, and conserve your RV fresh water tank for safe drinking water on every trip with these essential management tips."
@@ -23,7 +23,7 @@ faqs:
     a: "Behavioral changes beat equipment changes by a wide margin. Navy showers (wet, soap, rinse in under 3 minutes) save 8-10 gallons per shower versus a normal shower. A dedicated dish wash basin so you're not running tap water saves another 3-5 gallons a day. If you want to add capacity, a collapsible auxiliary water container like the WaterBrick (around $30 for 3.5 gallons) lets you carry extra without permanent modification."
   - q: "Is pink RV antifreeze safe to leave in the water lines long-term?"
     a: "It's non-toxic, rated for potable water systems, so it won't harm you if traces remain. But you don't want to drink it or cook with it all season. Flush thoroughly in spring with fresh water until lines run completely clear, then sanitize before putting the system into regular use. Don't skip the sanitization step just because the antifreeze flushed out clean."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Three gallons of water trickled out of my fresh tank the day I tried to winterize for the first time, right onto the concrete pad of a Flagstaff, Arizona campground. I'd misread which valve was which, drained half my fresh supply instead of my gray, and spent the next 20 minutes trying to figure out if I'd actually damaged anything. I hadn't. But that moment taught me more about RV water systems than any YouTube video had.

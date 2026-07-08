@@ -1,5 +1,5 @@
 ---
-title: "RV Maintenance DIY"
+title: "Keep Your RV Running: Essential DIY Maintenance Tasks"
 date: 2026-06-22T21:30:30.092585+00:00
 draft: false
 description: "Learn essential RV maintenance DIY tips to save money and keep your rig road-ready. Covers roof seals, plumbing, electrical, and more for every skill level."
@@ -23,7 +23,7 @@ faqs:
    a: "The anode rod in a tank water heater, without question. I've asked hundreds of RVers at campgrounds over the years, and easily 70% of people with Atwood or Suburban water heaters had no idea it existed. It costs $8 and takes 20 minutes to replace."
  - q: "Should I winterize my RV myself or pay a shop?"
    a: "Do it yourself. The process is straightforward, it takes about an hour once you've done it once, and the shops charge $80-150 for exactly what you can learn from a 15-minute video. Buy two or three gallons of RV antifreeze, bypass your water heater, and run pink through everything. That's the whole job."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most RV owners are throwing money away. Not on fuel, not on campground fees, on service calls for problems they could've fixed themselves in an afternoon with a $40 kit from Amazon.

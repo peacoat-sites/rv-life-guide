@@ -1,5 +1,5 @@
 ---
-title: "How To Winterize An RV For Full-Time Living"
+title: "Keep Your RV Livable Through Winter: The Essential Steps"
 date: 2026-06-06T20:05:28.667856+00:00
 draft: false
 description: "Stay comfortable and protected all winter long in your RV with our step-by-step guide covering insulation, pipe protection, heating systems, and essential cold-"
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most winterizing guides are written for people who park their rig in October and don't think about it again until May. That's not you. And doing this wrong when you live in your RV full-time is a completely different kind of problem, because you can't just walk inside and call a plumber.
 

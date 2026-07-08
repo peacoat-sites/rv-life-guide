@@ -1,5 +1,5 @@
 ---
-title: "Average Monthly Cost Of Full-Time RV Living"
+title: "Full-Time RV Living: The Real Monthly Budget"
 date: 2026-06-22T21:28:26.232058+00:00
 draft: false
 description: "Discover the average monthly cost of full-time RV living, from campsite fees and fuel to insurance and maintenance, to budget your mobile lifestyle."
@@ -23,7 +23,7 @@ faqs:
    a: "Most use the ACA marketplace and choose their domicile state partly based on what exchange plans are available. South Dakota is popular for its low registration costs but has limited plan options. Florida and Texas have more competition on the marketplace. Some full-timers use health share ministries to keep costs down, but those aren't insurance and have real limitations you need to understand before committing."
  - q: "Can you full-time on Social Security or a fixed income?"
    a: "Some people do it on $1,800 to $2,200 a month by boondocking aggressively, owning their rig outright, and keeping a tight budget. It's harder now than it was a few years ago given fuel and campground cost increases, but it's not impossible. Rig choice matters enormously here: a paid-off, reliable, fuel-efficient setup changes everything."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 The number that stopped me cold when I first started researching full-time RV living was $1,800 a month. I'd seen it everywhere online, this tidy figure that made living on the road sound almost affordable. Then I actually did it, and year one cost me closer to $3,400 a month. Not because I was careless or living lavishly. Because the $1,800 number leaves out half the real expenses.

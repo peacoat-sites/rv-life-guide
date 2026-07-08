@@ -1,5 +1,5 @@
 ---
-title: "RV Solar Panel Setup"
+title: "Power Your RV Off-Grid: Solar Panel Setup Guide"
 date: 2026-05-28T07:28:55.966855+00:00
 draft: false
 description: "Discover how to set up solar panels on your RV with our step-by-step guide. Learn about equipment, installation tips, and maximizing energy efficiency on the ro"
@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people shopping for RV solar panels start by asking "how many watts do I need?" That's the wrong first question. After eight years on the road and three separate solar builds across two different rigs, I can tell you the question that actually matters is: what does your battery bank look like? Because you can bolt 800 watts of panels to your roof and still run out of power by 9pm if your battery storage isn't matched to your generation. I've watched people spend $2,000 on panels and then wonder why their system underperforms. The battery bank is the foundation. Everything else is built on top of it.
 

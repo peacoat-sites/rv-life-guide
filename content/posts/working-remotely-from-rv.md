@@ -1,5 +1,5 @@
 ---
-title: "Working Remotely From RV"
+title: "Work From Your RV Without Losing Your Mind"
 date: 2026-06-02T12:53:54.401507+00:00
 draft: false
 description: "Discover tips for working remotely from an RV, including the best gear, internet solutions, and productivity hacks to make your mobile office life a success."
@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're on a video call with your biggest client. The background shows pine trees and mountain light that would make anyone jealous. Then your hotspot drops, your laptop battery hits 11%, and the client asks you to share your screen. This is the moment nobody's Instagram post covers. Remote work from an RV is genuinely fantastic until it isn't, and the difference between those two outcomes comes down almost entirely to preparation.
 

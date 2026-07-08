@@ -1,5 +1,5 @@
 ---
-title: "How Much Solar For RV"
+title: "Solar Power Requirements For Full-Time RV Living"
 date: 2026-05-21T22:42:55.554224+00:00
 draft: false
 description: "Discover how much solar power your RV needs to stay off-grid. Learn about panel sizes, battery banks, and energy requirements to build the perfect solar setup."
@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people Google "how much solar do I need for my RV" and land on some manufacturer's page claiming 200 watts is a great starter system. Then they buy it, spend their first dry-camping weekend watching their battery voltage drop while their coffee maker sits unplugged and useless, and wonder what went wrong.
 

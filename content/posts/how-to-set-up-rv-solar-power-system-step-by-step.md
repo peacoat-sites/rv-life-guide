@@ -1,5 +1,5 @@
 ---
-title: "How To Set Up RV Solar Power System Step By Step"
+title: "Install Solar On Your RV: The Complete Setup Guide"
 date: 2026-06-07T20:05:14.546781+00:00
 draft: false
 description: "Learn how to set up an RV solar power system step by step, from choosing panels and batteries to wiring and installing a charge controller for off-grid living."
@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most solar guides for RVers start with wattage calculators and end with a parts list. That's backwards. The thing that kills most DIY solar installs isn't undersizing the panels or picking the wrong wire gauge. It's installing components in the wrong order and discovering mid-project that your battery bank doesn't fit where you planned, or that your charge controller needs to be within three feet of your batteries and you've already bolted your panels to the roof.
 

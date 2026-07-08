@@ -1,5 +1,5 @@
 ---
-title: "Best Generator For Boondocking In An RV"
+title: "Power Your Off-Grid Adventure: Top RV Generators Ranked"
 date: 2026-06-28T20:04:18.294625+00:00
 draft: false
 description: "Discover the best generators for boondocking in an RV. Compare top picks for quiet, fuel-efficient power to keep you off-grid and comfortable anywhere."
@@ -23,7 +23,7 @@ faqs:
    a: "Most BLM and National Forest dispersed camping areas don't have a strict hourly limit, but there's an unwritten courtesy expectation of quiet hours (typically 10pm to 8am) and many areas do have noise ordinances. Practically, I run mine in 2 to 4 hour blocks during the day. Running it all day every day also burns through fuel fast and shortens the engine's life."
  - q: "Should I use propane or gasoline for my boondocking generator?"
    a: "Gasoline is more energy-dense and slightly more efficient, but propane is easier to store safely and widely available in refillable tanks if your RV already has one. For long-stay boondocking, dual-fuel capability is genuinely useful. If you're doing shorter trips with easy fuel access, gasoline-only is simpler and usually cheaper to operate."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 My third generator died at a BLM site outside Moab, Utah. It was a cheap 2,000-watt unit I'd bought on impulse at a big-box store, and it lasted 14 months of serious use before it started hunting and then just... quit. The repair shop told me the carburetor was shot and the frame had cracked from vibration. That generator owed me maybe $340 and cost me a long sweaty July afternoon without AC.

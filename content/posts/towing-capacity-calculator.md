@@ -1,5 +1,5 @@
 ---
-title: "Towing Capacity Calculator"
+title: "Calculate Your RV's True Towing Capacity"
 date: 2026-05-26T16:25:03.498216+00:00
 draft: false
 description: "Calculate your vehicle's maximum towing capacity instantly. Determine safe towing limits based on your car, truck, or SUV specifications."
@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people discover their truck can't actually tow their dream trailer *after* they've already signed the purchase agreement. That moment of panic, standing in a dealership lot with a spec sheet that doesn't quite add up, is more common than you'd think. The good news: understanding how a [towing capacity calculator](/how-to-calculate-rv-towing-capacity-correctly/) works, and what numbers actually matter, can save you from an expensive and potentially dangerous mistake.
 

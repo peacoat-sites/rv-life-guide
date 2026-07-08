@@ -1,5 +1,5 @@
 ---
-title: "How To Make Money While Living In A Van Full-Time"
+title: "Van Life Income: 7 Realistic Ways To Earn Money Full-Time"
 date: 2026-06-12T21:00:36.472335+00:00
 draft: false
 description: "Discover practical ways to earn income while living the van life full-time, from remote work and freelancing to selling crafts and leveraging social media monet"
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who ask me about van life income are asking the wrong question. They want to know *what* jobs work. What they should be asking is: what kind of worker are you, and can you actually perform under conditions nobody talks about?
 

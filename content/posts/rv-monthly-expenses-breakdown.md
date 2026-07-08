@@ -1,5 +1,5 @@
 ---
-title: "RV Monthly Expenses Breakdown"
+title: "What Your Monthly RV Budget Really Costs"
 date: 2026-05-23T18:05:31.824136+00:00
 draft: false
 description: "Plan your budget with confidence using our complete RV monthly expenses breakdown covering fuel, campsite fees, insurance, maintenance, and more for full-time t"
@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who ask me about full-time RV living want to know one thing before anything else: "Is it actually cheaper?" I sold my house in a Chicago suburb in the fall of 2019, bought a 38-foot fifth wheel, and hit the road thinking I'd cut my monthly expenses roughly in half. The first month cost me $4,200. I almost turned around.
 

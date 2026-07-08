@@ -1,5 +1,5 @@
 ---
-title: "RV Water Heater Troubleshoot"
+title: "Why Your RV Water Heater Won't Heat (And How to Fix It)"
 date: 2026-06-03T14:13:23.003411+00:00
 draft: false
 description: "Learn how to troubleshoot common RV water heater problems with our step-by-step guide. Fix issues fast and get your hot water running again on the road."
@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My water heater stopped working outside Moab in late October, and I'll be honest: I panicked a little. Not because cold showers are the end of the world, but because I'd been on the road for three years at that point and genuinely had no idea what I was looking at when I opened that exterior access panel. Eight years later, I could diagnose most RV water heater problems in my sleep. The gap between then and now is just experience and a willingness to actually understand the system instead of immediately calling a mobile tech.
 

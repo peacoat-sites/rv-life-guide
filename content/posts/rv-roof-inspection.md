@@ -1,5 +1,5 @@
 ---
-title: "RV Roof Inspection"
+title: "Spot Roof Damage Before It Ruins Your RV"
 date: 2026-06-10T21:23:36.387695+00:00
 draft: false
 description: "Learn how to perform a thorough RV roof inspection to spot leaks, cracks, and damage early. Protect your investment and avoid costly repairs with our expert gui"
@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most RV owners I've met inspect their roof exactly once: right after they buy the rig. Then they forget about it until water is dripping onto their mattress at 2 a.m. somewhere in rural New Mexico.
 

@@ -1,5 +1,5 @@
 ---
-title: "South Dakota RV Domicile"
+title: "Why Full-Timers Choose South Dakota as RV Domicile"
 date: 2026-05-25T17:50:58.642951+00:00
 draft: false
 description: "Establish your RV domicile in South Dakota and enjoy low registration costs, no state income tax, and simplified vehicle titling for full-time travelers."
@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every year, thousands of full-time RVers establish legal residency in South Dakota without spending more than a day there. It's completely legal. And if you're coming from California, Oregon, or New York, you're probably looking at saving hundreds of dollars per month. South Dakota has no state income tax, vehicle registrations under $60 a year, and possibly the easiest domicile process in the country. If you haven't looked into this yet, you're leaving real money on the table.
 

@@ -1,5 +1,5 @@
 ---
-title: "Boondocking Without Hookups"
+title: "Off-Grid RV Living: Master Boondocking Without Hookups"
 date: 2026-05-29T01:18:19.073724+00:00
 draft: false
 description: "Discover the freedom of boondocking without hookups. Learn essential tips for water, power, and waste management to camp off-grid confidently anywhere."
@@ -21,7 +21,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation. I've been exactly there, parked on BLM land outside Moab with a storm rolling in and a power setup I hadn't stress-tested hard enough. That moment taught me more about boondocking than any YouTube video ever did.
 

@@ -1,5 +1,5 @@
 ---
-title: "How Many Watts Of Solar For Full-Time RV Living"
+title: "The Solar Wattage You Really Need for Full-Time RV Life"
 date: 2026-06-19T20:24:12.875599+00:00
 draft: false
 description: "Discover how many watts of solar you need for full-time RV living. Learn about power usage, battery storage, and building the right solar setup for life on the "
@@ -23,7 +23,7 @@ faqs:
    a: "You don't need lithium, but it's the better choice for full-timing. Lead-acid (AGM specifically) works, but you're limited to using 50% of rated capacity without shortening lifespan, they're heavy, and they need to return to full charge regularly to avoid sulfation. With a large solar array that might not always complete a full charge cycle, lithium handles partial state of charge far better. The price premium has also dropped significantly; a 100Ah LiFePO4 drop-in is around $200-280 today."
  - q: "How do I know if my solar system is actually working correctly?"
    a: "A battery monitor like the Victron BMV-712 is the baseline. It tracks cumulative amp-hours in and out, calculates true state of charge, and logs history so you can see patterns. Pair it with a Victron SmartSolar charge controller and the VictronConnect app, and you can pull detailed production data by day. If your system doesn't have monitoring, you're flying blind and you'll misdiagnose problems for months before figuring out what's actually wrong."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most solar sizing guides will tell you to "calculate your daily watt-hours, then add 20% for buffer." That advice isn't wrong, but it's incomplete enough to get you into real trouble. I've watched people park a shiny new rig loaded with 400 watts of rooftop panels and then scratch their heads when they're running on empty by 7 PM. The math wasn't the problem. The assumptions were.

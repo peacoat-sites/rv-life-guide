@@ -1,5 +1,5 @@
 ---
-title: "RV Life Pros And Cons"
+title: "Is Full-Time RV Living Really Worth It?"
 date: 2026-05-26T22:51:58.565327+00:00
 draft: false
 description: "Discover the real pros and cons of RV life, from freedom and adventure to maintenance costs and limited space, to help you decide if full-time RV living is righ"
@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 I sold my house on a Tuesday in October 2019. By Saturday, my husband and I were sleeping in a 34-foot fifth wheel in a Walmart parking lot outside Columbus, Ohio, arguing about where the propane shutoff was while the temperature dropped to 38 degrees. That is the version of full-time RV life nobody posts on Instagram. Six years and 90,000+ miles later, I can tell you honestly: this lifestyle is one of the best decisions I ever made, and also one of the hardest. Both things are completely true at the same time.
 

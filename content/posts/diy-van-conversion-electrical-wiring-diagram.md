@@ -1,5 +1,5 @@
 ---
-title: "DIY Van Conversion Electrical Wiring Diagram"
+title: "Wire Your Van Right: Complete Electrical Conversion Guide"
 date: 2026-07-03T20:09:12.430271+00:00
 draft: false
 description: "Learn how to wire a DIY van conversion with our comprehensive electrical diagram guide. Step-by-step instructions for safe, reliable 12V and 240V systems."
@@ -23,7 +23,7 @@ faqs:
     a: "Practically speaking, no. A fridge and a fan on the same 15-amp breaker is fine. But if either of them shorts, you lose both. As a rule: anything that pulls more than 5 amps or runs frequently deserves its own breaker. Lights can share. Heaters need their own."
   - q: "What happens if I wire it without a diagram?"
     a: "You'll make it work, probably. You'll also spend twice as long troubleshooting, spend more on wire and components than you needed to, and be afraid every time something weird happens. Diagrams aren't busywork. They're insurance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 I've watched a lot of people stare at a birds-nest of tangled wires under their van's floor, squint at a PDF someone uploaded to a forum in 2019, and then text me: "Does this look right?" The answer is almost never yes, and the reason is almost always the same: they started wiring before they had an actual plan on paper.

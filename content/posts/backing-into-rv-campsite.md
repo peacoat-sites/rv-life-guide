@@ -1,5 +1,5 @@
 ---
-title: "Backing Into RV Campsite"
+title: "Master The Reverse: A Camper's Guide To Backing In"
 date: 2026-06-28T20:06:14.084850+00:00
 draft: false
 description: "Learn step-by-step how to back into an RV campsite with confidence using proven techniques, helpful tips, and spotter communication strategies."
@@ -23,7 +23,7 @@ faqs:
    a: "Right-side backing (most common) is generally easier because you're using your driver's side mirror and have better visibility. Left-side backing (passenger side) is harder because your view is more limited. For left-side backing, get out and walk the site even more carefully, take your time, and consider using a camera or spotter for the blind side."
  - q: "What are leveling blocks and do I actually need them?"
    a: "Leveling blocks are stackable plastic platforms you drive your tires onto to raise the low side of your rig on an uneven site. You need them more than you'd think. Most campsites have at least a slight grade, and an unlevel rig affects your refrigerator performance (especially propane absorption fridges), your sleep, and your door alignment. The Camco leveling blocks around $25-$30 are the standard and they work. (The site may earn a commission on purchases made through links here.)"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people think backing into a campsite is harder than it actually is. The thing that makes it hard isn't the physics, it's the panic. And panic is fixable.

@@ -1,5 +1,5 @@
 ---
-title: "RV Life With Pets"
+title: "Traveling With Pets in Your RV: A Complete Guide"
 date: 2026-06-05T12:24:03.354719+00:00
 draft: false
 description: "Discover tips for thriving in RV life with pets. Learn about pet-friendly campgrounds, travel safety, space management, and keeping your furry friends happy on "
@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 My dog Cleo has slept in the same 6-inch window of sunlight every morning for eight years, except now that window moves. Montana one week, New Mexico the next. She adjusted faster than I did.
 

@@ -1,5 +1,5 @@
 ---
-title: "RV Lithium Battery Upgrade"
+title: "The Lithium Battery Upgrade Every RV Owner Should Consider"
 date: 2026-05-21T10:57:16.709894+00:00
 draft: false
 description: "Upgrade your RV with a lithium battery for longer trips, faster charging, and reduced weight. Discover top options, installation tips, and cost comparisons insi"
@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're parked at a beautiful dispersed site in the Sonoran Desert, three days from the nearest hookup, and by 2 PM your inverter is screaming low-voltage warnings. Your generator is loud, your neighbors are close enough to hear it, and you're rationing whether to run the coffee maker or charge your laptop. If you've been there, you already know why people obsess over lithium batteries. If you haven't been there yet, trust me, you will think about this moment when you're shopping for your next upgrade.
 

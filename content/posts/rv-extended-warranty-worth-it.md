@@ -1,5 +1,5 @@
 ---
-title: "RV Extended Warranty Worth It"
+title: "Extended RV Warranties: When They Actually Pay Off"
 date: 2026-07-02T20:15:07.782077+00:00
 draft: false
 description: "Wondering if an RV extended warranty is worth it? We break down costs, coverage, and when it makes sense to buy one for your motorhome or trailer."
@@ -23,7 +23,7 @@ faqs:
    a: "Depends entirely on the contract. Some require manufacturer-authorized service centers, which can mean waiting weeks for an appointment. Better plans allow any licensed RV technician. Confirm this in writing before you sign."
  - q: "Are extended warranties worth it on older used RVs?"
    a: "Sometimes, but the exclusion risk is highest here. Older rigs have more pre-existing wear, and adjusters will use that against you. If you buy coverage on a rig over seven years old, read the pre-existing condition language twice, and get any known issues in writing as 'accepted' before the contract starts."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most RV warranty advice online is written by people trying to sell you a warranty. That's the problem. Let's fix it.
