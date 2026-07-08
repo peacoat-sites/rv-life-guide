@@ -23,6 +23,7 @@ faqs:
    a: "With a friction bar: yes, significantly. You must disconnect the friction bar before backing. Forget this and you risk bending the A-frame or the bar itself. Integrated systems like the Equalizer or Andersen don't have this problem; you back up normally. This is one of the biggest practical reasons to spend the extra money on an integrated setup if you're doing full-time camping."
  - q: "What speed should I worry about trailer sway?"
    a: "Most sway events happen above 55 mph, and the risk curve goes up sharply above 65. I don't have a precise threshold that applies to every rig, but I'll say this: every full-timer I know who's had a serious sway incident was going faster than they should have been. The extra ten minutes isn't worth it."
+lastmod: 2026-07-07
 ---
 
 Trailer sway has tried to kill me exactly once.
@@ -31,7 +32,7 @@ I was westbound on I-70 in Colorado, loaded down with about 400 extra pounds of 
 
 That was year two of full-timing. I'd been running without a sway control device because I thought, honestly, that it was one of those upsell items the hitch guys try to push on you before you leave the dealership. I was wrong, and I nearly paid for that mistake on a mountain highway.
 
-So if you're sitting here with a new trailer or a tow vehicle you're not totally sure about, wondering whether a sway control hitch is something you actually need or just something someone wants to sell you, I understand exactly where you are. Let me tell you what I've learned, mostly from doing it wrong first.
+So if you're sitting here with a new trailer or a [tow vehicle](/rv-tow-vehicle-guide/) you're not totally sure about, wondering whether a sway control hitch is something you actually need or just something someone wants to sell you, I understand exactly where you are. Let me tell you what I've learned, mostly from doing it wrong first.
 
 ## What Trailer Sway Actually Is (And Why It Happens)
 
@@ -44,6 +45,12 @@ The real-world causes I see most often are tongue weight issues and speed. Most 
 Speed matters more than people want to admit. I know 65 feels slow when everyone's passing you, but a lot of rigs that are stable at 60 become genuinely unpredictable at 72. I keep a firm 62 mph limit in anything over 24 feet. That's not timid; that's physics.
 
 ## The Two Types of Sway Control: Friction vs. Active
+
+| Sway Control Type | Price Range | Best For | Key Limitation |
+| --- | --- | --- | --- |
+| Friction sway control bars | $80-$150 | Light trailers under 5,000 lbs | Requires manual disconnect before backing; dampens sway after it starts |
+| Active/integrated sway control (WD hitch) | $400-$1,200 | Trailers over 5,000 lbs; interstate towing | Higher upfront cost; requires proper weight distribution setup |
+| Weight distribution (WD) hitch only | ~$480 | Addressing rear squat and steering feel | Does not control sway without integrated system |
 
 You might be wondering why there are so many different products, different price points, and wildly different setups when you go looking for sway control solutions. It comes down to two fundamentally different approaches, and they're not equally good.
 

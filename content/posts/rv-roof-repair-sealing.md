@@ -23,11 +23,19 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 If you've noticed a soft spot near your slide-out, a brown water stain creeping across your ceiling, or a smell somewhere between wet cardboard and mildew, something's wrong. What you might not know yet is how far the damage has actually gone. Roof leaks in RVs are sneaky. By the time you see evidence inside, water's often been sitting in your walls or subflooring for weeks, sometimes months. I've pulled back ceiling panels on rigs that looked totally fine from outside and found rot that went six inches in every direction from a pinhole-sized crack in the sealant. That's the bad news. The good news is that sealing an RV roof is genuinely a DIY job, and catching it early makes an enormous difference.
 
 ## Understanding What Kind of Roof You Have
+
+| Roof Material | Texture/Color | Common Issues | Sealant Match | Best Repair Product |
+| --- | --- | --- | --- | --- |
+| TPO | White or light gray | Cracks around penetrations | TPO-compatible | Dicor self-leveling |
+| EPDM | Dark gray or black, rubbery | Sealant breakdown (3-5 years) | EPDM-compatible, avoid petroleum | Dicor self-leveling |
+| Fiberglass | Rigid surface | Point stress cracks | Fiberglass-compatible | Non-sag sealant |
+| Aluminum | Metallic | Pinholes, seam separation | Aluminum-compatible | EternaBond tape, sealant |
+| Dicor-coated | Varies (coated membrane) | Same as base material | Match base material | Original coating type |
 
 Before you buy a single tube of sealant, you need to know your roof material. This sounds obvious, but I've talked to people who slapped the wrong product on their roof and made the situation worse. There are four main types you'll encounter.
 
@@ -49,7 +57,7 @@ Here's what I tell people who ask me to help them track down a leak: water never
 
 **Seams along the roof edges.** Where the roof membrane meets the sidewall caps or front and rear caps, there's a seam sealed with lap sealant. These are high-flex zones that move every time the rig rolls down the road. They crack.
 
-**Around slide-out toppers.** If you have slides, the area directly above the slide mechanism is constantly under mechanical stress. The seals there take a beating.
+**[Around slide-out toppers](/rv-slide-room-maintenance/).** If you have slides, the area directly above the slide mechanism is constantly under mechanical stress. The seals there take a beating.
 
 **Bubbles or blisters in the membrane.** A bubble under the rubber means water's already gotten in and is trapped. That moisture keeps migrating and doing damage even after you seal the entry point.
 

@@ -23,11 +23,12 @@ faqs:
    a: "Build around flexible core ingredients instead of rigid meal plans. If you know you have eggs, beans, canned tomatoes, and rice, you can make four or five different things depending on your mood and situation. A tight plan breaks down the second you change locations. A stocked pantry doesn't."
  - q: "How do full-timers handle cooking smells in a small space?"
    a: "Crack a window and use the vent fan every single time you cook. Cooking fish, curries, or anything with strong aromatics without ventilation is a mistake you make once. Some people avoid certain foods entirely in the RV, but I refuse to give up garlic and sardines, so I've just gotten religious about ventilation."
+lastmod: 2026-07-07
 ---
 
 The first meal I cooked in my rig was a disaster. A full pot of pasta water sloshed off a two-burner propane cooktop somewhere outside Flagstaff, I had no colander that fit my one deep bowl, and the cutting board slid off the counter every time I touched it. I ate gas station chips that night. That was eight years ago, and I've cooked somewhere between 5,000 and 6,000 meals in small RV kitchens since then. The learning curve is real, but it's shorter than you think.
 
-You might be wondering whether RV cooking is really that different from apartment cooking. Honestly? Yes and no. The techniques are the same. The constraints are completely different. Counter space is measured in inches, not feet. Propane tanks run out at inconvenient times. Your pantry is also your cabinet space, your storage, and sometimes your road-trip luggage zone. And if you're boondocking three days from the nearest Walmart, "I'll just run to the store" isn't an option. So you plan differently, stock differently, and cook differently. That's what this is about.
+You might be wondering whether RV cooking is really that different from apartment cooking. Honestly? Yes and no. The techniques are the same. The constraints are completely different. Counter space is measured in inches, not feet. Propane tanks run out at inconvenient times. Your pantry is also your cabinet space, your storage, and sometimes your road-trip luggage zone. And [if you're boondocking](/working-remotely-from-rv/) three days from the nearest Walmart, "I'll just run to the store" isn't an option. So you plan differently, stock differently, and cook differently. That's what this is about.
 
 ## The Pantry System That Actually Works in a Small Space
 
@@ -43,11 +44,18 @@ One more thing about the pantry: canned fish is underrated to an almost embarras
 
 ## Cooking for Real in a Two-Burner World
 
+| Item | Cost | Notes |
+| --- | --- | --- |
+| Lodge 10-inch cast iron skillet | $35 | Workhorse cookware; stovetop to oven; campfire-safe |
+| Cuisinart TOA-60 countertop convection oven | $130 | Fits Class B/C kitchens; runs on shore power or solar |
+| OXO Pop containers (4-quart and 1.1-quart) | Varies | Essential for pantry organization; stackable and rattle-proof |
+| Recommended solar setup | 400W solar + 400Ah lithium | For regular countertop oven use while boondocking |
+
 Two burners changes everything about how you sequence a meal. You can't run four things simultaneously, so you learn to think in phases. The protein rests while the grain finishes. The sauce waits while you sauté the vegetables. This is actually better cooking technique than what most home cooks use, but it requires thinking one step ahead before you start.
 
 The single best investment I made in my kitchen was a quality 10-inch cast iron skillet. Mine is a Lodge, cost about $35, and it has cooked literally hundreds of meals. It goes from stovetop to my Cuisinart countertop convection oven without complaint. It holds heat evenly on a somewhat inconsistent propane flame. And when I'm parked somewhere without electricity, it works just fine over a campfire. I don't have a matching set of cookware. I have the cast iron, one 3-quart stainless saucepan, and a 6-inch nonstick for eggs. That's it. That covers everything I cook.
 
-Speaking of the convection oven: if your rig has a standard RV oven, you probably know they're terrible. Uneven heat, slow to warm up, impossible to bake in reliably. The workaround most full-timers land on is a countertop convection toaster oven. The Cuisinart TOA-60 runs about $130 and fits on the counter of most Class B and C kitchens without blocking the overhead cabinet. Roasts vegetables beautifully, bakes bread if you're patient, and runs on shore power or a decent solar setup. (Speaking of solar: if you're boondocking and want to run appliances like this regularly, you'll want at least 400Ah of lithium battery capacity and 400 watts of solar. Below that you're making tradeoffs.)
+Speaking of the convection oven: if your rig has a standard [RV oven](/full-time-rv-living-with-a-dog-tips/), you probably know they're terrible. Uneven heat, slow to warm up, impossible to bake in reliably. The workaround most full-timers land on is a countertop convection toaster oven. The Cuisinart TOA-60 runs about $130 and fits on the counter of most Class B and C kitchens without blocking the overhead cabinet. Roasts vegetables beautifully, bakes bread if you're patient, and runs on shore power or a decent solar setup. (Speaking of solar: if you're boondocking and want to run appliances like this regularly, you'll want at least 400Ah of lithium battery capacity and 400 watts of solar. Below that you're making tradeoffs.)
 
 One technique people don't talk about enough is batch-cooking proteins. On Sunday or whenever I've got good shore power and a long parking situation, I'll cook a big batch of ground turkey or a whole roasted chicken or a pot of lentils. That carries me through three to four days of fast meals. It takes maybe an hour once a week and basically eliminates the "I'm tired and there's nothing ready" problem that leads to expensive restaurant stops.
 

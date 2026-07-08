@@ -23,11 +23,17 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Every year, thousands of full-time RVers establish legal residency in South Dakota without spending more than a day there. It's completely legal. And if you're coming from California, Oregon, or New York, you're probably looking at saving hundreds of dollars per month. South Dakota has no state income tax, vehicle registrations under $60 a year, and possibly the easiest domicile process in the country. If you haven't looked into this yet, you're leaving real money on the table.
 
 ## Why South Dakota Beats the Other Popular Options
+
+| State | Income Tax | Vehicle Registration | Notes |
+| --- | --- | --- | --- |
+| South Dakota | None | $42-$70/year (car); under $200/year (RV) | No inheritance tax; 4% sales tax |
+| Texas | None | Varies | Requires driver's license with driving test |
+| Florida | None | Varies by county | Tightening residency rules |
 
 Most RVers debating domicile narrow it down to South Dakota, Texas, or Florida. All three have zero state income tax, which sounds like a tie. It isn't.
 

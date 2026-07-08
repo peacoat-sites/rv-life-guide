@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 Most people who ask me about full-time RV living want to know one thing before anything else: "Is it actually cheaper?" I sold my house in a Chicago suburb in the fall of 2019, bought a 38-foot fifth wheel, and hit the road thinking I'd cut my monthly expenses roughly in half. The first month cost me $4,200. I almost turned around.
 
@@ -43,7 +43,7 @@ Here's how people bring that number down:
 
 **Membership programs.** Thousand Trails, Harvest Hosts, Escapees, and Passport America can collectively cut your lodging costs by 30-50% if you plan your routes around them. I pay about $800 per year for Thousand Trails and another $99 for Harvest Hosts. They've paid for themselves dozens of times over.
 
-**Public lands.** BLM and National Forest dispersed camping is free or $5-$10 per night in most cases. There's no hookup, so you need a solar setup and enough tank capacity to last a few days. But if you're comfortable boondocking, this changes everything. Some months I spend under $300 on camping because I'm mostly on public land in the Southwest.
+**Public lands.** BLM and National Forest dispersed camping is free or $5-$10 per night in most cases. There's no hookup, so you need a solar setup and enough tank capacity to last a few days. But if you're comfortable [boondocking](/boondocking-free-camping/), this changes everything. Some months I spend under $300 on camping because I'm mostly on public land in the Southwest.
 
 **Monthly rates.** If you're staying put for a project, family visit, or winter, monthly rates at RV parks in Texas, Arizona, and Florida run $400-$900 depending on the park and season. Far cheaper per night than the daily rate.
 
@@ -52,6 +52,14 @@ Realistic monthly campground budget: **$400 to $1,800**, depending entirely on y
 ---
 
 ## Fuel: The Number That Swings Everything
+
+| Rig Type | Est. MPG | 1,500 mi/month @ $3.80/gal |
+|---|---|---|
+| Class A Diesel Pusher | 7-9 MPG | $633-$814 |
+| Class C Motorhome | 10-14 MPG | $407-$570 |
+| Fifth Wheel (pickup tow) | 9-11 MPG | $519-$633 |
+| Travel Trailer (mid-size) | 13-17 MPG | $335-$438 |
+| Class B Campervan | 18-25 MPG | $228-$317 |
 
 I drive a Ram 3500 dually to tow my fifth wheel. Combined, they get about 9-11 miles per gallon while hauling. That number might make you wince, and it should.
 

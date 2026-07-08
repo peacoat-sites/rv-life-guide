@@ -23,11 +23,11 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 My dogs have been in this rig longer than some people have owned cars. Eight years, two dogs (one passed, one current), four different rigs, and more campgrounds than I can count. Most advice you'll find about full-timing with dogs is written by people who took one camping trip. It shows.
 
-Here's what that advice gets wrong: it focuses almost entirely on logistics. Crates, leashes, paw wipes. Fine, you need all of that. But the harder stuff, the stuff that will actually make or break your life on the road with a dog, is about routines, vet strategy, and what happens when your dog gets sick at 7pm in a town where the nearest emergency animal hospital is 90 minutes away. That's where we're starting.
+Here's what that advice gets wrong: it focuses almost entirely on logistics. Crates, leashes, paw wipes. Fine, you need all of that. But the harder stuff, the stuff that will actually make or break your [life on the road](/rv-life-with-pets/) with a dog, is about routines, vet strategy, and what happens when your dog gets sick at 7pm in a town where the nearest emergency animal hospital is 90 minutes away. That's where we're starting.
 
 ## The Vet Situation Is the Thing Nobody Prepares For
 
@@ -45,7 +45,7 @@ Establish a "home base" vet if you can. A lot of full-timers use their mail forw
 
 ## How RV Life Actually Changes a Dog's Day
 
-For most dogs, full-time RV life is better than a house with a backyard. I'll say it directly: after eight years, I believe it. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
+For most dogs, [full-time RV life](/full-time-rv-living-with-a-dog-tips/) is better than a house with a backyard. I'll say it directly: after eight years, I believe it. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
 
 Biscuit is calmer and more confident than any dog I've had living in a house. She's been to 31 states. She knows what "we're packing up" means and she goes to her spot in the passenger seat like clockwork.
 
@@ -54,6 +54,15 @@ But there are dogs who don't adapt well to this. You need to be honest about you
 What actually matters most is consistency of routine, not consistency of place. Same feeding times. Same exercise amount. Same sleep arrangement. Dogs read your behavior more than their surroundings. If you're relaxed and structured, most dogs figure it out within a few weeks.
 
 ## The Gear That's Worth It (and What to Skip)
+
+| Item | Cost | Durability | Use Case |
+| --- | --- | --- | --- |
+| Big Barker Orthopedic Dog Bed | $180-250 | 4+ years tested | Daily sleep, joint support |
+| Hands-free leash system (Tuff Mutt) | $25 | Long-term | Campground setup, hands-free movement |
+| Inline water filter (Camco TastePURE) | $20 | Reusable | Water quality management |
+| Pet insurance (Healthy Paws) | $35-55/month | Ongoing | Emergency surgery coverage |
+| Pet insurance (Trupanion) | Variable | Ongoing | Dogs with known conditions |
+| Vet exam + activated charcoal | $280 | One-time | Emergency treatment example |
 
 People go overboard buying dog gear before they hit the road. I did it myself. I'll save you some money.
 

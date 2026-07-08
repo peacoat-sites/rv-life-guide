@@ -23,6 +23,7 @@ faqs:
    a: "Generally, yes. The kingpin coupling over the rear axle provides inherently better stability than a ball hitch at the bumper, and fifth wheels have less tendency to sway at speed. That said, they require a pickup truck with a bed, a proper fifth wheel hitch (usually $700-$1,500 installed), and they're harder to back into tight spaces. Safety advantage is real, but so are the tradeoffs."
  - q: "How often should I check tire pressure on a towing setup?"
    a: "Every morning before you drive, and after any stop longer than an hour or two if you're in significant temperature swings. RV trailer tires are especially prone to failure from underinflation. A tire pressure monitoring system that alerts you in real time is worth every dollar, particularly for rear trailer tires you can't see from the cab."
+lastmod: 2026-07-07
 ---
 
 Three years ago, I watched a 36-foot fifth wheel come completely uncoupled from a pickup on I-40 outside Amarillo. The trailer swung wide, took out a guardrail, and came to rest in a ditch. Nobody was hurt, which was miraculous. The driver had been towing for years. He knew what he was doing, or thought he did. Turned out he'd skipped one pre-trip check that morning because he was running late. One check.
@@ -37,9 +38,9 @@ So let me share what I've actually learned, including the stuff I got wrong befo
 
 This sounds basic, but I can't tell you how many people at campgrounds are towing rigs that exceed their truck's capacity. Not by a huge amount. Just a little. Just enough.
 
-Your truck has three numbers you need to know cold: GVWR (gross vehicle weight rating), GCWR (gross combined weight rating), and your tow rating. The tow rating is the one manufacturers advertise. It's also the one most commonly misunderstood. That big number in the brochure? It's almost always based on a base-model truck with no passengers, no cargo, no gear. The moment you load the truck, that number drops.
+Your truck has three numbers you need to know cold: GVWR (gross vehicle weight rating), [GCWR (gross combined weight rating)](/how-to-calculate-rv-towing-capacity-correctly/), and your tow rating. The tow rating is the one manufacturers advertise. It's also the one most commonly misunderstood. That big number in the brochure? It's almost always based on a base-model truck with no passengers, no cargo, no gear. The moment you load the truck, that number drops.
 
-What most people don't realize is that the GCWR is often the limiting factor, not the tow rating. Your truck might be rated to tow 14,000 lbs, but if the GCWR is 20,000 lbs and your loaded truck weighs 7,500 lbs, you're already at 7,500 of your 20,000-lb ceiling before you hook anything up. Add a 13,000-lb trailer and you're technically within tow rating but 500 lbs over GCWR. That's an overloaded rig, and it affects braking distance, transmission heat, and tire load in ways you won't notice until something goes wrong.
+What most people don't realize is that the GCWR is often the limiting factor, not the [tow rating](/towing-capacity-calculator/). Your truck might be rated to tow 14,000 lbs, but if the GCWR is 20,000 lbs and your loaded truck weighs 7,500 lbs, you're already at 7,500 of your 20,000-lb ceiling before you hook anything up. Add a 13,000-lb trailer and you're technically within tow rating but 500 lbs over GCWR. That's an overloaded rig, and it affects braking distance, transmission heat, and tire load in ways you won't notice until something goes wrong.
 
 Get your rig to a CAT Scale (most truck stops have them, cost is around $13 per weighing as of 2026). Weigh it loaded the way you actually travel. I've done this at the Flying J in Kingman, Arizona with a buddy who was convinced he was within limits. He was 800 lbs over on his rear axle. One stop, $13, and information that probably saved his life.
 
@@ -55,13 +56,19 @@ That last one is embarrassing to admit, but I've seen it done wrong by people wh
 
 For fifth wheels, make sure the kingpin is locked and the locking jaws are fully engaged before you pull any safety pin. Tug the trailer forward manually before you drive. If it doesn't move with you, you're good. If there's any play or it pops up even slightly, stop and re-seat.
 
-Weight distribution hitches deserve their own conversation. If your trailer's tongue weight is over roughly 10-12% of your tow vehicle's weight, you need one. Most people with travel trailers over 6,000 lbs loaded weight should have one. Setup matters enormously: the bars need to be tensioned so the front of the tow vehicle lifts back to ride height, not just partially. I've seen weight distribution hitches installed but not tensioned correctly on probably a third of the rigs I've helped at campgrounds. It's not doing much for you if it's not set right.
+[Weight distribution hitch](/sway-control-hitch-rv/)es deserve their own conversation. If your trailer's tongue weight is over roughly 10-12% of your tow vehicle's weight, you need one. Most people with travel trailers over 6,000 lbs loaded weight should have one. Setup matters enormously: the bars need to be tensioned so the front of the tow vehicle lifts back to ride height, not just partially. I've seen weight distribution hitches installed but not tensioned correctly on probably a third of the rigs I've helped at campgrounds. It's not doing much for you if it's not set right.
 
 Anti-sway bars are worth it if you're on interstates regularly. The Equal-i-zer 4-Point Sway Control hitch (runs about $700-$900) does weight distribution and sway control in one unit and in my experience it's one of the better investments for trailer towing in the 6,000-10,000 lb range.
 
 ---
 
 ## Trailer Brakes: The System Everyone Assumes Is Working
+
+| Component | Typical Cost | Key Specification |
+| --- | --- | --- |
+| Proportional Brake Controller (Prodigy P3 / Tekonsha Envoy) | $150-$180 | Responds to deceleration forces; better than time-delayed units |
+| Anti-Sway Bar Hitch (Equal-i-zer 4-Point) | $700-$900 | Combined weight distribution and sway control for 6,000-10,000 lb trailers |
+| CAT Scale Weighing | ~$13 per session | Verifies actual loaded weight vs. GVWR/GCWR limits |
 
 Here's a thing I thought for years: if the trailer brakes engage when I press the brake pedal, they must be working properly. That's wrong, and it cost me a nervous experience descending US-550 into Ouray, Colorado.
 

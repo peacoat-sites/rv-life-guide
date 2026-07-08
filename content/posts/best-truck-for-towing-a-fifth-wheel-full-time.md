@@ -12,11 +12,11 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 Most people ask the wrong question.
 
-They come to me asking "which truck should I buy?" when what they really need to ask is "what are my actual numbers?" Because here's what I've watched happen more times than I can count: someone buys a beautiful, loaded-out Ram 1500 because their neighbor has one and loves it, then they try to tow their 14,000-pound fifth wheel home from the dealership and realize they're 2,000 pounds over the truck's maximum tow rating before they've even packed their clothes. That's an expensive lesson. The truck question only makes sense once you know your rig's loaded weight and your pin weight, so if you don't have those numbers yet, that's your actual first step.
+They come to me asking "which truck should I buy?" when what they really need to ask is "what are my actual numbers?" Because here's what I've watched happen more times than I can count: someone buys a beautiful, loaded-out Ram 1500 because their neighbor has one and loves it, then they try to tow their 14,000-pound fifth wheel home from the dealership and realize they're 2,000 pounds over the truck's maximum tow rating before they've even packed their clothes. That's an expensive lesson. The truck question only makes sense once you know your rig's loaded weight and your [pin weight](/how-to-calculate-rv-towing-capacity-correctly/), so if you don't have those numbers yet, that's your actual first step.
 
 That said, I've been towing fifth wheels full-time since 2016, and I've had real conversations with hundreds of people in the same situation. Let me tell you what I actually think, not what the manufacturer spec sheets say.
 
@@ -36,7 +36,7 @@ Fifth wheels are heavy. Heavier than most people expect, and way heavier once yo
 
 Here's what I tell everyone: take your trailer's GVWR, add 20% as a safety buffer, and that's the bare minimum tow capacity you should shop for. So if your fifth wheel has a 16,000-pound GVWR, you want a truck rated for at least 19,000 pounds. Why the cushion? Because tow ratings are measured in laboratories with ideal conditions, no passengers, no bed load, nothing. You're driving that thing over a Utah mountain pass in July with your partner in the seat next to you and a bed full of tools. You need the buffer.
 
-Pin weight deserves the same attention. It loads your rear axle directly, and your truck has a separate payload rating that has to account for it. Most people completely skip this number. I've met folks with trucks technically rated to tow their trailer, but the pin weight alone maxed out their payload, which means adding a passenger or a toolbox puts them over their truck's legal limit and structural capacity. Open your driver's door. Look at the yellow sticker inside the jam. That's your payload rating. Treat it like a number in a safe.
+Pin weight deserves the same attention. It loads your rear axle directly, and your truck has a separate [payload rating](/towing-capacity-calculator/) that has to account for it. Most people completely skip this number. I've met folks with trucks technically rated to tow their trailer, but the pin weight alone maxed out their payload, which means adding a passenger or a toolbox puts them over their truck's legal limit and structural capacity. Open your driver's door. Look at the yellow sticker inside the jam. That's your payload rating. Treat it like a number in a safe.
 
 ## Heavy-duty or not: I'm just telling you straight
 

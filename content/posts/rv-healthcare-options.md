@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 You wake up at a campground outside Sedona, Arizona, with what feels like a kidney stone. The pain is real. The nearest urgent care is 12 miles away. Your insurance card lists a primary care physician back in Ohio you haven't seen in three years. This moment catches most new full-timers completely off guard, more than almost anything else about life on the road. Healthcare is the single most complicated logistical puzzle in the full-time RV world. But it's absolutely solvable if you understand your options before the emergency happens.
 
@@ -36,6 +36,13 @@ It gets worse when you realize that full-time RVers need to establish a "domicil
 If you're still in early planning stages, our [full-time RV living guide](/full-time-rv-living-guide/) covers domicile setup, mail forwarding, and the broader logistics of making this lifestyle work legally. Get that foundation right first, and insurance becomes much easier to sort out.
 
 ## The Main Healthcare Options Worth Considering
+
+| Healthcare Option | Monthly Cost Range | Best For | Key Limitation |
+| --- | --- | --- | --- |
+| ACA Marketplace (PPO) | $450-$700 | Those under 65, need nationwide coverage | Network varies by plan |
+| Health Share Ministries | $500-$600 (couple) | Budget-conscious, healthy individuals | Pre-existing conditions often excluded |
+| Original Medicare + Medigap | $100-$200+ (Medigap) | Age 65+, predictable costs | Only available at Medicare-accepting providers |
+| Direct Primary Care (DPC) | $50-$150 | Telehealth-dependent, routine care needs | Requires separate insurance for major events |
 
 There's no single "best" answer here. Your age, health status, budget, and travel style all play a role.
 

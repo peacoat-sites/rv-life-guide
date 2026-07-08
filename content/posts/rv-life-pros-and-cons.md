@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 I sold my house on a Tuesday in October 2019. By Saturday, my husband and I were sleeping in a 34-foot fifth wheel in a Walmart parking lot outside Columbus, Ohio, arguing about where the propane shutoff was while the temperature dropped to 38 degrees. That is the version of full-time RV life nobody posts on Instagram. Six years and 90,000+ miles later, I can tell you honestly: this lifestyle is one of the best decisions I ever made, and also one of the hardest. Both things are completely true at the same time.
 
@@ -53,6 +53,18 @@ Healthcare is the biggest wildcard. If you're under 65 and not covered through a
 
 ## RV Life Costs: A Realistic Monthly Comparison
 
+| Expense Category | Suburban Homeowner (Avg) | Full-Time RVer (Avg) |
+|---|---|
+| Housing (mortgage/lot fees) | $1,500 - $2,200 | $600 - $1,200 |
+| Utilities (electric, gas, water) | $250 - $400 | $50 - $150 |
+| Fuel | $100 - $200 | $400 - $800 |
+| Vehicle/RV insurance | $150 - $250 | $200 - $400 |
+| Maintenance/repairs | $100 - $300 | $250 - $500 |
+| Health insurance | $600 - $1,000 | $700 - $1,200 |
+| Internet/connectivity | $80 - $120 | $100 - $250 |
+| Groceries/dining | $600 - $900 | $600 - $900 |
+| **Estimated Monthly Total** | **$3,380 - $5,370** | **$2,900 - $5,400** |
+
 Here's a rough comparison based on our actual numbers and what I've seen from dozens of full-timers over the years.
 
 | Expense Category | Suburban Homeowner (Avg) | Full-Time RVer (Avg) |
@@ -67,7 +79,7 @@ Here's a rough comparison based on our actual numbers and what I've seen from do
 | Groceries/dining | $600 - $900 | $600 - $900 |
 | **Estimated Monthly Total** | **$3,380 - $5,370** | **$2,900 - $5,400** |
 
-RV life isn't dramatically cheaper. The cost structures are just different. RVers spend more on fuel and connectivity, less on housing and utilities. Whether you come out ahead depends heavily on how you travel (moving frequently costs more in diesel), where you stay (full-hookup RV parks at $60/night versus free BLM land), and how old your rig is.
+RV life isn't dramatically cheaper. The cost structures are just different. RVers spend more on fuel and connectivity, less on housing and utilities. Whether you come out ahead depends heavily on [how you travel](/how-to-start-full-time-rv-living-for-beginners/) (moving frequently costs more in diesel), where you stay (full-hookup RV parks at $60/night versus free BLM land), and how old your rig is.
 
 ## The Gear That Actually Matters
 

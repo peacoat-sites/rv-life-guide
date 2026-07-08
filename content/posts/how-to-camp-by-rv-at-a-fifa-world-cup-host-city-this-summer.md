@@ -12,12 +12,23 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 slug: "how-to-camp-by-rv-at-a-fifa-world-cup-host-city-this-summer"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Most people watching the World Cup this summer booked a hotel six months ago and are now quietly panicking about the bill. That's the assumption, anyway. The reality in June 2026 is stranger and more interesting: hotel occupancy across U.S. host cities is running *below* forecast, RV park supply has exploded, and a genuine window has opened for fans who want to actually be there without paying $400 a night for a Marriott within commuting distance of a stadium.
 
 I'll be honest, I didn't expect to be writing about soccer. But when the data started coming in about what's happening to RV park inventory and pricing near World Cup host cities right now, it was too interesting to ignore. This isn't a travel trend piece. It's a look at a real, time-sensitive set of conditions that won't exist again.
 
 ## The Supply Story Is Real, and the Timing Is Tight
+
+| Host City | Average Nightly Rate | Price Range | Supply Level |
+| --- | --- | --- | --- |
+| Houston | $73 | $41-$223 | Highest listed parks |
+| Dallas | $56-$68 | - | High |
+| Kansas City | $56-$68 | - | High |
+| Boston | $97-$190 | - | Standard |
+| San Francisco | $97-$190 | - | Standard |
+| Los Angeles | $97-$190 | - | Standard |
+| Philadelphia | $97-$190 | - | Standard |
 
 According to data from RMS and Spot2Nite cited by RV PRO, RV park supply within 50 miles of U.S. host cities more than tripled year-over-year for the June 10-20 tournament window. That's not a rounding error. Operators clearly saw this coming and either added inventory, opened previously closed loops, or simply listed parks that hadn't been on booking platforms before.
 
@@ -29,7 +40,7 @@ The hotel underperformance piece matters here too. The American Hotel & Lodging 
 
 The traditional problem with an RV road trip to a major event was always the same: you drive to the city, you park, you watch your game, and then you either stay put or deadhead back the way you came. Following a team through multiple host cities with a rented RV was logistically painful.
 
-Outdoorsy addressed this directly. They launched a one-way rental program specifically designed for fans who want to follow their team between host cities, and they've cited unprecedented demand for RV rentals this summer tied to three major events in 2026. The one-way option means you can pick up in Dallas, catch a group stage match, drive to Kansas City for the next one, and drop the rig without a return positioning fee eating your lunch. That's a fundamentally different calculus than what was possible even two years ago.
+Outdoorsy addressed this directly. They launched a [one-way rental program](/why-rvers-are-winning-the-dust-off-summer-of-2026/) specifically designed for fans who want to follow their team between host cities, and they've cited unprecedented demand for RV rentals this summer tied to three major events in 2026. The one-way option means you can pick up in Dallas, catch a group stage match, drive to Kansas City for the next one, and drop the rig without a return positioning fee eating your lunch. That's a fundamentally different calculus than what was possible even two years ago.
 
 For people considering this right now, in mid-June, the availability question is real. Outdoorsy and similar peer-to-peer platforms will have tighter inventory as the tournament progresses. If you're looking at Round of 16 or quarterfinal matches in late June and July, you need to be checking today, not next week.
 

@@ -23,11 +23,21 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 Most people think upgrading from 30 amp to 50 amp service is just "more power, problem solved." I believed that too, until I blew a pedestal breaker at a campground in the Texas Hill Country because I didn't understand what was actually happening inside those two very different electrical systems. Here's what I wish someone had explained before I spent three summers just plugging in and hoping.
 
 ## 30 Amp vs. 50 Amp: They're Not Just Different Sizes of the Same Thing
+
+| Specification | 30 Amp Service | 50 Amp Service |
+| --- | --- | --- |
+| Voltage Configuration | Single 120-volt leg | Two separate 120-volt legs |
+| Hot Wires | 1 | 2 |
+| Plug Prongs | 3 | 4 |
+| Maximum Amperage | 30 amps | 50 amps per leg |
+| Total Wattage Available | 3,600 watts | 12,000 watts |
+| Typical RV Type | Small travel trailers, Class C | Large fifth wheels, Class A |
+| AC Unit Capacity | 1 unit comfortable | 2+ units feasible |
 
 This is where most guides lose people by framing it as "30 amp = smaller rigs, 50 amp = bigger rigs" and moving on. The real story matters more.
 

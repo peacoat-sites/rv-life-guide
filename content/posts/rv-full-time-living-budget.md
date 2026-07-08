@@ -23,13 +23,24 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 The month I sold my house in suburban Columbus, Ohio, my mortgage payment was $1,847. My first full month on the road cost me $2,340. I remember staring at my bank statement thinking I had made a catastrophic mistake. Eighteen months later, I had that monthly number down to $1,650, and two years after that I was averaging $1,400 a month with a paid-off rig and a legitimate emergency fund. The point isn't that full-time RV living is automatically cheap. It isn't. The point is that the budget is learnable, and most people walk into this lifestyle with completely wrong assumptions about where the money actually goes.
 
 ---
 
 ## What a Realistic Full-Time RV Budget Actually Looks Like
+
+| Category | Budget-Conscious | Middle Ground | Comfort-Focused |
+|---|---|---|---|
+| Campground/Site Fees | $250-$400 | $500-$700 | $900-$1,400 |
+| Fuel | $150-$300 | $300-$500 | $500-$900 |
+| Groceries | $300-$500 | $500-$700 | $700-$1,000 |
+| RV Insurance | $80-$120 | $120-$200 | $200-$350 |
+| Health Insurance | $200-$600 | $400-$800 | $600-$1,200+ |
+| Maintenance/Repairs | $100-$200 | $200-$400 | $200-$400 |
+| Phone/Internet | $80-$150 | $150-$250 | $200-$350 |
+| Entertainment/Dining | $100-$200 | $200-$400 | $400-$700 |
 
 Let me give you real numbers. Not "it depends" hand-waving, but actual categories and ranges based on six years of tracking every dollar.
 
@@ -60,7 +71,7 @@ The workaround most experienced full-timers use is a blended strategy: mix expen
 
 **Membership Campgrounds.** Thousand Trails, Passport America, Harvest Hosts, and Boondockers Welcome reduce nightly costs dramatically. Thousand Trails runs about $600-$700 a year and gives you access to their network of campgrounds for free stays. Over 12 months of heavy use, your site fee cost can drop by $300 to $500 a month.
 
-**BLM and National Forest Land.** The Bureau of Land Management allows free dispersed camping, often for up to 14 days in one spot. If you're in the Southwest, you can string together months of nearly free camping. The Sonoran Desert near Quartzsite, Arizona is full-timer central for this reason every winter.
+**BLM and National Forest Land.** The Bureau of Land Management allows [free dispersed camping](/boondocking-free-camping/), often for up to 14 days in one spot. If you're in the Southwest, you can string together months of nearly free camping. The Sonoran Desert near Quartzsite, Arizona is full-timer central for this reason every winter.
 
 **State Parks.** Underrated and often stunning. Most states offer annual passes. The America the Beautiful pass costs $80 a year and covers national parks and some federal campgrounds. I've gotten $1,200 worth of use out of a single $80 pass.
 

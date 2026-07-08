@@ -21,13 +21,26 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation. I've been exactly there, parked on BLM land outside Moab with a storm rolling in and a power setup I hadn't stress-tested hard enough. That moment taught me more about boondocking than any YouTube video ever did.
 
-Boondocking, camping without electrical, water, or sewer hookups, is either the best thing about RV life or a source of constant low-grade anxiety, depending entirely on how well-prepared you are. Eight years in, I've done hundreds of nights off-grid, from desert flats to mountain forest roads to city-adjacent "dispersed camping" spots that felt like a secret. What separates people who love it from people who dread it isn't the rig. It's the systems.
+Boondocking, camping without electrical, water, or sewer hookups, is either the best thing about RV life or a source of constant low-grade anxiety, depending entirely on how well-prepared you are. Eight years in, I've done hundreds of nights off-grid, from desert flats to mountain forest roads to city-adjacent "[dispersed camping](/dispersed-camping-guide/)" spots that felt like a secret. What separates people who love it from people who dread it isn't the rig. It's the systems.
 
 ## Power: The System That Makes or Breaks Everything
+
+| Component | Capacity/Output | Cost Range | Notes |
+| --- | --- | --- | --- |
+| Single Factory Battery | 30-40 usable Ah | Included | Lead-acid; discharge to 50% max |
+| Lithium Battery (100Ah LiFePO4) | 100 usable Ah | $400-800 | Per battery; ~4× factory capacity |
+| Solar Panel (200W) | 60-80 Ah/day (Arizona summer) | - | 15 Ah/day (Oregon winter); geography-dependent |
+| Solar Panel (200W) | 15 Ah/day (Oregon winter) | - | Season and location significantly affect output |
+| MPPT Charge Controller | - | - | Required for 400W+ solar systems |
+| Small Generator (Honda EU2200i) | 2,200W | - | Quiet backup; charges faster than solar in overcast |
+| Fresh Water Tank | 30-60 gallons | - | 2 people, conservative use: 4-6 gallons/day |
+| Gray Tank | 30 gallons | - | Fills faster than black tank; ~4-5 day capacity |
+| Dump Station Fee | - | $10-20 | Flying J, Pilot truck stops |
+| Battery Monitor (Victron BMV-712) | - | - | Provides real-time state of charge and draw data |
 
 Let's start with the one that sends people home early.
 
@@ -62,7 +75,7 @@ Your gray tank fills faster than your black tank. That surprises almost everyone
 
 The good news: gray water management has options. In most dispersed camping areas on public land, it's legal (and fine leave-no-trace practice) to dump strained gray water on the ground away from water sources. Check local regulations because they vary, but in my experience, the BLM is more concerned about sewage than gray water.
 
-Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a composting toilet is a genuine game-changer. I switched to an Airhead composting toilet three years ago and my entire relationship with water management changed because the black tank was now exclusively available for gray overflow. That's a real solution, not a lifestyle statement.
+Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a [composting toilet](/rv-water-tank-management/) is a genuine game-changer. I switched to an Airhead composting toilet three years ago and my entire relationship with water management changed because the black tank was now exclusively available for gray overflow. That's a real solution, not a lifestyle statement.
 
 Dump stations are everywhere if you know where to look. Sanidumps.com is a better database than most campground apps for finding standalone dump stations. Many Flying J and Pilot truck stops have them, usually for $10 to $20.
 

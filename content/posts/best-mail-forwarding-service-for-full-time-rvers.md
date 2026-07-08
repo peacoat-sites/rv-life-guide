@@ -23,6 +23,7 @@ faqs:
     a: "Yes, you do, and any legitimate mail forwarding service will require it. Form 1583 is a notarized form that authorizes the mail service to receive First Class and Priority mail on your behalf. You sign it, get it notarized (UPS Stores do this for around $10-15), and submit it once when you set up the service. Without it, a forwarding service technically can't receive certain mail classes legally. If a service doesn't mention it, that's a red flag."
   - q: "Can I use a mail forwarding address to vote?"
     a: "In South Dakota and Texas, yes, full-time RVers with no fixed residence can register to vote using their mail forwarding address as their legal domicile address. Florida is more complicated. This is actually one of the underrated advantages of the SD and TX domicile options: the system has a formal provision for people in exactly your situation, and the county election offices there are used to dealing with it."
+lastmod: 2026-07-07
 ---
 My first piece of physical mail after going full-time was a jury summons. It went to my sister's house in Phoenix, where it sat on her counter for three weeks before she remembered to tell me. I missed the date, had to write an explanation letter to a Maricopa County clerk I'd never meet, and spent two anxious weeks wondering if I was technically a fugitive. That was eight years ago, and it taught me immediately that "I'll just use a family member's address" is a plan that falls apart faster than you expect.
 
@@ -38,11 +39,18 @@ Here's what most people miss when they start researching: the three states that 
 
 ## The Main Players, Honestly Assessed
 
+| Service | Location | Annual Cost | Domicile Support | Address Type |
+| --- | --- | --- | --- | --- |
+| Americas Mailbox | Box Elder, South Dakota | $180-$220 | Yes | Street address |
+| Escapees RV Club | Livingston, Texas | Varies + membership $50/year | Yes | Street address |
+| Traveling Mailbox | Multiple | $15+/month | No | Street address |
+| PostScan Mail | Multiple | Flexible | No | Street address |
+
 There are probably a dozen services I could list here. I'm going to focus on the four that actually get used by serious full-timers, because the rest either have spotty reputations in the RV communities I trust or they lack the domicile support that makes a service genuinely useful.
 
 **Americas Mailbox** is based in Box Elder, South Dakota. This is who I'd recommend to most people starting out, not because it's the cheapest, but because they've built their entire operation around full-timers and they understand what you need. They help you establish South Dakota residency, including walking you through the one-day process to get your SD driver's license. Packages are held, scanned, or forwarded on request. Their customer service is actual humans who've heard every weird mail situation. Plans run roughly $180 to $220 per year depending on options, plus forwarding costs.
 
-**Escapees RV Club** runs a mail service out of Livingston, Texas. If you're already an Escapees member (and honestly, $50 per year for membership is worth it for the campground discounts alone), their mail service is tightly integrated into a broader support ecosystem. Texas domicile, help establishing it, and they've been doing this for decades. Forwarding costs are reasonable, the scanning interface is functional if a little dated, and their community resources are unmatched. I've sent members there when they need hand-holding through the whole domicile process.
+**Escapees RV Club** runs a mail service out of Livingston, Texas. If you're already an Escapees member (and honestly, $50 per year for membership is worth it for the campground discounts alone), their mail service is tightly integrated into a broader support ecosystem. Texas domicile, [help establishing it](/rv-domicile-state-options/), and they've been doing this for decades. Forwarding costs are reasonable, the scanning interface is functional if a little dated, and their community resources are unmatched. I've sent members there when they need hand-holding through the whole domicile process.
 
 **Traveling Mailbox** operates differently. It's not domicile-focused at all. Everything gets scanned and uploaded to a web interface or app, you decide what to open and scan fully, shred, or forward. Monthly plans start around $15 and go up based on volume. It's excellent if you already have your domicile sorted and just need an address that isn't your mom's kitchen table. I've used it as a secondary address for business mail. The app works well, the turnaround on scans is fast, and the address is a real street address, not a PO box, which matters for some banks.
 
@@ -52,11 +60,11 @@ You'll see St. Brendan's Isle in Florida recommended in older forum threads. The
 
 ## The Part Nobody Explains Clearly Enough
 
-Here's where I see people make expensive mistakes. When you sign up with a forwarding service that also handles domicile (Americas Mailbox, Escapees), you're changing your legal residence. That means:
+Here's where I see people make expensive mistakes. When you sign up with a forwarding service that also handles domicile (Americas Mailbox, Escapees), you're [changing your legal residence](/rv-full-time-address-setup/). That means:
 
 **Vehicle registration.** You need to re-register your vehicles in the new state. South Dakota registration costs are low and there's no annual inspection requirement, which is one reason full-timers like it. Texas registration costs vary by county and can be higher. Florida has quirks around hurricane insurance for anything with four wheels.
 
-**Health insurance.** You need to update your plan. If you're on an ACA marketplace plan, your premium and network are tied to your domicile state. A South Dakota plan might give you terrible coverage if you spend most of your time in the Pacific Northwest. This is a real consideration and worth talking through before you commit.
+**[Health insurance](/health-insurance-full-time-rv/).** You need to update your plan. If you're on an ACA marketplace plan, your premium and network are tied to your domicile state. A South Dakota plan might give you terrible coverage if you spend most of your time in the Pacific Northwest. This is a real consideration and worth talking through before you commit.
 
 **Driver's license.** You'll need to get a license in your new domicile state. South Dakota lets you do this in a single day trip to Pennington County with their expedited process for RVers. Texas requires a bit more scheduling.
 

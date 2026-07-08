@@ -23,11 +23,11 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 My dog Cleo has slept in the same 6-inch window of sunlight every morning for eight years, except now that window moves. Montana one week, New Mexico the next. She adjusted faster than I did.
 
-I'll be honest: I went into full-time RV life assuming pets would be the hard part. I'd read all the forums. Anxious dogs, motion sickness, campgrounds that don't allow certain breeds, veterinary access in the middle of nowhere. The warnings stacked up. What surprised me was that most of the real challenges weren't the ones people warned me about. The pet stuff that actually broke my rhythm was mundane and avoidable, and the pet stuff I dreaded mostly didn't happen.
+I'll be honest: I went into [full-time RV life](/full-time-rv-living-with-a-dog-tips/) assuming pets would be the hard part. I'd read all the forums. Anxious dogs, motion sickness, campgrounds that don't allow certain breeds, veterinary access in the middle of nowhere. The warnings stacked up. What surprised me was that most of the real challenges weren't the ones people warned me about. The pet stuff that actually broke my rhythm was mundane and avoidable, and the pet stuff I dreaded mostly didn't happen.
 
 This is the real rundown. Not the "RVing with pets is magical!" content, not the fear-mongering either. Just what eight years with a 65-pound mixed breed and, later, a second dog and a cat have actually taught me.
 
@@ -53,9 +53,16 @@ One more thing. Waste management. I know. But campgrounds that otherwise love do
 
 ## Keeping Animals Safe While You're Rolling
 
+| Item | Cost | Notes |
+| --- | --- | --- |
+| Cerenia (maropitant citrate) per pill | $3-$5 | For motion sickness on longer drives |
+| Embark DNA test | ~$99 | Often cheaper during sales; helps with breed restriction disputes |
+| Sleepypod Clickit Sport harness | ~$80 | Crash-tested by Center for Pet Safety |
+| ThermoPro TP65S thermometer | ~$25 | Remote sensor; monitors RV interior temperature via phone |
+
 This is where I'll push back on the conventional wisdom. Most of what you see online says crate your dog every time you move. I understand the safety logic. A loose 65-pound dog becomes a projectile in a sudden stop. Hard to argue with physics.
 
-But here's the thing: not every dog tolerates crating, and not every RV layout accommodates a large crate in a way that's actually safer than the alternative. What I do, and what I've landed on after years of testing, is a combination approach. Cleo rides in a crash-tested harness (I've used the Sleepypod Clickit Sport, which runs about $80, and it's the only one that's been tested in actual crash simulations by the Center for Pet Safety) clipped to the seatbelt. It's not perfect, but it's meaningfully better than nothing.
+But here's the thing: [not every dog tolerates crating](/rv-life-with-dogs/), and not every RV layout accommodates a large crate in a way that's actually safer than the alternative. What I do, and what I've landed on after years of testing, is a combination approach. Cleo rides in a crash-tested harness (I've used the Sleepypod Clickit Sport, which runs about $80, and it's the only one that's been tested in actual crash simulations by the Center for Pet Safety) clipped to the seatbelt. It's not perfect, but it's meaningfully better than nothing.
 
 Cats are a different story entirely. Cats in cars are basically unsolvable. Every cat I've known either tolerates the carrier or actively loses its mind. My cat Jasper destroyed two soft carriers before I gave up and bought a hard-sided Petmate Sky Kennel. He hates it. He screams for approximately 45 minutes, then gives up and sleeps. We've reached an understanding.
 

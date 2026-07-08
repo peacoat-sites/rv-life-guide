@@ -23,6 +23,7 @@ faqs:
    a: "Right-side backing (most common) is generally easier because you're using your driver's side mirror and have better visibility. Left-side backing (passenger side) is harder because your view is more limited. For left-side backing, get out and walk the site even more carefully, take your time, and consider using a camera or spotter for the blind side."
  - q: "What are leveling blocks and do I actually need them?"
    a: "Leveling blocks are stackable plastic platforms you drive your tires onto to raise the low side of your rig on an uneven site. You need them more than you'd think. Most campsites have at least a slight grade, and an unlevel rig affects your refrigerator performance (especially propane absorption fridges), your sleep, and your door alignment. The Camco leveling blocks around $25-$30 are the standard and they work. (The site may earn a commission on purchases made through links here.)"
+lastmod: 2026-07-07
 ---
 
 Most people think backing into a campsite is harder than it actually is. The thing that makes it hard isn't the physics, it's the panic. And panic is fixable.
@@ -32,6 +33,13 @@ I've been backing 40-foot fifth wheels and 26-foot travel trailers into tight sp
 Let's get into the actual mechanics.
 
 ## Why Your Instincts Are Wrong (And How to Fix That)
+
+| RV Type | Length | Backing Complexity | Author Experience |
+| --- | --- | --- | --- |
+| Fifth Wheel | 40 feet | High | 8 years, multiple scenarios |
+| Travel Trailer | 26 feet | Moderate | 8 years, multiple scenarios |
+| Travel Trailer | 24 feet | Moderate | Reader feedback (Keystone Passport) |
+| Fifth Wheel | 38 feet | High | Solo backing, camera-assisted |
 
 The single biggest source of confusion is direction. When you back up a trailer, the trailer goes the opposite way from your steering wheel. Turn the wheel left, the back of the trailer swings right. That's it. That's the thing that trips up everyone who's ever grabbed a steering wheel at the bottom of a campground loop and immediately jackknifed into their neighbor's awning.
 

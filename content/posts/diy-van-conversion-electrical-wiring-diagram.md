@@ -23,6 +23,7 @@ faqs:
     a: "Practically speaking, no. A fridge and a fan on the same 15-amp breaker is fine. But if either of them shorts, you lose both. As a rule: anything that pulls more than 5 amps or runs frequently deserves its own breaker. Lights can share. Heaters need their own."
   - q: "What happens if I wire it without a diagram?"
     a: "You'll make it work, probably. You'll also spend twice as long troubleshooting, spend more on wire and components than you needed to, and be afraid every time something weird happens. Diagrams aren't busywork. They're insurance."
+lastmod: 2026-07-07
 ---
 
 I've watched a lot of people stare at a birds-nest of tangled wires under their van's floor, squint at a PDF someone uploaded to a forum in 2019, and then text me: "Does this look right?" The answer is almost never yes, and the reason is almost always the same: they started wiring before they had an actual plan on paper.
@@ -35,7 +36,7 @@ Here's what most people get wrong: they sketch a diagram based on what they *wis
 
 Before you touch a single wire, answer these questions in writing. I'm not exaggerating about "in writing." Open a notebook or a Google Doc right now.
 
-What's your power budget? Not the theoretical maximum of your battery bank. The real budget: how many days do you want to run between charges, and what are you actually running (fridge, laptop, phone, heater, water pump)? Add it up in watt-hours per day. If you're vague here, everything else fails.
+What's your [power budget](/how-many-watts-of-solar-for-full-time-rv-living/)? Not the theoretical maximum of your battery bank. The real budget: how many days do you want to run between charges, and what are you actually running (fridge, laptop, phone, heater, water pump)? Add it up in watt-hours per day. If you're vague here, everything else fails.
 
 How will you charge? Solar, alternator, shore power, all three? Sketch where that charge source connects. If you don't know yet, that's fine, but write "TBD" and come back to it.
 
@@ -55,9 +56,16 @@ I tested a setup once where someone had routed their inverter cable through a 40
 
 ## Mapping charge sources and the disconnect between them
 
-This is where a lot of diagrams get messy. You don't want your alternator backfeeding into your solar controller, and you don't want your shore power charger and your solar setup fighting each other at 2 AM.
+| Component | Typical Cost | Purpose |
+| --- | --- | --- |
+| Victron SmartSolar MPPT 100/50 | ~$400 | Solar charge controller |
+| Blue Smart Shore Charger | $300-$400 | Shore power charging |
+| Battery Isolator Relay | Variable | Alternator isolation |
+| Main Breaker (150 amp example) | ~$20 | Inverter circuit protection |
 
-A battery isolator or split-charge relay solves this. It's a box that sits between your alternator and your battery bank. When the engine's running, it connects the two. When you're parked, it disconnects them. Same with a solar charger. The standard move is to run each charge source (alternator, solar, shore power charger) through its own controller or breaker, and they all feed into a common battery bank. The controllers talk to each other, more or less. The solar controller "knows" the battery is already charging from shore power and backs off. This is actually built into most modern charge controllers, but your diagram should show it explicitly.
+This is where a lot of diagrams get messy. You don't want your alternator backfeeding into your [solar controller](/how-to-set-up-rv-solar-power-system-step-by-step/), and you don't want your shore power charger and your solar setup fighting each other at 2 AM.
+
+A battery isolator or split-charge relay solves this. It's a box that sits between your alternator and your battery bank. When the engine's running, it connects the two. When you're parked, it disconnects them. Same with a solar charger. The standard move is to run each charge source (alternator, solar, [shore power charger](/rv-electric-hookup-30-amp-50-amp/)) through its own controller or breaker, and they all feed into a common battery bank. The controllers talk to each other, more or less. The solar controller "knows" the battery is already charging from shore power and backs off. This is actually built into most modern charge controllers, but your diagram should show it explicitly.
 
 Here's where the diagram saves your life: if you don't sketch this out, you'll wire the alternator directly to the battery in one location, the solar to the battery in another, and the shore charger somewhere else entirely. Six months later, you have voltage spikes and a dead alternator. The diagram prevents this by forcing you to decide: one entry point for all charge sources, or individual entry points with proper isolation devices at each one?
 

@@ -23,11 +23,11 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 You pull up to a wide, flat mesa in southern Utah. Cut the engine. The only sound left is wind. No host. No fee envelope. No neighbor with a generator running at 11 p.m. Your spot costs zero dollars, and you can stay 14 days. That's boondocking. Once you've done it, paying $60 a night for a packed campground starts to feel almost criminal.
 
-Boondocking (also called dispersed camping or dry camping) means setting up on public land with no hookups, no fees, and usually no one within miles. Millions of RVers do it yearly on Bureau of Land Management land, National Forest land, and scattered other public areas. When it works, you slash your camping costs while finding views no commercial campground can touch. When it doesn't, you wake up to dead batteries, empty tanks, and a full gray tank on day two.
+Boondocking (also called dispersed camping or dry camping) means setting up on public land with no hookups, no fees, and usually no one within miles. Millions of RVers do it yearly on Bureau of Land Management land, National Forest land, and scattered other public areas. When it works, you [slash your camping costs](/average-monthly-cost-of-full-time-rv-living/) while finding views no commercial campground can touch. When it doesn't, you wake up to dead batteries, empty tanks, and a full gray tank on day two.
 
 This guide covers the actual mechanics of making it work.
 
@@ -46,6 +46,15 @@ The best apps are iOverlander, FreeRoam, and the Dyrt (free tier plus paid). Cam
 Call the local BLM field office before your first trip to any new area. I've gotten better intel from a five-minute phone call than from two hours online. The staff tell you which roads work, where the good spots are, and if there are seasonal closures.
 
 ## Power Management: The Real Limiting Factor
+
+| Item | Draw | Hours/Day | Daily Ah |
+|---|---|---|---|
+| 12V fridge | ~4-5A | 24 | 50-60 Ah |
+| Laptop charger | ~4-5A | 4 | 16-20 Ah |
+| Phone charging | ~1A | 4 | 4 Ah |
+| Interior LED lights | ~1-2A | 5 | 5-10 Ah |
+| Water pump | ~5A | 0.5 | 2-3 Ah |
+| **Total** | | | **~77-97 Ah/day** |
 
 Most people end their boondocking trips early for one reason: dead batteries. Not empty water tanks. Not a full gray tank. Dead batteries. If your RV has just the factory setup (usually one or two 100Ah lead-acid batteries), you're working with roughly 50 usable amp-hours before you risk damage. That's not much.
 

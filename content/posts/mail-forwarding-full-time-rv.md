@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 You just signed the lease on your apartment for the last time, sold most of your furniture on Facebook Marketplace, and your RV is parked out front ready to go. Then your phone buzzes. It's your bank, flagging a suspicious address change. Your insurance renewal is sitting in a mailbox you no longer own. And your new driver's license? It needs a physical address. Welcome to one of the most overlooked logistics problems in full-time RV living: mail forwarding.
 
@@ -33,13 +33,21 @@ Most people spend months researching the perfect rig and zero hours thinking abo
 
 You can't just use a friend's address forever. It creates legal gray areas, puts your friend in an awkward position, and falls apart the moment they move. The real problem runs deeper than receiving catalogs you don't want.
 
-Your mail address is tied to your legal domicile, which is the state where you're officially a resident. That determines which state you pay income taxes in, where you register your vehicle, where you get your driver's license, and what health insurance options are available to you. Choosing your domicile state is one of the most financially significant decisions a full-timer makes, and South Dakota, Texas, and Florida dominate for the same reason: no state income tax, relatively simple residency requirements, and infrastructure built to handle RV owners.
+Your mail address is tied to your legal domicile, which is the state where you're officially a resident. That determines which state you pay income taxes in, where you register your vehicle, where you get your driver's license, and what health insurance options are available to you. [Choosing your domicile state](/rv-domicile-state-options/) is one of the most financially significant decisions a full-timer makes, and South Dakota, Texas, and Florida dominate for the same reason: no state income tax, relatively simple residency requirements, and infrastructure built to handle RV owners.
 
-South Dakota is particularly popular. You can establish residency in a single day at a Pennington County DMV appointment, and the state explicitly allows mail forwarding service addresses as your residential address. Florida requires you to spend at least 183 days per year in-state to maintain residency, which is tough if you're roaming. Texas sits somewhere in between.
+[South Dakota is particularly popular](/south-dakota-rv-domicile/). You can establish residency in a single day at a Pennington County DMV appointment, and the state explicitly allows mail forwarding service addresses as your residential address. Florida requires you to spend at least 183 days per year in-state to maintain residency, which is tough if you're roaming. Texas sits somewhere in between.
 
 Once you've chosen your domicile state, you need a physical address in that state. That's where mail forwarding services enter the picture.
 
 ## The Three Main Options for Getting Your Mail
+
+| Service | Location | Address Type | Cost | Key Feature |
+| --- | --- | --- | --- | --- |
+| Escapees Mail Forwarding | Livingston, Texas | Real street address | $50-80/quarter | Club membership $30-40/year; mail scanning available |
+| America's Mailbox | Box Elder, South Dakota | Real street address | Comparable to Escapees | Integrated SD residency & registration support |
+| Traveling Mailbox / PostScan Mail | Digital | Digital dashboard | $15-50/month | Full mail scanning; online management |
+| UPS Store | Various locations | Real street address | $20-50/month | Not proactive; requires manual forwarding |
+| USPS PO Box | Various locations | PO Box number | Varies | Many institutions won't accept; limited forwarding |
 
 **Option 1: Dedicated RV Mail Forwarding Services**
 

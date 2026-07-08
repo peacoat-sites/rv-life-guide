@@ -23,9 +23,9 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
-A couple in Tennessee bought a used Class A motorhome for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.
+A couple in Tennessee bought a used [Class A motorhome](/class-a-vs-class-b-vs-class-c-rv/) for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.
 
 Whether you're buying your first rig or your fifth, or you're picking up a rental unit after winter storage, knowing what to actually check before you commit, or before you drive away, can save you from a very expensive education.
 
@@ -47,7 +47,7 @@ Come back down and go inside. Find every seam and corner on the interior ceiling
 
 ## Slide Rooms, Seals, and the Expensive Stuff That Moves
 
-Slides are the number one mechanical failure point I've encountered across six years of full-time travel. They work beautifully right up until they don't, and when they fail at an inconvenient time (which is always), you can find yourself either unable to close for travel or unable to open at your campsite.
+Slides are the number one mechanical failure point I've encountered across six years of [full-time travel](/full-time-rv-living-guide/). They work beautifully right up until they don't, and when they fail at an inconvenient time (which is always), you can find yourself either unable to close for travel or unable to open at your campsite.
 
 Extend every slide, then retract every slide. Do this twice. Watch the motor engage, listen for grinding or hesitation, and check whether the slide travels smoothly and fully seats against the body seals.
 
@@ -70,6 +70,16 @@ Look at every junction where water or sewer connections come through the floor. 
 On a diesel pusher or Class C, check for any sign of coolant or oil drips on the ground or on the frame below the engine. One small coolant drip can become a $4,000 head gasket job quickly.
 
 ## Systems Check: Water, Electric, and Gas
+
+| RV Component | Issue Found | Potential Repair Cost | Inspection Method |
+| --- | --- | --- | --- |
+| Aqua-hot system | System failure | ~$19,000+ | Run system, check for leaks |
+| Roof membrane | Cracks, bubbling sealant | Varies | Visual inspection, tap test |
+| Slide room mechanism | Won't retract | Included in $19,000+ | Extend/retract twice, listen for grinding |
+| Delaminating sidewalls | Water intrusion damage | Included in $19,000+ | Press ceiling material, check for soft spots |
+| AC gasket | Chronic leaks | $500-$2,000 | Check gasket seal, inspect coils |
+| Diesel engine | Coolant leak (head gasket) | ~$4,000 | Look for drips below engine |
+| Water heater element | Failed element or burner | $200-$500 | Test electric and propane modes |
 
 Run everything. Not just for a minute. Actually use it.
 

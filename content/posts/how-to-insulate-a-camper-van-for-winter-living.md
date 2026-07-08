@@ -23,6 +23,7 @@ faqs:
    a: "Custom-fit window covers made from Reflectix or foam board, installed at night, are the single best solution. They keep the glass surface warmer and dramatically reduce condensation. Maintaining interior humidity below 55% with ventilation helps too. Some people add a thin film of Rain-X to interior glass surfaces, which at least makes the condensation bead instead of pooling."
  - q: "Do I really need spray foam or can I just use rigid board everywhere?"
    a: "You can build a functional van with rigid board alone if you're careful about gaps. But the corrugated ribs need something that conforms to their shape, and rigid board doesn't. If you skip the ribs, you leave significant thermal bridging in place and you'll feel it on cold nights. Even a few cans of Great Stuff foam in the structural members makes a noticeable difference."
+lastmod: 2026-07-07
 ---
 
 Most people discover the hard truth about van insulation in October, when the temperature drops faster than expected and they're lying awake at 2 a.m. listening to condensation drip off their ceiling panels. I did exactly that during my first winter in a Ford Transit, back when I thought a layer of Reflectix and a good sleeping bag was a real insulation strategy. It isn't. Let me save you the miserable nights.
@@ -41,9 +42,17 @@ Closed-cell spray foam wins that argument, and I'll stand by that even though it
 
 ## The Materials That Actually Matter
 
+| Material | R-Value per Inch | Cost | Best Use | Moisture Handling |
+| --- | --- | --- | --- | --- |
+| Closed-cell spray foam | R-6 to R-7 | $80-100 per kit (DIY) or $800-1,500 (professional) | Ribs and cavities; entire shell | Vapor barrier; doesn't absorb |
+| Polyisocyanurate (polyiso) rigid board | R-6 to R-6.5 | $25-40 per 4x8 sheet | Flat panels, floor, ceiling | Loses R-value below 14°F |
+| Reflectix | R-1.1 (with air gap) | Low cost | Window radiant barrier only | Not suitable as primary insulator |
+| Sheep's wool batts | R-3.5 to R-4 per inch | ~$75 per 30 sq ft bag | Walls alongside spray foam | Manages moisture well; can hold if vapor control inadequate |
+| Thinsulate (3M SM600L) | R-4 to R-5 | $5-7 per sq ft | Wall cavities | Doesn't absorb moisture; no vapor barrier required |
+
 Let's go through what's worth using and what you can skip.
 
-**Closed-cell spray foam** is the workhorse of serious van insulation. It's got an R-value around R-6 to R-7 per inch, and more importantly, it bonds directly to the metal, fills every gap and seam, and acts as a vapor barrier simultaneously. The stuff doesn't absorb moisture. Those corrugated ribs running along your van walls? Without spray foam, they're thermal bridges, metal pathways that conduct cold straight into your living space. Spray foam kills those. You can buy two-part kits like the Touch 'n Foam System 600 (around $80-100 per kit) for DIY application in the ribs and cavities, or pay a professional to spray the whole shell, which runs $800-1,500 depending on van size and your region.
+**Closed-cell spray foam** is the workhorse of serious van insulation. It's got an R-value around R-6 to R-7 per inch, and more importantly, it bonds directly to the metal, fills every gap and seam, and acts as a vapor barrier simultaneously. The stuff doesn't absorb moisture. Those corrugated ribs running along your van walls? Without spray foam, they're thermal bridges, metal pathways that conduct cold straight into your living space. Spray foam kills those. You can buy two-part kits like the Touch 'n Foam System 600 (around $80-100 per kit) for [DIY application](/diy-van-conversion-electrical-wiring-diagram/) in the ribs and cavities, or pay a professional to spray the whole shell, which runs $800-1,500 depending on van size and your region.
 
 **Polyisocyanurate rigid foam board** (polyiso) is what I use for the flat panels between the ribs, and in the floor and ceiling. It runs R-6 to R-6.5 per inch, which is the highest R-value you'll get from any rigid board. It's light, it cuts cleanly with a utility knife, and it's cheap, usually $25-40 for a 4x8 sheet at a big box store. Foil-faced polyiso helps with radiant heat, too. It does lose some R-value in extreme cold (below about 14°F it underperforms its rating), but for most van dwellers in the continental US, it's the right choice.
 

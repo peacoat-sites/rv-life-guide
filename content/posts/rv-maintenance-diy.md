@@ -23,6 +23,7 @@ faqs:
    a: "The anode rod in a tank water heater, without question. I've asked hundreds of RVers at campgrounds over the years, and easily 70% of people with Atwood or Suburban water heaters had no idea it existed. It costs $8 and takes 20 minutes to replace."
  - q: "Should I winterize my RV myself or pay a shop?"
    a: "Do it yourself. The process is straightforward, it takes about an hour once you've done it once, and the shops charge $80-150 for exactly what you can learn from a 15-minute video. Buy two or three gallons of RV antifreeze, bypass your water heater, and run pink through everything. That's the whole job."
+lastmod: 2026-07-07
 ---
 
 Most RV owners are throwing money away. Not on fuel, not on campground fees, on service calls for problems they could've fixed themselves in an afternoon with a $40 kit from Amazon.
@@ -46,6 +47,17 @@ Clean the area first. I use a 409 or simple dish soap solution, dry it completel
 The other thing people miss: check the caulk around your slide-out seals and sidewall seams down at ground level too. Leaks don't only come from above. I found a slow seam leak on my passenger side that had been wicking into the wall for I don't know how long. Caught it during a routine walk-around when I noticed the interior wall felt slightly soft. Replaced about six feet of sealant with Geocel 2300 and some ProFlex RV, call it $30 in materials and three hours of my time. A shop would have charged $300 minimum just for labor.
 
 ## Electrical: Less Scary Than You Think, With Real Exceptions
+
+| System | DIY-Friendly | Caution Level | Notes |
+| --- | --- | --- | --- |
+| 12V DC Electrical | Yes | Low | Battery connections, fuses, basic wiring |
+| 120V AC Electrical | Limited | High | Avoid main breaker panel and shore power connections without professional help |
+| Roof Sealing | Yes | Medium | Requires regular inspection every 90 days |
+| Fresh Water/Tank Systems | Yes | Low | Pump replacement under 1 hour |
+| Slide-Out Seals | Yes | Medium | Caulk inspection at ground level often overlooked |
+| Surge Protection | Yes (plug-in) or Limited (hardwired) | Low | Hardwired installation requires 120V comfort; plug-in requires zero installation |
+| Lithium Battery Upgrade | No (for beginners) | High | Requires proper BMS and charger settings; use pre-assembled kits |
+| Solar Installation | No (for beginners) | High | Research-intensive; kit purchases safer than component mixing |
 
 The 12V DC side of your RV electrical system is approachable for most people. Battery connections, fuses, basic wiring to add a 12V outlet or a USB port, this is weekend-mechanic territory. What I stay more cautious about is the 120V AC side, especially anything touching the main breaker panel or shore power connections. Not because it's impossibly complicated, but because a mistake there can start a fire while you're asleep. I've rewired 12V circuits plenty of times. I've never touched my main breaker panel without a licensed electrician.
 

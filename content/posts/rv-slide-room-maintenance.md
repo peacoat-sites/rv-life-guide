@@ -23,6 +23,7 @@ faqs:
    a: "If you see visible cracks, tears, or chunks missing from the seal, it's past conditioning. Also run a bright flashlight along the seal perimeter at night with the interior lights on. Light showing through from outside means air and water can get through too."
  - q: "Is it worth fixing subfloor rot myself, or should I take it to a shop?"
    a: "Early-stage rot (soft but structurally intact wood) is a realistic DIY job with wood hardener and good sealant. Once the wood is crumbling or the surrounding structure is compromised, a shop is the right call. The real risk of DIY-ing a compromised slide opening is inadequately sealing it afterward, which means you're back in the same spot in another year."
+lastmod: 2026-07-07
 ---
 
 Slide rooms will quietly destroy your RV if you ignore them long enough. Most maintenance articles list "lubricate the seals" and call it good. That's like telling someone to "check the engine" and expecting them to actually fix anything. Here's what actually goes wrong, how to catch it early, and what to do about it.
@@ -38,6 +39,12 @@ For the main perimeter seals, Dicor and Camco both make slide seal conditioner. 
 One more thing people skip: clean the seal before conditioning it. A dirty seal holds grit against the slide skin, and grit is how you get those ugly gouges in the aluminum. Warm water, a drop of dish soap, rinse, dry, then condition. It takes maybe 20 minutes per slide.
 
 ## The drive mechanism is where real money gets lost
+
+| Slide-Out System | Common Brands | Key Failure Mode | Cost If Late | Prevention Priority |
+| --- | --- | --- | --- | --- |
+| Rack-and-Pinion | Lippert, Schwintek | Misalignment/racking; gear track bending | $800-$1,400 | Lubricate with dry lubricant; stop if grinding/clicking |
+| Cable-and-Pulley | Various | Cable fraying; pulley wear | Unknown | Inspect cables semi-annually; replace before snapping |
+| Hydraulic | Class A coaches | Fluid leaks; seal damage | $600+ per seal | Check fluid level and hose connections every 6 months |
 
 There are three main slide-out systems on production RVs today: rack-and-pinion (Lippert and Schwintek being the dominant versions), cable-and-pulley, and hydraulic. Each fails differently.
 

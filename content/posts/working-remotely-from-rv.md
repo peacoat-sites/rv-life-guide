@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 You're on a video call with your biggest client. The background shows pine trees and mountain light that would make anyone jealous. Then your hotspot drops, your laptop battery hits 11%, and the client asks you to share your screen. This is the moment nobody's Instagram post covers. Remote work from an RV is genuinely fantastic until it isn't, and the difference between those two outcomes comes down almost entirely to preparation.
 
@@ -46,6 +46,14 @@ For serious remote workers, add Starlink RV to the mix. It's $150/month for the 
 Use Campendium and The Dyrt before booking anything. Both include user-reported cell signal information broken down by carrier. People tell you exactly which networks work and whether Starlink is viable. Search first, book second.
 
 ## Power: More Than Just Plugging In
+
+| Component | Minimum | Recommended | Notes |
+| --- | --- | --- | --- |
+| Solar capacity | 200 watts | 400 watts | Flexible panels improved; rigid panels better efficiency per dollar |
+| Battery bank | - | 200Ah lithium | Handles workday with power to spare on clear days |
+| Mobile internet budget | $100/month | $200/month | Multiple carriers essential; Starlink RV adds $150/month |
+| Noise-canceling headphones | $60 | $350 | Anker Soundcore Q45s vs. Sony WH-1000XM5s |
+| Monitor/camera light | Optional | Recommended | Ring light clips to laptop; improves video call appearance |
 
 Shore power at a full-hookup campsite solves most of your problems, but finding full hookups at a good site in a convenient location isn't guaranteed. Boondocking, dry camping, or 30-amp-only sites change the math significantly.
 

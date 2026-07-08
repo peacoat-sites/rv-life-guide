@@ -12,6 +12,7 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 slug: "new-gmi-rule-will-change-how-your-rv-accepts-shore-power"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Most coverage treats this like a tech footnote. It's not.
 
@@ -36,6 +37,12 @@ That's not a criticism of the process. It's realistic. The revised schedule, acc
 The one-year delay also gave campground operators a heads-up they probably needed. More on that in a moment.
 
 ## What This Means If You Already Have an EMS
+
+| Protection Type | Ground Continuity Verification | Voltage/Surge Protection | Typical Cost | Built-in to New RVs (MY2028+) |
+| --- | --- | --- | --- | --- |
+| GMI (Grounding Monitor Interrupter) | Yes | No | Included in RV | Yes |
+| EMS (Electrical Management System) | No | Yes | $300-$500 | No |
+| Basic Outlet Tester | Partial (open ground only) | No | Under $15 | No |
 
 Many experienced RVers run a hardwired Electrical Management System, with Progressive Industries being the most recognizable brand. An EMS is genuinely good protection. It monitors voltage, rejects power during surge conditions, and disconnects if it detects certain fault states.
 

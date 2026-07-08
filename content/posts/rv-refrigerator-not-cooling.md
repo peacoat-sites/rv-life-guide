@@ -23,6 +23,7 @@ faqs:
    a: "On Dometic and Norcold units, fault codes typically indicate ignition failure (couldn't light the propane burner after multiple attempts), a thermistor problem, or a control board issue. Check that propane is on and the tank has gas first. If it's failing to light repeatedly, inspect the igniter and burner orifice for blockage or damage."
  - q: "Is it worth fixing an old RV refrigerator, or should I just replace it?"
    a: "If the cooling unit has failed and the fridge is over 12-15 years old, replacing with a 12V compressor-style fridge is worth serious consideration. The operating cost, reliability, and performance in hot weather are all meaningfully better. If it's a simple part like a heating element or igniter, repair is almost always the right call."
+lastmod: 2026-07-07
 ---
 
 You open up your RV after a three-hour drive to a summer campground in 90-degree heat, reach into the fridge for a cold drink, and find everything is warm. The milk is already questionable. That's not a hypothetical. That happened to me on a Friday night outside Moab, Utah, with no parts store or mobile tech within 40 miles. What followed was three hours of troubleshooting by headlamp, and eventually a warm beer, because that's what was left that I wasn't worried about.
@@ -52,6 +53,14 @@ Feel the exterior vents. If the fridge is running, the upper vent should be noti
 Check your shore power voltage. This matters more than most people realize. Absorption fridges are sensitive to low voltage. If your pedestal is delivering 104V instead of 120V (which happens frequently at busy campgrounds in summer), the fridge may run but not cool effectively. A simple plug-in voltmeter like the [Southwire 40030S](https://www.amazon.com/s?k=RV+outlet+voltage+tester&tag=contentportfo-20) costs about $12 and will tell you immediately. (Heads up: the site may earn a small commission on purchases through these links.)
 
 ## Propane-Specific Problems
+
+| Component | Cost Range | Complexity | Common Cause |
+| --- | --- | --- | --- |
+| Igniter Replacement | $30-80 | Low | Clicking but not lighting |
+| Heating Element | $40-90 | Medium | Burned out on electric mode |
+| Control Board | $150-400 | High | Logic failures, fault codes |
+| Full Refrigerator | $900+ | N/A | Complete unit failure |
+| Voltage Tester | ~$12 | N/A | Diagnostic tool |
 
 If the fridge works fine on electric but won't cool on propane, or vice versa, that's actually useful diagnostic information. It tells you the cooling unit itself is probably fine.
 

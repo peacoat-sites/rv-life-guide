@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 The first year I lived in my RV full-time, I paid $847 a month for a COBRA plan I didn't even use because I was terrified of being without coverage and had no idea what my actual options were. That's nearly $10,000 I handed over to my former employer's insurance company while parked in state parks and BLM land, perfectly healthy, because nobody told me there was a better way. If you're about to make that same mistake, or you're already paying it, this is the article I wish I'd had.
 
@@ -33,7 +33,7 @@ Health insurance for full-time RVers is genuinely complicated, and I'm not going
 
 Before you can pick a health insurance plan, you need to know where you're legally domiciled. Your domicile state is where you're registered to vote, where your rig is registered, where your driver's license is from. For insurance purposes, it's the state whose market you shop in, and that matters enormously because health insurance is regulated state by state.
 
-Most full-time RVers domicile in one of three states: South Dakota, Texas, or Florida. No income tax. Straightforward domicile processes for people without a fixed address. Active mail forwarding services set up specifically for travelers. Escapees RV Club in Livingston, Texas and America's Mailbox in Box Elder, South Dakota are the two you'll hear about most.
+Most full-time RVers domicile in one of three states: South Dakota, Texas, or Florida. No income tax. Straightforward domicile processes for people without a fixed address. Active mail forwarding services set up specifically for travelers. [Escapees RV Club](/best-mail-forwarding-service-for-full-time-rvers/) in Livingston, Texas and America's Mailbox in Box Elder, South Dakota are the two you'll hear about most.
 
 Here's what most people don't realize until it's too late: the health insurance networks in your domicile state may be useless to you if you're never actually there. A Blue Cross Blue Shield PPO based in South Dakota might have zero in-network providers in Arizona, where you spend your winters. Emergencies are covered anywhere, but routine care gets expensive fast when everything is out-of-network.
 
@@ -52,6 +52,14 @@ My honest recommendation for most full-timers shopping the ACA marketplace: look
 You enroll through healthcare.gov. Open enrollment runs November 1 through January 15 most years, with coverage starting January 1. A qualifying life event (quitting a job, losing employer coverage, moving states) can trigger a Special Enrollment Period.
 
 ## The Options Most People Don't Consider
+
+| Option | Monthly Cost Range | Network Coverage | Pre-existing Conditions | Best For |
+| --- | --- | --- | --- | --- |
+| ACA Marketplace PPO | Varies with subsidies | National or regional PPO | Covered | Most full-timers; income-dependent subsidies available |
+| Health Sharing Ministries | $200-$400 | Community-based | Often excluded | Young, healthy individuals comfortable with non-insurance model |
+| Short-term Health Plans | Lower than ACA | Limited | Not covered | Temporary coverage gaps only |
+| Medicaid | Free (income-based) | State-specific only | Covered | Low-income full-timers (expansion states only; limited utility for travelers) |
+| COBRA | High (example: $847/month) | Tied to former employer | Covered | Not recommended for full-timers |
 
 **Health sharing ministries** are not insurance. Let me be clear about that upfront. Organizations like Liberty HealthShare, Sedera, or Zion HealthShare pool member contributions and pay each other's medical bills based on community guidelines. They're often much cheaper ($200-400 a month for a single adult) and some RVers swear by them. I know a couple in their 40s who've used Sedera for four years and been fine.
 

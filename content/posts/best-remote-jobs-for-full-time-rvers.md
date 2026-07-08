@@ -23,8 +23,9 @@ faqs:
    a: "Yes, and honestly that income level is not even the ceiling. Technical writers, developers, UX designers, and consultants all routinely earn well above that. The harder question is whether you can get there quickly. For most people making a career transition onto the road, it takes 12 to 24 months to reach income stability. Going in with three to six months of savings as a cushion is not overcautious; it's realistic."
  - q: "What's the biggest mistake people make with remote work on the road?"
    a: "Underestimating their data and connectivity needs, then taking on a job that exposes that gap. The second biggest is taking a role with rigid Eastern time zone hours while planning to travel the Western US. Both are fixable problems, but they'll stress you out badly if you don't address them upfront."
+lastmod: 2026-07-07
 ---
-Most remote work advice for RVers is written by people who've never actually tried to get reliable WiFi at a campground in rural Montana. I have. It's a different world.
+Most [remote work](/working-from-rv-income/) advice for RVers is written by people who've never actually tried to get reliable WiFi at a campground in rural Montana. I have. It's a different world.
 
 Eight years on the road means I've watched friends try to sustain the lifestyle on freelance gigs that fell apart, on remote jobs that required a landline, on "location-independent" businesses that quietly demanded they stay put. I've also watched people make it work beautifully, sometimes with surprisingly ordinary jobs. What I've learned is that the job category matters less than a few very specific factors: schedule flexibility, call requirements, and how your employer handles time zones.
 
@@ -54,6 +55,13 @@ Before I get into specific roles, here's what I'd actually evaluate. Most "best 
 I use a Mofi 4500 router with dual SIM slots and a Weboost Drive Reach booster, about $600 total. That setup has saved my work situation more times than I can count. But even good equipment doesn't create service where none exists. Job flexibility is the first line of defense. Gear comes second.
 
 ## Jobs That Actually Work Well on the Road
+
+| Job Category | Salary Range | Hourly Rate | Async-Friendly | Call Requirements |
+| --- | --- | --- | --- | --- |
+| Technical Writing | $55,000-$95,000 | - | Yes | Minimal |
+| Software Development | - | $75-$110/hr | Yes | Minimal |
+| Customer Success & Account Management | $50,000-$75,000 base + bonus | - | Mostly | Scheduled calls |
+| UX & UI Design | - | $70-$100/hr | Yes | Minimal |
 
 **Technical writing** is one of the most underrated options I've seen work for full-timers. Entirely asynchronous. Pays $55,000 to $95,000 annually (SaaS and medical device documentation pay the best). Almost no live interaction once you're established with a client. A reader named Jill emailed me last spring about transitioning from marketing to technical writing over eight months. She now works for a software company that has no idea she lives in a 2021 Airstream. Her words.
 

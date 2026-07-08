@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 You've finally scored a reservation at Yellowstone, and it took you three weeks of hitting refresh on Recreation.gov at exactly 7 a.m. to get it. Now you're 48 hours out and you're wondering if your 32-foot fifth wheel is actually going to fit, whether you'll have hookups, and whether the person in the next site is going to run a generator until midnight. I've been there. National park RV camping is genuinely one of the best things about this lifestyle, but it has a learning curve that nobody warns you about until you're already white-knuckling a turn in a campground loop designed in 1965.
 
@@ -56,6 +56,16 @@ Here's what I tell people who are trying to get into a high-demand park:
 Some campgrounds in less-trafficked parks like Big Bend or Guadalupe Mountains operate on a first-come, first-served basis. If you're flexible and can arrive on a Tuesday in late September, you'd be surprised what's available. I've walked into Great Smoky Mountains campgrounds mid-week in October without a reservation and had my pick of sites. Timing matters more than luck in those situations.
 
 ## Knowing Your Rig's Real Limits Before You Book
+
+| National Park Campground Feature | Typical Availability | Notes |
+| --- | --- | --- |
+| Electric Hookups | Rare | Shenandoah's Mathews Arm (electric only), Assateague Island (water & electric) |
+| Water Hookups | Rare | Assateague Island offers water and electric; most parks are dry camping |
+| Sewer Hookups | Rare | Most national park campgrounds are dry camping with no site hookups |
+| Potable Water Spigots | Common | Available somewhere in loop, though quality varies |
+| Dump Stations | Common (larger parks) | Usually on-site at larger campgrounds; plan for potential lines |
+| Generator Use | Restricted | Quiet hours typically 8 p.m.-8 a.m.; some parks prohibit entirely |
+| Reservation Window | 6 months advance | Most parks release at 7 a.m. ET; high-demand parks sell out within minutes |
 
 This is where people get into trouble. Literal, stuck-in-a-loop, blocking-traffic trouble.
 

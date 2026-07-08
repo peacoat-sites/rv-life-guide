@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 A brand-new Class A motorhome rolled out of a dealership in Phoenix last spring. Sticker price: $187,000. By the time the buyer drove it 400 miles to their first campsite in Sedona, three things had already stopped working: the slide-out motor was grinding, the bathroom exhaust fan was dead, and a cabinet door had popped off its track. The dealer fixed it all under warranty, sure. But that buyer spent their first week of "freedom" on the phone with a service department instead of hiking red rocks. I've heard this story, or some version of it, more times than I can count.
 
@@ -39,7 +39,7 @@ So when you buy new, you're paying a significant premium for factory warranty co
 
 The factory warranty is genuinely useful for those first-year gremlins. Most new RVs come with a one-year bumper-to-bumper warranty, with coach components sometimes covered for two years and the chassis (on motorhomes) often covered for three years or more. Warranty work can add up fast. A single slide-out repair, outside of warranty, runs $800 to $2,500 depending on the mechanism. A new roof membrane replacement is $3,000 to $7,000 or more. If you're buying new and those repairs hit in year one, warranty coverage pays for itself quickly.
 
-Here's the part dealers won't emphasize: new RVs come with bugs. The RV manufacturing industry doesn't have the same quality control standards as the automotive industry. Assembly lines move fast. Appliances and electrical systems are sourced from multiple suppliers and integrated with varying degrees of care. I've talked to full-timers who bought brand-new coaches and spent the better part of their first six months getting warranty items sorted. That's time, and sometimes a lot of driving out of your way to find an authorized service center.
+Here's the part dealers won't emphasize: new RVs come with bugs. The RV manufacturing industry doesn't have the same quality control standards as the automotive industry. Assembly lines move fast. Appliances and electrical systems are sourced from multiple suppliers and integrated with varying degrees of care. I've talked to [full-timers who bought brand-new coaches](/full-time-rv-living-guide/) and spent the better part of their first six months getting warranty items sorted. That's time, and sometimes a lot of driving out of your way to find an authorized service center.
 
 ## The Real Case for Buying Used
 
@@ -47,13 +47,26 @@ When I bought my first rig, a 2009 Keystone Cougar fifth wheel, it was 2019 and 
 
 That's the concept experienced RVers call "buying past the problems." New RVs have systems that fail in the first year or two: slide seals dry out, fan motors die, LP regulators act up, water heaters develop igniter issues. If you buy a rig that's three to five years old and has been properly maintained, a lot of those early failures are already in the rearview mirror.
 
-Used also means you can get significantly more rig for your money. A five-year-old Class A diesel pusher that retailed new for $250,000 might be available for $110,000 to $130,000 today. That's a real number, not a hypothetical. You're buying a nicer unit than you could otherwise afford.
+Used also means you can get significantly more rig for your money. A five-year-old [Class A diesel pusher](/class-a-vs-class-b-vs-class-c-rv/) that retailed new for $250,000 might be available for $110,000 to $130,000 today. That's a real number, not a hypothetical. You're buying a nicer unit than you could otherwise afford.
 
 The risks are real, though. Roof damage and water intrusion are the biggest killers of used RVs. A roof that's been leaking slowly for two seasons can mean rotted sidewalls, damaged subfloor, and mold, and you might not see any of it without a professional inspection. Delamination (when the fiberglass sidewall separates from the underlying structure) is another one to watch for. Run your hand along the exterior sides and look for bubbles or soft spots.
 
-Before you buy any used RV, spend $300 to $600 on an independent RV inspection from a certified inspector. Find one through NRVIA (National RV Inspectors Association). This is non-negotiable. I've seen people skip this step and regret it bitterly six months later when they discover a slow roof leak that's been quietly wicking into the walls for years.
+Before you buy any used RV, spend $300 to $600 on an [independent RV inspection](/rv-inspection-what-to-check/) from a certified inspector. Find one through NRVIA (National RV Inspectors Association). This is non-negotiable. I've seen people skip this step and regret it bitterly six months later when they discover a slow roof leak that's been quietly wicking into the walls for years.
 
 ## A Side-by-Side Comparison
+
+| Factor | New RV | Used RV (3-7 years old) |
+|---|---|---|
+| Purchase price | Full retail | 30-60% less than original MSRP |
+| Depreciation hit | You absorb it | Previous owner absorbed it |
+| Warranty coverage | Full factory warranty | None, or very limited |
+| Known condition | Pristine (mostly) | Requires thorough inspection |
+| Hidden problems | Less likely, but not impossible | Real risk without inspection |
+| Financing rates | Often 5.99-7.99% (dealer financing) | Can be higher (7-11%) |
+| Customization | Factory order options available | You get what's there |
+| Setup time | May need to add accessories | Often comes with extras |
+| Insuring | Standard rates | Similar, may be slightly lower |
+| Peace of mind | High (short term) | High (after inspection clears it) |
 
 Here's a practical breakdown of the major factors, honest and without spin:
 

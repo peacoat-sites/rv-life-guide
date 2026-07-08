@@ -12,6 +12,7 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "canadian-snowbirds-are-skipping-us-rv-parks-this-winter"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Every Florida campground operator I've talked to this spring has the same look on their face: that particular mix of concern and forced optimism that means they're watching reservation numbers and hoping something changes before November. Something did change. It just didn't change in their favor.
@@ -19,6 +20,13 @@ Every Florida campground operator I've talked to this spring has the same look o
 Canadian snowbirds, the backbone of winter RV park revenue from Sarasota to Scottsdale, are quietly pulling out. Not all of them, not permanently, but enough that the shift is registering in real numbers. If you're an American full-timer who's been priced out of the good Gulf Coast spots or locked out of the Apache Junction resorts every December, pay attention. This is your window.
 
 ## The Numbers Behind the Empty Sites
+
+| Metric | 2024-25 Season | 2025-26 Season | Change |
+| --- | --- | --- | --- |
+| Canadian snowbirds planning U.S. winter (Snowbird Advisor) | ~85% | 70% | -15 percentage points |
+| Canadian Snowbird Association members planning U.S. travel | Pre-pandemic baseline | -27% | -27% vs. pre-pandemic |
+| Canadian visitor growth, Florida Q1 2025 | Baseline | -17% YoY | Down 17% |
+| Canadian visitor growth, Florida Q2 2025 | Baseline | -20% YoY | Down 20% |
 
 The Snowbird Advisor survey of more than 4,000 Canadians, reported by CBC News in November 2025, found only 70% planned to winter in the U.S. in 2025-26. That's nearly 15 percentage points lower than the prior year. The Canadian Snowbird Association put it even more starkly: a 27% decrease in members planning U.S. travel compared to pre-pandemic figures.
 
@@ -32,7 +40,7 @@ Three things are stacking on each other, and they're not going away soon.
 
 First, the registration requirement. An executive order signed in early 2025 requires all foreign nationals staying in the U.S. longer than 30 days to register with the government. The penalties for non-compliance aren't a slap on the wrist: we're talking fines and potential jail time. For a Canadian retiree who just wants to park their fifth wheel in Yuma for four months and play pickleball, the idea of navigating a federal registration requirement, and the legal exposure that comes with screwing it up, is a genuine deterrent. Many of them are simply deciding the math doesn't work anymore.
 
-Second, the trade war. The political friction between Ottawa and Washington has made the whole cross-border experience feel less welcoming, and Canadians are responding the way people do when they feel unwelcome: they're finding other options. Portugal, Mexico, and Panama are seeing increased Canadian interest. Some are staying home. Either way, they're not renewing their Thousand Trails memberships.
+Second, the [trade war](/how-the-de-minimis-rule-change-will-raise-your-rv-parts-costs/). The political friction between Ottawa and Washington has made the whole cross-border experience feel less welcoming, and Canadians are responding the way people do when they feel unwelcome: they're finding other options. Portugal, Mexico, and Panama are seeing increased Canadian interest. Some are staying home. Either way, they're not renewing their Thousand Trails memberships.
 
 Third, the Canadian Snowbird Visa Act. This legislation would extend the allowable U.S. stay from 182 days to 240 days, which would actually make the snowbird lifestyle more viable for many Canadians who currently have to leave just when winter is at its worst back home. It's been reintroduced six times, most recently in April 2025, and it's still going nowhere. The TheTravel reported in February 2026 that the proposal remained stalled in legislative limbo, with no clear path forward. So the one policy change that might reverse this trend isn't coming anytime soon.
 
@@ -40,7 +48,7 @@ Third, the Canadian Snowbird Visa Act. This legislation would extend the allowab
 
 I've been doing this eight years. The parks that used to be near-impossible to book by August, Bentley Village in Nokomis, Ringling area resorts, the big age-55-plus communities around Mesa and Chandler, those are showing availability. Not fire-sale availability, not yet. But the "sold out by Labor Day" reality that defined the last several winters is softening.
 
-If you've wanted to try a structured 55-plus resort, this is the year to make calls instead of waiting to get on waiting lists. The calculus has shifted from "who do I know to get a spot" to "what's your monthly rate." Park owners who were turning people away two years ago are now actively courting American full-timers. Some are quietly offering incentives they wouldn't have touched in 2023.
+If you've wanted to try a [structured 55-plus resort](/why-rvers-are-winning-the-dust-off-summer-of-2026/), this is the year to make calls instead of waiting to get on waiting lists. The calculus has shifted from "who do I know to get a spot" to "what's your monthly rate." Park owners who were turning people away two years ago are now actively courting American full-timers. Some are quietly offering incentives they wouldn't have touched in 2023.
 
 The less obvious opportunity is negotiating longer stays at better rates. When occupancy drops, seasonal rates tend to follow. It won't be announced. You have to call, ask about three-month rates, and be willing to commit early. That's how it works.
 

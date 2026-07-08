@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 If you're sitting in a campground right now with a full black tank and zero idea what happens next, take a breath. You're not the first person to pull up to a dump station and just stare at it. I've watched experienced campers fumble with their sewer hose on a windy Tuesday morning. I've been that person. The dump station is one of those things nobody really explains before you drive away from the RV dealership, and yet you'll deal with it every single week of full-time life.
 
@@ -32,6 +32,16 @@ Here's what I tell people new to this: the dump station is not complicated, but 
 ---
 
 ## What a Dump Station Actually Is (and Where to Find One)
+
+| Location Type | Typical Cost | Availability | Best For |
+| --- | --- | --- | --- |
+| State/National Park Campgrounds | Free-$8 | High | Full-time travelers |
+| Truck Stops (Flying J, Pilot) | $5-$15 | Very High | Remote areas |
+| Walmart | Free-$5 | Low (declining) | Budget camping |
+| RV Parks & KOA | Free-$8 (guests) | High | Established routes |
+| Rest Areas | Free-$5 | Moderate (Western US) | Interstate travel |
+| Full-hookup RV Sites | Included | High | Convenience |
+| Apps (Sanidumps, Campendium) | Free-$2/mo | On-demand | Planning & reviews |
 
 A dump station is a designated disposal point for your RV's waste tanks: your black tank (toilet waste) and gray tank (sink and shower water). Some are just concrete pads with a pipe in the ground. Others have rinse water, a hose bib for flushing, even a trash can. You'll find them at:
 
@@ -44,7 +54,7 @@ A dump station is a designated disposal point for your RV's waste tanks: your bl
 
 Apps like Campendium, iOverlander, and Sanidumps are worth having on your phone. Sanidumps is what I actually use. It's got user reviews, GPS coordinates, and notes about whether you need to pay or show a membership card. Dump stations cost anywhere from free to about $15 for non-guests, though $5 to $8 is typical at commercial spots.
 
-You'll also encounter dump stations at your site if you're in a full-hookup spot. That's the easy version. Plenty of people dry camp or stay at partial-hookup sites, though, so knowing how to use a central dump station is non-negotiable if you're living in an RV.
+You'll also encounter dump stations at your site if you're in a [full-hookup spot](/rv-hookup-water-electric-sewer/). That's the easy version. Plenty of people dry camp or stay at partial-hookup sites, though, so knowing how to use a central dump station is non-negotiable if you're living in an RV.
 
 ---
 

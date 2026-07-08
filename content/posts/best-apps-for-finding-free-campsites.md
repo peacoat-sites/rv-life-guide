@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 I've downloaded at least forty apps chasing free camps over eight years. Most are garbage. A few changed how I travel entirely.
 
@@ -66,7 +66,7 @@ The Dyrt PRO costs $35.99 a year right now, and I'll say plainly: it's worth it 
 
 The free version is a solid campground discovery tool. The PRO version is a different animal. The offline maps are why I pay. I travel in Wyoming, Montana, and northern Nevada regularly, and cell service in those areas isn't something you can plan around. Having fully loaded offline maps with user reviews cached before I lose signal has gotten me into free camps I never would've found otherwise.
 
-The Trip Planning feature also works. You map a route and see camps along it, which sounds gimmicky but actually changes how I structure my driving days. Instead of "I need to get from Moab to Grand Junction and then figure out where to sleep," I plan the whole stretch and slot in a camp at the 200-mile mark without improvising at 4 PM when I'm exhausted.
+The [Trip Planning feature](/best-rv-trip-planning-app-for-full-time-travel/) also works. You map a route and see camps along it, which sounds gimmicky but actually changes how I structure my driving days. Instead of "I need to get from Moab to Grand Junction and then figure out where to sleep," I plan the whole stretch and slot in a camp at the 200-mile mark without improvising at 4 PM when I'm exhausted.
 
 The catch: a lot of what shows up in searches includes paid campgrounds, and the sorting doesn't always float free options to the top. You have to filter by "free" and cross-reference with reviews to confirm that's still accurate. Prices change. Fees get added. I treat The Dyrt as discovery and verify before I commit.
 

@@ -7,7 +7,7 @@ author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 date: 2026-06-28
-lastmod: 2026-06-28
+lastmod: 2026-07-07
 faqs:
  - question: "Why does my Class A get worse MPG than advertised?"
    answer: "Advertised specs assume highway cruising at optimal RPM. Reality: loaded tanks, air conditioning, headwinds, and hills all reduce economy 20-40%. I averaged 6.5 MPG on my previous Class A; the brochure claimed 8 MPG."
@@ -86,11 +86,11 @@ Here's what first-hand experience with three different RVs taught me:
 - Pro: Lower purchase price, truck doubles as daily vehicle, trailer stays at site
 - Con: Towing takes practice, hitch setup takes time, gas prices scale with truck capacity
 
-**My honest assessment:** The Class B campervan wins on fuel cost by a huge margin, half the per-mile expense of a Class A. But if you're a family that needs space, the $0.20/mile premium for a Class A is worth it.
+**My honest assessment:** The [Class B campervan wins](/best-class-b-van-for-full-time/) on fuel cost by a huge margin, half the per-mile expense of a Class A. But if you're a family that needs space, the $0.20/mile premium for a Class A is worth it.
 
 ## The Speed Penalty: Why 60 MPH Beats 70 MPH
 
-I learned this the hard way on my second full-time year. I was running behind schedule towing a trailer, pushed to 70 mph most of the day, and my fuel log showed 7 MPG. Same trailer, same truck, same route, but two months earlier at 60 mph I'd averaged 11 MPG.
+I learned this the hard way on my second full-time year. I was running behind schedule [towing a trailer](/best-truck-for-towing-a-fifth-wheel-full-time/), pushed to 70 mph most of the day, and my fuel log showed 7 MPG. Same trailer, same truck, same route, but two months earlier at 60 mph I'd averaged 11 MPG.
 
 **The math:** Speed creates exponential aerodynamic drag. The difference between 60 and 70 mph is only 17% faster, but you lose 35-40% of your fuel economy.
 
@@ -120,6 +120,12 @@ If you plan your refueling stops by price, you can save hundreds:
 For gasoline towing, the spread is equally dramatic ($3.23 in Indiana, $5.46 in California).
 
 ## The Real Trip Cost: Fuel Isn't Everything
+
+| RV Type | 5,000 Miles | Fuel | Campground | Total | Per Mile |
+|---------|------------|------|-----------|-------|----------|
+| Class A Diesel | 10 MPG | $2,415 | $1,000 | $3,415 | $0.68 |
+| Class B Diesel | 20 MPG | $1,208 | $1,000 | $2,208 | $0.44 |
+| Towing (Gas) | 9 MPG | $1,303 | $1,000 | $2,303 | $0.46 |
 
 Here's what trips actually cost (using 20 nights of camping at $50/night average):
 
@@ -178,7 +184,7 @@ This guide synthesizes:
 - [AAA Fuel Prices by State](https://gasprices.aaa.com/)
 - [RV Consumer Group Fuel Efficiency Data](https://rv.org/)
 - [RVShare Trip Cost Analysis](https://rvshare.com/blog/rv-gas/)
-- Personal fuel logs from 8 years full-time RV living across all 50 states
+- Personal fuel logs from 8 years [full-time RV living](/average-monthly-cost-of-full-time-rv-living/) across all 50 states
 
 **Current as of June 2026.** Fuel prices update weekly; use the calculator to plug in current prices from [EIA.gov](https://www.eia.gov/petroleum/gasdiesel/) or [GasBuddy.com](https://www.gasbuddy.com/).
 

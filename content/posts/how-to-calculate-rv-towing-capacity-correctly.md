@@ -23,6 +23,7 @@ faqs:
    a: "No. GVWR is the maximum allowable loaded weight. The actual weight depends on how much water, gear, and cargo you have in it. Your trailer might have a GVWR of 10,000 lbs but only weigh 7,500 lbs loaded. For towing calculations, use the actual loaded weight, not the GVWR, when estimating tongue weight and total towing load."
  - q: "Do I need a special license to tow a large RV?"
    a: "In most U.S. states, a standard Class C driver's license covers combinations under a certain total weight, typically 26,000 lbs GVWR. For very large diesel pushers or commercial-style configurations, some states require a non-commercial Class A or B. Check your specific state's DMV requirements, because this varies and has real legal consequences."
+lastmod: 2026-07-07
 ---
 
 Most people get this wrong. Not a little wrong, significantly, dangerously wrong, and it's not entirely their fault because the RV industry has made "towing capacity" sound like a single number you look up in a brochure and compare to the weight of your trailer. It's not. It's the result of several interconnected calculations, and missing even one of them can put you in a situation you can't drive your way out of.
@@ -45,13 +46,22 @@ There are four figures that matter, and you need all of them before you can make
 
 ## The Calculation That Actually Matters
 
+| Component | Example (2021 Ram 2500 6.7L Cummins) | Notes |
+| --- | --- | --- |
+| Total Payload Capacity | 2,740 lbs | From door-jamb sticker |
+| Passengers (2 people) | 340 lbs | Use actual body weights |
+| Pets & Gear | 280 lbs | Dogs + tools/supplies |
+| Pin Weight (Fifth Wheel) | 1,800 lbs | 15-25% of loaded trailer weight |
+| Remaining Margin | ~320 lbs | Must be greater than zero |
+| Trailer Brake Requirement | Required | Trailers over 3,500 lbs loaded |
+
 Once you have those numbers, here's how the math works in practice.
 
 Start with your truck's payload capacity from that door-jamb sticker. Subtract the weight of your passengers (use actual body weights, not some round number), subtract the weight of anything in the cab or bed, and subtract your tongue weight. What's left has to be greater than zero. If it's negative, you're overloaded, full stop, regardless of what your tow rating says.
 
 A real example: I drive a 2021 Ram 2500 with the 6.7 Cummins. The sticker on my door says 2,740 lbs of payload capacity. Sounds like a lot. But here's how it gets eaten up: my wife and I together are about 340 lbs, our dogs add another 80, we keep maybe 200 lbs of tools and supplies in the back seat and bed. That's 620 lbs gone before the trailer touches anything. My 28-foot fifth wheel has a loaded tongue weight around 1,800 lbs. Add it up and I have about 320 lbs of margin. That's not a lot. One trip to Costco and two extra water containers and I'm watching that number very carefully.
 
-For fifth wheel trailers, the "tongue weight" is called the pin weight, and it's typically 15 to 25 percent of the loaded trailer weight, which is heavier than a bumper-pull's tongue load. This is one reason a half-ton truck towing a fifth wheel makes me nervous regardless of what the Chevy marketing materials say.
+For [fifth wheel trailers](/best-truck-for-towing-a-fifth-wheel-full-time/), the "tongue weight" is called the pin weight, and it's typically 15 to 25 percent of the loaded trailer weight, which is heavier than a bumper-pull's tongue load. This is one reason a half-ton truck towing a fifth wheel makes me nervous regardless of what the Chevy marketing materials say.
 
 ## Why the Advertised Tow Rating Is Misleading
 
@@ -63,9 +73,9 @@ Always look for the specific tow rating for your truck's actual configuration, w
 
 ## Trailer Brakes, Weight Distribution, and the Gear You Actually Need
 
-If your trailer weighs more than 3,500 lbs loaded, you need a trailer brake controller in the tow vehicle. Most states require it by law, and more to the point, your stopping distance with an unbraked trailer that heavy is genuinely alarming. The Redarc Tow-Pro Elite is what I use; it runs around $220 and it's reliable. The built-in brake controllers in newer trucks are fine too.
+If your trailer weighs more than 3,500 lbs loaded, you need a [trailer brake controller](/brake-controller-rv/) in the tow vehicle. Most states require it by law, and more to the point, your stopping distance with an unbraked trailer that heavy is genuinely alarming. The Redarc Tow-Pro Elite is what I use; it runs around $220 and it's reliable. The built-in brake controllers in newer trucks are fine too.
 
-For bumper-pull trailers, a weight distribution hitch is worth having once your trailer tongue weight exceeds about 600 lbs. A Husky Center Line TS or an Equalizer hitch redistributes that load across all axles, which brings the rear of the truck back up and keeps the front tires in meaningful contact with the road. I ran two years without one on a lighter trailer and felt the difference immediately when I put one on.
+For bumper-pull trailers, a [weight distribution hitch](/sway-control-hitch-rv/) is worth having once your trailer tongue weight exceeds about 600 lbs. A Husky Center Line TS or an Equalizer hitch redistributes that load across all axles, which brings the rear of the truck back up and keeps the front tires in meaningful contact with the road. I ran two years without one on a lighter trailer and felt the difference immediately when I put one on.
 
 A tongue weight scale (the Sherline or a similar brand runs about $35) is one of the cheaper purchases that has genuinely saved me headaches. You load the trailer before a big trip, measure the tongue weight, and know for certain what you're dealing with instead of estimating.
 

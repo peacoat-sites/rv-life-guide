@@ -23,9 +23,9 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
-You sold your house, stuffed everything into a 36-foot motorhome, and you're ready to go. Then someone asks: "So where do you *live*?" That question stops most new full-timers cold. The answer matters way more than you'd think. Your domicile state determines your income tax burden, vehicle registration costs, health insurance options, and even your jury duty obligations. Pick wrong and you could owe thousands in unexpected taxes. Pick right and you might save $4,000 to $8,000 a year or more, depending on your income.
+You sold your house, stuffed everything into a 36-foot motorhome, and you're ready to go. Then someone asks: "So where do you *live*?" That question stops most new full-timers cold. The answer matters way more than you'd think. Your domicile state determines your income tax burden, vehicle registration costs, [health insurance options](/how-to-get-health-insurance-as-a-full-time-rver/), and even your jury duty obligations. Pick wrong and you could owe thousands in unexpected taxes. Pick right and you might save $4,000 to $8,000 a year or more, depending on your income.
 
 ## What Domicile Actually Means (And Why It's Not the Same as Residency)
 
@@ -37,9 +37,20 @@ Here's the thing: your previous home state doesn't automatically release you jus
 
 ## The Big Three: South Dakota, Texas, and Florida
 
+| State | Income Tax | Registration Cost (Est.) | Domicile Ease | Key Advantage |
+| --- | --- | --- | --- | --- |
+| South Dakota | None | ~$270/year | Very Easy | Fastest process, established RV infrastructure |
+| Texas | None | Higher* | Moderate | Large RV culture, Escapees HQ support |
+| Florida | None | Competitive | Moderate | Warm climate, solid mail services |
+| Wyoming | None | Moderate | Easy | Low-hassle, mail-capable registration |
+| Nevada | None | Moderate | Stricter | Western U.S. base, multiple mail services |
+| Montana | None | Varies | Moderate | LLC registration tax savings (controversial) |
+
+*Texas registration varies significantly by vehicle weight
+
 Three states dominate the RV domicile conversation. They're the most RV-friendly, they have established infrastructure for non-resident registration, and they've been doing this long enough that the process is well understood.
 
-**South Dakota** is probably the most popular choice among full-time RVers. No state income tax. Vehicle registration fees are reasonable, around $270 for a larger motorhome annually (varies by weight and type). The state lets you establish domicile in a single day if you visit in person, and mail forwarding companies like America's Mailbox in Box Elder and Alternative Resources in Sioux Falls have processed thousands of RVer applications. You'll need a physical address for your driver's license and registration, which these services provide. South Dakota also has relatively lenient rules about how often you need to physically return to the state.
+**South Dakota** is probably the most popular choice among full-time RVers. No state income tax. Vehicle registration fees are reasonable, around $270 for a larger motorhome annually (varies by weight and type). The state lets you establish domicile in a single day if you visit in person, and [mail forwarding companies](/best-mail-forwarding-service-for-full-time-rvers/) like America's Mailbox in Box Elder and Alternative Resources in Sioux Falls have processed thousands of RVer applications. You'll need a physical address for your driver's license and registration, which these services provide. South Dakota also has relatively lenient rules about how often you need to physically return to the state.
 
 **Texas** is the other major contender. No state income tax either, and Texas has a large RV culture with mail forwarding services clustered around Livingston (home of the Escapees RV Club's headquarters). The Texas process requires more documentation than South Dakota, and vehicle registration fees can run higher depending on your rig's weight. One practical thing to know: Texas requires you to get your vehicle inspected, which means a trip to a Texas inspection station when the sticker is due.
 

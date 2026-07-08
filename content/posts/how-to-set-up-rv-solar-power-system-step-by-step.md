@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 Most solar guides for RVers start with wattage calculators and end with a parts list. That's backwards. The thing that kills most DIY solar installs isn't undersizing the panels or picking the wrong wire gauge. It's installing components in the wrong order and discovering mid-project that your battery bank doesn't fit where you planned, or that your charge controller needs to be within three feet of your batteries and you've already bolted your panels to the roof.
 
@@ -48,6 +48,15 @@ For two people boondocking comfortably, you're looking at 400-600 watts of panel
 ---
 
 ## Pick Your Components in the Right Order
+
+| Component | Typical Cost | Notes |
+| --- | --- | --- |
+| 200Ah Lithium Battery Bank | $800-$1,000 | Battle Born or Renogy |
+| MPPT Charge Controller | $150-$280 | Victron SmartSolar 100/30, 100/50, or 150/35 |
+| Solar Panels (200W rigid monocrystalline) | Varies | Sweet spot for handling and roof space |
+| Pure Sine Wave Inverter (2000W) | $180-$220 | Renogy; handles most loads except high-wattage AC |
+| Battery Monitor | $90 | Victron BMV-712 |
+| AGM Golf Cart Batteries (6V, per unit) | $120-$160 | Costco or Sam's Club; budget alternative to lithium |
 
 Batteries first. Always batteries first.
 

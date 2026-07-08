@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 My first renewal quote after going full-time nearly killed the whole experiment before it got off the ground. I'd been paying $847 a year to insure the rig as "recreational" while still owning the house. The moment I mentioned I was now a full-timer, the agent went quiet, typed for what felt like a full minute, and came back with $2,340. Same rig. Same driving record. Nearly three times the price. That's the number nobody mentions in those glossy YouTube videos about selling everything and hitting the road.
 
@@ -31,7 +31,7 @@ My first renewal quote after going full-time nearly killed the whole experiment 
 
 Standard RV insurance assumes your motorhome or travel trailer spends most of its life parked in a driveway. You drive it maybe 5,000 miles a year, hit a few campgrounds in summer, and call it a season. The risk model is built on that assumption.
 
-Full-time living blows that apart. You're doing 20,000 to 35,000 miles annually, parking in unfamiliar places night after night, and your rig isn't just your vehicle anymore. It's also your home. That last part is what really matters to insurers. If a homeowner's house burns down, they still have a car. If your Class A catches fire at a campground in Colorado, you've lost your transportation, your shelter, your furniture, your electronics, and everything else you own in one moment. Insurers price for that risk.
+Full-time living blows that apart. You're doing 20,000 to 35,000 miles annually, parking in unfamiliar places night after night, and your rig isn't just your vehicle anymore. It's also your home. That last part is what really matters to insurers. If a homeowner's house burns down, they still have a car. If your [Class A](/class-a-vs-class-b-vs-class-c-rv/) catches fire at a campground in Colorado, you've lost your transportation, your shelter, your furniture, your electronics, and everything else you own in one moment. Insurers price for that risk.
 
 Full-timer policies include something called personal belongings coverage or full-timer personal property coverage. It's renter's insurance baked into your RV policy, covering clothes, tools, kitchenware, laptops, the entire contents of your mobile home. Coverage limits typically start around $3,000 and can climb to $50,000 or higher depending on the carrier.
 
@@ -55,7 +55,7 @@ Not every insurance company gets the full-timer lifestyle. Plenty of standard au
 
 Four names show up repeatedly in full-timer forums and from agents who specialize in this:
 
-**Progressive** is the volume player. They write more RV policies than anyone else and their rates are competitive for Class Bs and travel trailers. Adding their full-timer endorsement is straightforward. The downside: claims experiences vary wildly depending on which adjuster you get.
+**Progressive** is the volume player. They write more RV policies than anyone else and their rates are competitive for [Class B](/best-class-b-van-for-full-time/)s and travel trailers. Adding their full-timer endorsement is straightforward. The downside: claims experiences vary wildly depending on which adjuster you get.
 
 **National General** has earned genuine trust in the full-timer community. Their full-timer package includes personal liability coverage that works more like a homeowner's policy, which matters if someone slips and falls at your campsite.
 
@@ -66,6 +66,16 @@ Four names show up repeatedly in full-timer forums and from agents who specializ
 Get at least three quotes. The same coverage on the same rig can differ by $600 to $900 per year between carriers.
 
 ## A Real Coverage Comparison: What You're Actually Buying
+
+| Coverage Type | What It Does | Typical Annual Cost Add-On | Full-Timer Need Level |
+|---|---|---|---|
+| Liability (bodily injury/property damage) | Covers damage or injury you cause to others | Base policy | Absolutely required |
+| Collision | Pays for your rig if you hit something | $300-$800/yr depending on rig value | Essential |
+| Comprehensive | Covers fire, theft, weather, animals | $200-$500/yr | Essential |
+| Full-timer personal property | Covers belongings inside the rig | $100-$350/yr | Critical for full-timers |
+| Full-timer liability | Covers you if guests are injured at your campsite | $80-$200/yr | Critical for full-timers |
+| Vacation liability | Covers short-term campsite incidents (not full-timer) | $30-$80/yr | Part-timers only |
+| Emergency expense coverage | Hotel/rental if rig is in repair | $50-$150/yr | Recommended |
 
 | Coverage Type | What It Does | Typical Annual Cost Add-On | Full-Timer Need Level |
 |---|---|---|---|

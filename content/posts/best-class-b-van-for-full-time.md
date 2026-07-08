@@ -23,11 +23,11 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
-Six years ago I handed over the keys to my 2,400-square-foot house in Columbus, Ohio, drove to a dealership in Indiana, and came home in a 24-foot Class B motorhome. I thought I'd done my research. I had not. Three blown tires, two failed inverters, one terrifying moment on a mountain pass in Colorado, and roughly 90,000 miles later, I can tell you that choosing the *right* van makes or breaks full-time living in ways no YouTube walkthrough will fully prepare you for.
+Six years ago I handed over the keys to my 2,400-square-foot house in Columbus, Ohio, drove to a dealership in Indiana, and came home in a 24-foot Class B motorhome. I thought I'd done my research. I had not. Three blown tires, two failed inverters, one terrifying moment on a mountain pass in Colorado, and roughly 90,000 miles later, I can tell you that choosing the *right* van makes or breaks [full-time living in ways](/full-time-rv-living-guide/) no YouTube walkthrough will fully prepare you for.
 
-Class B motorhomes, built on cargo van platforms rather than custom chassis, are the smallest drivable RVs you can buy. That's both their power and their problem. You can park in a regular campsite, slip into most city parking garages, fill up at a standard gas station pump, and actually drive the thing without feeling like you're piloting a city bus. But "Class B" covers an enormous range of quality, price, and livability. A $45,000 entry-level build and a $200,000 Airstream Interstate are both technically Class Bs. They're not remotely the same experience.
+[Class B motorhomes](/class-a-vs-class-b-vs-class-c-rv/), built on cargo van platforms rather than custom chassis, are the smallest drivable RVs you can buy. That's both their power and their problem. You can park in a regular campsite, slip into most city parking garages, fill up at a standard gas station pump, and actually drive the thing without feeling like you're piloting a city bus. But "Class B" covers an enormous range of quality, price, and livability. A $45,000 entry-level build and a $200,000 Airstream Interstate are both technically Class Bs. They're not remotely the same experience.
 
 This guide is for people seriously considering this lifestyle full time. Not the highlight reel version. The actual version.
 
@@ -62,6 +62,14 @@ The best van for full-time living depends heavily on your budget, your travel st
 ---
 
 ## Head-to-Head: Which Van for Which Lifestyle
+
+| Van | Platform | Est. MSRP | Best For | Watch Out For |
+|---|---|---|---|---|
+| Winnebago Travato 59K | Ram ProMaster | $120K-$145K | Boondockers, solar-focused users | Tighter bathroom than some |
+| Airstream Interstate 24X | Mercedes Sprinter | $175K-$220K | Quality-first buyers, campground users | Price, some Sprinter repair costs |
+| Pleasure-Way Ontour | Mercedes Sprinter | $155K-$180K | Couples who want clever design | Thin dealer network |
+| Coachmen Beyond 22D | Ford Transit | $100K-$120K | Budget-conscious full-timers | Less premium feel |
+| Thor Sequence | Ram ProMaster | $110K-$130K | First-time buyers wanting value | Thor quality control history |
 
 | Van | Platform | Est. MSRP | Best For | Watch Out For |
 |---|---|---|---|---|

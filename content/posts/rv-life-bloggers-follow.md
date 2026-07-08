@@ -23,6 +23,7 @@ faqs:
    a: "For infrastructure-type content (campground costs, solar pricing, cellular plans), anything older than 12 to 18 months should be treated as a starting point only, not current fact. Lifestyle and philosophical content ages better. Pricing and gear recommendations don't."
  - q: "Is there a good RV blogger for people who aren't retired or wealthy?"
    a: "Marc and Julie cover budget realities more honestly than most. Also look for bloggers who list actual monthly expenses rather than vague 'you can do it for less than you think' encouragement. If a blogger won't publish a real number, move on."
+lastmod: 2026-07-07
 ---
 
 Most "best RV bloggers" lists are basically just SEO bait. They rank by Instagram follower counts, not by whether anyone actually learned something useful. I've been living full-time in a rig since 2018, and the blogs that actually helped me were rarely the ones winning "top 10" roundups.
@@ -51,13 +52,21 @@ As of June 2026, a good chunk of the pre-2020 RV blog catalog has gone quiet or 
 
 ## What Good RV Blogging Actually Looks Like
 
+| Expense Category | Monthly Cost Range | Notes |
+| --- | --- | --- |
+| Full-time RV (couple, campground-heavy) | $2,500-$4,500 | Depends on nightly rates and membership leverage |
+| Nightly campground rate | $40-$75 | Most decent parks, current pricing |
+| Campground costs (all-paid strategy) | ~$1,400 | 45-day Southwest loop example |
+| Campground costs (mixed BLM/Harvest Hosts) | ~$600 | 45-day Southwest loop with Harvest Hosts ($99/year) |
+| Lithium battery bank (Battle Born/Renogy) | $1,200-$1,800 | 200Ah setup example |
+
 Here's the thing most people don't realize: the format matters as much as the content.
 
 A blog that was meticulously maintained through 2022 might still rank highly and look authoritative, but if fuel prices, campground rates, or rig recommendations in that post are two years stale, you're getting bad data. I made this mistake myself: I trusted a "best budget RVs" post that was ranking on page one and nearly bought a Heartland Mallard based on it. That specific model year had well-documented delamination issues that the post never mentioned because it predated the owner complaints. Lesson learned.
 
 What to look for: recent posting dates, first-person mentions of specific failure modes, and any honest accounting of costs. If a full-time RV blogger won't tell you roughly what they spend per month, they're either doing it wrong or hiding something.
 
-The better bloggers will tell you that full-time RV life costs, on average, somewhere between $2,500 and $4,500 per month for a couple, depending heavily on whether you're paying for campgrounds nightly ($40 to $75 per night at most decent parks right now) or leveraging memberships like Thousand Trails, Harvest Hosts, or a combination of Passport America and Boondockers Welcome. Those numbers matter. Enthusiasm doesn't pay for propane.
+The better bloggers will tell you that [full-time RV life costs](/what-i-wish-i-knew-before-going-full-time-in-an-rv/), on average, somewhere between $2,500 and $4,500 per month for a couple, depending heavily on whether you're paying for campgrounds nightly ($40 to $75 per night at most decent parks right now) or leveraging memberships like Thousand Trails, Harvest Hosts, or a combination of Passport America and Boondockers Welcome. Those numbers matter. Enthusiasm doesn't pay for propane.
 
 ## Three Worked Examples From Real Readers
 

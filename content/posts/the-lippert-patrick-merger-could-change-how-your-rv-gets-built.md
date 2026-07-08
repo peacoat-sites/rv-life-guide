@@ -12,11 +12,21 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "the-lippert-patrick-merger-could-change-how-your-rv-gets-built"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Picture this: you're 600 miles from home, your Lippert slide-out refuses to retract, and you're on the phone with a parts supplier who tells you the replacement motor is backordered six weeks. Now imagine that scenario in a world where Lippert and Patrick Industries are the same company, controlling everything from your frame and axles to your interior cabinetry and exterior siding. That future got a lot more plausible on June 30, 2026, when the two largest RV component suppliers in North America announced an all-stock merger that would create an $8.1 billion supply-chain giant. If you live in your rig or are about to buy one, this deal deserves your attention.
 
 ## What Just Happened and Why It's Bigger Than It Sounds
+
+| Component Category | Lippert | Patrick | Post-Merger Impact |
+| --- | --- | --- | --- |
+| Frames & Axles | ✓ | ✓ | Single supplier for critical structural components |
+| Leveling & Slide-Outs | ✓ | | Reduced aftermarket alternatives |
+| Windows & Electronics | ✓ | | Consolidated parts sourcing |
+| Interior Components | | ✓ | Limited competitive options |
+| Exterior Panels & Finishes | | ✓ | Potential pricing leverage over OEMs |
+| Structural Materials | | ✓ | Fewer supplier alternatives for manufacturers |
 
 The announcement dropped at the end of June, and by July 3 the RV press was already sounding alarms. Patrick Industries and LCI Industries (the parent of Lippert) agreed to combine in an all-stock deal where Patrick shareholders would end up holding roughly 52% of the new entity and LCI shareholders about 48%, according to [RV Business](https://rvbusiness.com/patrick-industries-lci-industries-to-combine-in-all-stock-merger/) (June 30, 2026). The combined company would have reported approximately $8.1 billion in trailing 12-month revenue as of March 2026, with projected free cash flow of $508 million. The two companies are already estimating more than $150 million in annual run-rate cost savings within three years of closing.
 

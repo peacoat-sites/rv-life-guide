@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. I've been in that exact situation, and the difference between "inconvenience" and "dangerous" came down to whether I actually understood my generator setup before I needed it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.
 
@@ -52,6 +52,15 @@ If you're in an area with propane infrastructure and you already carry tanks, a 
 ---
 
 ## Sizing Your Generator: The Math You Actually Need to Do
+
+| Appliance | Running Watts | Starting Watts |
+|---|---|---|
+| 13,500 BTU AC | 1,500W | 3,200W |
+| Refrigerator (electric) | 150W | 400W |
+| Microwave (1,000W unit) | 1,000W | 1,200W |
+| Lighting/outlets | 200W | 200W |
+| Water pump | 50W | 150W |
+| **Total** | **2,900W** | **5,150W** |
 
 Most websites gloss over the part that actually bites people. Here it is uncovered.
 

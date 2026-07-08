@@ -23,13 +23,14 @@ faqs:
    a: "Most BLM and National Forest dispersed camping areas don't have a strict hourly limit, but there's an unwritten courtesy expectation of quiet hours (typically 10pm to 8am) and many areas do have noise ordinances. Practically, I run mine in 2 to 4 hour blocks during the day. Running it all day every day also burns through fuel fast and shortens the engine's life."
  - q: "Should I use propane or gasoline for my boondocking generator?"
    a: "Gasoline is more energy-dense and slightly more efficient, but propane is easier to store safely and widely available in refillable tanks if your RV already has one. For long-stay boondocking, dual-fuel capability is genuinely useful. If you're doing shorter trips with easy fuel access, gasoline-only is simpler and usually cheaper to operate."
+lastmod: 2026-07-07
 ---
 
 My third generator died at a BLM site outside Moab, Utah. It was a cheap 2,000-watt unit I'd bought on impulse at a big-box store, and it lasted 14 months of serious use before it started hunting and then just... quit. The repair shop told me the carburetor was shot and the frame had cracked from vibration. That generator owed me maybe $340 and cost me a long sweaty July afternoon without AC.
 
 That experience is why I care about this topic more than I probably should.
 
-If you're boondocking seriously, meaning weeks at a time on dispersed land, not an occasional weekend off-grid adventure, the generator decision is one of the most money-consequential choices you'll make. A bad one costs you twice: once when you buy it, and again when it fails.
+If you're [boondocking seriously](/boondocking-without-hookups/), meaning weeks at a time on dispersed land, not an occasional weekend off-grid adventure, the generator decision is one of the most money-consequential choices you'll make. A bad one costs you twice: once when you buy it, and again when it fails.
 
 ## What actually matters when you're off-grid
 
@@ -44,6 +45,14 @@ What most people don't realize is that a 2,200-watt inverter generator will NOT 
 Scenario: A reader emailed me last spring after buying an EU2200i. She couldn't start her Coleman-Mach 15 without tripping the overload. She added the EasyStart, and the AC has started without issue every time since. She estimated the setup cost her $1,450 total and eliminated the problem completely.
 
 ## When to consider going bigger
+
+| Generator | Running Watts | Price | Noise (23 ft) | Best For | Key Limitation |
+| --- | --- | --- | --- | --- | --- |
+| Honda EU2200i | 2,200 | $1,100-$1,200 | 57 dB @ quarter load | Standard boondocking, sensitive electronics | Needs soft-starter for most RV ACs |
+| Yamaha EF2200iS | 2,200 | $1,100-$1,200 | Slightly higher | Standard boondocking, sensitive electronics | Needs soft-starter for most RV ACs |
+| Champion 3500 (dual-fuel) | 3,500 | $850 | Higher | Larger rigs, propane availability | Heavier (95 lbs), noisier than Honda |
+| Westinghouse iGen4500 | 3,700 running | $600-$700 | Higher than Honda | Larger rigs, budget-conscious | Noisier, fewer decibels advantage |
+| Two EU2200i (parallel) | ~4,400 combined | ~$2,300 | Variable | 15,000 BTU AC without soft-starter | Dual unit management required |
 
 There are rigs where a 2,200-watt unit genuinely isn't enough, and I'll be straight with you about what those look like. If you're running a larger slide-out fifth wheel with a 15,000 BTU AC, a residential-size fridge, and you want to run an induction cooktop occasionally, you're probably looking at the 3,500- to 4,500-watt class.
 

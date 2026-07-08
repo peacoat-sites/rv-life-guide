@@ -23,6 +23,7 @@ faqs:
    a: "You don't need lithium, but it's the better choice for full-timing. Lead-acid (AGM specifically) works, but you're limited to using 50% of rated capacity without shortening lifespan, they're heavy, and they need to return to full charge regularly to avoid sulfation. With a large solar array that might not always complete a full charge cycle, lithium handles partial state of charge far better. The price premium has also dropped significantly; a 100Ah LiFePO4 drop-in is around $200-280 today."
  - q: "How do I know if my solar system is actually working correctly?"
    a: "A battery monitor like the Victron BMV-712 is the baseline. It tracks cumulative amp-hours in and out, calculates true state of charge, and logs history so you can see patterns. Pair it with a Victron SmartSolar charge controller and the VictronConnect app, and you can pull detailed production data by day. If your system doesn't have monitoring, you're flying blind and you'll misdiagnose problems for months before figuring out what's actually wrong."
+lastmod: 2026-07-07
 ---
 
 Most solar sizing guides will tell you to "calculate your daily watt-hours, then add 20% for buffer." That advice isn't wrong, but it's incomplete enough to get you into real trouble. I've watched people park a shiny new rig loaded with 400 watts of rooftop panels and then scratch their heads when they're running on empty by 7 PM. The math wasn't the problem. The assumptions were.
@@ -42,6 +43,19 @@ The ceiling matters too. There's a practical limit based on your roof square foo
 ---
 
 ## Actually Calculating What You Need
+
+| Load Item | Daily Consumption | Notes |
+| --- | --- | --- |
+| 12V compressor fridge (40% duty cycle) | ~280Wh | Ambient temp dependent |
+| LED lighting (4 hours) | ~40Wh | Conservative usage |
+| Laptop (4 hours) | ~120Wh | Typical work load |
+| Phone and tablet charging | ~30Wh | Daily tops |
+| Diesel heater fan | ~30-80Wh | Variable by settings |
+| Water pump | ~20Wh | Minimal usage |
+| Ceiling fan (6 hours) | ~60Wh | Warm weather |
+| **Subtotal (no CPAP)** | **~580-610Wh** | Conservative baseline |
+| CPAP with humidifier off | ~30-60Wh/night | Adds ~650-670Wh total |
+| Rooftop AC (13,500 BTU, 4 hrs/day) | ~5,000-6,000Wh | Requires 1,500W+ panels or generator |
 
 Skip the vague "add up your appliances" advice. Here's how to do it properly.
 

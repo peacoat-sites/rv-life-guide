@@ -23,15 +23,24 @@ faqs:
    a: "Depends entirely on the contract. Some require manufacturer-authorized service centers, which can mean waiting weeks for an appointment. Better plans allow any licensed RV technician. Confirm this in writing before you sign."
  - q: "Are extended warranties worth it on older used RVs?"
    a: "Sometimes, but the exclusion risk is highest here. Older rigs have more pre-existing wear, and adjusters will use that against you. If you buy coverage on a rig over seven years old, read the pre-existing condition language twice, and get any known issues in writing as 'accepted' before the contract starts."
+lastmod: 2026-07-07
 ---
 
 Most RV warranty advice online is written by people trying to sell you a warranty. That's the problem. Let's fix it.
 
-I've been full-timing for eight years. I've owned a Class A diesel pusher, a Class C, and now a fifth wheel. I've filed warranty claims, argued with claims adjusters, and watched campground neighbors get burned by coverage they thought they had. My take: extended warranties are worth it for *some* rigs, *some* owners, under *specific* conditions. The blanket "always buy it" advice is noise.
+I've been full-timing for eight years. I've owned a [Class A diesel pusher](/class-a-vs-class-b-vs-class-c-rv/), a Class C, and now a fifth wheel. I've filed warranty claims, argued with claims adjusters, and watched campground neighbors get burned by coverage they thought they had. My take: extended warranties are worth it for *some* rigs, *some* owners, under *specific* conditions. The blanket "always buy it" advice is noise.
 
 Here's what actually matters.
 
 ## The Math Nobody Runs For You
+
+| Repair Type | Typical Cost Range |
+| --- | --- |
+| Slide-out motor replacement | $800-$1,400 |
+| RV refrigerator (residential compressor) | $1,200-$2,500 |
+| Generator rebuild | $2,000-$3,500 |
+| Aqua-Hot hydronic system | $3,000-$6,000+ |
+| Diesel engine work (injectors, turbo) | $4,000-$12,000+ |
 
 The average RV extended warranty costs between $2,500 and $5,000 for a three-year term, depending on rig class, age, and deductible. Diesel pushers run higher, sometimes $6,000 to $8,000. That's the sunk cost you're evaluating against.
 

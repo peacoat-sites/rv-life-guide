@@ -23,6 +23,7 @@ faqs:
    a: "Honestly, it varies by kid temperament more than anything else. Extroverted kids who make friends fast tend to do well. Kids who need long-term, stable friendships struggle. Joining Fulltime Families or attending RV rallies helps create a community of kids in the same situation. Extended stays of four to eight weeks in one spot allow real friendships to form. Don't pretend this isn't a real sacrifice, but it's a manageable one for most kids."
  - q: "What size RV do you actually need for a family of four?"
    a: "30 to 38 feet gives you enough space without becoming a handling nightmare. The sweet spot for a two-kid family is right around 34 to 36 feet with a bunkhouse or second bedroom. Below 28 feet and you're in each other's space constantly in ways that wear on everyone. Above 40 feet and you're dealing with restricted campsite access and significantly harder maneuvering."
+lastmod: 2026-07-07
 ---
 
 Most articles about RV life with kids show you smiling families at Yellowstone and leave out the part where your seven-year-old has a full meltdown in a Walmart parking lot in Amarillo because she hasn't had a real bedroom in four months. That gap between the Instagram version and the actual experience is where I'm going to spend this article.
@@ -35,13 +36,19 @@ Here's the honest headline: RV life with kids is genuinely good. It's also genui
 
 Space is the first thing everyone talks about, and it's the wrong thing to fixate on. Kids adapt to small spaces faster than adults do. The real logistical problems are schooling, healthcare continuity, and mail.
 
-Homeschooling or road schooling is effectively mandatory unless you're willing to stay in one place for entire school semesters. Most families use a mix: an accredited online curriculum like Connections Academy or K12, supplemented with real-world learning (a National Park becomes a science class, a local history museum becomes a history lesson). That works well for some kids and terribly for others. My son thrived on the flexibility. My daughter needed peer structure and struggled without it. Know your kid before you commit.
+[Homeschooling or road schooling](/homeschooling-in-rv/) is effectively mandatory unless you're willing to stay in one place for entire school semesters. Most families use a mix: an accredited online curriculum like Connections Academy or K12, supplemented with real-world learning (a National Park becomes a science class, a local history museum becomes a history lesson). That works well for some kids and terribly for others. My son thrived on the flexibility. My daughter needed peer structure and struggled without it. Know your kid before you commit.
 
 Healthcare is the thing most guides mention in a single paragraph and move on. Don't. You need a pediatrician relationship somewhere you can get to regularly, a telehealth service you've actually tested (not just downloaded the app for), and an honest conversation with your insurance carrier about how they handle out-of-network ER visits across state lines. We used Teladoc as our first line for everything non-emergency. It worked about 70% of the time. The other 30%, we were driving to urgent cares and paying out-of-pocket, then fighting with insurance for reimbursement. Budget for that fight.
 
 Mail and official address: you need a domicile state. South Dakota, Texas, and Florida are the three states most full-timers use because they have no state income tax and straightforward residency requirements. Whichever you pick, you'll use a mail forwarding service. The two I've personally used are America's Mailbox (South Dakota) and Escapees Mail Service (Texas). Both work. Escapees has slightly better scanning options. Your kids' state-issued IDs, school records, and any official documentation all need to be consistent with this address.
 
 ## Picking the Right Rig
+
+| Rig Model | Type | Price Range (Used) | Best For |
+| --- | --- | --- | --- |
+| Grand Design Reflection 337RLS | Fifth Wheel | $45,000-$85,000 | Full-time families |
+| Keystone Montana 3855BR | Fifth Wheel | $45,000-$85,000 | Full-time families |
+| Forest River Cedar Creek 388FK | Fifth Wheel | $45,000-$85,000 | Full-time families |
 
 This is where I'll say something that will annoy some people: for families, a fifth wheel almost always beats a Class A motorhome of equivalent length.
 

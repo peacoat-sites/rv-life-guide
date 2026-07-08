@@ -23,6 +23,7 @@ faqs:
     a: "Maintenance costs and complexity, by a significant margin. RVs require regular, proactive upkeep. Ignoring a small roof seam or a slightly soft tire can become a $5,000-15,000 repair quickly. Budget a maintenance reserve from day one and learn basic systems before you need them."
   - q: "Can you work remotely and full-time RV at the same time?"
     a: "Yes, and it's the most common income model among current full-timers. Cell signal and WiFi are genuinely better now than even three years ago, but there are still dead zones. Most serious full-timers carry a dual-carrier cellular booster setup and a backup hotspot plan on a second carrier. Don't assume your home carrier will work everywhere you want to go."
+lastmod: 2026-07-07
 ---
 
 Most coverage of full-time RV living either reads like a tourism brochure or a trauma memoir. Neither is accurate. Eight years in, I can tell you it's neither a permanent vacation nor a daily crisis. It's a lifestyle with a specific financial and logistical profile, and whether it works for you depends almost entirely on numbers and temperament, not vibes.
@@ -32,6 +33,17 @@ Let's get into it honestly.
 ---
 
 ## The Money Math, Which Nobody Does Correctly
+
+| Item | Monthly Cost Range | Notes |
+| --- | --- | --- |
+| Campground fees | $850/month | Average based on $28/night; varies $0-90/night depending on membership and location |
+| Fuel | $150-300/month | Depends on rig MPG and travel frequency; example: 36-ft diesel at 8 mpg = $400-600 in high-travel months |
+| Maintenance & repairs | $200-300/month | Budget 2-3% of rig purchase price annually; $120k coach = $2,400-3,600/year |
+| Insurance | Included in total | Part of all-in estimate |
+| Groceries & essentials | Included in total | Part of all-in estimate |
+| Cell/internet | Included in total | Part of all-in estimate |
+| **Total (single person)** | **$2,200-3,500** | Realistic all-in monthly budget |
+| **Total (couple)** | **$2,800-4,200** | Realistic all-in monthly budget |
 
 The most common mistake I see from people researching this: they compare RV living costs to their current rent or mortgage and assume the difference is pure savings. That's wrong, and it burned me in my first year.
 
@@ -45,7 +57,7 @@ Then there's maintenance, which is the budget line that humbles everyone. RVs ar
 
 Realistic all-in monthly cost for a single person: $2,200-3,500. For a couple: $2,800-4,200. That includes campground fees, fuel, insurance, maintenance reserve, groceries, and a reasonable cell/internet budget. You can do it cheaper. You can also blow well past the top end without trying.
 
-Worked example: Reader Jake from Tucson, who converted from a $2,400/month apartment to full-timing in a used 2018 Class A, expected to cut his housing costs in half. First year actual: $2,150/month average once he factored in a $3,800 roof repair, higher fuel costs than projected, and a campground membership he bought but underused. Savings: roughly $250/month, not $1,200. → He adjusted year two by choosing a campground-heavy itinerary near Thousand Trails parks and joined a full-timer Facebook group for maintenance tips. Year two average: $1,780/month. That's the learning curve.
+Worked example: Reader Jake from Tucson, who converted from a $2,400/month apartment to full-timing in a used 2018 Class A, expected to cut his housing costs in half. First year actual: $2,150/month average once he factored in a $3,800 roof repair, higher fuel costs than projected, and a campground membership he bought but underused. Savings: roughly $250/month, not $1,200. → He adjusted year two by choosing a campground-heavy itinerary near Thousand Trails parks and joined a [full-timer Facebook group](/full-time-rv-living-guide/) for maintenance tips. Year two average: $1,780/month. That's the learning curve.
 
 ---
 
@@ -69,7 +81,7 @@ The geographic flexibility is genuinely transformative if you have remote income
 
 The forced simplicity is real too. When everything you own fits in 400 square feet, your relationship with consumption changes. I haven't bought anything I regret in six years because there's nowhere to put it. Storage units are the enemy.
 
-Worked example: Couple Mara and Dev, full-timing since early 2023 in a fifth wheel, both working remotely. Their combined housing cost (apartment in Austin) before: $2,600/month. Current average: $2,050/month. They're not saving dramatically, but they've visited 31 states, paid off $18,000 in credit card debt using the marginal savings, and both independently describe their stress levels as "dramatically lower." → The financial win was modest; the life quality shift was not.
+Worked example: Couple Mara and Dev, full-timing since early 2023 in a [fifth wheel](/best-fifth-wheels-full-time/), both working remotely. Their combined housing cost (apartment in Austin) before: $2,600/month. Current average: $2,050/month. They're not saving dramatically, but they've visited 31 states, paid off $18,000 in credit card debt using the marginal savings, and both independently describe their stress levels as "dramatically lower." → The financial win was modest; the life quality shift was not.
 
 And honestly? The mechanical knowledge you pick up is useful forever. I can diagnose a 12-volt DC system issue, reseal a roof, replace a water pump, and bleed hydraulic leveling jacks. I had zero of those skills eight years ago. A good [battery monitor like the Victron BMV-712](https://amzn.to/3ZGvGdT) (around $100, and worth every cent for solar setups) taught me more about power management than any class I could have taken. *(Note: that's an affiliate link, and this site may earn a small commission.)*
 
@@ -77,7 +89,7 @@ And honestly? The mechanical knowledge you pick up is useful forever. I can diag
 
 ## The Rig Question, Briefly
 
-Class A, Class C, fifth wheel, van, truck camper. Everyone has opinions and most of them are too attached to their choice.
+[Class A](/class-a-vs-class-b-vs-class-c-rv/), Class C, fifth wheel, van, truck camper. Everyone has opinions and most of them are too attached to their choice.
 
 The honest ranking for full-time livability, in my experience:
 

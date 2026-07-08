@@ -23,8 +23,9 @@ faqs:
    a: "Start at the highest and most upwind penetration above the interior stain, not directly above it. Water enters at one point and tracks along rafters or decking before dripping down. With a helper inside watching the ceiling, run a garden hose methodically from the back of the roof forward, pausing two to three minutes at each vent and seam. This is tedious but usually locates the source within an hour."
  - q: "Is it worth paying a shop to do roof maintenance or can I do it myself?"
    a: "You can absolutely do this yourself, and honestly, you'll catch problems faster because you're up there more often than any shop would put eyes on it. The skills required are minimal. The materials for a full inspection, clean, and reseal run $60 to $150. The only time I'd recommend a shop is for a full membrane replacement or significant decking repair, because those jobs require equipment and temporary structural support that's impractical on the road."
+lastmod: 2026-07-07
 ---
-Your roof is the one part of your RV you almost never see, which is exactly why it destroys more rigs than engine problems, bad tires, and slide-room failures combined. Water intrusion is slow, invisible, and merciless. By the time you notice a soft spot in your floor or a brown stain on your ceiling, the rot has usually been working for months.
+Your roof is the one part of your RV you almost never see, which is exactly why it destroys more rigs than engine problems, bad tires, and [slide-room failures](/rv-slide-room-maintenance/) combined. Water intrusion is slow, invisible, and merciless. By the time you notice a soft spot in your floor or a brown stain on your ceiling, the rot has usually been working for months.
 
 Most roof maintenance articles written for full-timers aren't actually written for full-timers. They're written for weekenders who need to remember to "check the roof twice a year." That schedule is almost a joke if you're putting 20,000 miles on your rig annually and parking in places that range from a dusty Arizona desert at 110 degrees to a coastal campsite where salt air and UV work on your seals simultaneously.
 
@@ -33,6 +34,13 @@ Here's what actually matters, how often to do it, and what I've learned from doi
 ---
 
 ## Know What Roof You Have Before You Touch It
+
+| Roof Material | Appearance | Best Cleaner | Key Vulnerability | UV Resistant |
+| --- | --- | --- | --- | --- |
+| EPDM rubber | Black or gray, matte | Dicor Rubber Roof Cleaner or Korkay | Micro-cracks around penetrations | Excellent (but chalks over time) |
+| TPO | White, shiny | Camco TPO-specific cleaner or mild dish soap | Seam delamination | Good |
+| Fiberglass | Hard, smooth surface | Mild soap and water | Gel coat oxidation and cracking | Nearly impervious if maintained |
+| Aluminum | Metallic | Mild soap and water | Seams (riveted or lapped) | Good |
 
 This sounds obvious. It isn't. I've watched people at rallies scrub an EPDM roof with a petroleum-based cleaner and wonder why it started cracking. Different roof materials require different products, different inspection logic, and different repair approaches.
 

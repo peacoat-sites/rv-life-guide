@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 The $12-a-night campground I found outside Moab in 2021 felt like winning the lottery. Flat desert site, no hookups, dead quiet, and a sky so full of stars it looked fake. Two years later, I drove the same route and that spot was $34 a night, booked three weeks out, and had a 72-hour cancellation policy. That's not an anomaly. Campground fees across North America have fundamentally shifted since 2020, and if you're planning an RV trip, or trying to live full-time on the road like I do, understanding what you're actually paying for, and why, can save you hundreds of dollars per month.
 
@@ -38,6 +38,16 @@ Private RV parks, especially KOA and Jellystone properties, tend to bundle ameni
 Public land and county parks operate differently. Fees usually run $15 to $30 a night for a developed site, but the amenities are minimal. Showers might not exist. Dump stations might be a mile away. The tradeoff is usually solitude and scenery that a private park can't compete with.
 
 ## The Real Price Range: From Free to $200+ Per Night
+
+| Campground Type | Nightly Rate | Monthly Rate | Best For |
+| --- | --- | --- | --- |
+| Free camping (BLM/Dispersed) | $0 | $0 | Self-sufficient travelers, budget-conscious full-timers |
+| State & National Forest | $10-$30 | N/A | Scenic sites, basic amenities |
+| Corps of Engineers | $18-$32 | N/A | Clean, spacious sites, good value |
+| Private parks, bare-bones | $35-$55 | $600-$1,200 | Budget RVers, functional needs only |
+| Private parks, mid-range | $55-$90 | $600-$1,200 | Families, moderate amenities |
+| Destination resorts & premium | $90-$200+ | $1,500-$2,000+ | Vacation stays, full amenities |
+| National parks (Yellowstone, Zion) | $20-$35 | N/A | Popular destinations, advance booking required |
 
 Let me give you actual numbers because vague ranges are useless.
 
@@ -74,7 +84,7 @@ Here's the process I use when evaluating a new park for a monthly stay:
 
 This comes up constantly in full-timer Facebook groups and the answer is genuinely: it depends on how you travel.
 
-**Thousand Trails:** You pay a membership fee (typically $500 to $700 a year for the base zone pass) and get unlimited stays at their network of parks. If you stay in their parks often and for longer periods, the math works. If you're moving fast and prefer dispersed camping, you'll never recoup the cost.
+**Thousand Trails:** You pay a membership fee (typically $500 to $700 a year for the base zone pass) and get unlimited stays at their network of parks. If you stay in their parks often and for longer periods, the math works. If you're moving fast and prefer [dispersed camping](/boondocking-free-camping/), you'll never recoup the cost.
 
 **Passport America:** About $44 a year and gives you 50% off at roughly 1,900 partner campgrounds. This one almost always pays for itself on a single trip. It's one of the few memberships I've kept every year without regret.
 

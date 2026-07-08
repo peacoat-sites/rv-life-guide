@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 You just found the perfect rig, mapped out your first few destinations, and then someone asks: "So what's your address?" The excitement stalls. It's a deceptively simple question with surprisingly complicated answers. Your address affects your driver's license, vehicle registration, voting rights, taxes, insurance rates, and your ability to open a bank account. Getting this wrong costs people hundreds or thousands of dollars every year. Getting it right is one of the most important logistical moves you'll make before hitting the road full time.
 
@@ -43,6 +43,14 @@ The three states most full-timers choose are South Dakota, Texas, and Florida. E
 If you want more on the overall logistics of making this lifestyle work, our [full-time RV living guide](/full-time-rv-living-guide/) covers the big picture.
 
 ## The Three Main Options for a Physical Address
+
+| Service | Location | Setup Cost | Monthly Cost | Key Feature |
+| --- | --- | --- | --- | --- |
+| Escapees RV Club | Livingston, TX | ~$50/year | ~$15/month | Established infrastructure, real TX street address |
+| America's Mailbox | Box Elder, SD | Included | Varies | SD domicile assistance, DMV support |
+| Traveling Mailbox | Multiple | Included | ~$15/month | Digital mail scanning |
+| Anytime Mailbox | Multiple | Included | ~$15/month | Digital scanning, network locations |
+| Private Mailbox (UPS Store) | Local | Included | $20-50/month | Real street address, local availability |
 
 Full-timers generally use one of three approaches: a family member's address, a commercial mail forwarding service, or a private mailbox service. Each has real trade-offs.
 

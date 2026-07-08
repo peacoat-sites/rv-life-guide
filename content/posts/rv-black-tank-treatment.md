@@ -23,6 +23,7 @@ faqs:
    a: "Honestly, Happy Campers Organic RV Holding Tank Treatment is my recommendation for a dedicated product. It's a small tub, it lasts a long time, and it works in temperature ranges where a lot of other enzyme products fall apart. But for day-to-day maintenance, the Dawn and Calgon combination is cheaper and performs comparably when water management is solid."
  - q: "How do I know if I have a pyramid plug?"
    a: "If your tank reads full but you know it shouldn't be, if your toilet drains slowly, or if you can't get the dump valve to open freely, a plug is likely. Start with the fill-and-drive method: fill the tank completely with water, add soap, drive around to slosh it, then dump. Repeat two or three times. If that doesn't clear it, a tank wand or a professional flush service is the next step."
+lastmod: 2026-07-07
 ---
 
 Most people treating their black tank are solving the wrong problem. They're focused on odor, dumping products in after every flush, buying expensive enzyme treatments, when the real enemy is something most tank guides don't even mention: the pyramid plug.
@@ -44,6 +45,13 @@ The other thing: keep that valve closed until the tank is at least two-thirds fu
 ---
 
 ## What treatment products actually do (and what they don't)
+
+| Treatment Type | How It Works | Best Use Case | Cost Per Dump |
+| --- | --- | --- | --- |
+| Enzyme-based (Happy Campers, Walex Porta-Pak) | Biological agents break down waste and tissue | Tanks with adequate water, moderate temperatures, dumping every 3+ days | $0.50-$1.00 |
+| Chemical (Campa-Chem, formaldehyde-based) | Kills odor by killing tank contents | Odor control only | $0.50-$1.50 |
+| Dawn dish soap + Calgon water softener | Lubricates valve/sensors, prevents sticking | Daily maintenance with proper water levels | $0.30 |
+| Enzyme deep clean (annual) | Extended soak with mechanical agitation | Annual tank refresh and sensor cleaning | $2.00-$3.00 |
 
 The market for black tank treatments is genuinely crowded and the claims range from accurate to nonsense. Here's how I think about the product categories.
 
@@ -69,7 +77,7 @@ The remediation process that has actually worked for me (tried this after a read
 
 ## The deep clean you should do at least once a year
 
-Even with solid daily practices, tanks benefit from a periodic deeper flush. I do this every fall when I'm getting ready to settle somewhere for a few months.
+Even with [solid daily practices](/rv-maintenance-diy/), tanks benefit from a periodic deeper flush. I do this every fall when I'm getting ready to settle somewhere for a few months.
 
 Close all valves. Fill the tank with water until it reads full. Add a full 8-ounce bottle of Happy Campers or a similar enzyme product, plus the Dawn/Calgon mix. Let it sit overnight, twelve to sixteen hours minimum. Then dump slowly. Follow with two or three full-tank flush cycles using just water.
 

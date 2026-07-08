@@ -12,6 +12,7 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "new-shore-power-safety-rule-is-coming-for-all-new-rvs"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 If you're shopping for a new RV right now, or you manage a campground, something just shifted that you need to know about. On June 9, 2026, the RV Industry Association confirmed a model year 2028 effective date for mandatory Grounding Monitor Interrupters on all new 30-amp and 50-amp RVs. This isn't a rumor or a proposal still working through committees. It's done. And depending on which side of the pedestal you're standing on, it changes things.
 
@@ -22,6 +23,15 @@ A Grounding Monitor Interrupter is basically a bouncer for your shore power conn
 Simple concept. Big implications. A missing or failed ground at a pedestal isn't just annoying. It's a real shock and fire hazard. Faulty campground wiring has caused some genuinely bad incidents over the years, and the industry has known for decades that pedestals across the country range from perfectly maintained to genuinely dangerous. The GMI requirement is codified in Article 551 of both the 2023 and 2026 editions of the National Electrical Code. RVIA spent more than six years developing the standard before getting here.
 
 ## Why This Got Delayed, and What That Tells You
+
+| Milestone | Original Date | Actual/Revised Date | Status |
+| --- | --- | --- | --- |
+| Initial Development Start | ~2018 | ~2018 | Completed |
+| NEC Codification | 2023 & 2026 editions | 2023 & 2026 editions | Codified |
+| Original Enforcement Date | January 1, 2026 | Delayed | Missed |
+| Revised Enforcement Date | - | January 1, 2027 | Revised |
+| Model Year Effective Date | - | 2028 | Current |
+| Development Duration | - | 6+ years | Complete |
 
 The rule was originally supposed to take effect January 1, 2026. It didn't, and the reason matters: there simply weren't enough commercially certified GMI devices available for manufacturers to use. You can't require something that doesn't exist in sufficient supply. RVIA pushed the enforcement date to January 1, 2027, with the model year 2028 cutoff giving manufacturers time to actually source and install the hardware.
 
@@ -47,7 +57,7 @@ One thing that won't change: if you already own an RV, you're not required to re
 
 The next 18 months are going to be telling. Watch for campground rating systems and apps to start incorporating pedestal grounding status. Watch for GMI-compatible to become a marketing term that parks use to attract the coming wave of compliant rigs. And watch for the first wave of 2028 model year rigs to hit the road and surface any real-world friction between GMI systems and the actual condition of campground infrastructure across the country.
 
-The underlying goal here is one that anyone who's spent time in campgrounds should appreciate. Bad campground power is a real problem, and the industry has been working around it with surge protectors and EMS devices for years. A GMI baked into every new rig is a more permanent answer. It puts the compliance pressure where it belongs: on the infrastructure, not on individual owners buying aftermarket protection.
+The underlying goal here is one that anyone who's spent time in campgrounds should appreciate. Bad campground power is a real problem, and the industry has been working around it with [surge protectors and EMS devices](/dometics-new-electric-only-rv-water-heater-ditches-propane-for-good/) for years. A GMI baked into every new rig is a more permanent answer. It puts the compliance pressure where it belongs: on the infrastructure, not on individual owners buying aftermarket protection.
 
 Six years of development, two editions of the National Electrical Code, a missed 2026 deadline, and now a firm 2028 line in the sand. This one's actually happening. If you're buying new or running a park, now is when to start paying attention.
 

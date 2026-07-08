@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 The day we handed over our house keys in October 2019, I had $847 in our checking account, a 28-foot travel trailer hitched to a Ford F-250 I barely knew how to drive, and absolutely no idea what I was walking into. Six years and 90,000 miles later, I can tell you this: almost everything the internet told me about full-time RV life was either optimistic to the point of dishonesty or so surface-level it was useless. This guide is neither of those things.
 
@@ -58,9 +58,9 @@ Health insurance deserves its own mention because it genuinely surprises people.
 
 There is no perfect RV. There's only the compromise that works best for your specific situation.
 
-Class A motorhomes are spacious and feel like a rolling apartment. They average 7 to 10 miles per gallon and cost a fortune to repair when the engine, transmission, and living space all share the same chassis. Class B vans are incredibly versatile, get better fuel economy, and fit into regular parking spots. The tradeoff is roughly 70 square feet of living space, which is romantic for about three weeks and then becomes a study in what truly irritates you about your travel partner.
+[Class A motorhomes](/class-a-vs-class-b-vs-class-c-rv/) are spacious and feel like a rolling apartment. They average 7 to 10 miles per gallon and cost a fortune to repair when the engine, transmission, and living space all share the same chassis. Class B vans are incredibly versatile, get better fuel economy, and fit into regular parking spots. The tradeoff is roughly 70 square feet of living space, which is romantic for about three weeks and then becomes a study in what truly irritates you about your travel partner.
 
-Class C motorhomes split the difference reasonably well. Fifth wheels offer the most residential feel of any towable option. That's what I started with. The stability on the road is excellent compared to a bumper-pull travel trailer, but you need a pickup truck with a proper payload rating, and most half-ton trucks are actually underpowered for a serious fifth wheel.
+Class C motorhomes split the difference reasonably well. [Fifth wheels](/best-fifth-wheels-full-time/) offer the most residential feel of any towable option. That's what I started with. The stability on the road is excellent compared to a bumper-pull travel trailer, but you need a pickup truck with a proper payload rating, and most half-ton trucks are actually underpowered for a serious fifth wheel.
 
 A few things I'd tell my 2019 self:
 

@@ -23,13 +23,21 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 My water heater stopped working outside Moab in late October, and I'll be honest: I panicked a little. Not because cold showers are the end of the world, but because I'd been on the road for three years at that point and genuinely had no idea what I was looking at when I opened that exterior access panel. Eight years later, I could diagnose most RV water heater problems in my sleep. The gap between then and now is just experience and a willingness to actually understand the system instead of immediately calling a mobile tech.
 
 Most people assume water heater issues are complicated. They're usually not. The majority of failures I've seen (and had) come down to four or five causes, and most of them you can fix yourself for under $30.
 
 ## Understanding What You're Actually Working With
+
+| Component | Typical Cost | Time to Replace | Frequency |
+| --- | --- | --- | --- |
+| Anode Rod (Suburban) | ~$8 | 10 minutes | Annually |
+| Electrode/Igniter | $15-25 | 15-20 minutes | As needed |
+| Sail Switch | ~$20 | 20-30 minutes | As needed |
+| Heating Element | $20-40 | 30-45 minutes | Every 3-5 years |
+| Thermostat/High-Limit Switch | $15-30 | 15-25 minutes | As needed |
 
 Before you start poking around, you need to know which heater you have. There are two main brands that cover probably 90% of the RV market: Atwood (now Dometic) and Suburban. They work differently enough that advice for one doesn't always apply to the other.
 

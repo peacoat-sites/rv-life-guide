@@ -23,11 +23,11 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Free camping is everywhere. Most people just look in the wrong places.
 
-The standard advice, Google "free camping near me," skim a few listicle articles, maybe download one app, produces mediocre results at best. You end up at a crowded dispersed site on National Forest land that every other RVer already found, or a Walmart parking lot that stopped allowing overnight stays two years ago and nobody updated the database. I've wasted full driving days on bad intel. Here's how to actually find the good stuff.
+The standard advice, Google "[free camping near me](/boondocking-locations-free/)," skim a few listicle articles, maybe download one app, produces mediocre results at best. You end up at a crowded dispersed site on National Forest land that every other RVer already found, or a Walmart parking lot that stopped allowing overnight stays two years ago and nobody updated the database. I've wasted full driving days on bad intel. Here's how to actually find the good stuff.
 
 ## The Apps and Databases Worth Using (and Which Ones Aren't)
 
@@ -45,7 +45,7 @@ Skip the "RV Parky" style apps. They aggregate paid campgrounds with a free laye
 
 Here's what separates occasional free campers from people who consistently find great spots: understanding what land you're actually dealing with.
 
-In the American West, you have four main categories of public land where dispersed camping is generally permitted: Bureau of Land Management (BLM), National Forest (USFS), Bureau of Reclamation, and some state trust land. The eastern US is harder because there's less of it, but it exists. National Forests in Tennessee, North Carolina, and Michigan have legal dispersed camping that most people completely ignore.
+In the American West, you have four main categories of public land where [dispersed camping is generally permitted](/dispersed-camping-guide/): Bureau of Land Management (BLM), National Forest (USFS), Bureau of Reclamation, and some state trust land. The eastern US is harder because there's less of it, but it exists. National Forests in Tennessee, North Carolina, and Michigan have legal dispersed camping that most people completely ignore.
 
 The single best free resource is the BLM's [National Map Viewer](https://www.blm.gov/maps) combined with the [USFS Motor Vehicle Use Maps](https://www.fs.usda.gov/managing-land/travel-management/motor-vehicle-use-maps). Download the Motor Vehicle Use Map for any National Forest before you go. It shows which roads are open to motor vehicles, which is the first thing you need to know before you drive your rig somewhere and realize you can't turn around.
 
@@ -56,6 +56,15 @@ That last step sounds like homework. It is. It also takes about five minutes and
 The 14-day limit on most BLM and National Forest dispersed camping is another thing to understand. Some areas have shorter limits. A few have longer ones. Ignoring this is how people get citations.
 
 ## State-Specific Sources Nobody Mentions Enough
+
+| Public Land Type | Dispersed Camping Allowed | Primary Resource | Notes |
+| --- | --- | --- | --- |
+| Bureau of Land Management (BLM) | Yes | [BLM National Map Viewer](https://www.blm.gov/maps) | 14-day limit (varies by area); some seasonal closures |
+| National Forest (USFS) | Yes | [USFS Motor Vehicle Use Maps](https://www.fs.usda.gov/managing-land/travel-management/motor-vehicle-use-maps) | 14-day limit (varies by area); check road access before driving |
+| Bureau of Reclamation | Yes | Local project offices | Mostly around reservoirs; often undocumented |
+| State Trust Land | Varies by state | State DNR websites | Montana: $10 annual license; Arizona: some parcels open; check state-specific programs |
+| State Forests | Varies by state | State DNR websites | Virginia, Michigan, Pennsylvania have programs; less crowded than National Forest |
+| Army Corps of Engineers | Some areas | Local project offices | ~12 million acres; primitive camping often undocumented |
 
 Every state manages public land differently, and most states have camping-related resources that are either underpublicized or buried in confusing agency websites.
 

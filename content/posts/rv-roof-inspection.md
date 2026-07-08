@@ -23,13 +23,13 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 Most RV owners I've met inspect their roof exactly once: right after they buy the rig. Then they forget about it until water is dripping onto their mattress at 2 a.m. somewhere in rural New Mexico.
 
 I was one of those people. Bought my first Class C in 2016, glanced at the roof during the dealer walkthrough, nodded along while the salesman talked, and didn't think about it again for eight months. Then one October morning in Moab I noticed a soft spot in the ceiling panel above the dinette. The repair bill ended up being $2,400 because the damage had been spreading the entire time. That was an expensive lesson, and I've talked to enough full-timers since then to know it's practically a rite of passage.
 
-Here's what I've learned from eight years of inspecting, maintaining, and occasionally screwing up: a proper roof inspection isn't complicated, but most people are doing it wrong in ways that cost them thousands.
+Here's what I've learned from eight years of inspecting, maintaining, and occasionally screwing up: [a proper roof inspection](/rv-maintenance-diy/) isn't complicated, but most people are doing it wrong in ways that cost them thousands.
 
 ## What You're Actually Looking For (And Why Most Walkthroughs Miss It)
 
@@ -53,13 +53,19 @@ Do this on an overcast day or in the morning shade. Not for comfort (though that
 
 **Step 3: Inspect every sealant bead.** Get close. You're looking for cracking (a fine network of surface cracks that looks like dried mud), separation from the substrate, shrinkage that's pulled the bead thin in the middle, and any discoloration that might indicate prior moisture intrusion. Old Dicor lap sealant that's been baking in the Arizona sun for four or five years often goes gray and brittle. It may still be technically adhered, but it'll fail in the next hard freeze.
 
-**Step 4: Check the seams.** Every RV roof has seams where panels meet, and where the roof membrane meets sidewalls or the front cap. Run your finger along these. On an EPDM roof, the seam tape should feel firmly bonded, with no lifting edges. On a TPO roof, the seams are heat-welded and failure usually shows up as a crack along the weld line.
+**Step 4: Check the seams.** Every RV roof has seams where panels meet, and where the [roof membrane meets sidewalls](/rv-roof-repair-sealing/) or the front cap. Run your finger along these. On an EPDM roof, the seam tape should feel firmly bonded, with no lifting edges. On a TPO roof, the seams are heat-welded and failure usually shows up as a crack along the weld line.
 
 **Step 5: Look at the AC unit base gasket.** This one specifically, because AC units vibrate constantly while running and that vibration works on the mounting seal for years. The gasket compresses over time. On my current rig (a 2018 Tiffin Allegro Bus), I replaced the Dometic Penguin II base gasket at around 50,000 miles of highway travel because it had compressed from about 3/4 inch to nearly nothing.
 
 **Step 6: Go back inside and look up.** With all the lights off, use a bright flashlight to look at the ceiling panels in the areas above where you found anything suspicious outside. Press gently on the ceiling material. Any sponginess, staining, or musty smell is a red flag.
 
 ## Rubber vs. TPO vs. Fiberglass: The Inspection Differences Actually Matter
+
+| Roof Type | UV Sensitivity | Sealant Type | Seam Construction | Common Failure Points |
+| --- | --- | --- | --- | --- |
+| EPDM Rubber | High (requires annual conditioning) | EPDM-compatible lap sealant | Taped seams | Penetrations, UV chalking, micro-cracks |
+| TPO | Low (more UV-resistant) | Heat-welded | Heat-welded seams | Corners, sharp transitions, seam load sensitivity |
+| Fiberglass | Varies | Depends on substrate | Varies | (covered in article) |
 
 I've lived with all three roof types over the years. They don't fail the same way.
 

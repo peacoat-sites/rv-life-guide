@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Most people who email me about full-timing have already figured out the "where will you sleep" problem. What stops them is the money question. Specifically: *can I actually keep income coming in while I'm doing this?*
 
@@ -42,6 +42,15 @@ Don't think "I need a remote job." Think "I need income streams that don't depen
 ---
 
 ## Remote Employment vs. Freelance: The Real Difference
+
+| Income Source | Monthly Range | Risk Profile | Best For |
+| --- | --- | --- | --- |
+| Software development/QA testing | $8,000-12,000 | Low | Mid-level developers with direct clients |
+| Copywriting and content strategy | $0.15-0.25/word | Medium | Specialists (SaaS, healthcare, legal) |
+| Virtual bookkeeping | $40-75/hour | Low | Those with established client base |
+| Customer success/account management | Varies | Medium | SaaS experience, business hours availability |
+| Online course creation | Varies | High initial, Low ongoing | Digital product builders |
+| Monthly living expenses (paid-off rig) | $3,500 | N/A | Baseline full-timer budget |
 
 Most advice on this makes it sound like remote employment is the safe choice and freelancing is the risky one. I'd flip that.
 

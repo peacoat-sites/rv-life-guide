@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 You've just pulled into a full-hookup site after a 400-mile drive. Your back hurts, the dog needs out, and your partner's already asking when dinner is happening. You spot the pedestal with the water spigot, the 30-amp outlet, and the sewer cleanout cap, and you think: *I've got this*. Then you forget the order of operations, hook up water before leveling, and spend the next twenty minutes re-doing everything while your neighbor watches from a lawn chair. I've been that person. I've also been the neighbor watching someone flood their own sewer hose connection all over a perfectly nice campsite in Moab.
 
@@ -44,6 +44,15 @@ I've seen two inverters and one air conditioning unit get fried by power pedesta
 **Sewer last.** Always. This one isn't debatable.
 
 ## Electric Hookup: 30-Amp vs. 50-Amp and What Goes Wrong
+
+| Component | 30-Amp Service | 50-Amp Service | Notes |
+| --- | --- | --- | --- |
+| Typical RV Type | Smaller/older rigs | Large fifth wheels, Class A, dual AC | |
+| Connector Size | Standard | Large | Arcing risk if breaker not off |
+| Using 50-amp pedestal with 30-amp RV | N/A | Works fine with dogbone adapter | No power management needed |
+| Using 30-amp pedestal with 50-amp RV | N/A | Possible with adapter | Requires careful power management |
+| Breaker Protocol | Off before plug-in, on after | Off before plug-in, on after | Critical for both |
+| Recommended Cord Type | 30-amp shore power cord | 50-amp shore power cord | Never use household extension cords |
 
 If you're new to this, the amp service question trips people up first. Most older or smaller rigs run on 30-amp service. Larger fifth wheels, Class A coaches, and anything with two air conditioners typically need 50-amp. A 50-amp RV can plug into a 30-amp pedestal with an adapter, but you'll be managing power carefully. A 30-amp rig on 50-amp service with a dogbone adapter works fine.
 

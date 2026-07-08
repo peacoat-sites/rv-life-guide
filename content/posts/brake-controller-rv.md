@@ -23,6 +23,7 @@ faqs:
     a: "Only trailers with electric brakes (or electric-over-hydraulic systems). If your trailer has surge brakes, a brake controller won't do anything. If your trailer has no brakes at all (common on small utility trailers under 3,000 lbs), there's nothing for the controller to connect to."
   - q: "How do I know if my brake controller is actually working?"
     a: "Most controllers have a manual override button or lever that lets you apply trailer brakes without touching your truck's brake pedal. With the trailer connected and the truck running, press it. You should feel the truck slow from trailer brake drag alone. If nothing happens, start with your 7-pin connection, check your brake output wiring, and confirm the trailer's breakaway battery (if equipped) is charged."
+lastmod: 2026-07-07
 ---
 
 Three years into full-timing, I nearly blew through a red light with 14,000 pounds of trailer pushing my truck from behind. I had a brake controller installed. It just wasn't set up right. That moment -- a long screech, white knuckles, a lot of adrenaline on a Colorado highway -- is why I talk about brake controllers the way some people talk about seatbelts.
@@ -33,15 +34,20 @@ If you're here, you might be wondering whether you actually need one, which one 
 
 ## What a Brake Controller Does (and Why You Can't Skip It)
 
-Your tow vehicle's brakes alone were not engineered to stop your truck plus a loaded travel trailer or fifth wheel. The physics are blunt: more mass means more stopping distance, and the trailer's tendency to keep moving forward while your truck slows is what causes trailer sway and jackknifing.
+Your tow vehicle's brakes alone were not engineered to stop your truck plus a loaded travel trailer or fifth wheel. The physics are blunt: more mass means more stopping distance, and the trailer's tendency to keep moving forward while your truck slows is what causes [trailer sway and jackknifing](/sway-control-hitch-rv/).
 
 A brake controller sends a signal from your truck to the electric brakes on your trailer's axles, activating them in sync (or near-sync) with your truck's brakes. Your trailer helps stop itself instead of working against you.
 
-Legally, most states require a brake controller if your trailer's gross weight exceeds 3,000 pounds, and some states set that threshold at 1,500 pounds. If you're towing a mid-size travel trailer, you're almost certainly over either limit. As of July 2026, NHTSA hasn't created a single federal mandate that preempts state law here, so check your specific state, but assume you need one. You probably do.
+Legally, most states require a brake controller if your trailer's gross weight exceeds 3,000 pounds, and some states set that threshold at 1,500 pounds. If you're [towing a mid-size travel trailer](/how-to-calculate-rv-towing-capacity-correctly/), you're almost certainly over either limit. As of July 2026, NHTSA hasn't created a single federal mandate that preempts state law here, so check your specific state, but assume you need one. You probably do.
 
 ---
 
 ## Proportional vs. Time-Delayed: The Choice That Actually Matters
+
+| Controller Type | Price Range | Best For | Key Limitation |
+| --- | --- | --- | --- |
+| Time-Delayed | ~$60 | Light trailers, predictable roads | Doesn't respond to actual braking force |
+| Proportional | $120-$200 | Trailers over 6,000 lbs loaded | Requires precise level mounting for accelerometer |
 
 There are two kinds of brake controllers, and this is where most people get confused or get bad advice at the dealership.
 

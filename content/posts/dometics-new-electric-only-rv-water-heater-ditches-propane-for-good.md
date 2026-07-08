@@ -12,6 +12,7 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 slug: "dometics-new-electric-only-rv-water-heater-ditches-propane-for-good"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Most RVers still think of propane as a permanent fixture, something you'll always need to fill, maintain, and occasionally troubleshoot at 6 a.m. when the pilot won't light. Dometic just made a concrete move toward proving that assumption wrong.
@@ -39,6 +40,14 @@ The Dometic launch didn't arrive alone. On the same day, Winnebago announced the
 The pattern here is worth naming: two major players in the RV industry both moved toward all-electric onboard systems in the same week. That's either a coincidence or it's the industry responding to the same upstream signals at the same time. My read is the latter. Lithium battery costs have dropped enough that 5,000 watt-hours is no longer a luxury upsell. Shore power infrastructure at campgrounds keeps improving. And the buyers entering the market right now, especially full-timers and long-term travelers, are increasingly comfortable with managing battery banks and less interested in hauling propane.
 
 ## The Shore Power Question Every Full-Timer Should Ask
+
+| Factor | Shore Power Dependent | Boondocking Heavy |
+| --- | --- | --- |
+| Water Heater Performance | Excellent | Poor |
+| Battery Drain Concern | Minimal | Critical |
+| Solar Recharge Dependency | Low | High |
+| Ideal RVer Profile | Full-timers at established sites | Dispersed/remote campers |
+| Electric-Only Suitability | High | Low |
 
 There's a real practical tension here that I don't want to gloss over. A propane-free water heater works beautifully when you're plugged into 30-amp or 50-amp shore power. It works less beautifully when you're dry camping for three days in the Bighorn Mountains with no hookup in sight.
 

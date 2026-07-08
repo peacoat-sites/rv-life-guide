@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 My first month living full-time in a van cost me $1,847. My second month cost $3,200. I'd blown a wheel bearing somewhere on I-40 outside Amarillo and had to limp into a Pep Boys. Welcome to van life budgeting.
 
@@ -50,7 +50,7 @@ Before we get into the variables, here's what almost every van dweller is paying
 
 **Fuel.** Diesel Sprinters get around 20-24 mpg on the highway, which sounds pretty good until you're doing 2,000 miles in a month. Gas-powered Transits hit closer to 15-18 mpg. Figure $200 to $500 monthly depending on how much you're moving around. During my more sedentary months I averaged about $280, but during the big cross-country pushes I was hitting nearly $500. You can really slash this number by staying put for two weeks at a time. But chase good weather and hit three states a month, and it adds up fast.
 
-**Campsite fees.** This is where most people get most unrealistic. Sure, there's tons of free camping on BLM land in the West. I've spent weeks in the Escalante area of Utah paying nothing. But free camping isn't evenly distributed. The good spots are increasingly packed. Some seasons you'll rely on paid campgrounds way more than you planned. My monthly campsite average over eight years has been somewhere between $80 and $350. It was lower when I was in the Southwest, way higher when I was in the Southeast or Pacific Northwest where free dispersed camping thins out considerably. An America the Beautiful pass runs $80/year and it's genuinely one of the best purchases you can make if you're camping in National Forests or on BLM land regularly.
+**Campsite fees.** This is where most people get most unrealistic. Sure, there's tons of [free camping on BLM land](/boondocking-free-camping/) in the West. I've spent weeks in the Escalante area of Utah paying nothing. But free camping isn't evenly distributed. The good spots are increasingly packed. Some seasons you'll rely on paid campgrounds way more than you planned. My monthly campsite average over eight years has been somewhere between $80 and $350. It was lower when I was in the Southwest, way higher when I was in the Southeast or Pacific Northwest where free dispersed camping thins out considerably. An America the Beautiful pass runs $80/year and it's genuinely one of the best purchases you can make if you're camping in National Forests or on BLM land regularly.
 
 **Food and water.** Van life doesn't make you a cheaper eater automatically. Some people cook every meal on their two-burner propane stove and spend $200 a month on groceries. Others eat out constantly because cooking in a van in July in Phoenix is genuinely miserable. I budget $350 to $500 a month for food, including groceries and occasional restaurant meals. Water's usually minor if you're filling up at campgrounds or using a Berkey or similar gravity filter system. But in dry areas you'll pay for it at fill stations.
 

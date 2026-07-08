@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 The couple ahead of me at a Harvest Hosts winery in Oregon had been full-timing for three years in a 42-foot fifth wheel. Their rig had a washer/dryer combo, a residential refrigerator, a king-size bed, and enough storage that their teenage daughter had her own defined "zone" with a door. I was living in a 24-foot travel trailer at the time, doing laundry at coin-ops and sleeping on a mattress I could touch from both sides without moving. That conversation changed everything I thought I knew about full-time RV living. Fifth wheels, I learned that afternoon, are a different category entirely.
 
@@ -54,6 +54,13 @@ Not every fifth wheel is built for full-time living. Some are weekend rigs dress
 **Tiffin Allegro Bay** and **DRV Mobile Suites** round out the premium end. DRV in particular is the closest thing to a factory-built permanent home in the fifth wheel world. Triple-slide floor plans, residential appliances, tile floors, and solid wood cabinetry are standard. If you're retiring into a fifth wheel and plan to stay in one spot for months at a time, DRV deserves serious consideration.
 
 ## Side-by-Side Comparison: Four Popular Full-Time Fifth Wheels
+
+| Model | Approx. New Price | Fresh Tank | Four-Season Rated | Frame Type | Best For |
+|---|---|---|---|---|---|
+| Grand Design Solitude 380FL | $85,000-$105,000 | 100 gal | Yes | Wood/aluminum composite | Couples, small families |
+| Keystone Montana 3855BR | $65,000-$80,000 | 60 gal | Partial (Climate Package) | Wood | Budget-conscious full-timers |
+| Luxe Elite 44MB | $130,000-$160,000 | 100 gal | Yes | Full aluminum | Long-term full-timers, retirees |
+| DRV Mobile Suites 44Memphis | $150,000-$175,000 | 100 gal | Yes | Steel/aluminum hybrid | Stationary or slow-travel full-timers |
 
 | Model | Approx. New Price | Fresh Tank | Four-Season Rated | Frame Type | Best For |
 |---|---|---|---|---|---|

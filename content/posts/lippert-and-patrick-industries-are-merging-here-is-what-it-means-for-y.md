@@ -12,6 +12,7 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 slug: "lippert-and-patrick-industries-are-merging-here-is-what-it-means-for-y"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 You're sitting in a campground in August, trying to schedule a slide-out repair, and the service writer tells you it's a six-week wait for a Lippert motor. Annoying, right? Now imagine that same company also controls the wall panels, the windows, the axles, and the flooring in your rig. That's not a hypothetical scenario anymore. On June 30, 2026, Patrick Industries and LCI Industries (Lippert's parent) announced a definitive all-stock merger agreement, with both boards voting unanimously to approve it. If this deal clears regulatory review, the RV industry will have one dominant supplier touching almost every component in your home on wheels.
@@ -19,6 +20,20 @@ You're sitting in a campground in August, trying to schedule a slide-out repair,
 I've been watching this industry for eight years from the driver's seat. This merger is the biggest structural shift I've seen in the supply chain, and RVers need to understand what it actually means before it gets waved through as just another Wall Street story.
 
 ## What These Two Companies Actually Control
+
+| Component Category | Lippert Supplies | Patrick Supplies |
+| --- | --- | --- |
+| Frames & Chassis | ✓ | |
+| Axles | ✓ | |
+| Leveling Systems | ✓ | |
+| Slide-Out Mechanisms | ✓ | |
+| Windows | ✓ | |
+| Electronics (Furrion) | ✓ | |
+| Interior Components | | ✓ |
+| Exterior Sheeting | | ✓ |
+| Structural Panels | | ✓ |
+| Decorative Surfaces | | ✓ |
+| Cabinetry | | ✓ |
 
 Most people don't realize how much of a typical RV already comes from Lippert and Patrick combined. Lippert supplies frames, chassis, axles, leveling systems, slide-out mechanisms, windows, and Furrion electronics. Patrick handles interior components, exterior sheeting, structural panels, decorative surfaces, and cabinetry. Between them, they're already inside virtually every production RV rolling off the line in Elkhart.
 

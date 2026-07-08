@@ -23,13 +23,22 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Most RV guides spend three paragraphs on sewer connections and then pivot to campground food recommendations. Meanwhile, you're standing in a gravel site at 7 PM trying to figure out why raw sewage is pooling around your boot. Let's skip the fluff and talk about what actually matters when you're hooking up to a sewer connection, because getting this wrong isn't just unpleasant. It's a health hazard, and it can destroy your tank sensors, your seals, and your dignity in front of the entire campground.
 
 ---
 
 ## Gear That Actually Matters (and What You Can Skip)
+
+| Component | Necessity | Notes |
+| --- | --- | --- |
+| Quality sewer hose (20-foot) | Non-negotiable | Thick walls, decent fittings, resists kinking |
+| Sewer hose support | Non-negotiable | Prevents sagging and residue buildup; ~$25 |
+| Nitrile gloves (thick) | Non-negotiable | Buy by the box |
+| Hose-end cap with gasket | Non-negotiable | Replace factory caps to prevent failure |
+| Hose extenders beyond 25 feet | Optional | Indicates poor site selection if regularly needed |
+| Daily deodorant treatments | Optional | Enzyme treatments help maintenance but not required daily |
 
 The industry loves selling you accessories. Half of them are junk. Here's what you genuinely need versus what collects dust in your wet bay.
 
@@ -73,7 +82,7 @@ Step-by-step matters here because the sequence is not obvious, and doing it back
 
 **Step 9: Disconnect hose from pedestal end first.** Cap your rig-side fitting before removing it from your RV. Then drain any residual water out of the hose by raising the rig end while holding the pedestal end down.
 
-**Step 10: Rinse your hose.** Most campgrounds have a dedicated hose for this. Use it. Don't use your drinking water hose to rinse sewer equipment. Store the hose in a dedicated sealed compartment, never near food storage or water supply.
+**Step 10: Rinse your hose.** Most campgrounds have a dedicated [hose for this](/rv-dump-station-guide/). Use it. Don't use your drinking water hose to rinse sewer equipment. Store the hose in a dedicated sealed compartment, never near food storage or water supply.
 
 ---
 
@@ -81,7 +90,7 @@ Step-by-step matters here because the sequence is not obvious, and doing it back
 
 Staying on full hookups for a week or more changes everything. Most people leave the sewer hose connected and open the gray valve to drain continuously. That's fine. But leaving the black valve open is one of the most destructive habits in RV ownership.
 
-An open black valve on a full-hookup site means liquids drain out immediately, leaving solids behind. Over time you build what the RV service community charmingly calls a "pyramid of doom", a solid mound of waste and tissue that hardens in your tank. I've replaced tank sensors on rigs that were only two years old because of this habit.
+An open black valve on a [full-hookup site](/rv-hookup-water-electric-sewer/) means liquids drain out immediately, leaving solids behind. Over time you build what the RV service community charmingly calls a "pyramid of doom", a solid mound of waste and tissue that hardens in your tank. I've replaced tank sensors on rigs that were only two years old because of this habit.
 
 Keep the black tank valve closed. Open it every two to three days, or when the tank reaches two-thirds full. Give it enough volume that the flush has force behind it.
 

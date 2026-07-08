@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 Most winterizing guides are written for people who park their rig in October and don't think about it again until May. That's not you. And doing this wrong when you live in your RV full-time is a completely different kind of problem, because you can't just walk inside and call a plumber.
 
@@ -43,11 +43,22 @@ For rigs without a heated underbelly, or older builds where insulation has compr
 
 Pipe heating cables are the most reliable thing I've found. The Frost King 6-foot self-regulating cable (around $25 at Lowe's or Amazon) wraps around your water inlet and fresh water lines near the underbelly. Self-regulating is key. The cable draws more power when temperatures drop and backs off when it's warmer, so you're not running it full blast 24/7. I've also had good luck with the Camco TastePURE heated water hose (about $80-100), which stays flexible and unfrozen down to -20°F. Worth every dollar if you're on city water hookups.
 
-Your holding tanks are different. Gray and black tanks will freeze if temps stay below 20°F for more than a couple days. Tank heater pads like the Facon brand 12V pads (about $30 each) stick directly to the tank and pull from your 12V system. They work, but they also draw constant power, which matters if you're off-grid.
+Your holding tanks are different. Gray and [black tanks will freeze](/rv-black-tank-treatment/) if temps stay below 20°F for more than a couple days. Tank heater pads like the Facon brand 12V pads (about $30 each) stick directly to the tank and pull from your 12V system. They work, but they also draw constant power, which matters if you're off-grid.
 
 One more thing people overlook: your water pump. If you're dry camping and your fresh tank is inside or insulated, the pump itself is usually fine. But the lines from the pump to your fixtures can still freeze in the cabinet spaces. Leaving cabinet doors under sinks open overnight lets ambient cabin heat reach those lines.
 
 ## Skirting: Ugly, Effective, and Non-Negotiable Below 20°F
+
+| Component | Product Example | Cost | Temperature Rating | Notes |
+| --- | --- | --- | --- | --- |
+| Pipe heating cable | Frost King 6-foot self-regulating | $25 | Down to 0°F (with furnace support) | Self-regulating draws power only as needed |
+| Heated water hose | Camco TastePURE | $80-100 | Down to -20°F | Stays flexible, best for city water hookups |
+| Tank heater pad | Facon 12V | $30 each | Prevents freezing below 20°F | Draws constant power; consider off-grid impact |
+| Skirting (premium) | EZ Snap | $400-700 | Extends propane tank life 50-80% | Reusable, quick install, weather presentable |
+| Skirting (budget) | XPS foam board 1.5" | $40-50 per sheet | Nearly equivalent to premium | Requires cutting and manual anchoring |
+| Portable heater (daytime) | Mr. Heater Little Buddy | $90 | Indoor-safe 3,800 BTU | For occupied spaces only |
+| Portable heater (nighttime) | Ceramic 1,500W | Variable | On shore power only | Supplementary overnight heating |
+| CO detectors | Kidde brand | $25 | - | Test monthly, replace every 5-7 years |
 
 I resisted skirting for two winters. Thought it looked bad. Thought it would be too much work to set up and take down every time I moved. I was wrong.
 

@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 You've handed in your notice, sold most of your furniture, and signed the title on a used Class A motorhome. The excitement is real. Then someone at the going-away party asks, "So what are you doing for health insurance?" and the room gets quiet. It's one of the most overlooked logistical hurdles in full-time RV life, and it can genuinely derail your plans if you don't sort it out before you pull out of the driveway for the last time.
 
@@ -36,6 +36,15 @@ The biggest trap new full-timers fall into is picking a plan based on where they
 Then there's legal domicile. Full-time RVers need to establish residency somewhere, even if they're never there. South Dakota, Texas, and Florida are the three most popular domicile states because they have no state income tax and relatively simple residency requirements. Your choice of domicile state directly affects which ACA Marketplace plans you can shop, so it's not a decision you can make in isolation from your insurance search. If you're still figuring out the whole domicile and logistics side of things, our [full-time RV living guide](/full-time-rv-living-guide/) covers it in detail.
 
 ## The Main Health Insurance Options for Full-Time RVers
+
+| Insurance Option | Best For | Key Limitation | Cost Range |
+| --- | --- | --- | --- |
+| ACA Marketplace Plans | Under 65, self-employed, no employer coverage | Geography-dependent networks | $0-$600+/month (varies by income & credits) |
+| Employer-Sponsored | Remote workers with coverage | HMO networks are location-specific | Employer dependent |
+| COBRA | Short-term bridge coverage | Expensive, temporary (18 months max) | $600-$800+/month |
+| Health Sharing Ministries | Budget-conscious full-timers | May exclude pre-existing conditions, no guarantee | $100-$400/month |
+| VA Benefits | Veterans | Limited to those who qualify | Free to low-cost |
+| Short-Term Plans | Gap coverage only | Excludes pre-existing conditions & preventive care | $100-$300/month |
 
 Let's go through the realistic options one by one, because the right answer depends on your age, income, health status, and travel style.
 

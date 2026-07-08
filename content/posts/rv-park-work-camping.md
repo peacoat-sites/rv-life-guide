@@ -23,6 +23,7 @@ faqs:
    a: "For desirable parks, particularly state parks in the Pacific Northwest, Colorado, or national forest campgrounds, six to nine months in advance isn't too early. Private resort positions tend to have more turnover and shorter lead times, sometimes as little as four to six weeks. Summer positions at popular parks fill by February most years."
  - q: "What happens if the arrangement isn't working out?"
    a: "This depends entirely on what you agreed to upfront. Most informal arrangements have a two-week notice convention on both sides. If you're at an established park with a written agreement, read the exit clause before you sign. I've known workampers who left positions mid-season, and the main risk is losing any site deposit, plus burning a professional reference you might want later. It happens, and it's rarely catastrophic."
+lastmod: 2026-07-07
 ---
 
 Most people who discover work camping think they've found a secret. Free campsite, a little part-time work, problem solved. I thought the same thing my second year on the road, and I'll be honest: the reality was messier, more interesting, and ultimately more sustainable than I expected, but not in the ways the cheerful blog posts suggested.
@@ -39,9 +40,17 @@ I did a camp host stint at a Corps of Engineers lake campground in Oklahoma, and
 
 ## How the Economics Actually Work
 
+| Position Type | Typical Hours/Week | Site Value (Monthly) | Effective Hourly Rate | Notes |
+| --- | --- | --- | --- | --- |
+| Camp Host (most common) | 20-24 | $1,200-1,800 | $15-22 | 3-4 days/week, light maintenance & guest services |
+| Maintenance/Groundskeeping | 20-40 | $1,200-1,800 | $15-22+ | Varies by skill level |
+| Front Desk/Reservations | 20-40 | $1,200-1,800 | $15-22+ | May require specific hours |
+| Trades (Diesel, Plumbing, Electrical) | 20-40 | $1,200-1,800 + $10-15/hr wage | $25-37+ | Hourly wages on top of free site; best compensation |
+| Activities/Social Media Coordination | 20-40 | $1,200-1,800 | $15-22+ | Increasingly common at larger resorts |
+
 This is where I want to push back against the most common framing in work camping discussions, which is that a free site equals free money. It often doesn't.
 
-Run the actual numbers. A full hookup site at a decent private campground runs $40-65 a night in most parts of the country as of this year. Call it $1,200-1,800 per month in site value. If you're working 20 hours a week, that's 80 hours a month. Divide your site value by hours worked and you get an effective hourly rate of roughly $15-22. That sounds reasonable until you account for the fact that you're also locked into one location, potentially burning through propane and electricity faster because your rig is stationary, and giving up the flexibility that most of us went full-time to get.
+Run the actual numbers. A full hookup site at a decent private campground runs $40-65 a night in most parts of the country as of this year. Call it $1,200-1,800 per month in site value. If you're working 20 hours a week, that's 80 hours a month. Divide your site value by hours worked and you get an effective hourly rate of roughly $15-22. That sounds reasonable until you account for the fact that you're also locked into one location, potentially burning through propane and electricity faster because your rig is stationary, and giving up the flexibility that most of us went [full-time](/best-remote-jobs-for-full-time-rvers/) to get.
 
 That said, if you need to dramatically cut your monthly burn rate for a season, or you've landed somewhere you genuinely want to stay for a few months, the math flips. I spent a winter in the Florida Keys doing work camping at an RV resort, and the alternative would have been $2,400/month for a site. That winter the work camping deal was genuinely unbeatable. Location matters enormously.
 

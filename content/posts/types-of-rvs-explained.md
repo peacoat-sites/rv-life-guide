@@ -23,11 +23,20 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
-Before I signed the papers on my first RV, I stood in a dealership lot in Phoenix staring at 47 different units and felt absolutely paralyzed. A Class A diesel pusher sat next to a tiny teardrop trailer. A toy hauler loomed over a pop-up camper. The salesman used terms like "fifth wheel" and "Class B+" and "toy hauler slide-out" like I was supposed to already know what any of that meant. I didn't. I almost bought the wrong rig entirely. Six years and 90,000 miles later, I want to give you the breakdown I wish someone had handed me that afternoon.
+Before I signed the papers on my first RV, I stood in a dealership lot in Phoenix staring at 47 different units and felt absolutely paralyzed. A [Class A diesel pusher](/class-a-vs-class-b-vs-class-c-rv/) sat next to a tiny teardrop trailer. A toy hauler loomed over a pop-up camper. The salesman used terms like "fifth wheel" and "Class B+" and "toy hauler slide-out" like I was supposed to already know what any of that meant. I didn't. I almost bought the wrong rig entirely. Six years and 90,000 miles later, I want to give you the breakdown I wish someone had handed me that afternoon.
 
 ## Motorized RVs: Classes A, B, and C
+
+| RV Type | Length Range | Price Range (New) | Fuel Economy | Best For |
+| --- | --- | --- | --- | --- |
+| Class A (Gas) | 24-45 ft | $80,000-$150,000 | 6-10 MPG | Full-featured living space |
+| Class A (Diesel) | 24-45 ft | $150,000-$500,000+ | 6-10 MPG | Luxury, long-term touring |
+| Class B | 18-24 ft | $90,000-$180,000 | 18-22 MPG | Solo travelers, couples, stealth camping |
+| Class C | 20-38 ft | $70,000-$160,000 | - | Families, first-time motorized RV buyers |
+| Travel Trailer | 12-35 ft | $15,000-$80,000+ | - | Couples, families, unhitching flexibility |
+| Fifth Wheel | 22-40 ft | $30,000-$200,000 | - | Full-time living, stability, home-like layout |
 
 The big dividing line in the RV world is whether your living space is attached to its own engine or whether you tow it behind a separate vehicle. Motorized RVs combine both into one unit. They come in three classes, and the differences matter a lot more than the alphabet suggests.
 

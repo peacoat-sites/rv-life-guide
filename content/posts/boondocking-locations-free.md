@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 Most people think free camping means roughing it in some dusty lot behind a Walmart. I thought that too, until I spent three weeks in southern Utah on Bureau of Land Management land and realized I was waking up to red rock formations that resort campers were paying $400 a night to see from a lodge window. That's the thing nobody tells you when you're just getting started: the free stuff is often the best stuff. Not always, not everywhere, but often enough that once you find your first legitimate boondocking spot, you'll wonder why you ever paid for a full-hookup site at a noisy commercial campground.
 
@@ -44,7 +44,7 @@ I've spent eight years finding free land, making mistakes, getting stuck (litera
 
 Let me clear up the vocabulary first, because people confuse these terms constantly and that's when problems start.
 
-**Boondocking** means camping without hookups, usually off-grid, often on public land. It's a catch-all that covers everything from a legal dispersed campsite on national forest land to dry camping in a casino parking lot. Here's the thing people get wrong: boondocking doesn't automatically mean free. You can boondock on private land that costs money. You can also camp for free in a developed campground if you stay off the grid.
+**Boondocking** means camping without hookups, usually [off-grid](/boondocking-without-hookups/), often on public land. It's a catch-all that covers everything from a legal dispersed campsite on national forest land to dry camping in a casino parking lot. Here's the thing people get wrong: boondocking doesn't automatically mean free. You can boondock on private land that costs money. You can also camp for free in a developed campground if you stay off the grid.
 
 **Dispersed camping** is specific. The Forest Service and BLM use this term to mean camping outside designated campground areas on lands that permit it. Most of the time, it's free. The rules are straightforward: stay at least 200 feet from water sources and roads, leave no trace, follow the 14-day stay limit. That last one gets enforced harder than people expect. I've had rangers knock on my door at day 13 to politely remind me the clock was ticking.
 
@@ -58,9 +58,9 @@ Free camping exists in abundance across the United States. The catch is knowing 
 
 These three federal land categories are where boondocking actually happens. They cover a staggering amount of territory.
 
-**Bureau of Land Management land** is the foundation of this whole thing. The BLM manages 245 million acres, mostly in western states. Arizona, Nevada, Utah, Colorado, New Mexico, Idaho, Montana, Wyoming, Oregon, California: these are your playgrounds. The concentration in the Southwest is why you see so many full-time RVers migrate west every fall. Places like Quartzsite, Arizona become temporary cities of dispersed campers every January, with tens of thousands of rigs legally parked on open desert for free (or for a nominal Long Term Visitor Area fee of around $180 for the season).
+**Bureau of Land Management land** is the foundation of this whole thing. The BLM manages 245 million acres, mostly in western states. Arizona, Nevada, Utah, Colorado, New Mexico, Idaho, Montana, Wyoming, Oregon, California: these are your playgrounds. The concentration in the Southwest is why you see so many full-time RVers migrate west every fall. Places like Quartzsite, Arizona become temporary cities of dispersed campers every January, with tens of thousands of rigs legally parked on open desert for free (or for a nominal [Long Term Visitor Area fee](/best-boondocking-spots-on-blm-land-out-west/) of around $180 for the season).
 
-**National Forests** are managed by the U.S. Forest Service, and dispersed camping is allowed on most of them unless specifically posted otherwise. The real difference from BLM: you're usually in mountains and trees rather than desert. That means cooler temperatures but also worse cell signal and sometimes rougher roads. I've had some of my best Colorado summers parked in a national forest at 9,000 feet, paying nothing, with temperatures 30 degrees cooler than the valley below.
+**National Forests** are managed by the U.S. Forest Service, and [dispersed camping is allowed](/dispersed-camping-guide/) on most of them unless specifically posted otherwise. The real difference from BLM: you're usually in mountains and trees rather than desert. That means cooler temperatures but also worse cell signal and sometimes rougher roads. I've had some of my best Colorado summers parked in a national forest at 9,000 feet, paying nothing, with temperatures 30 degrees cooler than the valley below.
 
 **National Grasslands** get completely ignored. They're Forest Service land, dispersed camping is allowed, and because nobody talks about them, they're often empty. The Kiowa National Grassland in New Mexico. The Thunder Basin in Wyoming. The Sheyenne in North Dakota. I've had 360-degree views with zero neighbors in places most people just drive through.
 

@@ -23,10 +23,11 @@ faqs:
    a: "It depends on the country. Mexico, most of Central America, and many parts of Europe have no practical enforcement for short-to-medium stays. A few countries (Germany being the most famous example) actively prohibit homeschooling. For extended international travel, research the specific country before you go and factor residency length into your plans."
  - q: "How do we handle kids who push back on schoolwork while traveling?"
    a: "Honestly, this is mostly a first-year problem. The novelty of the road competes with sitting down to do math, and it's a real friction point. A few things help: keeping school sessions short and focused, connecting curriculum to wherever you are physically (if you're near a Civil War battlefield, that's history class today), and giving kids more agency in what they study and how. The kids who struggle most tend to be the ones with a very rigid schedule imposed on them. Some flexibility in the how tends to increase buy-in on the what."
+lastmod: 2026-07-07
 ---
 My son was "behind" in math for exactly three weeks before his grandmother, a retired teacher, panicked and told my wife we were ruining his education. That was in our first year on the road. He's 14 now, reads at a college level, and recently spent two days absorbed in calculating the fuel-to-distance ratios of different diesel engines because we were shopping rigs. The math caught up.
 
-I'm not saying that to brag. I'm saying it because the fear that your kid will fall through the cracks is real, and it's the first thing that holds people back from combining full-time RV life with homeschooling. What most people don't realize is that the logistical challenges of RV homeschooling are actually pretty manageable. The emotional challenge of trusting the process? That's the harder thing, and no curriculum solves it.
+I'm not saying that to brag. I'm saying it because the fear that your kid will fall through the cracks is real, and it's the first thing that holds people back from combining [full-time RV life with homeschooling](/rv-life-with-kids/). What most people don't realize is that the logistical challenges of RV homeschooling are actually pretty manageable. The emotional challenge of trusting the process? That's the harder thing, and no curriculum solves it.
 
 Eight years in, I've talked to hundreds of families doing this. I've made plenty of mistakes myself. Here's what I actually know.
 
@@ -44,7 +45,7 @@ Eight years in, I've talked to hundreds of families doing this. I've made plenty
 
 Homeschool law in the U.S. is a state-by-state patchwork, and it genuinely matters where you're legally domiciled, not where you're physically parked on Tuesday.
 
-Most full-time RV families establish legal domicile in one of three states: South Dakota, Texas, or Florida. These are popular precisely because they have no state income tax, relatively light vehicle registration requirements, and critically, workable homeschool laws. South Dakota only requires that you notify the local school district once a year. Florida requires you to either file an annual notice with your county school superintendent or use an umbrella school. Texas is the most relaxed option, essentially treating homeschool as a private school with minimal oversight.
+Most [full-time RV families](/working-remotely-from-rv/) establish legal domicile in one of three states: South Dakota, Texas, or Florida. These are popular precisely because they have no state income tax, relatively light vehicle registration requirements, and critically, workable homeschool laws. South Dakota only requires that you notify the local school district once a year. Florida requires you to either file an annual notice with your county school superintendent or use an umbrella school. Texas is the most relaxed option, essentially treating homeschool as a private school with minimal oversight.
 
 Here's the thing people get wrong: you don't need to comply with the laws of every state you drive through. You don't. Your legal obligation is to the state where you're domiciled, period. I've seen families tie themselves in knots trying to track school requirements for every state on a road trip. That's not how it works.
 

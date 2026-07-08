@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 Most people shopping for RV solar panels start by asking "how many watts do I need?" That's the wrong first question. After eight years on the road and three separate solar builds across two different rigs, I can tell you the question that actually matters is: what does your battery bank look like? Because you can bolt 800 watts of panels to your roof and still run out of power by 9pm if your battery storage isn't matched to your generation. I've watched people spend $2,000 on panels and then wonder why their system underperforms. The battery bank is the foundation. Everything else is built on top of it.
 
@@ -49,6 +49,15 @@ You have four core pieces: the solar panels themselves, a charge controller, a b
 
 ## Battery Bank: The Decision That Changes Everything
 
+| Component | Lead-Acid (AGM) | Lithium (LiFePO4) |
+| --- | --- | --- |
+| Upfront Cost (100Ah) | $150-200 | $700-1,000 |
+| Usable Capacity | ~50% of rated | 80-90% of rated |
+| Cycle Life | 300-500 cycles | 2,000-3,000+ cycles |
+| Charging Speed | Slower | Faster |
+| Weight | Heavier | Significantly lighter |
+| Voltage Stability Under Load | Standard | Better |
+
 Lead-acid batteries (flooded, AGM, or gel) have been the RV standard for decades. They're cheap upfront, widely available, and well understood. But there's a catch most salespeople won't tell you: you can only safely use about 50% of a lead-acid battery's rated capacity before you start damaging the cells. So a 200Ah AGM battery actually gives you around 100Ah of usable power.
 
 Lithium iron phosphate (LiFePO4) batteries changed the math entirely. You can discharge them to 80-90% without damage, they charge faster, they hold voltage better under load, and they weigh significantly less. I made the switch to two 100Ah LiFePO4 batteries two years ago and it was the single best upgrade I've made to my electrical system, full stop.
@@ -69,7 +78,7 @@ Skip the online solar calculators that ask you to pick appliances from a dropdow
 
 **Step 2: Identify your consumption patterns.** My daily use runs about 80-100Ah on a typical day: a 12V refrigerator (about 40-50Ah/day), lighting (5-10Ah), phone and laptop charging (10-15Ah), a fan or small pump (variable). Heavy AC or microwave use changes these numbers dramatically.
 
-**Step 3: Size your battery bank first.** Aim for enough storage to cover 2 days of consumption without solar input. That gives you a buffer for cloudy days. At 100Ah/day, that's 200Ah of usable capacity, so 400Ah of AGM or 250Ah of LiFePO4.
+**Step 3: Size your battery bank first.** Aim for enough storage to cover 2 days of consumption without solar input. That gives you a buffer for [cloudy days](/dispersed-camping-guide/). At 100Ah/day, that's 200Ah of usable capacity, so 400Ah of AGM or 250Ah of LiFePO4.
 
 **Step 4: Size your panels to replenish in one good sun day.** In most of the US, you can count on 4-5 peak sun hours per day on average (less in the Pacific Northwest, more in the Southwest). To replace 100Ah in one day at 12V, you need roughly 1,200 watts of charging input across those peak hours (100Ah x 12V = 1,200 watt-hours, divided by 5 sun hours = 240 watts of panels, with some efficiency losses built in). I typically recommend sizing up 20-30% to account for real-world inefficiencies.
 

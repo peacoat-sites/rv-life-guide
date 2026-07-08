@@ -12,6 +12,7 @@ author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 slug: "data-center-boom-is-squeezing-rvers-out-of-campgrounds"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 You pull into a campground outside Cedar Rapids on a Wednesday afternoon in June, no holiday weekend in sight, expecting the usual mid-week availability. The host tells you they're full. Not just tonight. Full for the foreseeable future, with a waiting list. You ask who's taking up all the sites, and the answer surprises you: construction workers. Not campers. Not RVers. People building a data center who need somewhere cheap to sleep for the next two years.
@@ -25,6 +26,13 @@ The AI infrastructure buildout is enormous, and it needs bodies on the ground to
 Stephanie Chrisman manages Unhitched Sleepy Hollow and Lazy Acres RV Parks, and she told KCRG her parks went from 20 to 30% winter capacity, which is normal, to nearly full year-round, with a waiting list of roughly 20 workers sitting on it right now. The Amana RV Park and Event Center, a massive 450-plus-site property on 80 acres near Iowa City, reported its highest volume of long-term camping ever in 2026, and they directly credit data center construction for it. These aren't small parks being accidentally overwhelmed. These are big, established operations that were simply not designed to handle this kind of sustained industrial demand.
 
 ## This Isn't Just an Iowa Problem
+
+| Location | Park Name | Sites | Occupancy Change | Primary Driver |
+| --- | --- | --- | --- | --- |
+| Palo, IA | Pleasant Creek | Unknown | 20-30% to ~95%+ | Data center construction |
+| Iowa City, IA | Amana RV Park and Event Center | 450+ | Highest ever (2026) | Data center construction |
+| Cedar Rapids, IA | Unhitched Sleepy Hollow and Lazy Acres | Unknown | 20-30% to ~95%+ | Data center construction |
+| Port Washington, WI | Regional capacity | Unknown | Rising pressure | Vantage Data Centers (700+ workers) |
 
 I've seen demand spikes hit regional campground clusters before, usually around big events or temporary construction projects. What's different here is the timeline. These workers aren't leaving after a few weeks. Some of them plan to stay for years, locked into long-term monthly rates that campground owners have every financial reason to prefer over transient nightly traffic.
 

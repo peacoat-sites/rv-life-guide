@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 You're parked at a beautiful dispersed site in the Sonoran Desert, three days from the nearest hookup, and by 2 PM your inverter is screaming low-voltage warnings. Your generator is loud, your neighbors are close enough to hear it, and you're rationing whether to run the coffee maker or charge your laptop. If you've been there, you already know why people obsess over lithium batteries. If you haven't been there yet, trust me, you will think about this moment when you're shopping for your next upgrade.
 
@@ -56,6 +56,15 @@ Here's what I tell people to look for specifically:
 **Series and parallel compatibility.** Make sure the batteries you buy can be connected in series (for 24V systems) or parallel (to expand capacity) if your system needs it.
 
 ## The Real Cost Breakdown: Sticker Price vs. Lifetime Value
+
+| Factor | AGM (200Ah bank) | Lithium (200Ah bank) |
+|---|---|---|
+| Upfront cost | $300-$400 | $700-$1,400 |
+| Usable capacity | ~100Ah | ~180-190Ah |
+| Cycle life | 300-500 cycles | 2,000-5,000 cycles |
+| Weight | ~120 lbs | ~50-60 lbs |
+| Replacement frequency | Every 3-5 years | Every 10+ years |
+| 10-year total cost (est.) | $900-$1,200 | $700-$1,400 |
 
 The upfront cost of lithium batteries stops a lot of people cold, and I get it. A quality 100Ah LiFePO4 battery runs $300 to $700 depending on brand and features. A comparable AGM might cost $150 to $200. On paper, lithium costs twice as much or more.
 

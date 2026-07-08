@@ -23,21 +23,32 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Most RV coverage about BLM camping reads like a brochure written by someone who spent one weekend at a developed campground and called it "dispersed." They'll tell you it's free, it's beautiful, and you just need to "check the rules." What they skip: the road conditions that will destroy your rig if you pick the wrong site, the 14-day clock that catches beginners off guard, and the fact that "free" camping still carries real costs if you're not set up for it. Here's what actually matters.
 
 ## What BLM Land Is (and What People Get Wrong About It)
 
-Bureau of Land Management land covers roughly 245 million acres across the American West. That's more than any other federal agency manages, and the overwhelming majority of it allows dispersed camping at no charge, no reservation, no ranger checking your paperwork at a gate.
+Bureau of Land Management land covers roughly 245 million acres across the American West. That's more than any other federal agency manages, and the overwhelming majority of it allows [dispersed camping](/dispersed-camping-guide/) at no charge, no reservation, no ranger checking your paperwork at a gate.
 
 The freedom is real. But people confuse "open" with "easy."
 
-BLM land is not a campground. There are no hookups, no dump stations, no camp hosts. Cell service is often nonexistent. Roads can shift from passable to genuinely dangerous after a single rainstorm. The land doesn't care about your timeline or your slide-out. The agency's general rule is 14 consecutive days in one area, after which you must move at least 25 miles before returning. Some field offices have tighter restrictions, and a few high-demand areas like southern Utah's BLM corridor near Moab run seasonal closures.
+BLM land is not a campground. There are no hookups, no [dump stations](/boondocking-without-hookups/), no camp hosts. Cell service is often nonexistent. Roads can shift from passable to genuinely dangerous after a single rainstorm. The land doesn't care about your timeline or your slide-out. The agency's general rule is 14 consecutive days in one area, after which you must move at least 25 miles before returning. Some field offices have tighter restrictions, and a few high-demand areas like southern Utah's BLM corridor near Moab run seasonal closures.
 
 Here's where most guides get it wrong: people assume "BLM land" is one uniform policy. It's not. Each BLM field office sets its own specific rules, and those rules can vary dramatically from county to county. Before you leave your driveway, you need the specific field office number for where you're headed, not just a generic BLM website search.
 
 ## How to Find and Vet a Site Before You Commit Your Wheels
+
+| RV Type | BLM Dispersed Suitability | Key Consideration |
+| --- | --- | --- |
+| Class B Van | Excellent | Works fine at most sites |
+| Truck Camper | Excellent | High clearance advantage |
+| Small Class C | Good | Generally accessible |
+| Large Class C | Moderate | Requires road research |
+| Class A (30 ft) | Moderate | Need established areas or careful vetting |
+| Class A (35+ ft) | Limited | Established BLM areas only |
+| Fifth Wheel (35+ ft) | Limited | Established BLM areas only |
+| Low Clearance (<8 in) | Poor | Viable sites shrink significantly |
 
 Bad site selection is expensive. A blown tire on sharp volcanic rock. A wet clay road that swallowed a 26-foot trailer. A wash that flooded overnight. I've seen all of it. Due diligence before arrival is not optional.
 

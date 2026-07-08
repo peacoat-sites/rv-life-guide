@@ -23,9 +23,9 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
-I watched a couple at a dealership in Phoenix sign papers on a 32-foot Class A motorhome in about 45 minutes flat. They were giddy. They hadn't checked the roof, hadn't run the generator, hadn't filled the fresh water tank to test for leaks. Three weeks later I crossed paths with them at a campground in New Mexico, and that rig was already sitting broken at a mobile RV repair shop with a blown-out slide room seal and a dead inverter. The repair bill was north of $4,000. The honeymoon was over before the end of the first month.
+I watched a couple at a dealership in Phoenix sign papers on a 32-foot [Class A motorhome](/class-a-vs-class-b-vs-class-c-rv/) in about 45 minutes flat. They were giddy. They hadn't checked the roof, hadn't run the generator, hadn't filled the fresh water tank to test for leaks. Three weeks later I crossed paths with them at a campground in New Mexico, and that rig was already sitting broken at a mobile RV repair shop with a blown-out slide room seal and a dead inverter. The repair bill was north of $4,000. The honeymoon was over before the end of the first month.
 
 Buying an RV is nothing like buying a car. The complexity is closer to buying a house, except this house has an engine, a roof that flexes at highway speed, plumbing that can delaminate your walls from the inside out, and a resale market that punishes naivety hard and fast. Whether you're looking at a used travel trailer on Facebook Marketplace or a brand-new Class C at a megadealer, you need a real checklist before you hand over a single dollar.
 
@@ -35,7 +35,7 @@ This sounds obvious. It isn't. Most first-time buyers walk into the process with
 
 Start by answering four concrete questions before you look at a single unit:
 
-**What vehicle will tow or drive it?** If you're buying a towable, your tow vehicle dictates your universe. A half-ton truck typically maxes out around 8,000 to 11,000 lbs towing capacity depending on the configuration. A lot of fifth wheels exceed that. Don't assume. Pull up your truck's exact VIN on the manufacturer's tow guide, find the actual rated capacity, then subtract 20% as a real-world safety buffer. Tongue weight matters too, not just total weight.
+**What vehicle will tow or drive it?** If you're [buying a towable](/fifth-wheel-vs-travel-trailer/), your tow vehicle dictates your universe. A half-ton truck typically maxes out around 8,000 to 11,000 lbs towing capacity depending on the configuration. A lot of fifth wheels exceed that. Don't assume. Pull up your truck's exact VIN on the manufacturer's tow guide, find the actual rated capacity, then subtract 20% as a real-world safety buffer. Tongue weight matters too, not just total weight.
 
 **How many people are sleeping in it, regularly?** The floor plan has to work for your actual life. A couple can live happily in a 24-foot travel trailer. A family of four needs dedicated sleeping zones, not a dinette that "converts" to a bed that nobody wants to sleep in after day three.
 
@@ -66,9 +66,18 @@ This is where most buyers fail. Here's a methodical walkthrough you can actually
 
 Check every cabinet hinge and latch. Cheap hardware fails constantly. Open the wet bay and look at the water heater for rust around the base. Look at the ceiling in every room. Water stains are red flags even if they look old and dry. Smell matters. Musty odors in a closed-up RV usually mean mold somewhere.
 
-For used RVs especially, I'd strongly recommend hiring a professional RV inspector through NRVIA (National Recreational Vehicle Inspectors Association). Expect to pay $300 to $600 for a thorough inspection. It's cheap compared to what you might miss.
+For used RVs especially, I'd strongly recommend hiring a [professional RV inspector through NRVIA](/rv-inspection-what-to-check/) (National Recreational Vehicle Inspectors Association). Expect to pay $300 to $600 for a thorough inspection. It's cheap compared to what you might miss.
 
 ## New vs. Used: A Straight Comparison
+
+| Factor | New RV | Used RV (3-7 years old) |
+|---|---|---|
+| Price | Full retail, often 20-30% negotiable | 30-50% below original MSRP common |
+| Warranty | Manufacturer warranty (1-2 years typically) | Usually none, or limited dealer warranty |
+| Known history | Unknown until you drive it | Ideally obtainable from seller |
+| Depreciation risk | Steep in first 2-3 years | Already absorbed by previous owner |
+| Hidden problems | Possible factory defects | Possible deferred maintenance |
+| Customization | You choose options | You take what's there |
 
 | Factor | New RV | Used RV (3-7 years old) |
 |---|---|---|

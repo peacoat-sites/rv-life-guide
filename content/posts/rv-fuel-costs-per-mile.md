@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-
+lastmod: 2026-07-07
 ---
 I remember the exact moment the math hit me. It was a Tuesday in August 2021, somewhere between Amarillo and Albuquerque, and I pulled into a Flying J to fill up my 2017 Thor Ace 30.2. The pump clicked off at $187. I'd driven 241 miles. That's roughly 78 cents per mile, just in fuel, before I'd paid for a single campsite, a single repair, or a single meal. I sat in the driver's seat for a long minute staring at the receipt.
 
@@ -70,7 +70,7 @@ Fill your tank completely at your starting point. Note the odometer. Drive your 
 
 Do the math: miles driven divided by gallons used equals your actual mpg. Then divide your fuel price per gallon by your mpg. That's your cost per mile. Repeat this over at least 3 fill-ups before trusting the number. One tank can be an outlier based on terrain or wind.
 
-In my first year full-timing, I tracked every fill-up in a simple Google Sheet: date, location, gallons, price per gallon, odometer. Tedious? Yeah. But after six months I had a real picture of what my rig cost to move. My Thor Ace averaged 9.1 mpg over about 18,000 miles. At an average fuel price of $3.43/gallon, that was 37.7 cents per mile just in diesel. Fuel alone ran me about $6,786 that year. People who hadn't done this math had guessed "maybe $3,000 or $4,000."
+In my first year [full-timing, I tracked every fill-up](/rv-full-time-living-budget/) in a simple Google Sheet: date, location, gallons, price per gallon, odometer. Tedious? Yeah. But after six months I had a real picture of what my rig cost to move. My Thor Ace averaged 9.1 mpg over about 18,000 miles. At an average fuel price of $3.43/gallon, that was 37.7 cents per mile just in diesel. Fuel alone ran me about $6,786 that year. People who hadn't done this math had guessed "maybe $3,000 or $4,000."
 
 ## The Hidden Multiplier: Annual Miles Driven
 

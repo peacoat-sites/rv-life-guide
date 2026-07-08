@@ -12,6 +12,7 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 slug: "california-just-banned-repeat-no-shows-from-state-park-campsites"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 California's most coveted state park campsites have been plagued for years by the same problem: someone books a site at Big Sur or Crystal Cove, never shows up, and the spot sits empty while a hundred other people would've taken it in a heartbeat. The state finally got serious about it. As of July 1, 2026, Assembly Bill 618 is live, and the consequences for serial no-shows are steep enough to actually change behavior.
@@ -19,6 +20,13 @@ California's most coveted state park campsites have been plagued for years by th
 If you're an RVer who books California state parks regularly, this affects you directly. Read the policy wrong once and you could be locked out of ReserveCalifornia for a full year, right when you need it most.
 
 ## What the Law Actually Does
+
+| Cancellation Timing | Financial Penalty | Account Impact |
+| --- | --- | --- |
+| Less than 48 hours before arrival or no-show | 100% of all reservation fees | Counts as one strike toward 3-strike ban |
+| 2 to 6 days before arrival | First night + all processing fees | Counts as one strike toward 3-strike ban |
+| More than 6 days before arrival | Standard processing fee | No strike |
+| Three strikes in one calendar year | N/A | 365-day ReserveCalifornia account lockout |
 
 The headline change: cancel within 48 hours of arrival or simply don't show up, and you forfeit 100% of all fees paid for the entire reservation. Not a partial credit. Not a processing fee. Everything.
 

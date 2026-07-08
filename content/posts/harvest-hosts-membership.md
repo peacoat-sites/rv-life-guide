@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Most people think Harvest Hosts is just a fancy campground discount club. I thought the same thing when a fellow full-timer mentioned it at a dump station in eastern Tennessee about five years ago. I nodded politely and moved on. Six months later, broke down in rural New Mexico and killing time scrolling forums at 11pm, I finally looked it up properly. What I found was nothing like what I'd assumed, and I'll be honest: skipping it for those six months was a genuine mistake.
 
@@ -59,7 +59,7 @@ But I'll be honest about the variance. Some locations are incredible. Some are f
 
 ## Harvest Hosts vs. Boondockers Welcome vs. Passport America
 
-Since people always ask, here's a quick comparison of the main membership alternatives:
+Since people always ask, here's a quick comparison of the [main membership alternatives](/best-rv-camping-memberships-to-save-money/):
 
 | Membership | Annual Cost | What You Get | Hookups? | Social Contract |
 |---|---|---|---|---|

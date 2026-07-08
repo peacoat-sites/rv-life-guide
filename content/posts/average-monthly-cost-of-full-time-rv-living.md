@@ -23,6 +23,7 @@ faqs:
    a: "Most use the ACA marketplace and choose their domicile state partly based on what exchange plans are available. South Dakota is popular for its low registration costs but has limited plan options. Florida and Texas have more competition on the marketplace. Some full-timers use health share ministries to keep costs down, but those aren't insurance and have real limitations you need to understand before committing."
  - q: "Can you full-time on Social Security or a fixed income?"
    a: "Some people do it on $1,800 to $2,200 a month by boondocking aggressively, owning their rig outright, and keeping a tight budget. It's harder now than it was a few years ago given fuel and campground cost increases, but it's not impossible. Rig choice matters enormously here: a paid-off, reliable, fuel-efficient setup changes everything."
+lastmod: 2026-07-07
 ---
 
 The number that stopped me cold when I first started researching full-time RV living was $1,800 a month. I'd seen it everywhere online, this tidy figure that made living on the road sound almost affordable. Then I actually did it, and year one cost me closer to $3,400 a month. Not because I was careless or living lavishly. Because the $1,800 number leaves out half the real expenses.
@@ -31,9 +32,20 @@ Eight years later, I can tell you what it actually costs, why the range is so wi
 
 ## The Big Four: Where Most of Your Money Goes
 
+| Expense Category | Monthly Range | Notes |
+| --- | --- | --- |
+| Campgrounds | $400-$900 | Mix of boondocking, state parks, and full-hookup sites |
+| Fuel | $200-$900+ | Depends on travel frequency; $1/mile for typical diesel Class A |
+| Food | $400-$700 | Per person; varies with eating out habits |
+| Health Insurance | $350-$600 | ACA marketplace for relatively healthy 40-year-old |
+| RV Insurance | $100-$200 | Monthly equivalent of $1,200-$2,400 annually |
+| RV Maintenance | $50-$100 | Average monthly (1-2% of RV purchase price annually) |
+| Storage Unit | $80-$150 | Typical 5×10 unit in most markets |
+| **Estimated Total** | **$1,380-$2,950+** | Before domicile, mail forwarding, and vehicle-specific costs |
+
 Campground fees are usually the biggest single line item, and they vary more than almost anything else in this life. A full hookup site at an RV resort near a major city or popular destination can run $60 to $90 per night. Do the math: that's $1,800 to $2,700 a month if you're staying in places like that. Most full-timers don't, but if you're new to this and still figuring out your routes, you'll pay that rate more than you expect.
 
-The people who keep campground costs down do it through a combination of strategies. State and national forest dispersed camping (free, but you need to move every 14 days and you won't always have hookups). Corps of Engineers campgrounds, which often run $18 to $26 a night with electric. Thousand Trails or Harvest Hosts memberships, which cost a few hundred dollars upfront but pay for themselves quickly. Seasonality matters too. That same Florida campground that charges $75 a night in January charges $35 in August, because it's August in Florida.
+The people who keep campground costs down do it through a combination of strategies. State and national forest [dispersed camping](/boondocking-free-camping/) (free, but you need to move every 14 days and you won't always have hookups). Corps of Engineers campgrounds, which often run $18 to $26 a night with electric. Thousand Trails or Harvest Hosts memberships, which cost a few hundred dollars upfront but pay for themselves quickly. Seasonality matters too. That same Florida campground that charges $75 a night in January charges $35 in August, because it's August in Florida.
 
 Realistically, if you're a mix of boondocking, state parks, and occasional full-hookup sites, you're probably looking at $400 to $900 a month on campgrounds. That's my actual range over the years.
 
@@ -45,7 +57,7 @@ Health insurance is the one that surprises people most, especially if they're co
 
 ## The Vehicle Itself: What They Leave Out of the Calculators
 
-Your RV payment and insurance together are often treated as fixed costs, which they are. But what gets omitted is maintenance and repair, which is not fixed and is also enormous.
+Your RV payment and insurance together are often treated as fixed costs, which they are. But what gets omitted is [maintenance and repair](/rv-maintenance-costs/), which is not fixed and is also enormous.
 
 I've talked to too many people who budgeted $200 a month for "RV maintenance" based on what they read online. Then the slides stopped working, or the water heater corroded through, or the roof seams needed resealing, and they were looking at a $1,500 to $4,000 repair they hadn't planned for. The rule I use, and the one I've heard from every experienced full-timer I respect: budget 1% to 2% of your RV's purchase price per year in maintenance costs. On a $60,000 RV, that's $600 to $1,200 a year, or $50 to $100 a month on average. But it doesn't come in smooth monthly increments. It comes as a $3,500 transmission repair in April when you're in the middle of nowhere in New Mexico.
 

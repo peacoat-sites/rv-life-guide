@@ -23,13 +23,20 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 If you've spent three nights wedged between two diesel pushers at a packed campground, paying $65 a night to hear someone else's generator at 10 PM, you already know why dispersed camping exists. Free land. Wide open. Nobody telling you to quiet down by 9.
 
 But if you've never done it before, you're probably asking the reasonable questions: Where exactly do I park? Is this actually legal? What happens if something goes wrong 40 miles from town? Dispersed camping is one of the best parts of full-time RV life. It's also one of the easiest ways to get into real trouble unprepared. I want to be honest about both.
 
 ## What Dispersed Camping Actually Means (and Where You Can Do It)
+
+| Land Type | Stay Limit | Distance from Water | Permit Required | Coverage |
+| --- | --- | --- | --- | --- |
+| BLM Land | 14 days, then move 25+ miles | Not typically specified | No | ~245 million acres, mostly western U.S. |
+| National Forests | Similar to BLM | 100-200 feet from lakes/streams | No | ~193 million acres across the country |
+| State Trust Land | Varies by state | Varies by state | Yes (Arizona ~$15-$20/year) | Varies; some states prohibit public access |
+| National Parks | Generally prohibited | N/A | N/A | N/A |
 
 Dispersed camping is camping outside a designated campground on public land, usually managed by the Bureau of Land Management (BLM) or the U.S. Forest Service (USFS). No hookups. No sites. No hosts. You find a flat spot, set up, and you're on your own.
 

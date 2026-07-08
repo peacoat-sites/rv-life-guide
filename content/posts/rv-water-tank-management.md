@@ -23,6 +23,7 @@ faqs:
     a: "Behavioral changes beat equipment changes by a wide margin. Navy showers (wet, soap, rinse in under 3 minutes) save 8-10 gallons per shower versus a normal shower. A dedicated dish wash basin so you're not running tap water saves another 3-5 gallons a day. If you want to add capacity, a collapsible auxiliary water container like the WaterBrick (around $30 for 3.5 gallons) lets you carry extra without permanent modification."
   - q: "Is pink RV antifreeze safe to leave in the water lines long-term?"
     a: "It's non-toxic, rated for potable water systems, so it won't harm you if traces remain. But you don't want to drink it or cook with it all season. Flush thoroughly in spring with fresh water until lines run completely clear, then sanitize before putting the system into regular use. Don't skip the sanitization step just because the antifreeze flushed out clean."
+lastmod: 2026-07-07
 ---
 
 Three gallons of water trickled out of my fresh tank the day I tried to winterize for the first time, right onto the concrete pad of a Flagstaff, Arizona campground. I'd misread which valve was which, drained half my fresh supply instead of my gray, and spent the next 20 minutes trying to figure out if I'd actually damaged anything. I hadn't. But that moment taught me more about RV water systems than any YouTube video had.
@@ -31,11 +32,19 @@ Eight years in, water tank management is still the thing I see new full-timers g
 
 ## Understanding Your Three-Tank System (And Why the Math Actually Matters)
 
+| Scenario | Tank Capacity | Daily Usage | Gray Tank Bottleneck | Solution | Outcome |
+| --- | --- | --- | --- | --- | --- |
+| Solo traveler, mindful habits | 40 gal fresh | 15-20 gal/day | Less common | Water conservation | Extended capacity |
+| Couple, standard usage | 40 gal fresh | 25-35 gal/day | More common | Navy showers, reuse water | 1-2 days without hookups |
+| Author's rig example | 40 gal fresh, 32 gal gray | Variable | Gray filled day 3 of 5 | Behavior change (no running water while soaping) | Extended to day 4.5 |
+| Utah canyon couple, 4-day trip | 40 gal fresh | 28→18 gal/day (tracked) | Managed | Navy showers, cooking water reuse | Completed without mid-trip dump |
+| 2019 Keystone Cougar | Standard | Variable | False sensor readings | SeeLevel II install ($115) | 11 fewer unexpected dumps, +1 day avg boondocking |
+
 Most RVs have three tanks: fresh, gray, and black. You probably know that. What surprises a lot of people is how drastically the ratios between those tanks affect daily life, and how rarely manufacturer specs match real-world usage.
 
 Here's the math I actually live by: a full-time solo traveler doing dishes, washing hands, a daily shower, and cooking uses roughly 15-20 gallons of fresh water per day with mindful habits. Two people bumps that to 25-35 gallons. So if your fresh tank holds 40 gallons and you're a couple, you're looking at 1-2 days of capacity without hookups. Not the 3-4 days people often assume.
 
-Gray fills up faster than you'd think, especially once you factor in that most RV gray tanks are smaller than the fresh tank. My rig has a 40-gallon fresh, 32-gallon gray, and 30-gallon black. When I was boondocking in the Sonoran Desert for five days straight back in 2023, I ran out of gray capacity on day three. Fresh tank still had 8 gallons in it. Gray was the real bottleneck.
+Gray fills up faster than you'd think, especially once you factor in that most RV gray tanks are smaller than the fresh tank. My rig has a 40-gallon fresh, 32-gallon gray, and 30-gallon black. When I was [boondocking in the Sonoran Desert](/boondocking-without-hookups/) for five days straight back in 2023, I ran out of gray capacity on day three. Fresh tank still had 8 gallons in it. Gray was the real bottleneck.
 
 The fix was behavioral, not technical. I stopped running water while soaping dishes. I switched to a spray bottle for rinsing vegetables. Gray capacity extended to day four and a half. 
 
@@ -61,7 +70,7 @@ A dry black tank is a problem tank. Solids accumulate, sensor probes get coated,
 
 The sensor issue deserves its own moment. I thought my sensors were broken for basically the first year I owned an RV. Gray always read "full" when it wasn't. Black read "2/3 full" when it was empty. This is nearly universal with the cheap resistive sensors most manufacturers install, and as of 2026, even mid-range rigs still use them. External sensor systems like the SeeLevel II ($90-$130) work on a different principle and actually give you accurate readings. I installed one myself in about two hours and haven't second-guessed a tank level since.
 
-**Scenario:** Full-timer in a 2019 Keystone Cougar getting false "full" gray sensor readings → installed SeeLevel II tank monitoring system ($115 installed) → eliminated 11 unexpected early gray dumps over six months, extended boondocking stays by average of one day per trip.
+**Scenario:** Full-timer in a 2019 Keystone Cougar getting false "full" gray sensor readings → installed SeeLevel II tank monitoring system ($115 installed) → eliminated 11 unexpected early gray dumps over six months, [extended boondocking stays](/how-to-find-free-boondocking-sites-near-me/) by average of one day per trip.
 
 ## Winterizing and Recommissioning: The Steps That Actually Matter
 

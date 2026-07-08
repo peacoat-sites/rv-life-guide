@@ -23,6 +23,7 @@ faqs:
     a: "A quality diaphragm pump like the Shurflo 2088 realistically lasts 3-7 years under regular full-time use, longer with good filtration and regular diaphragm kit replacement. Neglected systems, hard water, and running the pump dry dramatically shorten that lifespan."
   - q: "Can I replace my RV water pump myself?"
     a: "Yes, and it's one of the more approachable RV repairs. The pump connects to water lines via push-in fittings or hose clamps and to power via two wires. Most swaps take under an hour with basic tools. Match the inlet/outlet size and voltage rating and you're generally good to go."
+lastmod: 2026-07-07
 ---
 
 Three years ago, a Monday morning in the Sonoran Desert, I turned on the kitchen faucet and got absolutely nothing. Not a sputter, not a groan. Just silence from under the floor and a dry faucet staring back at me. I had a full fresh tank, a working city water connection sitting right there at the hookup post, and a water pump that had decided it was done.
@@ -56,6 +57,16 @@ A continuously running pump that delivers weak pressure usually means one of two
 Worked example: A reader named Greg from Tucson emailed me last spring after installing a new water filter housing and finding his pump wouldn't shut off afterward. He'd nicked the tubing slightly with a pipe cutter and hadn't noticed. The pump cycled constantly, running maybe every 90 seconds, which is a classic symptom. He replaced a 4-inch section of 1/2-inch tubing, total cost around $3. Pump cycled normally after that.
 
 ## Silence: The Pump Won't Run At All
+
+| Component | Voltage/Amperage | Notes |
+| --- | --- | --- |
+| RV House Battery (under load) | 11.5V minimum | Below this starves the pump |
+| Shurflo 2088 Peak Draw | ~7 amps | Most common pump in mid-range RVs |
+| Fuse Size | 10-15 amp | Blade-style automotive fuse |
+| Shurflo System Pressure | 45 PSI | Standard operating pressure |
+| Flojet System Pressure | 50 PSI | Alternative pump option |
+| Shurflo 2088-554-144 Replacement Cost | $70-80 | As of mid-2026 |
+| Multimeter Cost (Klein Tools MM400) | ~$40 | Recommended diagnostic tool |
 
 So the pump switch is on, fuse is good, battery is strong, and there's nothing. No sound, no vibration. This is where you need to get hands-on.
 

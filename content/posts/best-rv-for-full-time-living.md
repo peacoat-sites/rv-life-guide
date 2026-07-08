@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-
+lastmod: 2026-07-07
 ---
 The day we signed the title on our 38-foot fifth wheel, I was convinced we'd made the perfect choice. Eighteen months later, we sold it at a $14,000 loss and bought something completely different. If someone had told me the truth about full-time RV selection before we started, I would have saved that money, avoided a blown tire on I-40 outside Amarillo, and skipped approximately 200 arguments about slide-room maintenance. So let me be that person for you.
 
@@ -57,7 +57,7 @@ The catch is real, though. You're looking at fuel economy of 7-10 mpg if you're 
 
 After our experience, I'll be direct: fifth wheels are probably the best value for couples or small families who want residential space. You get the most square footage per dollar, the bedroom over the hitch pin gives you actual separation from the living area, and modern fifth wheels can be genuinely comfortable. The trade-off is that you need a capable truck to pull one, which means owning two vehicles and managing the fuel costs of a half-ton or three-quarter-ton diesel.
 
-A used 2018-2020 Keystone Montana or Grand Design Reflection will run you $35,000 to $55,000 in decent condition. Grand Design in particular has a reputation for building quality that holds up better than average under full-time use, though no RV manufacturer is going to win awards for construction standards compared to a stick-built home.
+A used 2018-2020 Keystone Montana or [Grand Design Reflection](/best-fifth-wheels-full-time/) will run you $35,000 to $55,000 in decent condition. Grand Design in particular has a reputation for building quality that holds up better than average under full-time use, though no RV manufacturer is going to win awards for construction standards compared to a stick-built home.
 
 **Class C Motorhomes**
 
@@ -65,19 +65,28 @@ The cab-over style rigs built on a van or truck chassis. More maneuverable than 
 
 For solo travelers or couples who prioritize drivability and want something under $60,000, a used Class C from Coachmen or Winnebago is worth serious consideration.
 
-**Travel Trailers**
+**[Travel Trailers](/best-travel-trailers-full-time/)**
 
 These get overlooked by full-timers who think bigger is automatically better. Don't make that mistake. A 28-32 foot travel trailer from Airstream or Oliver Travel Trailers is built to a quality standard that the rest of the industry doesn't touch. The Airstream Classic runs $90,000+ new, but resale value is nearly unmatched and the aluminum construction handles full-time use in a way that most fiberglass-and-staple-gun trailers do not.
 
 For budget-conscious full-timers, a travel trailer under 30 feet towed by a mid-size truck can cut your fuel costs substantially compared to pulling a large fifth wheel.
 
-**Converted Vans and Skoolies**
+**[Converted Vans and Skoolies](/full-time-rv-living-vs-van-life-pros-and-cons/)**
 
 I'll mention these because they're real options for solo travelers willing to trade space for flexibility. A professionally built Sprinter van conversion runs $60,000 to $100,000. A DIY build can be done for $15,000-$25,000 if you have skills and time. You won't have a bathroom most full-timers would recognize, but you can park almost anywhere, your fuel costs are manageable, and stealth camping in cities becomes possible. This is a genuinely different lifestyle than traditional RVing, and it's not for everyone.
 
 ---
 
 ## A Side-by-Side Comparison for Full-Time Use
+
+| Type | Avg. Used Price | MPG | Full-Time Comfort | Best For |
+|---|---|---|---|---|
+| Class A Diesel Pusher | $80,000-$150,000 | 7-10 | Excellent | Couples, luxury seekers |
+| Class A Gas | $40,000-$90,000 | 8-12 | Very Good | Budget-conscious couples |
+| Fifth Wheel | $30,000-$70,000 | Truck dependent | Excellent | Families, remote workers |
+| Class C | $35,000-$75,000 | 10-14 | Good | Solo/couples, ease of driving |
+| Travel Trailer | $20,000-$95,000 | Truck dependent | Good to Excellent | Flexibility seekers |
+| Van Conversion | $15,000-$100,000 | 18-25 | Minimal | Solo adventurers |
 
 | Type | Avg. Used Price | MPG | Full-Time Comfort | Best For |
 |---|---|---|---|---|

@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 Most people Google "how much solar do I need for my RV" and land on some manufacturer's page claiming 200 watts is a great starter system. Then they buy it, spend their first dry-camping weekend watching their battery voltage drop while their coffee maker sits unplugged and useless, and wonder what went wrong.
 
@@ -56,6 +56,13 @@ Your number will be different. Working remotely with dual monitors? Add 150-200 
 Once you have that daily watt-hour number, everything else clicks into place.
 
 ## How Much Solar Panel Wattage You Actually Need
+
+| System Tier | Primary Use | Panel Wattage | Best For |
+|---|---|---|---|
+| Tier 1 | Weekend trips (2-3/month) | 100-400W | Phone charging, LED lights, 12V fridge |
+| Tier 2 | Frequent camping (2-3 weeks/month) | 400-800W | Residential fridge, laptop, lighting, fans |
+| Tier 3 | Full-time, mild climate | 800-1,600W | Spring/fall comfort; summers/winters need generator backup |
+| Tier 4 | Full-time, year-round heavy use | 1,600-3,000+W | Remote work, residential appliances, high consumption |
 
 Here's the rule of thumb that actually works: in decent sun (4-5 peak sun hours per day), you need roughly 1.25 to 1.5 watts of panel capacity for every watt-hour of consumption. That buffer accounts for panel inefficiency, charge controller losses, wiring resistance, and the simple fact that the sun doesn't always cooperate.
 

@@ -23,6 +23,7 @@ faqs:
     a: "As of July 2026, the most common working setup among full-timers I talk to is a Starlink RV plan combined with a cellular backup using a Pepwave router and SIM cards from T-Mobile and Verizon. Starlink runs about $150/month for the mobile-priority tier; it works nearly everywhere except deep canyons and dense forest. Cellular alone works fine in most of the country and is cheaper, but you'll hit dead zones."
   - q: "Is it safe to stay at Walmart parking lots and truck stops?"
     a: "Generally yes, though more Walmarts are restricting overnight parking than five years ago, so always confirm via the store manager before assuming. Truck stops are reliably safe and often more comfortable than sketchy campgrounds. I did it regularly early on; I'd just park near other RVs rather than at the edge of the lot, keep everything locked, and not run the generator past 10pm."
+lastmod: 2026-07-07
 ---
 
 My first week full-time was in a Walmart parking lot in Barstow, California, in July, and the temperature inside my rig hit 104 degrees because I didn't yet understand that my roof AC unit needed 30-amp shore power to run properly and I was plugged into a 15-amp extension cord I'd bought at Home Depot like an absolute rookie. I ate warm string cheese and watched a YouTube video about amperage on my phone, sweating through my shirt, wondering what I had done.
@@ -44,6 +45,11 @@ Set aside a minimum of $5,000 in a dedicated RV emergency fund before you go. No
 On the campground side: current rates (as of July 2026) at full-hookup parks in popular areas like Sedona, Asheville, or coastal Maine are running $55 to $85 per night. If you're planning to stay put for a month in any of those spots, that's $1,650 to $2,550 just for the pad. I know people who thought they'd be "free camping" most of the time and ended up spending $1,100 a month on parks because they underestimated how often they'd want electricity.
 
 ## Your Rig Will Break in the Worst Place at the Worst Time. Here's the Only Useful Thing to Do About It.
+
+| Service | Coverage Quality | Response Time | Best For |
+| --- | --- | --- | --- |
+| Coach-Net | Better in rural areas | 4 hours (western Montana example) | Remote locations |
+| Good Sam Roadside | Adequate in populated areas | 11 hours (rural example) | Populated regions |
 
 I had a reader named Paul from Columbus email me last spring about a slide-out that jammed shut in a campground outside Amarillo, TX, right before a cold front moved in. He spent three days waiting for a mobile tech because he didn't know what warranty coverage he actually had or who to call.
 

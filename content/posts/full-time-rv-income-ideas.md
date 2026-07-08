@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 Most people who ask me about full-time RV income are sitting somewhere between terrified and excited, and they've already done enough Googling to know the general categories: remote work, freelancing, campground hosting. What they actually need is someone to tell them which of those things are genuinely viable, which are overhyped, and what the first six months tend to look like before everything clicks.
 
@@ -55,13 +55,13 @@ The strongest position is getting remote approval from a job you already have be
 
 If that's not possible, freelancing works but slower. The fields that function well on the road: copywriting, content writing, web development, UX/UI design, bookkeeping, virtual assistance, social media management, online tutoring. All share one thing: deliverables that don't require a specific location.
 
-Platforms like Upwork and Toptal take heat, but I've seen people build real income there. The first 90 days are brutal. You're bidding against undercutters, and the platform takes a cut. Stick with it long enough for five solid reviews and your rate climbs significantly. A reader emailed me last spring who'd moved from $18/hour on Upwork to $65/hour in 18 months, still full-timing in a 2017 Keystone Bullet. That matters.
+[Platforms like Upwork and Toptal](/how-to-make-money-while-living-in-a-van-full-time/) take heat, but I've seen people build real income there. The first 90 days are brutal. You're bidding against undercutters, and the platform takes a cut. Stick with it long enough for five solid reviews and your rate climbs significantly. A reader emailed me last spring who'd moved from $18/hour on Upwork to $65/hour in 18 months, still full-timing in a 2017 Keystone Bullet. That matters.
 
 Connectivity breaks or makes this entire thing. Starlink's RV option (around $150/month for hardware plus $135/month for mobile service) changed the math for a lot of people. I spent years running on cellular backup with a Pepwave MAX BR1 router and two separate carrier SIM cards before Starlink worked reliably, and it was exhausting. These days I'd tell anyone starting out to budget for Starlink and stop overthinking connectivity.
 
 ## Campground Work and Workamping: Honest Talk
 
-Workamping gets romanticized. The reality is way more specific.
+[Workamping gets romanticized](/rv-park-work-camping/). The reality is way more specific.
 
 What you're trading is labor (usually 20 to 40 hours a week for two people) for a free or heavily discounted campsite. At KOA or Jellystone parks, there's sometimes hourly wages on top: $9 to $12/hour in most regions. Amazon's CamperForce program, running roughly August through December at fulfillment centers, pays actual money, sometimes $18 to $20/hour plus overtime during peak season, with a site subsidy. Physically demanding, but a lot of people use it as an income reset. Show up in September, work through December, bank $10,000 to $15,000, and fund the next chunk of travel.
 

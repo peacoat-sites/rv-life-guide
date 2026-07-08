@@ -12,6 +12,7 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "why-rvers-are-winning-the-dust-off-summer-of-2026"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 
 Something shifted this spring, and if you've been watching campground booking patterns the way I have, you felt it before anyone put numbers to it. Campspot just put numbers to it. Their "Dust-Off Summer" trend report, released May 19, 2026, surveyed 1,453 campers and turned up data that frankly stopped me mid-scroll. Seventy-nine percent of respondents said they're actively reducing air travel. Sixty percent are avoiding flights altogether when they can. That's not a trend. That's a rerouting.
@@ -25,6 +26,12 @@ I'll be honest: I've been watching the flight-avoidance conversation build for a
 The airport experience has eroded in ways that are hard to quantify but easy to feel: the unpredictability, the fees that materialize at every checkpoint, the sense that you're not a traveler anymore but a unit being processed. When people say they're choosing road trips because it's "smart," they're not just doing math. They're reclaiming something. RVers figured this out years ago. Now the broader American vacation-taking public is catching up fast.
 
 ## The Numbers That Actually Move the Needle
+
+| Accommodation Type | Nightly Rate | Weekly Cost | Key Difference |
+| --- | --- | --- | --- |
+| RV Campground Site | $66.86 | $468.02 | Full hookups, your own kitchen/bathroom/bed |
+| Glamping Accommodation | $186.06 | $1,302.42 | Canvas wall, curated fire pit, fixed location |
+| Difference | 2.78x higher | 2.78x higher | RV travels with you; glamping stays put |
 
 Let's talk cost, because this is where the report gets genuinely interesting for anyone trying to justify their rig payment or convince a skeptical spouse that the lifestyle pencils out.
 

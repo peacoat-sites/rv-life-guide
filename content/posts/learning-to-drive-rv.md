@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-
+lastmod: 2026-07-07
 ---
 Most people freeze the first time they climb into the driver's seat of a 35-foot Class A motorhome. The mirrors look enormous. The steering wheel feels wrong. The parking lot suddenly feels impossibly small. That's completely normal. The good news: driving an RV is learnable, and thousands of people master it every year without any commercial driving experience. The real secret is knowing what to practice, in what order, and where to fail safely.
 
@@ -49,7 +49,7 @@ Here's the step-by-step progression that actually works:
 
 2. **Add turns and obstacles.** Set up cones (or use empty plastic bottles) to simulate a parking space. Practice turning into it from both directions. The right turn is almost always harder because you must swing wide before cutting back.
 
-3. **Back into a simulated campsite.** Backing is the skill most new RVers dread. Set up two parallel lines of cones about 14 feet apart (standard campsite width) and practice backing between them. You'll need 30 or 40 attempts before it clicks. Use a spotter until you have the geometry down.
+3. **Back into a simulated campsite.** Backing is the skill most new RVers dread. Set up two parallel lines of cones about 14 feet apart (standard campsite width) and [practice backing between them](/backing-into-rv-campsite/). You'll need 30 or 40 attempts before it clicks. Use a spotter until you have the geometry down.
 
 4. **Move to low-traffic roads.** Find roads with minimal traffic. Practice lane changes, stopping at intersections, and pulling into a gas station. Pay attention to how the mirrors need adjustment on straight roads versus in turns.
 

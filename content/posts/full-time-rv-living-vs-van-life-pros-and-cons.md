@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-
+lastmod: 2026-07-07
 ---
 My neighbor at a Flagstaff KOA once told me she'd tried both, four years in a converted Sprinter, then switched to a 28-foot travel trailer, and her exact words were, "Van life looks better on Instagram. RV life feels better on a Tuesday." I've thought about that a lot over eight years out here.
 
@@ -60,7 +60,7 @@ Here's what most people don't realize: if you're on a tight budget and handy, a 
 
 A converted van is somewhere between 60 and 100 square feet. A 28-foot travel trailer might give you 250 to 300 square feet. That gap sounds abstract until it's been raining for four days in Oregon and you haven't left the vehicle.
 
-I spent one winter in a 24-foot Class C, and even that felt tight in prolonged bad weather. Van lifers who've done it long-term will tell you it's manageable, and they're not lying, but it requires a specific personality type. You need to be genuinely comfortable being alone, extremely organized, and okay with your "kitchen" being a two-burner propane stove eighteen inches from your bed.
+I spent one winter in a 24-foot [Class C](/class-a-vs-class-b-vs-class-c-rv/), and even that felt tight in prolonged bad weather. Van lifers who've done it long-term will tell you it's manageable, and they're not lying, but it requires a specific personality type. You need to be genuinely comfortable being alone, extremely organized, and okay with your "kitchen" being a two-burner propane stove eighteen inches from your bed.
 
 The van wins in one specific way: your home is also your car. You park at a trailhead, sleep there, wake up, hike, come back, drive to dinner. The spontaneity is real. With a travel trailer or fifth wheel, every campsite transition involves unhooking utilities, stowing slides, securing everything, hitching up. It takes 30 to 45 minutes minimum if you're practiced. An hour if you're not. That changes how you move.
 

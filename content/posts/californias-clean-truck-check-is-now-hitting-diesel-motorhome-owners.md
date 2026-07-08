@@ -12,6 +12,7 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 slug: "californias-clean-truck-check-is-now-hitting-diesel-motorhome-owners"
 affiliate_disclosure: false
+lastmod: 2026-07-07
 ---
 Picture this: you're rolling into California on I-40 in late June, maybe headed to Yosemite or just cutting through to get to Oregon, and you get flagged at an agricultural inspection station. The officer asks whether your diesel motorhome is compliant with California's Clean Truck Check program. You've never heard of it. Your rig is registered in Arizona. And suddenly you're looking at a potential registration hold that could ground your coach on the side of the highway.
 
@@ -44,7 +45,7 @@ According to the SmogCheck.com compliance guide from December 2025, you need to 
 
 ## The Wider Regulatory Picture Is Getting Serious
 
-California usually leads the way on this stuff, but it's got real company now. Six states, including Oregon, Washington, Massachusetts, New York, New Jersey, and Vermont, all adopted Advanced Clean Trucks rules in 2026 that restrict the sale of new motorhomes over 8,500 pounds GVWR with combustion-engine chassis. Colorado, Maryland, New Mexico, and Rhode Island are joining in 2027, per RVshare's April 2026 regulatory roundup.
+California usually leads the way on this stuff, but it's got real company now. Six states, including Oregon, Washington, Massachusetts, New York, New Jersey, and Vermont, all adopted [Advanced Clean Trucks rules](/how-the-de-minimis-rule-change-will-raise-your-rv-parts-costs/) in 2026 that restrict the sale of new motorhomes over 8,500 pounds GVWR with combustion-engine chassis. Colorado, Maryland, New Mexico, and Rhode Island are joining in 2027, per RVshare's April 2026 regulatory roundup.
 
 Here's where I'll push back on something: those ACT rules sound scary, but they're primarily about new vehicle sales, not about testing your existing rig. California's Clean Truck Check is the immediate threat. But the direction is crystal clear. If you're planning to buy a new diesel motorhome in the next few years and you live in or frequently travel to any of those states, your chassis options are already shrinking. The industry is in transition. We're all living in the middle of it.
 

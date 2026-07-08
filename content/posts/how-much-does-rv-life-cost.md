@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-
+lastmod: 2026-07-07
 ---
 My first month on the road, I spent $6,800. My best month ever cost $1,340. Both were real, both were full-time RV life, and neither number tells the whole story. If you've been Googling "how much does RV life cost" and getting answers that range from $1,500 to $5,000 a month with no real explanation of why, you're not crazy for being confused. The range is that wide because the variables are enormous, and most people writing about this have a vested interest in making it sound either thrillingly affordable or comfortably manageable.
 
@@ -60,6 +60,16 @@ Budget this line item honestly at somewhere between $200 and $900 a month depend
 ---
 
 ## Fuel, Maintenance, and the Repairs You Didn't Budget For
+
+| Cost Category | Monthly Range | Notes |
+| --- | --- | --- |
+| RV Payment/Depreciation | $540-$1,100 | Class C: ~$540/mo; Class A: $900-$1,100/mo |
+| Insurance (Full-Time RV) | $150-$350 | Varies by rig type and coverage limits |
+| Health Insurance | $400-$700 | Marketplace plan for single 45-year-old |
+| Campground/Parking | $200-$900 | Free BLM to $50-$80/night private sites |
+| Fuel (Class A Diesel) | $525-$750 | At $3.50/gal, ~1,500 miles/month |
+| Maintenance & Repairs | $65-$135 | Industry rule: 1-2% of RV value annually |
+| **Fixed Baseline (Before Fuel/Food)** | **$1,200-$3,000** | Single person to couple |
 
 Fuel is simple math until it isn't. A Class A diesel motorhome gets 7 to 10 miles per gallon. A gas Class C gets 10 to 14. A truck-towed fifth wheel depends on the truck, but figure 10 to 12 mpg towing. At $3.50 per gallon diesel (prices fluctuate wildly, especially in California where I've paid $6.40), driving 1,500 miles in a month in a diesel Class A costs $525 to $750. If you're a slow mover who picks a spot for a month, fuel costs almost nothing. If you're chasing weather or covering long distances, it adds up fast.
 
