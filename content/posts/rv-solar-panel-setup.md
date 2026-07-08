@@ -3,7 +3,7 @@ title: "RV Solar Panel Setup"
 date: 2026-05-28T07:28:55.966855+00:00
 draft: false
 description: "Discover how to set up solar panels on your RV with our step-by-step guide. Learn about equipment, installation tips, and maximizing energy efficiency on the ro"
-image: "https://images.pexels.com/photos/18306342/pexels-photo-18306342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18306342.jpg"
 categories: ["boondocking"]
 tags: ["solar", "panel", "setup"]
 slug: "rv-solar-panel-setup"

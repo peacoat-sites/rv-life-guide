@@ -3,7 +3,7 @@ title: "RV Maintenance Costs"
 date: 2026-05-25T06:27:16.494986+00:00
 draft: false
 description: "Regular RV maintenance costs can vary widely. Learn essential upkeep expenses, budget tips, and how to prevent costly repairs for your recreational vehicle."
-image: "https://images.pexels.com/photos/5853933/pexels-photo-5853933.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5853933.jpg"
 categories: ["costs"]
 tags: ["maintenance", "costs"]
 slug: "rv-maintenance-costs"

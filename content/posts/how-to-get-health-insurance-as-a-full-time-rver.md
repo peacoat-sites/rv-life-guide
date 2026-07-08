@@ -3,7 +3,7 @@ title: "How To Get Health Insurance As A Full-Time Rver"
 date: 2026-06-05T12:21:53.794841+00:00
 draft: false
 description: "Discover how full-time RVers can get health insurance coverage. Explore top options including marketplace plans, health sharing ministries, and short-term polic"
-image: "https://images.pexels.com/photos/8154333/pexels-photo-8154333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8154333.jpg"
 categories: ["logistics"]
 tags: ["health", "insurance", "full-time", "rver"]
 slug: "how-to-get-health-insurance-as-a-full-time-rver"

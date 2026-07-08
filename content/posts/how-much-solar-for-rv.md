@@ -3,7 +3,7 @@ title: "How Much Solar For RV"
 date: 2026-05-21T22:42:55.554224+00:00
 draft: false
 description: "Discover how much solar power your RV needs to stay off-grid. Learn about panel sizes, battery banks, and energy requirements to build the perfect solar setup."
-image: "https://images.pexels.com/photos/8853500/pexels-photo-8853500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8853500.jpg"
 categories: ["boondocking"]
 tags: ["much", "solar"]
 slug: "how-much-solar-for-rv"

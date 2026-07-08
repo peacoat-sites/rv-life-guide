@@ -3,7 +3,7 @@ title: "Data Center Boom Is Squeezing RVers Out of Campgrounds"
 date: 2026-06-26T20:24:53.008853+00:00
 draft: false
 description: "Discover how the rapid rise of data centers is displacing RVers from campgrounds across the US and what it means for the future of outdoor recreation."
-image: "https://images.pexels.com/photos/15422191/pexels-photo-15422191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15422191.jpg"
 categories: ["trending"]
 tags: ["data", "center", "boom", "squeezing", "rvers"]
 author: "Greg Hoffman"

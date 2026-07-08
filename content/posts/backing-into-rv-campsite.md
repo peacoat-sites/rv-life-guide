@@ -3,7 +3,7 @@ title: "Backing Into RV Campsite"
 date: 2026-06-28T20:06:14.084850+00:00
 draft: false
 description: "Learn step-by-step how to back into an RV campsite with confidence using proven techniques, helpful tips, and spotter communication strategies."
-image: "https://images.pexels.com/photos/2848438/pexels-photo-2848438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2848438.jpg"
 categories: ["basics"]
 tags: ["backing", "into", "campsite"]
 author: "Greg Hoffman"

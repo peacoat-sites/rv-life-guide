@@ -3,7 +3,7 @@ title: "Full-Time RV Living With A Dog Tips"
 date: 2026-06-14T20:15:58.020623+00:00
 draft: false
 description: "Discover practical tips for full-time RV living with a dog, from space-saving gear to pet-friendly campgrounds and keeping your pup happy on the road."
-image: "https://images.pexels.com/photos/8231245/pexels-photo-8231245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8231245.jpg"
 categories: ["lifestyle"]
 tags: ["full-time", "living", "with", "tips"]
 author: "Sandra Park"

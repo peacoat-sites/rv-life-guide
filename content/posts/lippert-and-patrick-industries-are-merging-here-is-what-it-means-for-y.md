@@ -3,7 +3,7 @@ title: "Lippert and Patrick Industries Are Merging. Here Is What It Means for Yo
 date: 2026-07-01T20:34:24.314370+00:00
 draft: false
 description: "Lippert and Patrick Industries are merging in a major RV industry shake-up. Learn what this consolidation means for RV prices, quality, and your next purchase."
-image: "https://images.pexels.com/photos/7019223/pexels-photo-7019223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7019223.jpg"
 categories: ["trending"]
 tags: ["lippert", "patrick", "industries", "merging.", "here"]
 author: "Sandra Park"

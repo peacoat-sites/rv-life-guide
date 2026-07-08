@@ -3,7 +3,7 @@ title: "RV Towing Safety Tips"
 date: 2026-06-29T20:48:42.348448+00:00
 draft: false
 description: "Stay safe on the road with essential RV towing safety tips covering weight limits, brake controllers, mirrors, speed, and proper hitch setup for every trip."
-image: "https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2199293.jpg"
 categories: ["towing"]
 tags: ["towing", "safety", "tips"]
 author: "Tony Reeves"

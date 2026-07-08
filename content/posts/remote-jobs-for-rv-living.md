@@ -3,7 +3,7 @@ title: "Remote Jobs For RV Living"
 date: 2026-06-04T12:25:49.637853+00:00
 draft: false
 description: "Find the best remote jobs for RV living and earn money while traveling full time. Discover flexible careers that let you work from anywhere on the road."
-image: "https://images.pexels.com/photos/20955060/pexels-photo-20955060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/20955060.jpg"
 categories: ["income"]
 tags: ["remote", "jobs", "living"]
 slug: "remote-jobs-for-rv-living"

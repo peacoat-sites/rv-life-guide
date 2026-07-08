@@ -3,7 +3,7 @@ title: "South Dakota RV Domicile"
 date: 2026-05-25T17:50:58.642951+00:00
 draft: false
 description: "Establish your RV domicile in South Dakota and enjoy low registration costs, no state income tax, and simplified vehicle titling for full-time travelers."
-image: "https://images.pexels.com/photos/35890357/pexels-photo-35890357.png?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35890357.jpg"
 categories: ["logistics"]
 tags: ["South", "Dakota", "domicile"]
 slug: "south-dakota-rv-domicile"

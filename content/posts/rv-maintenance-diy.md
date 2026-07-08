@@ -3,7 +3,7 @@ title: "RV Maintenance DIY"
 date: 2026-06-22T21:30:30.092585+00:00
 draft: false
 description: "Learn essential RV maintenance DIY tips to save money and keep your rig road-ready. Covers roof seals, plumbing, electrical, and more for every skill level."
-image: "https://images.pexels.com/photos/36833085/pexels-photo-36833085.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36833085.jpg"
 categories: ["maintenance"]
 tags: ["maintenance"]
 author: "Tony Reeves"

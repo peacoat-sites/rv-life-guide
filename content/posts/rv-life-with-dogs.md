@@ -3,7 +3,7 @@ title: "RV Life With Dogs"
 date: 2026-06-05T20:46:07.154674+00:00
 draft: false
 description: "Discover tips for living the RV life with dogs. Learn how to keep your pups safe, happy, and comfortable on the road in this complete guide for pet-loving trave"
-image: "https://images.pexels.com/photos/32872983/pexels-photo-32872983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32872983.jpg"
 categories: ["lifestyle"]
 tags: ["life", "with", "dogs"]
 slug: "rv-life-with-dogs"

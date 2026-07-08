@@ -3,7 +3,7 @@ title: "How To Make Money While Living In A Van Full-Time"
 date: 2026-06-12T21:00:36.472335+00:00
 draft: false
 description: "Discover practical ways to earn income while living the van life full-time, from remote work and freelancing to selling crafts and leveraging social media monet"
-image: "https://images.pexels.com/photos/7476208/pexels-photo-7476208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7476208.jpg"
 categories: ["income"]
 tags: ["make", "money", "while", "living", "full-time"]
 slug: "how-to-make-money-while-living-in-a-van-full-time"

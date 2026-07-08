@@ -3,7 +3,7 @@ title: "RV Life With Kids"
 date: 2026-06-21T20:20:17.790941+00:00
 draft: false
 description: "Discover how families make RV life with kids work with tips on schooling, routines, small space living, and finding the best campgrounds across the country."
-image: "https://images.pexels.com/photos/7967406/pexels-photo-7967406.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967406.jpg"
 categories: ["lifestyle"]
 tags: ["life", "with", "kids"]
 author: "Greg Hoffman"

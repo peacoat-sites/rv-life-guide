@@ -3,7 +3,7 @@ title: "How To Set Up RV Solar Power System Step By Step"
 date: 2026-06-07T20:05:14.546781+00:00
 draft: false
 description: "Learn how to set up an RV solar power system step by step, from choosing panels and batteries to wiring and installing a charge controller for off-grid living."
-image: "https://images.pexels.com/photos/33379364/pexels-photo-33379364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33379364.jpg"
 categories: ["setup"]
 tags: ["solar", "power", "system", "step", "step"]
 slug: "how-to-set-up-rv-solar-power-system-step-by-step"

@@ -3,7 +3,7 @@ title: "Brake Controller RV"
 date: 2026-07-05T20:04:37.921918+00:00
 draft: false
 description: "Find the best brake controller for your RV to ensure safe towing. Compare top-rated options, installation tips, and how to choose the right one."
-image: "https://images.pexels.com/photos/7967383/pexels-photo-7967383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967383.jpg"
 categories: ["towing"]
 tags: ["brake", "controller"]
 author: "Julia Davidson"

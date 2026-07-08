@@ -3,7 +3,7 @@ title: "RV Life Bloggers Follow"
 date: 2026-06-30T20:51:40.658267+00:00
 draft: false
 description: "Discover the best RV life bloggers to follow for travel inspiration, campsite tips, full-time living advice, and honest stories from the road."
-image: "https://images.pexels.com/photos/14766759/pexels-photo-14766759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14766759.jpg"
 categories: ["inspiration"]
 tags: ["life", "bloggers", "follow"]
 author: "Greg Hoffman"

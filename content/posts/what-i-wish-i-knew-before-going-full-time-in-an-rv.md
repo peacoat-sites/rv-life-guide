@@ -3,7 +3,7 @@ title: "What I Wish I Knew Before Going Full-Time In An RV"
 date: 2026-07-05T20:07:09.976953+00:00
 draft: false
 description: "Discover the real truths about full-time RV living before you make the leap. Learn what experienced RVers wish they had known from the start."
-image: "https://images.pexels.com/photos/5991595/pexels-photo-5991595.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5991595.jpg"
 categories: ["inspiration"]
 tags: ["what", "wish", "knew", "before", "going"]
 author: "Greg Hoffman"

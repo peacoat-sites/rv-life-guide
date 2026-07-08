@@ -3,7 +3,7 @@ title: "How Many Watts Of Solar For Full-Time RV Living"
 date: 2026-06-19T20:24:12.875599+00:00
 draft: false
 description: "Discover how many watts of solar you need for full-time RV living. Learn about power usage, battery storage, and building the right solar setup for life on the "
-image: "https://images.pexels.com/photos/35425754/pexels-photo-35425754.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35425754.jpg"
 categories: ["setup"]
 tags: ["many", "watts", "solar", "full-time", "living"]
 author: "Barbara Mitchell"

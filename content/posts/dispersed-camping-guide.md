@@ -3,7 +3,7 @@ title: "Dispersed Camping Guide"
 date: 2026-05-27T20:16:23.958075+00:00
 draft: false
 description: "Discover everything you need to know about dispersed camping, from finding free campsites on public land to essential rules, gear tips, and Leave No Trace princ"
-image: "https://images.pexels.com/photos/35925101/pexels-photo-35925101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35925101.jpg"
 categories: ["boondocking"]
 tags: ["dispersed", "camping", "guide"]
 slug: "dispersed-camping-guide"

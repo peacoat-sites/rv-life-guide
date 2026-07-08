@@ -3,7 +3,7 @@ title: "RV Life Pros And Cons"
 date: 2026-05-26T22:51:58.565327+00:00
 draft: false
 description: "Discover the real pros and cons of RV life, from freedom and adventure to maintenance costs and limited space, to help you decide if full-time RV living is righ"
-image: "https://images.pexels.com/photos/14766758/pexels-photo-14766758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14766758.jpg"
 categories: ["basics"]
 tags: ["life", "pros", "cons"]
 slug: "rv-life-pros-and-cons"

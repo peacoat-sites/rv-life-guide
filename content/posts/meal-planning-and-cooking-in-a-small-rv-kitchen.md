@@ -3,7 +3,7 @@ title: "Meal Planning And Cooking In A Small RV Kitchen"
 date: 2026-06-25T20:54:25.584541+00:00
 draft: false
 description: "Discover smart meal planning and cooking tips for a small RV kitchen. Save space, reduce waste, and enjoy delicious meals on the road every trip."
-image: "https://images.pexels.com/photos/8154324/pexels-photo-8154324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8154324.jpg"
 categories: ["lifestyle"]
 tags: ["meal", "planning", "cooking", "small", "kitchen"]
 author: "Julia Davidson"

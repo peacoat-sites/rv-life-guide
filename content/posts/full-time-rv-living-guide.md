@@ -3,7 +3,7 @@ title: "Full Time RV Living Guide"
 date: 2026-05-21T17:13:35.436191+00:00
 draft: false
 description: "Discover everything you need to know about full time RV living, from choosing the right rig and managing finances to finding campsites and embracing life on the"
-image: "https://images.pexels.com/photos/7967398/pexels-photo-7967398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967398.jpg"
 categories: ["basics"]
 tags: ["full", "time", "living", "guide"]
 slug: "full-time-rv-living-guide"

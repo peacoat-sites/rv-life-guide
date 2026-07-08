@@ -3,7 +3,7 @@ title: "Long Term RV Park Rates"
 date: 2026-05-21T23:59:16.409969+00:00
 draft: false
 description: "Discover affordable long term RV park rates, what to expect monthly, and tips to find the best deals on extended stays at campgrounds and RV communities near yo"
-image: "https://images.pexels.com/photos/30209137/pexels-photo-30209137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30209137.jpg"
 categories: ["campgrounds"]
 tags: ["long", "term", "park", "rates"]
 slug: "long-term-rv-park-rates"

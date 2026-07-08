@@ -3,7 +3,7 @@ title: "Fifth Wheel Vs Travel Trailer"
 date: 2026-05-27T08:56:46.831610+00:00
 draft: false
 description: "Trying to choose between a fifth wheel and a travel trailer? Compare costs, towing requirements, space, and comfort to find the best RV option for you."
-image: "https://images.pexels.com/photos/3274849/pexels-photo-3274849.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3274849.jpg"
 categories: ["basics"]
 tags: ["fifth", "wheel", "travel", "trailer"]
 slug: "fifth-wheel-vs-travel-trailer"

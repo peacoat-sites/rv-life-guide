@@ -3,7 +3,7 @@ title: "Is Full-Time RV Living Worth It In 2026"
 date: 2026-07-06T20:49:05.954255+00:00
 draft: false
 description: "Discover if full-time RV living is worth it in 2026. Explore real costs, lifestyle pros and cons, and tips from experienced nomads on the road."
-image: "https://images.pexels.com/photos/9143483/pexels-photo-9143483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9143483.jpg"
 categories: ["basics"]
 tags: ["full-time", "living", "worth", "2026"]
 author: "Sandra Park"

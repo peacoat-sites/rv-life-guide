@@ -3,7 +3,7 @@ title: "Why RVers Are Winning the Dust-Off Summer of 2026"
 date: 2026-06-30T20:49:27.110245+00:00
 draft: false
 description: "Discover why RVers are dominating the Dust-Off Summer of 2026 with epic road trips, smart travel tips, and the freedom to explore America on their own terms."
-image: "https://images.pexels.com/photos/16862428/pexels-photo-16862428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16862428.jpg"
 categories: ["trending"]
 tags: ["rvers", "winning", "dust-off", "summer", "2026"]
 author: "Julia Davidson"

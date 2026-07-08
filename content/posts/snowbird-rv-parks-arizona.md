@@ -3,7 +3,7 @@ title: "Snowbird RV Parks Arizona"
 date: 2026-06-17T21:03:19.774312+00:00
 draft: false
 description: "Discover the best snowbird RV parks in Arizona for winter escapes. Enjoy warm weather, great amenities, and affordable long-term stays across the state."
-image: "https://images.pexels.com/photos/8216843/pexels-photo-8216843.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8216843.jpg"
 categories: ["campgrounds"]
 tags: ["snowbird", "parks", "arizona"]
 author: "Tony Reeves"

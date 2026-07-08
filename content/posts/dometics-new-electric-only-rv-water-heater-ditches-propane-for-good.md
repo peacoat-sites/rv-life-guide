@@ -3,7 +3,7 @@ title: "Dometic's New Electric-Only RV Water Heater Ditches Propane for Good"
 date: 2026-07-06T20:46:47.669168+00:00
 draft: false
 description: "Dometic's new electric-only RV water heater eliminates propane entirely, offering a cleaner, safer, and more efficient solution for modern RV travelers seeking "
-image: "https://images.pexels.com/photos/31719159/pexels-photo-31719159.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31719159.jpg"
 categories: ["trending"]
 tags: ["dometic's", "electric-only", "water", "heater", "ditches"]
 author: "Barbara Mitchell"

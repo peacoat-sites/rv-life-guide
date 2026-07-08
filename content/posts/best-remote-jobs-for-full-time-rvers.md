@@ -3,7 +3,7 @@ title: "Best Remote Jobs For Full-Time Rvers"
 date: 2026-06-16T21:40:32.469583+00:00
 draft: false
 description: "Discover the best remote jobs for full-time RVers that let you earn income while traveling the open road and living life on your own terms."
-image: "https://images.pexels.com/photos/8052620/pexels-photo-8052620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8052620.jpg"
 categories: ["income"]
 tags: ["best", "remote", "jobs", "full-time", "rvers"]
 author: "Barbara Mitchell"

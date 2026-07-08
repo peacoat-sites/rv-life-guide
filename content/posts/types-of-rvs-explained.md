@@ -3,7 +3,7 @@ title: "Types Of RVs Explained"
 date: 2026-05-24T10:28:24.699674+00:00
 draft: false
 description: "Discover the different types of RVs available, from motorhomes and travel trailers to fifth wheels and camper vans, to find the perfect fit for your adventures."
-image: "https://images.pexels.com/photos/26771996/pexels-photo-26771996.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/26771996.jpg"
 categories: ["basics"]
 tags: ["types", "explained"]
 slug: "types-of-rvs-explained"

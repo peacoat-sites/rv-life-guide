@@ -3,7 +3,7 @@ title: "Mail Forwarding Full Time RV"
 date: 2026-05-29T16:52:27.178528+00:00
 draft: false
 description: "Full-time RV mail forwarding solutions: get a permanent address, receive packages, and manage mail while traveling. USPS-approved services explained."
-image: "https://images.pexels.com/photos/7363160/pexels-photo-7363160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7363160.jpg"
 categories: ["logistics"]
 tags: ["mail", "forwarding", "full", "time"]
 slug: "mail-forwarding-full-time-rv"

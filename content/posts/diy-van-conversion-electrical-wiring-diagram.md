@@ -3,7 +3,7 @@ title: "DIY Van Conversion Electrical Wiring Diagram"
 date: 2026-07-03T20:09:12.430271+00:00
 draft: false
 description: "Learn how to wire a DIY van conversion with our comprehensive electrical diagram guide. Step-by-step instructions for safe, reliable 12V and 240V systems."
-image: "https://images.pexels.com/photos/3614763/pexels-photo-3614763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3614763.jpg"
 categories: ["setup"]
 tags: ["conversion", "electrical", "wiring", "diagram"]
 author: "Barbara Mitchell"

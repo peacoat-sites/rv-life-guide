@@ -3,7 +3,7 @@ title: "Love's Is Building Out the Biggest RV Stop Network on the Road"
 date: 2026-06-20T20:09:40.858526+00:00
 draft: false
 description: "Discover how Love's Travel Stops is expanding its massive RV network across America, offering convenient amenities, hookups, and services for road-tripping fami"
-image: "https://images.pexels.com/photos/8154332/pexels-photo-8154332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8154332.jpg"
 categories: ["trending"]
 tags: ["love's", "building", "biggest", "stop", "network"]
 author: "Tony Reeves"

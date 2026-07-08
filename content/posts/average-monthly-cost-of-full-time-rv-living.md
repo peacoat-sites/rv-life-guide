@@ -3,7 +3,7 @@ title: "Average Monthly Cost Of Full-Time RV Living"
 date: 2026-06-22T21:28:26.232058+00:00
 draft: false
 description: "Discover the average monthly cost of full-time RV living, from campsite fees and fuel to insurance and maintenance, to budget your mobile lifestyle."
-image: "https://images.pexels.com/photos/13244983/pexels-photo-13244983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13244983.jpg"
 categories: ["costs"]
 tags: ["average", "monthly", "cost", "full-time", "living"]
 author: "Sandra Park"

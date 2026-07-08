@@ -3,7 +3,7 @@ title: "How Often To Service RV Slide-Outs"
 date: 2026-07-01T20:31:54.729079+00:00
 draft: false
 description: "Learn how often to service RV slide-outs, what maintenance tasks to perform, and tips to keep your slide mechanism working smoothly for years."
-image: "https://images.pexels.com/photos/13304737/pexels-photo-13304737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13304737.jpg"
 categories: ["maintenance"]
 tags: ["often", "service", "slide-outs"]
 author: "Barbara Mitchell"

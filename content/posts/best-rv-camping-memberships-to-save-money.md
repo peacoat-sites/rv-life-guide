@@ -3,7 +3,7 @@ title: "Best RV Camping Memberships To Save Money"
 date: 2026-06-08T21:13:08.878300+00:00
 draft: false
 description: "Discover the best RV camping memberships that can save you hundreds annually. Compare top clubs like Thousand Trails, Passport America, and Harvest Hosts to fin"
-image: "https://images.pexels.com/photos/13244984/pexels-photo-13244984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13244984.jpg"
 categories: ["memberships"]
 tags: ["best", "camping", "memberships", "save", "money"]
 slug: "best-rv-camping-memberships-to-save-money"

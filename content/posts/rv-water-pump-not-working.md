@@ -3,7 +3,7 @@ title: "RV Water Pump Not Working: Fix It Fast Today"
 date: 2026-07-07T20:43:12.743568+00:00
 draft: false
 description: "Diagnose and fix a dead RV water pump with these step-by-step troubleshooting tips covering fuses, switches, pressure, and common failure points."
-image: "https://images.pexels.com/photos/6726698/pexels-photo-6726698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6726698.jpg"
 categories: ["RV Troubleshooting"]
 tags: ["water", "pump", "working"]
 author: "Tony Reeves"

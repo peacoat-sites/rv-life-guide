@@ -3,7 +3,7 @@ title: "RV Slide Room Maintenance"
 date: 2026-06-25T20:52:06.738353+00:00
 draft: false
 description: "Keep your RV slide room working smoothly with essential maintenance tips covering seals, tracks, lubrication, and common repairs to prevent costly damage."
-image: "https://images.pexels.com/photos/7967392/pexels-photo-7967392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967392.jpg"
 categories: ["maintenance"]
 tags: ["slide", "room", "maintenance"]
 author: "Tony Reeves"

@@ -3,7 +3,7 @@ title: "New GMI Rule Will Change How Your RV Accepts Shore Power"
 date: 2026-06-17T21:00:42.910847+00:00
 draft: false
 description: "Learn how the new GMI rule will impact your RV's shore power connection, what changes to expect, and how to prepare your rig before the rule takes effect."
-image: "https://images.pexels.com/photos/30345982/pexels-photo-30345982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30345982.jpg"
 categories: ["trending"]
 tags: ["rule", "will", "change", "your", "accepts"]
 author: "Sandra Park"

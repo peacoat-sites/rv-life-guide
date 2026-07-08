@@ -3,7 +3,7 @@ title: "The Lippert-Patrick Merger Could Change How Your RV Gets Built"
 date: 2026-07-07T20:45:34.072518+00:00
 draft: false
 description: "Discover how the Lippert-Patrick merger could reshape RV manufacturing, impact quality, supply chains, and what it means for buyers and the future of the indust"
-image: "https://images.pexels.com/photos/18341389/pexels-photo-18341389.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18341389.jpg"
 categories: ["trending"]
 tags: ["lippert-patrick", "merger", "could", "change", "your"]
 author: "Julia Davidson"

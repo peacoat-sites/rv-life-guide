@@ -3,7 +3,7 @@ title: "Best RV For Full Time Living"
 date: 2026-05-26T23:39:47.785066+00:00
 draft: false
 description: "Discover the best RVs for full time living with our expert guide. Compare top models, key features, and tips to find your perfect home on wheels today."
-image: "https://images.pexels.com/photos/34287642/pexels-photo-34287642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34287642.jpg"
 categories: ["basics"]
 tags: ["best", "full", "time", "living"]
 slug: "best-rv-for-full-time-living"

@@ -3,7 +3,7 @@ title: "How To Insulate A Camper Van For Winter Living"
 date: 2026-06-23T21:00:49.645243+00:00
 draft: false
 description: "Learn how to insulate a camper van for winter living with the best materials, methods, and tips to stay warm and prevent condensation all season long."
-image: "https://images.pexels.com/photos/6945902/pexels-photo-6945902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6945902.jpg"
 categories: ["setup"]
 tags: ["insulate", "camper", "winter", "living"]
 author: "Greg Hoffman"

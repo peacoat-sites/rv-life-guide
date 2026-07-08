@@ -3,7 +3,7 @@ title: "California's Clean Truck Check Is Now Hitting Diesel Motorhome Owners"
 date: 2026-06-14T20:13:27.065766+00:00
 draft: false
 description: "California's new Clean Truck Check program is now affecting diesel motorhome owners. Learn what inspections are required, who's impacted, and how to stay compli"
-image: "https://images.pexels.com/photos/14971465/pexels-photo-14971465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14971465.jpg"
 categories: ["trending"]
 tags: ["california's", "clean", "truck", "check", "hitting"]
 author: "Barbara Mitchell"

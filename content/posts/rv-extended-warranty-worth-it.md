@@ -3,7 +3,7 @@ title: "RV Extended Warranty Worth It"
 date: 2026-07-02T20:15:07.782077+00:00
 draft: false
 description: "Wondering if an RV extended warranty is worth it? We break down costs, coverage, and when it makes sense to buy one for your motorhome or trailer."
-image: "https://images.pexels.com/photos/30131061/pexels-photo-30131061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30131061.jpg"
 categories: ["basics"]
 tags: ["extended", "warranty", "worth"]
 author: "Julia Davidson"

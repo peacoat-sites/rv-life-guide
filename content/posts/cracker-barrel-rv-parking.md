@@ -3,7 +3,7 @@ title: "Cracker Barrel RV Parking"
 date: 2026-06-27T20:02:26.740525+00:00
 draft: false
 description: "Cracker Barrel welcomes RV travelers with free overnight parking at most locations. Learn how to find spots, etiquette tips, and what to expect."
-image: "https://images.pexels.com/photos/32366362/pexels-photo-32366362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32366362.jpg"
 categories: ["boondocking"]
 tags: ["cracker", "barrel", "parking"]
 author: "Sandra Park"

@@ -3,7 +3,7 @@ title: "RV Campground Fees"
 date: 2026-05-25T06:02:15.585045+00:00
 draft: false
 description: "Discover everything you need to know about RV campground fees, including average costs, what affects pricing, and tips to save money on your next camping trip."
-image: "https://images.pexels.com/photos/19770631/pexels-photo-19770631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19770631.jpg"
 categories: ["costs"]
 tags: ["campground", "fees"]
 slug: "rv-campground-fees"

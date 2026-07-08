@@ -3,7 +3,7 @@ title: "RV Life With Pets"
 date: 2026-06-05T12:24:03.354719+00:00
 draft: false
 description: "Discover tips for thriving in RV life with pets. Learn about pet-friendly campgrounds, travel safety, space management, and keeping your furry friends happy on "
-image: "https://images.pexels.com/photos/27175422/pexels-photo-27175422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27175422.jpg"
 categories: ["lifestyle"]
 tags: ["life", "with", "pets"]
 slug: "rv-life-with-pets"

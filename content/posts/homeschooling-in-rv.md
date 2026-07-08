@@ -3,7 +3,7 @@ title: "Homeschooling In RV"
 date: 2026-06-16T21:38:21.929483+00:00
 draft: false
 description: "Discover how families successfully homeschool while living in an RV full time with practical tips, curriculum ideas, and daily routine strategies."
-image: "https://images.pexels.com/photos/8121123/pexels-photo-8121123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8121123.jpg"
 categories: ["lifestyle"]
 tags: ["homeschooling"]
 author: "Greg Hoffman"

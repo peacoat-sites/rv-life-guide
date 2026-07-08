@@ -3,7 +3,7 @@ title: "Getting Prescriptions Filled While Traveling Full-Time"
 date: 2026-07-02T20:12:44.546448+00:00
 draft: false
 description: "Learn how full-time travelers can get prescriptions filled on the road, including tips for mail-order pharmacies, early refills, and traveling internationally."
-image: "https://images.pexels.com/photos/11363786/pexels-photo-11363786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11363786.jpg"
 categories: ["logistics"]
 tags: ["getting", "prescriptions", "filled", "while", "traveling"]
 author: "Tony Reeves"

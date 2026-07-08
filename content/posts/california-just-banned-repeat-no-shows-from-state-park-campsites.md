@@ -3,7 +3,7 @@ title: "California Just Banned Repeat No-Shows From State Park Campsites"
 date: 2026-07-04T20:04:29.947673+00:00
 draft: false
 description: "California's new law bans repeat no-show campers from booking state park campsites, protecting access for outdoor enthusiasts and reducing wasted reservations s"
-image: "https://images.pexels.com/photos/28516477/pexels-photo-28516477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28516477.jpg"
 categories: ["trending"]
 tags: ["california", "just", "banned", "repeat", "no-shows"]
 author: "Tony Reeves"

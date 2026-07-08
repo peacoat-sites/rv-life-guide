@@ -3,7 +3,7 @@ title: "Working From RV Income"
 date: 2026-06-03T14:11:05.273698+00:00
 draft: false
 description: "Discover how to earn a living while traveling full-time in your RV. Explore top remote work ideas, freelance tips, and passive income strategies for the road."
-image: "https://images.pexels.com/photos/5882638/pexels-photo-5882638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5882638.jpg"
 categories: ["income"]
 tags: ["working", "from", "income"]
 slug: "working-from-rv-income"

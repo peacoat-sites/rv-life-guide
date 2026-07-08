@@ -3,7 +3,7 @@ title: "Full Time RV Income Ideas"
 date: 2026-06-13T20:12:56.769642+00:00
 draft: false
 description: "Discover the best full time RV income ideas to fund your nomadic lifestyle. From remote work to freelancing, find practical ways to earn money on the road."
-image: "https://images.pexels.com/photos/15241233/pexels-photo-15241233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15241233.jpg"
 categories: ["income"]
 tags: ["full", "time", "income", "ideas"]
 slug: "full-time-rv-income-ideas"

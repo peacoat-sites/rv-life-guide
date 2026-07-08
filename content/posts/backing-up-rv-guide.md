@@ -3,7 +3,7 @@ title: "Backing Up RV Guide"
 date: 2026-05-27T09:13:48.779638+00:00
 draft: false
 description: "Plan the perfect RV backup with our complete guide. Learn essential tips, tools, and techniques to safely and confidently back up your RV every time."
-image: "https://images.pexels.com/photos/12590448/pexels-photo-12590448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12590448.jpg"
 categories: ["basics"]
 tags: ["backing", "guide"]
 slug: "backing-up-rv-guide"

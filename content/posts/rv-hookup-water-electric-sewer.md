@@ -3,7 +3,7 @@ title: "RV Hookup Water Electric Sewer"
 date: 2026-05-28T04:30:20.106077+00:00
 draft: false
 description: "Connect your RV to water, electric, and sewer hookups with ease. Learn step-by-step how to set up full hookups at campgrounds for a comfortable stay."
-image: "https://images.pexels.com/photos/7967386/pexels-photo-7967386.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967386.jpg"
 categories: ["setup"]
 tags: ["hookup", "water", "electric", "sewer"]
 slug: "rv-hookup-water-electric-sewer"

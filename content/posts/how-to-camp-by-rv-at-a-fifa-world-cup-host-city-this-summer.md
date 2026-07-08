@@ -3,7 +3,7 @@ title: "How to Camp by RV at a FIFA World Cup Host City This Summer"
 date: 2026-06-24T20:28:03.850514+00:00
 draft: false
 description: "Plan your ultimate FIFA World Cup road trip! Discover top RV camping spots near host cities, plus tips on permits, hookups, and making the most of match days."
-image: "https://images.pexels.com/photos/37187415/pexels-photo-37187415.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37187415.jpg"
 categories: ["trending"]
 tags: ["camp", "fifa", "world", "host", "city"]
 author: "Sandra Park"

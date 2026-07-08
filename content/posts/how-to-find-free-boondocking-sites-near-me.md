@@ -3,7 +3,7 @@ title: "How To Find Free Boondocking Sites Near Me"
 date: 2026-06-04T12:23:30.369492+00:00
 draft: false
 description: "Discover how to find free boondocking sites near you using apps, websites, and insider tips to camp off-grid without spending a dime on your next adventure."
-image: "https://images.pexels.com/photos/32979682/pexels-photo-32979682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32979682.jpg"
 categories: ["boondocking"]
 tags: ["find", "free", "boondocking", "sites", "near"]
 slug: "how-to-find-free-boondocking-sites-near-me"

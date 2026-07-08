@@ -3,7 +3,7 @@ title: "How To Winterize An RV For Full-Time Living"
 date: 2026-06-06T20:05:28.667856+00:00
 draft: false
 description: "Stay comfortable and protected all winter long in your RV with our step-by-step guide covering insulation, pipe protection, heating systems, and essential cold-"
-image: "https://images.pexels.com/photos/6946419/pexels-photo-6946419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6946419.jpg"
 categories: ["maintenance"]
 tags: ["winterize", "full-time", "living"]
 slug: "how-to-winterize-an-rv-for-full-time-living"

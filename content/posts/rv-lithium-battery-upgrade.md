@@ -3,7 +3,7 @@ title: "RV Lithium Battery Upgrade"
 date: 2026-05-21T10:57:16.709894+00:00
 draft: false
 description: "Upgrade your RV with a lithium battery for longer trips, faster charging, and reduced weight. Discover top options, installation tips, and cost comparisons insi"
-image: "https://images.pexels.com/photos/7967376/pexels-photo-7967376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967376.jpg"
 categories: ["boondocking"]
 tags: ["lithium", "battery", "upgrade"]
 slug: "rv-lithium-battery-upgrade"

@@ -3,7 +3,7 @@ title: "RV Black Tank Treatment"
 date: 2026-06-20T20:11:33.414949+00:00
 draft: false
 description: "Keep your RV black tank fresh and odor-free with the best treatment products and methods. Learn how to maintain your holding tank effectively."
-image: "https://images.pexels.com/photos/8243201/pexels-photo-8243201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8243201.jpg"
 categories: ["maintenance"]
 tags: ["black", "tank", "treatment"]
 author: "Julia Davidson"

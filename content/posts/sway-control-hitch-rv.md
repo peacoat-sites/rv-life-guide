@@ -3,7 +3,7 @@ title: "Sway Control Hitch RV"
 date: 2026-06-29T20:46:06.892905+00:00
 draft: false
 description: "Discover how a sway control hitch improves RV towing safety by reducing trailer sway on highways and winding roads for a smoother, more confident drive."
-image: "https://images.pexels.com/photos/18755796/pexels-photo-18755796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18755796.jpg"
 categories: ["towing"]
 tags: ["sway", "control", "hitch"]
 author: "Sandra Park"

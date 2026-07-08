@@ -3,7 +3,7 @@ title: "How To Start Full-Time RV Living For Beginners"
 date: 2026-06-13T20:10:23.955245+00:00
 draft: false
 description: "Discover how to start full-time RV living with our beginner's guide covering budgeting, choosing the right RV, essential gear, and tips for life on the road."
-image: "https://images.pexels.com/photos/23153108/pexels-photo-23153108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/23153108.jpg"
 categories: ["basics"]
 tags: ["start", "full-time", "living", "beginners"]
 slug: "how-to-start-full-time-rv-living-for-beginners"

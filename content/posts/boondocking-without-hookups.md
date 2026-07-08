@@ -3,7 +3,7 @@ title: "Boondocking Without Hookups"
 date: 2026-05-29T01:18:19.073724+00:00
 draft: false
 description: "Discover the freedom of boondocking without hookups. Learn essential tips for water, power, and waste management to camp off-grid confidently anywhere."
-image: "https://images.pexels.com/photos/6170833/pexels-photo-6170833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6170833.jpg"
 categories: ["boondocking"]
 tags: ["boondocking", "without", "hookups"]
 slug: "boondocking-without-hookups"

@@ -3,7 +3,7 @@ title: "Best Generator For Boondocking In An RV"
 date: 2026-06-28T20:04:18.294625+00:00
 draft: false
 description: "Discover the best generators for boondocking in an RV. Compare top picks for quiet, fuel-efficient power to keep you off-grid and comfortable anywhere."
-image: "https://images.pexels.com/photos/23153100/pexels-photo-23153100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/23153100.jpg"
 categories: ["boondocking"]
 tags: ["best", "generator", "boondocking"]
 author: "Julia Davidson"

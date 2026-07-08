@@ -3,7 +3,7 @@ title: "RV Roof Inspection"
 date: 2026-06-10T21:23:36.387695+00:00
 draft: false
 description: "Learn how to perform a thorough RV roof inspection to spot leaks, cracks, and damage early. Protect your investment and avoid costly repairs with our expert gui"
-image: "https://images.pexels.com/photos/6961110/pexels-photo-6961110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6961110.jpg"
 categories: ["maintenance"]
 tags: ["roof", "inspection"]
 slug: "rv-roof-inspection"

@@ -3,7 +3,7 @@ title: "How To Calculate RV Towing Capacity Correctly"
 date: 2026-06-21T20:22:54.717069+00:00
 draft: false
 description: "Learn how to calculate RV towing capacity correctly to stay safe on the road. Avoid costly mistakes with our step-by-step weight rating guide."
-image: "https://images.pexels.com/photos/31306158/pexels-photo-31306158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31306158.jpg"
 categories: ["towing"]
 tags: ["calculate", "towing", "capacity", "correctly"]
 author: "Barbara Mitchell"

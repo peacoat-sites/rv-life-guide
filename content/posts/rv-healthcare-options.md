@@ -3,7 +3,7 @@ title: "RV Healthcare Options"
 date: 2026-05-22T03:07:19.473320+00:00
 draft: false
 description: "Explore RV healthcare options for full-time travelers. Learn about travel medical insurance, urgent care access, telemedicine, and staying healthy on the road."
-image: "https://images.pexels.com/photos/13176358/pexels-photo-13176358.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/13176358.jpg"
 categories: ["logistics"]
 tags: ["healthcare", "options"]
 slug: "rv-healthcare-options"

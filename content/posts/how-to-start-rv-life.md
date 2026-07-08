@@ -3,7 +3,7 @@ title: "How To Start RV Life"
 date: 2026-05-28T12:26:01.210838+00:00
 draft: false
 description: "Start your RV life journey with confidence. Discover essential tips on choosing the right rig, budgeting, finding campsites, and embracing the freedom of full-t"
-image: "https://images.pexels.com/photos/35190506/pexels-photo-35190506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35190506.jpg"
 categories: ["basics"]
 tags: ["start", "life"]
 slug: "how-to-start-rv-life"

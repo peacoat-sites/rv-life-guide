@@ -3,7 +3,7 @@ title: "Best Boondocking Spots On Blm Land Out West"
 date: 2026-06-09T20:55:21.772623+00:00
 draft: false
 description: "Discover the best boondocking spots on BLM land out west for free camping adventures. Explore scenic desert, mountain, and forest sites perfect for off-grid liv"
-image: "https://images.pexels.com/photos/15823488/pexels-photo-15823488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15823488.jpg"
 categories: ["boondocking"]
 tags: ["best", "boondocking", "spots", "land", "west"]
 slug: "best-boondocking-spots-on-blm-land-out-west"

@@ -3,7 +3,7 @@ title: "RV Tow Vehicle Guide"
 date: 2026-05-24T00:23:24.194970+00:00
 draft: false
 description: "RV tow vehicle buying guide: Learn weight capacity, engine requirements, safety features and towing laws to choose the perfect truck or SUV for your needs."
-image: "https://images.pexels.com/photos/21858746/pexels-photo-21858746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21858746.jpg"
 categories: ["towing"]
 tags: ["vehicle", "guide"]
 slug: "rv-tow-vehicle-guide"

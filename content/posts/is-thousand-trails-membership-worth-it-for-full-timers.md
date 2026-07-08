@@ -3,7 +3,7 @@ title: "Is Thousand Trails Membership Worth It For Full-Timers"
 date: 2026-06-10T21:21:25.289515+00:00
 draft: false
 description: "Thinking about full-time RV living? Discover if a Thousand Trails membership saves money, offers enough campgrounds, and truly fits the full-timer lifestyle."
-image: "https://images.pexels.com/photos/14766770/pexels-photo-14766770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14766770.jpg"
 categories: ["memberships"]
 tags: ["thousand", "trails", "membership", "worth", "full-timers"]
 slug: "is-thousand-trails-membership-worth-it-for-full-timers"

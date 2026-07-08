@@ -3,7 +3,7 @@ title: "RV Park Work Camping"
 date: 2026-06-26T20:27:13.634010+00:00
 draft: false
 description: "Discover how work camping at RV parks lets you earn free site hookups and income while living the mobile lifestyle full time."
-image: "https://images.pexels.com/photos/17273587/pexels-photo-17273587.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17273587.jpg"
 categories: ["income"]
 tags: ["park", "work", "camping"]
 author: "Barbara Mitchell"

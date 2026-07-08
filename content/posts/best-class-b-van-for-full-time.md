@@ -3,7 +3,7 @@ title: "Best Class B Van For Full Time"
 date: 2026-05-29T15:01:55.090129+00:00
 draft: false
 description: "Discover the best Class B vans for full-time living. Compare top models for comfort, reliability, and features to find your perfect home on wheels today."
-image: "https://images.pexels.com/photos/19003939/pexels-photo-19003939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19003939.jpg"
 categories: ["basics"]
 tags: ["best", "Class", "full", "time"]
 slug: "best-class-b-van-for-full-time"

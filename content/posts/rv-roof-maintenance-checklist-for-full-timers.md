@@ -3,7 +3,7 @@ title: "RV Roof Maintenance Checklist For Full-Timers"
 date: 2026-06-15T21:38:40.034628+00:00
 draft: false
 description: "Keep your RV roof in top shape with this full-timer maintenance checklist covering inspections, sealing, cleaning, and damage prevention tips."
-image: "https://images.pexels.com/photos/7967365/pexels-photo-7967365.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7967365.jpg"
 categories: ["maintenance"]
 tags: ["roof", "maintenance", "checklist", "full-timers"]
 author: "Tony Reeves"

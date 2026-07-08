@@ -3,7 +3,7 @@ title: "New Vs Used RV Buying"
 date: 2026-05-26T16:07:06.447808+00:00
 draft: false
 description: "Deciding between a new or used RV? Compare costs, warranties, condition, and depreciation to find the best option for your budget and travel lifestyle."
-image: "https://images.pexels.com/photos/34097777/pexels-photo-34097777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34097777.jpg"
 categories: ["basics"]
 tags: ["used", "buying"]
 slug: "new-vs-used-rv-buying"

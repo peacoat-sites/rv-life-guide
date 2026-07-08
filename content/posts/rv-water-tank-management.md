@@ -3,7 +3,7 @@ title: "RV Water Tank Management"
 date: 2026-07-04T20:02:31.723360+00:00
 draft: false
 description: "Learn how to fill, sanitize, and conserve your RV fresh water tank for safe drinking water on every trip with these essential management tips."
-image: "https://images.pexels.com/photos/2962089/pexels-photo-2962089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2962089.jpg"
 categories: ["boondocking"]
 tags: ["water", "tank", "management"]
 author: "Sandra Park"

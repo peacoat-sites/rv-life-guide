@@ -3,7 +3,7 @@ title: "Blm Land Camping RV"
 date: 2026-05-23T07:19:45.162629+00:00
 draft: false
 description: "Discover the ultimate guide to BLM land camping with your RV. Learn rules, find free dispersed sites, and enjoy unlimited adventure on public lands across the U"
-image: "https://images.pexels.com/photos/34613381/pexels-photo-34613381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34613381.jpg"
 categories: ["boondocking"]
 tags: ["land", "camping"]
 slug: "blm-land-camping-rv"

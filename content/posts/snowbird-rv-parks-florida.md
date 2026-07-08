@@ -3,7 +3,7 @@ title: "Snowbird RV Parks Florida"
 date: 2026-06-11T21:13:31.937025+00:00
 draft: false
 description: "Discover the best snowbird RV parks in Florida for winter escapes. Enjoy warm weather, amazing amenities, and affordable long-term rates perfect for seasonal tr"
-image: "https://images.pexels.com/photos/31642503/pexels-photo-31642503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31642503.jpg"
 categories: ["campgrounds"]
 tags: ["snowbird", "parks", "Florida"]
 slug: "snowbird-rv-parks-florida"

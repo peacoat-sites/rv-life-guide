@@ -3,7 +3,7 @@ title: "RV Sewer Connection Tips"
 date: 2026-05-25T15:57:54.307162+00:00
 draft: false
 description: "Learn essential RV sewer connection tips to avoid leaks and odors. Discover the right hoses, fittings, and step-by-step techniques for a clean, hassle-free dump"
-image: "https://images.pexels.com/photos/5875912/pexels-photo-5875912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5875912.jpg"
 categories: ["setup"]
 tags: ["sewer", "connection", "tips"]
 slug: "rv-sewer-connection-tips"
