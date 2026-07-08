@@ -1,0 +1,40 @@
+{{- $d := site.Data.fuel_prices -}}
+<div class="fuel-prices">
+  <div class="fp-nat">
+    <div class="fp-nat-item"><span class="fp-lbl">U.S. Avg Regular Gas</span><span class="fp-val">${{ printf "%.2f" $d.gas }}<span class="fp-unit">/gal</span></span></div>
+    <div class="fp-nat-item"><span class="fp-lbl">U.S. Avg Diesel</span><span class="fp-val">${{ printf "%.2f" $d.diesel }}<span class="fp-unit">/gal</span></span></div>
+    <div class="fp-nat-item"><span class="fp-lbl">Updated</span><span class="fp-val fp-date">{{ dateFormat "Jan 2, 2006" $d.date }}</span></div>
+  </div>
+  <div style="overflow-x:auto">
+  <table class="fp-table">
+    <thead><tr><th>State</th><th>Regular Gas</th><th>Diesel</th><th>Region</th></tr></thead>
+    <tbody>
+      {{- range $code, $s := $d.states }}
+      <tr>
+        <td data-label="State"><strong>{{ $s.name }}</strong> <span class="fp-code">{{ $code }}</span></td>
+        <td data-label="Gas">${{ printf "%.2f" $s.gas }}</td>
+        <td data-label="Diesel">${{ printf "%.2f" $s.diesel }}</td>
+        <td data-label="Region" class="fp-region">{{ $s.region }}</td>
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+  </div>
+  <p class="fp-note">Source: {{ $d.source }}. National figures are weekly retail averages; states without a direct EIA series show their PADD regional price. Refreshed weekly.</p>
+</div>
+<style>
+.fuel-prices{margin:1.5rem 0}
+.fp-nat{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+.fp-nat-item{flex:1 1 150px;padding:14px 16px;border:1px solid var(--border,#e2e8f0);border-radius:10px;background:var(--surface2,#f8fafc)}
+.fp-lbl{display:block;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted,#64748b)}
+.fp-val{font-size:1.5rem;font-weight:800;color:var(--heading,#1e293b)}
+.fp-unit{font-size:.8rem;font-weight:600;color:var(--muted,#64748b)}
+.fp-date{font-size:1.05rem}
+.fp-table{width:100%;border-collapse:collapse;font-size:.92rem;min-width:520px}
+.fp-table th{background:var(--surface,#f1f5f9);padding:9px 12px;text-align:left;border:1px solid var(--border,#e2e8f0);font-weight:700}
+.fp-table td{padding:8px 12px;border:1px solid var(--border,#e2e8f0)}
+.fp-table tbody tr:nth-child(even){background:var(--surface2,#f8fafc)}
+.fp-code{font-size:.75rem;color:var(--muted,#64748b)}
+.fp-region{font-size:.82rem;color:var(--muted,#64748b)}
+.fp-note{font-size:.8rem;color:var(--muted,#64748b);margin:10px 0 0}
+</style>
