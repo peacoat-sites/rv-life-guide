@@ -113,3 +113,12 @@ For the bigger financial picture of what full-time RV life actually costs month 
 The honest reality of RV healthcare is that it takes more upfront work than most people expect. Once it's set up, it runs surprisingly smoothly. The full-timers who struggle are almost always the ones who delayed the research until after they were already on the road. Spend a few hours on this before you go, get the right combination of coverage in place, and you'll handle that hypothetical Sedona moment with a lot less panic and a lot more confidence.
 
 *Photo: [contact me +923323219715](https://www.pexels.com/@contact-me-923323219715-262056873) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+

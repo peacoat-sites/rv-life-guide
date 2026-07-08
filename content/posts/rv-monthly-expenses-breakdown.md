@@ -167,3 +167,13 @@ The median full-timer I've spoken to honestly spends around $3,200-$3,800/month.
 The road is genuinely one of the best things I've done with my adult life. I say that having spent an afternoon in a repair lot in Wichita Falls, Texas watching a mechanic shake his head at my slide motor. Go in with real numbers, a funded repair reserve, and a flexibility of spirit. The sunsets are as good as advertised. The surprise invoices are too.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+
