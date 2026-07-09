@@ -6,7 +6,8 @@ description: "A complete RV pre-departure checklist covering exterior, hitch, in
 image: "https://images.pexels.com/photos/1687845/pexels-photo-1687845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["RV Travel Tips"]
 slug: "rv-pre-departure-checklist"
-author: "Cody & Brenna Pierce"
+author: "Tony Reeves"
+author_slug: "tony-reeves"
 affiliate_disclosure: false
 ---
 
