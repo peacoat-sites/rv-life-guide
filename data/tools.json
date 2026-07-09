@@ -2,45 +2,50 @@
   {
     "label": "Cost Ownership Calc",
     "url": "/rv-cost-of-ownership-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "cost",
       "ownership"
-    ]
+    ],
+    "desc": "Add up the true yearly cost of owning and running your RV."
   },
   {
     "label": "Fuel Cost Calc",
     "url": "/rv-fuel-cost-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "fuel",
       "cost"
-    ]
+    ],
+    "desc": "Estimate fuel costs for your next RV trip by distance and MPG."
   },
   {
     "label": "Solar Calc",
     "url": "/rv-solar-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "solar"
-    ]
+    ],
+    "desc": "Size the solar setup you need to power your RV off-grid."
   },
   {
     "label": "Pre Departure",
     "url": "/rv-pre-departure-checklist/",
-    "icon": "\u2705",
+    "icon": "✅",
     "match": [
       "pre",
       "departure"
-    ]
+    ],
+    "desc": "Run every safety check before you pull out of the driveway."
   },
   {
     "label": "Towing Capacity Calc",
     "url": "/rv-towing-capacity-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "towing",
       "capacity"
-    ]
+    ],
+    "desc": "Check whether your vehicle can safely tow the trailer you want."
   }
 ]
