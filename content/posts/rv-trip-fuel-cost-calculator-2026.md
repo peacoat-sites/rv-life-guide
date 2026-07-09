@@ -7,18 +7,18 @@ author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 date: 2026-06-28
-lastmod: 2026-07-07
+lastmod: 2026-07-09
 faqs:
- - question: "Why does my Class A get worse MPG than advertised?"
-   answer: "Advertised specs assume highway cruising at optimal RPM. Reality: loaded tanks, air conditioning, headwinds, and hills all reduce economy 20-40%. I averaged 6.5 MPG on my previous Class A; the brochure claimed 8 MPG."
- - question: "Is diesel really cheaper than gas when you factor in the premium?"
-   answer: "Barely. My diesel pusher averages 10 MPG at $4.83/gal = $0.48/mile. A gas Class A gets 8 MPG at $3.91/gal = $0.49/mile. The cost per mile is nearly identical. Diesel wins on range (larger tanks, longer between fill-ups)."
- - question: "Should I tow or motorhome?"
-   answer: "Class B van: $0.24/mile (most efficient). Towing trailer: $0.43/mile. Class A: $0.48/mile. If fuel cost matters, go small. If comfort and living space matter, motorhome costs the extra $0.20-0.24/mile."
- - question: "How much does speed affect towing MPG?"
-   answer: "Dramatically. At 60 mph I tow at 13 MPG; at 70 mph I'm down to 8 MPG. That's a 40% efficiency loss from 10 extra mph. If you're towing, slower saves serious money."
- - question: "What's the best time of year to RV for fuel savings?"
-   answer: "Winter (December-February) has the lowest fuel prices (we hit $2.88/gal average in Feb 2026). Spring summer prices spike, April-May peaked at $4.50/gal. Winter RVing = 35-40% fuel savings if you can handle cold weather."
+ - q: "Why does my Class A get worse MPG than advertised?"
+   a: "Advertised specs assume highway cruising at optimal RPM. Reality: loaded tanks, air conditioning, headwinds, and hills all reduce economy 20-40%. I averaged 6.5 MPG on my previous Class A; the brochure claimed 8 MPG."
+ - q: "Is diesel really cheaper than gas when you factor in the premium?"
+   a: "Barely. My diesel pusher averages 10 MPG at $4.83/gal = $0.48/mile. A gas Class A gets 8 MPG at $3.91/gal = $0.49/mile. The cost per mile is nearly identical. Diesel wins on range (larger tanks, longer between fill-ups)."
+ - q: "Should I tow or motorhome?"
+   a: "Class B van: $0.24/mile (most efficient). Towing trailer: $0.43/mile. Class A: $0.48/mile. If fuel cost matters, go small. If comfort and living space matter, motorhome costs the extra $0.20-0.24/mile."
+ - q: "How much does speed affect towing MPG?"
+   a: "Dramatically. At 60 mph I tow at 13 MPG; at 70 mph I'm down to 8 MPG. That's a 40% efficiency loss from 10 extra mph. If you're towing, slower saves serious money."
+ - q: "What's the best time of year to RV for fuel savings?"
+   a: "Winter (December-February) has the lowest fuel prices (we hit $2.88/gal average in Feb 2026). Spring summer prices spike, April-May peaked at $4.50/gal. Winter RVing = 35-40% fuel savings if you can handle cold weather."
 categories: ["RV Budget", "Travel Costs", "Fuel Efficiency"]
 keywords: ["RV fuel cost", "motorhome MPG", "trip cost calculator", "diesel vs gasoline RV", "towing fuel economy"]
 featured_depth: true
