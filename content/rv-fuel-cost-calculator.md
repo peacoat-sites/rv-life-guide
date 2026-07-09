@@ -4,6 +4,9 @@ hide_title: true
 date: 2026-01-02
 draft: false
 description: "Estimate the fuel cost of any RV trip using current U.S. national average gas and diesel prices. Enter your distance and your rig's MPG to get an instant total."
+author: "Sandra Park"
+author_slug: "sandra-park"
+author_title: "Trip Planner"
 ---
 
 Fuel is usually the single biggest variable cost of RV travel, and it's the one most likely to blow a trip budget. The calculator below estimates what a trip will cost using the current national average price for gas and diesel — then lets you adjust the price for your local pumps and your rig's real-world mileage.
