@@ -1,0 +1,21 @@
+{
+  "question": "What type of RVer are you?",
+  "options": [
+    {
+      "label": "Weekend warrior",
+      "votes": 385
+    },
+    {
+      "label": "Full-timer",
+      "votes": 231
+    },
+    {
+      "label": "Still dreaming",
+      "votes": 209
+    },
+    {
+      "label": "Snowbird",
+      "votes": 122
+    }
+  ]
+}
