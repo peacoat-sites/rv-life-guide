@@ -4,7 +4,8 @@ date: 2026-06-10
 slug: "rv-cost-of-ownership-calculator"
 description: "Use our free RV cost of ownership calculator to see the full picture — financing, insurance, maintenance, fuel, storage, depreciation, and camping fees — before you buy."
 categories: ["RV Buying Guide"]
-author: "Cody & Brenna Pierce"
+author: "Barbara Mitchell"
+author_slug: "barbara-mitchell"
 faqs:
   - question: "What is the total cost of RV ownership per year?"
     answer: "It varies widely by type. A Class A motorhome can run $14,000–20,000/year in total costs (financing, insurance, maintenance, fuel, and storage). A travel trailer is more like $6,000–10,000/year depending on how much you use it."

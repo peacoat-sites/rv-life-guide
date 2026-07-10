@@ -7,7 +7,8 @@ description: "Calculate your RV's daily power needs, battery bank size, and numb
 image: "https://images.pexels.com/photos/9875441/pexels-photo-9875441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["RV Equipment"]
 slug: "rv-solar-calculator"
-author: "Cody & Brenna Pierce"
+author: "Julia Davidson"
+author_slug: "julia-davidson"
 affiliate_disclosure: false
 ---
 

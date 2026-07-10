@@ -7,7 +7,8 @@ description: "Use our free RV towing capacity calculator to check if your tow ve
 image: "https://images.pexels.com/photos/5257603/pexels-photo-5257603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["RV Safety"]
 slug: "rv-towing-capacity-calculator"
-author: "Cody & Brenna Pierce"
+author: "Greg Hoffman"
+author_slug: "greg-hoffman"
 affiliate_disclosure: false
 ---
 
