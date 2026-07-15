@@ -119,8 +119,6 @@ Your neighbors will occasionally ask why your generator isn't running. That ques
 
 The lithium upgrade isn't a magic fix for everything, but after eight years of full-timing, I can tell you it changed my daily experience more than almost any other single upgrade. Less generator noise, more freedom to park off-grid, and a battery monitor that actually tells me something useful. If you're serious about boondocking or long-term living in your rig, this is one of those upgrades you'll wonder how you ever managed without.
 
-## Recommended Resources
-
 ## Sources
 
 - [Renogy 200Ah 12V LiFePO4 battery](https://www.amazon.com/s?k=renogy+200ah+lifepo4+lithium+battery&tag=contentportfo-20)

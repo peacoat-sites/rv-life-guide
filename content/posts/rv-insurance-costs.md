@@ -109,8 +109,6 @@ Here's the practical stuff. None of it is complicated, but it does take work.
 
 7. **Consider higher deductibles on older rigs.** If your rig's agreed or actual cash value is under $40,000, paying $800 a year for comprehensive and collision with a $500 deductible may not make sense. Run the math on whether multiple years of premiums equal what you'd actually lose in a claim.
 
-## Recommended Resources
-
 ## Sources
 
 - [A good battery monitor](https://amzn.to/3example)

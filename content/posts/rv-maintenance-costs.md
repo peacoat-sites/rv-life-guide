@@ -146,8 +146,6 @@ RV maintenance isn't a mystery. It doesn't have to be a financial nightmare. It 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [AI25.Studio Studio](https://www.pexels.com/@ai25studioai)

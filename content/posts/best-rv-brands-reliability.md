@@ -117,8 +117,6 @@ After 90,000 miles and six years, I still don't have a perfect answer to the rel
 
 *Photo: [Willian Justen de Vasconcellos](https://www.pexels.com/@willianjusten) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)

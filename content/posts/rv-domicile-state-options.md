@@ -127,10 +127,3 @@ For a complete picture of what full-time RV life involves, the [full-time RV liv
 Choosing your domicile state isn't glamorous. It's one of the highest-leverage decisions you'll make as a full-timer, though. A few hours of research and one trip to the right DMV can realistically save you thousands of dollars every year. Get this right early, document your choices carefully, and the rest of the administrative side of full-time RV life gets a lot simpler.
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-

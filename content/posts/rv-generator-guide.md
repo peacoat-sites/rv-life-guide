@@ -147,8 +147,6 @@ A generator isn't glamorous. Nobody brags about their generator setup the way th
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [SoftStartRV](https://www.amazon.com/s?k=softstartRV&tag=contentportfo-20)

@@ -120,8 +120,6 @@ The RV market throws a lot of terminology at you fast, and dealerships aren't al
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Camco RV Leveling Blocks](https://www.amazon.com/s?k=rv+leveling+blocks)
@@ -135,4 +133,3 @@ The RV market throws a lot of terminology at you fast, and dealerships aren't al
 
 - **[Feeling Good: The New Mood Therapy](https://www.amazon.com/dp/0380810336/?tag=contentportfo-20)** (~$14), The most clinically studied self-help book for depression, recommended by therapists worldwide as CBT-based self-treatment.
 - **[The Anxiety and Worry Workbook](https://www.amazon.com/dp/160623918X/?tag=contentportfo-20)** (~$25), Written by Aaron Beck (founder of CBT), the authoritative structured workbook for managing generalized anxiety disorder.
-

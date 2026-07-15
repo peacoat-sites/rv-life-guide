@@ -106,8 +106,6 @@ Leveling blocks deserve a mention here too. Properly leveling your rig isn't jus
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [A good plug-in surge protector like the Progressive Industries SSP-30XL](https://www.amazon.com/s?k=progressive+industries+SSP-30XL+surge+protector+rv&tag=contentportfo-20)
@@ -121,4 +119,3 @@ Leveling blocks deserve a mention here too. Properly leveling your rig isn't jus
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 200W Solar Kit + 20A MPPT Controller](https://www.amazon.com/dp/B06VYJ8JXH/?tag=contentportfo-20)** (~$199), 200W panel kit with MPPT charge controller for maximum energy harvest.
-

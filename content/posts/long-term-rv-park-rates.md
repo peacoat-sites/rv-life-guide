@@ -107,8 +107,6 @@ I've watched people sign seasonal leases and regret it within a month because th
 
 **Cell signal and WiFi.** Park-provided WiFi is usually terrible for working remotely. Check signal strength from the actual site for your carrier before you commit.
 
-## Recommended Resources
-
 ## Sources
 
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)

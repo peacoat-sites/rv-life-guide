@@ -102,8 +102,6 @@ The math works. For a lot of people it works really well. But go in knowing the 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Tom Fisk](https://www.pexels.com/@tomfisk)
@@ -115,4 +113,3 @@ The math works. For a lot of people it works really well. But go in knowing the 
 
 - **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
 - **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
-

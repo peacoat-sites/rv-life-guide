@@ -108,8 +108,6 @@ The fuel math isn't meant to scare you off the road. I've driven over 90,000 mil
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)

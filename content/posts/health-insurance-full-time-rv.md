@@ -121,8 +121,6 @@ For prescriptions, GoodRx often beats your insurance copay, especially at big-bo
 
 Health insurance for full-time RVers isn't one-size-fits-all, but it's absolutely solvable with the right preparation. The people who struggle are usually the ones who treat it as an afterthought. Spend the time before you launch, pick a plan that actually matches your travel patterns, and revisit your coverage every open enrollment period as your situation changes. The road is more enjoyable when you're not quietly worrying about what happens if something goes wrong.
 
-## Recommended Resources
-
 ## Sources
 
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)

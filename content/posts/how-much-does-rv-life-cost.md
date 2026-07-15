@@ -134,8 +134,6 @@ Six years in, my average monthly spend across all of 2023 was $2,780 for one per
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Progressive Industries EMS-HW50C](https://www.amazon.com/s?k=Progressive+Industries+surge+protector+RV)

@@ -89,8 +89,6 @@ Getting this stuff sorted in your first few months of full-time RV life is genui
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
-## Recommended Resources
-
 ## Sources
 
 - [Kampus Production](https://www.pexels.com/@kampus)

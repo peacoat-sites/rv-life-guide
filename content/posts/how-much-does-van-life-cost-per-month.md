@@ -104,8 +104,6 @@ The number that will actually matter is yours. Not mine. Not some YouTuber's hig
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)

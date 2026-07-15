@@ -125,11 +125,3 @@ I've seen people do this backwards and it rarely causes a crisis on trip one. It
 *Photo: [Lisha Dunlap](https://www.pexels.com/@lishadunlap) via Pexels*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
-- **[Nolo's Essential Guide to Buying Your First Home](https://www.amazon.com/dp/1413323456/?tag=contentportfo-20)** (~$25) — Trusted legal publisher walks you through contracts, disclosures, closing, and every step of homebuying.
-
