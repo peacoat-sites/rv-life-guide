@@ -1,0 +1,393 @@
+{
+ "title": "RV and Trailer Towing Limits by State (2026)",
+ "note": "Maximum single-trailer length, maximum combined (tow vehicle + trailer) length, maximum width, and whether triple towing (pulling two trailers, e.g. a fifth-wheel plus a boat) is legal. Compiled from state DOT size-and-weight codes. 'Not set' means the state caps the combination length rather than the trailer alone. Height limit is 13'6\" in most states (14' in the West). Special permits can raise several of these; verify with the state DOT before a trip.",
+ "search_placeholder": "Search your state…",
+ "filters": [
+  {
+   "key": "triple",
+   "label": "Triple towing"
+  }
+ ],
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "trailer",
+   "label": "Max trailer"
+  },
+  {
+   "key": "combined",
+   "label": "Max combined"
+  },
+  {
+   "key": "width",
+   "label": "Max width"
+  },
+  {
+   "key": "triple",
+   "label": "Triple tow"
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Alaska",
+   "trailer": "40 ft",
+   "combined": "75 ft",
+   "width": "8'5\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Arizona",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "5th-wheel only"
+  },
+  {
+   "state": "Arkansas",
+   "trailer": "43'6\"",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "California",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Colorado",
+   "trailer": "Not set",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Connecticut",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Delaware",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Varies"
+  },
+  {
+   "state": "District of Columbia",
+   "trailer": "Not set",
+   "combined": "55 ft",
+   "width": "8'0\"",
+   "triple": "Varies"
+  },
+  {
+   "state": "Florida",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Georgia",
+   "trailer": "Not set",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Hawaii",
+   "trailer": "Not set",
+   "combined": "65 ft",
+   "width": "9'0\"",
+   "triple": "No"
+  },
+  {
+   "state": "Idaho",
+   "trailer": "48 ft",
+   "combined": "75 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Illinois",
+   "trailer": "45 ft",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "5th-wheel only"
+  },
+  {
+   "state": "Indiana",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Iowa",
+   "trailer": "53 ft",
+   "combined": "70 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Kansas",
+   "trailer": "Not set",
+   "combined": "70 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Kentucky",
+   "trailer": "Not set",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Louisiana",
+   "trailer": "40 ft",
+   "combined": "70 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Maine",
+   "trailer": "48 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Maryland",
+   "trailer": "40 ft",
+   "combined": "55 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Massachusetts",
+   "trailer": "40 ft",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Michigan",
+   "trailer": "45 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Minnesota",
+   "trailer": "45 ft",
+   "combined": "75 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Mississippi",
+   "trailer": "40 ft",
+   "combined": "53 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Missouri",
+   "trailer": "Not set",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Montana",
+   "trailer": "Not set",
+   "combined": "75 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Nebraska",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Nevada",
+   "trailer": "Not set",
+   "combined": "70 ft",
+   "width": "8'6\"",
+   "triple": "Varies"
+  },
+  {
+   "state": "New Hampshire",
+   "trailer": "48 ft",
+   "combined": "Not set",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "New Jersey",
+   "trailer": "40 ft",
+   "combined": "50 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "New Mexico",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "New York",
+   "trailer": "48 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "North Carolina",
+   "trailer": "35 ft",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "North Dakota",
+   "trailer": "53 ft",
+   "combined": "75 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Ohio",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Oklahoma",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Oregon",
+   "trailer": "45 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Pennsylvania",
+   "trailer": "Not set",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Rhode Island",
+   "trailer": "Not set",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "South Carolina",
+   "trailer": "48 ft",
+   "combined": "Not set",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "South Dakota",
+   "trailer": "53 ft",
+   "combined": "80 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Tennessee",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Texas",
+   "trailer": "Not set",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Utah",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  },
+  {
+   "state": "Vermont",
+   "trailer": "46 ft",
+   "combined": "68 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Virginia",
+   "trailer": "45 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Washington",
+   "trailer": "Not set",
+   "combined": "75 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "West Virginia",
+   "trailer": "40 ft",
+   "combined": "65 ft",
+   "width": "8'6\"",
+   "triple": "No"
+  },
+  {
+   "state": "Wisconsin",
+   "trailer": "48 ft",
+   "combined": "60 ft",
+   "width": "8'6\"",
+   "triple": "Permit"
+  },
+  {
+   "state": "Wyoming",
+   "trailer": "45 ft",
+   "combined": "85 ft",
+   "width": "8'6\"",
+   "triple": "Yes"
+  }
+ ]
+}
