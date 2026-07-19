@@ -4,7 +4,7 @@ date: 2026-07-08T20:15:45.328511+00:00
 draft: false
 description: "New to RVing? Learn how to pick the right rig, what to pack, and how to plan your first trip with confidence and avoid common rookie mistakes."
 image: "/img/heroes/7967387.jpg"
-categories: ["RV Beginners"]
+categories: ["basics"]
 tags: ["beginners", "where", "start"]
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"

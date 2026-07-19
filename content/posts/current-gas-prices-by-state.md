@@ -5,7 +5,7 @@ lastmod: 2026-07-08
 draft: false
 description: "Current U.S. gas and diesel prices by state, updated weekly from EIA data, with RV trip-planning tips on where fuel is cheapest and how to budget per mile."
 image: "/img/heroes/c947e841785b.jpg"
-categories: ["RV Living Costs"]
+categories: ["costs"]
 tags: ["fuel", "gas prices", "budget", "trip planning", "data"]
 author: "Sandra Park"
 author_slug: "sandra-park"

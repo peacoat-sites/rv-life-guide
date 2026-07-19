@@ -4,7 +4,7 @@ date: 2026-07-09T20:31:12.544037+00:00
 draft: false
 description: "Heading out for your first RV trip? Use this 47-item checklist covering hookups, safety gear, and supplies to avoid costly rookie mistakes."
 image: "/img/heroes/11280665.jpg"
-categories: ["RV Beginners"]
+categories: ["basics"]
 tags: ["first", "time", "trip", "checklist"]
 author: "Tony Reeves"
 author_slug: "tony-reeves"

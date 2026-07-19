@@ -4,7 +4,7 @@ date: 2026-07-09T20:33:32.163674+00:00
 draft: false
 description: "Find out what full time RV living actually costs per month, from campsite fees to insurance, fuel, and maintenance. Plan your budget before hitting the road."
 image: "/img/heroes/2580312.jpg"
-categories: ["RV Living Costs"]
+categories: ["costs"]
 tags: ["much", "does", "full", "time", "living"]
 author: "Julia Davidson"
 author_slug: "julia-davidson"

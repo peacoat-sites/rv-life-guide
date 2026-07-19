@@ -19,7 +19,7 @@ faqs:
    a: "Dramatically. At 60 mph I tow at 13 MPG; at 70 mph I'm down to 8 MPG. That's a 40% efficiency loss from 10 extra mph. If you're towing, slower saves serious money."
  - q: "What's the best time of year to RV for fuel savings?"
    a: "Winter (December-February) has the lowest fuel prices (we hit $2.88/gal average in Feb 2026). Spring summer prices spike, April-May peaked at $4.50/gal. Winter RVing = 35-40% fuel savings if you can handle cold weather."
-categories: ["RV Budget", "Travel Costs", "Fuel Efficiency"]
+categories: ["costs"]
 keywords: ["RV fuel cost", "motorhome MPG", "trip cost calculator", "diesel vs gasoline RV", "towing fuel economy"]
 featured_depth: true
 ---

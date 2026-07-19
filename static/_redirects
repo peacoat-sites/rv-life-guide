@@ -1,3 +1,11 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/fuel-efficiency/ /categories/maintenance/ 301
+/categories/rv-beginners/ /categories/basics/ 301
+/categories/rv-budget/ /categories/costs/ 301
+/categories/rv-living-costs/ /categories/costs/ 301
+/categories/travel-costs/ /categories/costs/ 301
+/categories/inspiration/ /categories/lifestyle/ 301
