@@ -71,13 +71,13 @@ The gap is about $64 a month, or roughly $768 a year. Not catastrophic. But if y
 
 This is where most new cat-owning RVers get it wrong at first, me included. I spent the first six months thinking the main challenge was space. It's not. It's airflow, escape prevention, and litter logistics.
 
-**Airflow first.** Cats overheat faster than you'd expect, and what kills them is a parked rig with inadequate cooling. The American Veterinary Medical Association's heat safety guidelines put the danger threshold for cats at sustained interior temps above 80°F. If you're full-timing in the south or southwest at any point between May and September, your air conditioning reliability is not a convenience item, it's a life-safety system. I run a [Micro-Air EasyStart](https://www.amazon.com/s?k=Micro-Air+EasyStart&tag=YOURAFFID) (around $329 installed) on my main rooftop AC so it can run on a 30-amp connection without tripping breakers at older campgrounds. That single upgrade has let me leave Miso, Ramen, and Pickles safely while I run errands in weather I wouldn't otherwise risk.
+**Airflow first.** Cats overheat faster than you'd expect, and what kills them is a parked rig with inadequate cooling. The American Veterinary Medical Association's heat safety guidelines put the danger threshold for cats at sustained interior temps above 80°F. If you're full-timing in the south or southwest at any point between May and September, your air conditioning reliability is not a convenience item, it's a life-safety system. I run a [Micro-Air EasyStart](https://www.amazon.com/s?k=Micro-Air+EasyStart&tag=contentportfo-20) (around $329 installed) on my main rooftop AC so it can run on a 30-amp connection without tripping breakers at older campgrounds. That single upgrade has let me leave Miso, Ramen, and Pickles safely while I run errands in weather I wouldn't otherwise risk.
 
-**Screen doors are a crisis waiting to happen.** The standard screen door on most RVs is not designed to contain a cat. One sniff of a bird outside, and they're through it. I've seen this go badly for people. The fix I use is a [Camco RV Screen Door Grille Guard](https://www.amazon.com/s?k=Camco+RV+screen+door+guard&tag=YOURAFFID), which runs about $47-$55, reinforced with a simple hook-and-eye latch mounted 18 inches from the bottom. Total cost: under $60. It has never failed me in four years.
+**Screen doors are a crisis waiting to happen.** The standard screen door on most RVs is not designed to contain a cat. One sniff of a bird outside, and they're through it. I've seen this go badly for people. The fix I use is a [Camco RV Screen Door Grille Guard](https://www.amazon.com/s?k=Camco+RV+screen+door+guard&tag=contentportfo-20), which runs about $47-$55, reinforced with a simple hook-and-eye latch mounted 18 inches from the bottom. Total cost: under $60. It has never failed me in four years.
 
 **Litter boxes: placement beats size.** I tested this by accident. I originally put two boxes in the bathroom, which seemed logical, until I realized the bathroom door swings in a way that can trap a cat inside when it's left slightly ajar. Ramen spent four hours in there one day when I was out. Now I keep one box under the dinette (the space between the seat pedestal and the slide wall, which is exactly 14 inches in most Class A dinette configurations), and one in the wet bath but with a door stop wedged permanently. The cats adapted in about 24 hours. Honestly, I should have thought about this on day one.
 
-A thin [Iris USA enclosed litter box](https://www.amazon.com/s?k=Iris+enclosed+litter+box&tag=YOURAFFID) fits under most dinette bench seats. Odor control matters even more in 350 square feet than it does in a 2,000-square-foot house. That's not an opinion, that's math.
+A thin [Iris USA enclosed litter box](https://www.amazon.com/s?k=Iris+enclosed+litter+box&tag=contentportfo-20) fits under most dinette bench seats. Odor control matters even more in 350 square feet than it does in a 2,000-square-foot house. That's not an opinion, that's math.
 
 ## Moving Days: What the Data Says, and What I've Learned
 
@@ -85,7 +85,7 @@ Transit stress is the thing new RV cat owners worry about most, and they're righ
 
 In practice, my system looks like this:
 
-Start day → Load cats into large [Sherpa Original Deluxe carriers](https://www.amazon.com/s?k=Sherpa+Original+Deluxe+carrier&tag=YOURAFFID) ($89 each) secured to the dinette seat with the seatbelt → Drive no more than 3.5-4 hours before stopping → Let cats out into the rig (which is already their territory) for 20-30 minutes → Continue.
+Start day → Load cats into large [Sherpa Original Deluxe carriers](https://www.amazon.com/s?k=Sherpa+Original+Deluxe+carrier&tag=contentportfo-20) ($89 each) secured to the dinette seat with the seatbelt → Drive no more than 3.5-4 hours before stopping → Let cats out into the rig (which is already their territory) for 20-30 minutes → Continue.
 
 When I drove from Denver to Corpus Christi in a single push, about 13 hours, I did not follow my own protocol. Pickles had loose stools for two days afterward. I've never made that mistake again.
 

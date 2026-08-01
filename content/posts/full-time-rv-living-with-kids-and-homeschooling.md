@@ -75,7 +75,7 @@ For a lower-cost backup, most families pair a Starlink with a cellular-based rou
 
 The one thing I'd tell you that no product review will mention: put your router in a spot with a clear sky view and keep it there permanently. Ours is velcroed to the dash. Moving it around to "try different spots" wastes 20 minutes every time. Find what works, fix it in place.
 
-A [portable cellular signal booster like the WeBoost Drive Sleek](https://www.amazon.com/dp/B07J2QP4M4?tag=rvlifetag-20) can meaningfully improve your hotspot speeds in areas where you have weak but existing signal. Won't create signal where there is none, but for the marginal cases it earns its $300 price.
+A [portable cellular signal booster like the WeBoost Drive Sleek](https://www.amazon.com/dp/B07J2QP4M4?tag=contentportfo-20) can meaningfully improve your hotspot speeds in areas where you have weak but existing signal. Won't create signal where there is none, but for the marginal cases it earns its $300 price.
 
 ## Space, Routine, and Not Losing Your Mind
 
@@ -85,7 +85,7 @@ A few practical specifics:
 
 Keep a dedicated school bin (we used a shallow 12-quart Sterilite bin that slid under the dinette seat). In it: pencils, the current workbooks, a small whiteboard, and any manipulatives for math. When the bin comes out, we're in school. When it goes away, we're not. This one ritual sounds too simple to matter. It matters enormously.
 
-For younger kids especially, I'd strongly recommend a [magnetic whiteboard](https://www.amazon.com/dp/B07WLTMGXP?tag=rvlifetag-20) that mounts on a cabinet door. They're light, wipe clean, and you can use them for everything from letter practice to meal planning. We had one for six years.
+For younger kids especially, I'd strongly recommend a [magnetic whiteboard](https://www.amazon.com/dp/B07WLTMGXP?tag=contentportfo-20) that mounts on a cabinet door. They're light, wipe clean, and you can use them for everything from letter practice to meal planning. We had one for six years.
 
 Two scenarios worth comparing:
 

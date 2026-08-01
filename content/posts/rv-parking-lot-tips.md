@@ -45,7 +45,7 @@ Pull in slowly and actually look around. I mean really look.
 
 Check for "No Overnight Parking" signs near the entrance and at the back of the lot, they're sometimes only posted in one corner. Look for whether other big rigs or RVs are already there. That's your green light. If you see zero trucks and the lot is otherwise empty at 7 p.m., that's a yellow flag worth investigating.
 
-Check the ground. Asphalt heaves, especially in areas with cold winters. A bad frost heave can tip a level site into a 4-degree slant, which is livable in a pinch but miserable for sleep and rough on your fridge (RV refrigerators need to be within about 3 degrees of level to run correctly, most people don't know this and wonder why their food is lukewarm by morning). I keep a set of [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=rvlifeguide-20) in a bag by the door specifically for lot situations where I don't have time to scout.
+Check the ground. Asphalt heaves, especially in areas with cold winters. A bad frost heave can tip a level site into a 4-degree slant, which is livable in a pinch but miserable for sleep and rough on your fridge (RV refrigerators need to be within about 3 degrees of level to run correctly, most people don't know this and wonder why their food is lukewarm by morning). I keep a set of [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=contentportfo-20) in a bag by the door specifically for lot situations where I don't have time to scout.
 
 Look at sight lines. A spot tucked behind a garden center wing with one dim light overhead sounds sketchy but is often more private and quieter than the open center of the lot with light pouring in all night. Privacy is underrated. And noise: lots near 24-hour drive-throughs are a particular kind of torture at 3 a.m.
 
@@ -88,7 +88,7 @@ The knock. Security guard, store employee, or occasionally a police officer aski
 
 Slide-outs in parking lots are a judgment call. I've extended my passenger-side slide in larger lots at 3 a.m. when I was clearly the only RV there. But I've also had a delivery truck show up at 5 a.m. and nearly clip it. My current rule: if I'm in a lot where trucks might move at night, slides stay in.
 
-Carbon monoxide in parking lots adjacent to loading docks or near idling semis. If you're parked within 50 feet of a diesel truck that idles all night (which they do, all night), crack a vent and make sure your CO detector works. Mine went off once outside a Flying J, not dramatically, but enough to wake me and send me to a different spot. [A working CO and propane combo detector](https://www.amazon.com/s?k=rv+carbon+monoxide+propane+detector&tag=rvlifeguide-20) isn't optional in my rig.
+Carbon monoxide in parking lots adjacent to loading docks or near idling semis. If you're parked within 50 feet of a diesel truck that idles all night (which they do, all night), crack a vent and make sure your CO detector works. Mine went off once outside a Flying J, not dramatically, but enough to wake me and send me to a different spot. [A working CO and propane combo detector](https://www.amazon.com/s?k=rv+carbon+monoxide+propane+detector&tag=contentportfo-20) isn't optional in my rig.
 
 Worked examples from actual nights:
 

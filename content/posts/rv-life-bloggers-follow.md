@@ -70,7 +70,7 @@ The better bloggers will tell you that [full-time RV life costs](/what-i-wish-i-
 
 ## Three Worked Examples From Real Readers
 
-A reader named Dale from Phoenix emailed me last spring after he'd followed generic "YouTube RV influencer" advice on leveling blocks and ended up with a set of cheap interlocking foam blocks that compressed under his 32-foot fifth wheel. His rig was out of level by morning. He switched to [Camco's 10-pack of heavy-duty leveling blocks](https://www.amazon.com/dp/B001ILP3U4?tag=rvlifeblog-20) after seeing them recommended on Technomadia with load ratings included. Problem solved the next trip.
+A reader named Dale from Phoenix emailed me last spring after he'd followed generic "YouTube RV influencer" advice on leveling blocks and ended up with a set of cheap interlocking foam blocks that compressed under his 32-foot fifth wheel. His rig was out of level by morning. He switched to [Camco's 10-pack of heavy-duty leveling blocks](https://www.amazon.com/dp/B001ILP3U4?tag=contentportfo-20) after seeing them recommended on Technomadia with load ratings included. Problem solved the next trip.
 
 Scenario: Reader following influencer content on solar → Bought a 100W panel based on "plenty for a weekend camper" framing → Ran out of power at hour 14 of a cloudy day with a residential fridge running. After reading FitRV's output-testing posts, he resized to a 400W array with a battery monitor. Now he has real data on his system instead of guessing.
 

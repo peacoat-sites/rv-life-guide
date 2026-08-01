@@ -95,7 +95,7 @@ Many factory tow packages on Ford F-150s, Ram 1500s, and Chevy Silverados includ
 
 Current pricing as of July 2026: Tekonsha P3 proportional controller runs about $155-$170 on Amazon. The Curt 51110 is a solid proportional option at around $130. If you want fully integrated and wireless, the Tekonsha Prodigy RF is around $280.
 
-A solid surge protector for your campsite hookup and a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=rvlife-20) for your trailer's 12V system are worth having alongside this gear. (The site may earn a commission on purchases through those links.) A properly wired brake controller draws very little current, but knowing your trailer's battery state helps you catch wiring issues before they become brake issues.
+A solid surge protector for your campsite hookup and a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) for your trailer's 12V system are worth having alongside this gear. (The site may earn a commission on purchases through those links.) A properly wired brake controller draws very little current, but knowing your trailer's battery state helps you catch wiring issues before they become brake issues.
 
 ---
 

@@ -76,9 +76,9 @@ As of July 2026, the solar-powered pump water market has exploded, and some of i
 
 A quality inline water filter like the Camco TastePURE (about $19) lets you fill from marginal sources like campground spigots with confidence, and you'll actually drink your filtered water instead of buying bottled water, which is both expensive and wastes your cash on plastic.
 
-A [battery-powered water pump](https://www.amazon.com/dp/B08L3WD2JL?tag=rvlifeguide-20) or foot-pump faucet setup for dish rinsing, if you're not already doing the spray bottle method. These are typically $25-45 and use water only when you actively pump, unlike a standard electric faucet which you leave running between scrubs.
+A [battery-powered water pump](https://www.amazon.com/dp/B08L3WD2JL?tag=contentportfo-20) or foot-pump faucet setup for dish rinsing, if you're not already doing the spray bottle method. These are typically $25-45 and use water only when you actively pump, unlike a standard electric faucet which you leave running between scrubs.
 
-A good [water tank monitor](https://www.amazon.com/s?k=rv+fresh+water+tank+monitor&tag=rvlifeguide-20) that shows actual gallons, not just a light that says "low." Knowing you've got 11 gallons left versus 5 changes your behavior before it becomes urgent. *(Disclosure: this site may earn a commission on purchases made through these links.)*
+A good [water tank monitor](https://www.amazon.com/s?k=rv+fresh+water+tank+monitor&tag=contentportfo-20) that shows actual gallons, not just a light that says "low." Knowing you've got 11 gallons left versus 5 changes your behavior before it becomes urgent. *(Disclosure: this site may earn a commission on purchases made through these links.)*
 
 **Probably not worth it:**
 

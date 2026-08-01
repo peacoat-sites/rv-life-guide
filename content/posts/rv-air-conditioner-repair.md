@@ -53,13 +53,13 @@ The four things that account for the overwhelming majority of failures, in rough
 
 Before you call anyone, spend twenty minutes doing this yourself. Seriously. You'll either fix it, or you'll go into that shop conversation knowing what's actually wrong, which is worth real money.
 
-**Step 1: Check your power quality first.** Low voltage is a silent killer. An RV AC needs clean 120V AC to run properly; anything below 105V and you're in trouble. Get a [plug-in surge protector and voltage monitor](https://www.amazon.com/s?k=rv+surge+protector+voltage+monitor&tag=rvlifeweb-20) like the Progressive Industries EMS-PT30X (around $189 street price). If you're on shore power and voltage is sagging, that's a campground problem, not an AC problem. Running your unit on low voltage is the fastest way to kill a compressor.
+**Step 1: Check your power quality first.** Low voltage is a silent killer. An RV AC needs clean 120V AC to run properly; anything below 105V and you're in trouble. Get a [plug-in surge protector and voltage monitor](https://www.amazon.com/s?k=rv+surge+protector+voltage+monitor&tag=contentportfo-20) like the Progressive Industries EMS-PT30X (around $189 street price). If you're on shore power and voltage is sagging, that's a campground problem, not an AC problem. Running your unit on low voltage is the fastest way to kill a compressor.
 
 **Step 2: Check the amp draw.** A 15,000 BTU unit should draw roughly 12-14 amps at startup and settle to around 8-10 amps running. A clamp meter (DeWalt or Klein, not a $9 Amazon no-name) around the shore power cord tells you this immediately. Running high? Dirty coils or a struggling compressor.
 
 **Step 3: Pull the inside cover.** Most RV AC shrouds are held on by four to six plastic clips or screws. Take it down. What you'll find is the evaporator coil, the fan assembly, and the air filter (if your unit has one). Is the filter matted with gray fluff? That's your problem. Is the coil itself caked with debris or showing ice? Both of those are diagnostic.
 
-**Step 4: Get on the roof.** I know, I know. It's hot up there. But pull the outer shroud off the rooftop unit (usually six to eight screws) and look at the condenser coil. If it's packed with cottonwood, bugs, or general grime, hit it with [Nu-Calgon Evap Foam No Rinse coil cleaner](https://www.amazon.com/s?k=nu-calgon+evap+foam+coil+cleaner&tag=rvlifeweb-20) ($18-$22 a can) and let it drip off. Don't use a pressure washer. I've seen people bend fins flat that way.
+**Step 4: Get on the roof.** I know, I know. It's hot up there. But pull the outer shroud off the rooftop unit (usually six to eight screws) and look at the condenser coil. If it's packed with cottonwood, bugs, or general grime, hit it with [Nu-Calgon Evap Foam No Rinse coil cleaner](https://www.amazon.com/s?k=nu-calgon+evap+foam+coil+cleaner&tag=contentportfo-20) ($18-$22 a can) and let it drip off. Don't use a pressure washer. I've seen people bend fins flat that way.
 
 **Step 5: Listen at startup.** Does it hum and then click off? That's almost always the start capacitor. Does it start but run weakly? Run capacitor or coils. Does it start normally but blow warm air? Refrigerant issue or a failed reversing valve (on heat pump models).
 
@@ -92,13 +92,13 @@ I replaced my own Dometic on a 2017 Keystone Montana two summers ago. The job to
 
 The actual process: remove the interior shroud and ceiling assembly, disconnect the wiring (photograph everything before you touch it), go to the roof and unbolt the mounting bolts (usually 4-6, going through the roof), lift the old unit off, clean the mounting gasket channel, set the new unit, reconnect wiring, reinstall from below. The trickiest part is usually matching your roof cutout dimension, which is fairly standardized but not universal. Measure yours before ordering.
 
-A [battery-powered impact driver](https://www.amazon.com/s?k=battery+impact+driver+rv+repair&tag=rvlifeweb-20) on that roof makes the bolt work dramatically faster, and a [roof vent gasket kit](https://www.amazon.com/s?k=rv+ac+roof+gasket&tag=rvlifeweb-20) ($12-$18) is worth replacing while you're up there. Don't trust the old foam.
+A [battery-powered impact driver](https://www.amazon.com/s?k=battery+impact+driver+rv+repair&tag=contentportfo-20) on that roof makes the bolt work dramatically faster, and a [roof vent gasket kit](https://www.amazon.com/s?k=rv+ac+roof+gasket&tag=contentportfo-20) ($12-$18) is worth replacing while you're up there. Don't trust the old foam.
 
 ## Preventing the Next Failure
 
 The single highest-return maintenance task is cleaning your coils once per season. Second is running your AC on a quality surge protector with voltage protection. Third is keeping the interior filter clean, which in a full-time rig means checking it monthly.
 
-A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron&tag=rvlifeweb-20) won't directly protect your AC, but knowing your coach battery state matters if you're running off an inverter, since low battery voltage creates the same havoc as low shore power. Worth having regardless.
+A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron&tag=contentportfo-20) won't directly protect your AC, but knowing your coach battery state matters if you're running off an inverter, since low battery voltage creates the same havoc as low shore power. Worth having regardless.
 
 What most people skip: after winter storage, before running the AC hard, pull that roof shroud and look at the capacitors. They're usually visible without disconnecting anything. A swollen or leaking capacitor (the top will bulge instead of being flat) is one that's about to take your compressor with it on the first 105°F day. Capacitors are cheap insurance.
 

@@ -72,7 +72,7 @@ Scenario 1: Reader buys the $895 Thousand Trails annual pass and stays within th
 
 My first year, I ignored all of this and paid full price almost everywhere. Rookie mistake. I left somewhere around $8,000 on the table that year.
 
-A good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=rvlife-20) is worth buying before you plug into unfamiliar campground pedestals, by the way. The first time I plugged in at a sketchy older park and smelled something burning, I learned that lesson fast. (Site may earn a commission on purchases.)
+A good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) is worth buying before you plug into unfamiliar campground pedestals, by the way. The first time I plugged in at a sketchy older park and smelled something burning, I learned that lesson fast. (Site may earn a commission on purchases.)
 
 ## The Repair Budget Problem
 

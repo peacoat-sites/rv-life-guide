@@ -64,7 +64,7 @@ When I rebuilt my van wardrobe in my second year, I went heavy on merino wool. N
 
 The practical wardrobe I'd actually recommend for full-time van living, built around laundry math: 5-6 merino or wool-blend shirts, 3 pairs of quick-dry synthetic pants or shorts, 7-10 days of synthetic underwear (ExOfficio or Smartwool), 2 pairs of merino socks per day of typical wear, and one set of dedicated work/dirty clothes that stay in a separate bag. That's it. You don't need more. Every extra item is more weight, more storage, and more laundry volume.
 
-Scenario: A reader named Cass from Portland emailed me last fall after her first six months in a Promaster. She'd been doing laundry every 5 days, spending $70/month. After switching to a merino-heavy wardrobe and using a [Scrubba wash bag](https://www.amazon.com/s?k=scrubba+wash+bag&tag=rvlife-20) for socks and shirts mid-week, she dropped to laundromat trips every 10-12 days and cut her monthly spend to around $28. The Scrubba ($60 retail) paid for itself in two months. (Full disclosure: the link above is an affiliate link and the site may earn a commission.)
+Scenario: A reader named Cass from Portland emailed me last fall after her first six months in a Promaster. She'd been doing laundry every 5 days, spending $70/month. After switching to a merino-heavy wardrobe and using a [Scrubba wash bag](https://www.amazon.com/s?k=scrubba+wash+bag&tag=contentportfo-20) for socks and shirts mid-week, she dropped to laundromat trips every 10-12 days and cut her monthly spend to around $28. The Scrubba ($60 retail) paid for itself in two months. (Full disclosure: the link above is an affiliate link and the site may earn a commission.)
 
 ## The Hand-Wash Option (Honest Assessment)
 
