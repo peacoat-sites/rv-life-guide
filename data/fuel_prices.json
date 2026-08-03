@@ -1,364 +1,364 @@
 {
   "title": "U.S. Fuel Prices",
-  "date": "2026-07-20",
+  "date": "2026-07-27",
   "source": "U.S. Energy Information Administration (EIA)",
-  "gas": 4.0,
-  "diesel": 5.13,
+  "gas": 4.1,
+  "diesel": 5.31,
   "states": {
     "CT": {
       "name": "Connecticut",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "DE": {
       "name": "Delaware",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "DC": {
       "name": "Washington DC",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "FL": {
       "name": "Florida",
-      "gas": 3.89,
-      "diesel": 5.19,
+      "gas": 3.92,
+      "diesel": 5.35,
       "level": "state",
       "region": "East Coast (PADD 1)"
     },
     "GA": {
       "name": "Georgia",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "ME": {
       "name": "Maine",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "MD": {
       "name": "Maryland",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "MA": {
       "name": "Massachusetts",
-      "gas": 4.0,
-      "diesel": 5.19,
+      "gas": 4.08,
+      "diesel": 5.35,
       "level": "state",
       "region": "East Coast (PADD 1)"
     },
     "NH": {
       "name": "New Hampshire",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "NJ": {
       "name": "New Jersey",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "NY": {
       "name": "New York",
-      "gas": 4.08,
-      "diesel": 5.19,
+      "gas": 4.14,
+      "diesel": 5.35,
       "level": "state",
       "region": "East Coast (PADD 1)"
     },
     "NC": {
       "name": "North Carolina",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "PA": {
       "name": "Pennsylvania",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "RI": {
       "name": "Rhode Island",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "SC": {
       "name": "South Carolina",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "VT": {
       "name": "Vermont",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "VA": {
       "name": "Virginia",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "WV": {
       "name": "West Virginia",
-      "gas": 3.92,
-      "diesel": 5.19,
+      "gas": 4.0,
+      "diesel": 5.35,
       "level": "region",
       "region": "East Coast (PADD 1)"
     },
     "IL": {
       "name": "Illinois",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "IN": {
       "name": "Indiana",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "IA": {
       "name": "Iowa",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "KS": {
       "name": "Kansas",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "KY": {
       "name": "Kentucky",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "MI": {
       "name": "Michigan",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "MN": {
       "name": "Minnesota",
-      "gas": 3.84,
-      "diesel": 4.99,
+      "gas": 4.04,
+      "diesel": 5.2,
       "level": "state",
       "region": "Midwest (PADD 2)"
     },
     "MO": {
       "name": "Missouri",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "NE": {
       "name": "Nebraska",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "ND": {
       "name": "North Dakota",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "OH": {
       "name": "Ohio",
-      "gas": 3.86,
-      "diesel": 4.99,
+      "gas": 3.85,
+      "diesel": 5.2,
       "level": "state",
       "region": "Midwest (PADD 2)"
     },
     "OK": {
       "name": "Oklahoma",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "SD": {
       "name": "South Dakota",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "TN": {
       "name": "Tennessee",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "WI": {
       "name": "Wisconsin",
-      "gas": 3.78,
-      "diesel": 4.99,
+      "gas": 3.88,
+      "diesel": 5.2,
       "level": "region",
       "region": "Midwest (PADD 2)"
     },
     "AL": {
       "name": "Alabama",
-      "gas": 3.59,
-      "diesel": 4.94,
+      "gas": 3.69,
+      "diesel": 5.09,
       "level": "region",
       "region": "Gulf Coast (PADD 3)"
     },
     "AR": {
       "name": "Arkansas",
-      "gas": 3.59,
-      "diesel": 4.94,
+      "gas": 3.69,
+      "diesel": 5.09,
       "level": "region",
       "region": "Gulf Coast (PADD 3)"
     },
     "LA": {
       "name": "Louisiana",
-      "gas": 3.59,
-      "diesel": 4.94,
+      "gas": 3.69,
+      "diesel": 5.09,
       "level": "region",
       "region": "Gulf Coast (PADD 3)"
     },
     "MS": {
       "name": "Mississippi",
-      "gas": 3.59,
-      "diesel": 4.94,
+      "gas": 3.69,
+      "diesel": 5.09,
       "level": "region",
       "region": "Gulf Coast (PADD 3)"
     },
     "NM": {
       "name": "New Mexico",
-      "gas": 3.59,
-      "diesel": 4.94,
+      "gas": 3.69,
+      "diesel": 5.09,
       "level": "region",
       "region": "Gulf Coast (PADD 3)"
     },
     "TX": {
       "name": "Texas",
-      "gas": 3.55,
-      "diesel": 4.94,
+      "gas": 3.64,
+      "diesel": 5.09,
       "level": "state",
       "region": "Gulf Coast (PADD 3)"
     },
     "CO": {
       "name": "Colorado",
-      "gas": 3.9,
-      "diesel": 4.93,
+      "gas": 4.0,
+      "diesel": 5.14,
       "level": "state",
       "region": "Rocky Mountain (PADD 4)"
     },
     "ID": {
       "name": "Idaho",
-      "gas": 3.96,
-      "diesel": 4.93,
+      "gas": 4.08,
+      "diesel": 5.14,
       "level": "region",
       "region": "Rocky Mountain (PADD 4)"
     },
     "MT": {
       "name": "Montana",
-      "gas": 3.96,
-      "diesel": 4.93,
+      "gas": 4.08,
+      "diesel": 5.14,
       "level": "region",
       "region": "Rocky Mountain (PADD 4)"
     },
     "UT": {
       "name": "Utah",
-      "gas": 3.96,
-      "diesel": 4.93,
+      "gas": 4.08,
+      "diesel": 5.14,
       "level": "region",
       "region": "Rocky Mountain (PADD 4)"
     },
     "WY": {
       "name": "Wyoming",
-      "gas": 3.96,
-      "diesel": 4.93,
+      "gas": 4.08,
+      "diesel": 5.14,
       "level": "region",
       "region": "Rocky Mountain (PADD 4)"
     },
     "AK": {
       "name": "Alaska",
-      "gas": 4.98,
-      "diesel": 5.88,
+      "gas": 5.12,
+      "diesel": 6.07,
       "level": "region",
       "region": "West Coast (PADD 5)"
     },
     "AZ": {
       "name": "Arizona",
-      "gas": 4.98,
-      "diesel": 5.88,
+      "gas": 5.12,
+      "diesel": 6.07,
       "level": "region",
       "region": "West Coast (PADD 5)"
     },
     "CA": {
       "name": "California",
-      "gas": 5.35,
-      "diesel": 5.88,
+      "gas": 5.49,
+      "diesel": 6.07,
       "level": "state",
       "region": "West Coast (PADD 5)"
     },
     "HI": {
       "name": "Hawaii",
-      "gas": 4.98,
-      "diesel": 5.88,
+      "gas": 5.12,
+      "diesel": 6.07,
       "level": "region",
       "region": "West Coast (PADD 5)"
     },
     "NV": {
       "name": "Nevada",
-      "gas": 4.98,
-      "diesel": 5.88,
+      "gas": 5.12,
+      "diesel": 6.07,
       "level": "region",
       "region": "West Coast (PADD 5)"
     },
     "OR": {
       "name": "Oregon",
-      "gas": 4.98,
-      "diesel": 5.88,
+      "gas": 5.12,
+      "diesel": 6.07,
       "level": "region",
       "region": "West Coast (PADD 5)"
     },
     "WA": {
       "name": "Washington",
-      "gas": 4.9,
-      "diesel": 5.88,
+      "gas": 5.01,
+      "diesel": 6.07,
       "level": "state",
       "region": "West Coast (PADD 5)"
     }
