@@ -82,7 +82,7 @@ South Dakota is the most popular right now. You can establish residency in a sin
 
 Your mail forwarding service becomes your lifeline. Choose one with a real street address, not a P.O. box, because some financial institutions will reject P.O. boxes. Test it before you hit the road by having something time-sensitive forwarded. I learned this lesson when my mail sat in a forwarding queue for 11 days while I waited for a medical insurance card.
 
-For banking, go fully digital. Schwab Bank's checking account reimburses all ATM fees worldwide. I've used it for six years without paying a single ATM fee. Pair it with a credit union that has strong mobile deposit capability and you're set.
+For banking, go fully digital. Schwab Bank's checking account reimburses all ATM fees worldwide. Pair it with a credit union that has strong mobile deposit capability and you're set.
 
 Voting as a full-timer is complicated but possible. Most people vote absentee in their domicile state. South Dakota allows full-timer registration specifically for this purpose.
 
@@ -112,7 +112,6 @@ A [surge protector rated for RV use](https://www.amazon.com/s?k=progressive+indu
 - [RV water filter](https://www.amazon.com/s?k=camco+rv+water+filter&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
 
-
 I'm going to be honest here because I think people deserve it.
 
 Full-time RV life can be incredibly lonely. This is the thing that catches people off guard more than any mechanical breakdown or budget overrun. When you leave your geographic community, you leave your doctor, your dentist, your friends of 15 years, your favorite coffee shop, the neighbor whose name you barely knew but who still represented continuity. You don't replace all of that quickly.
@@ -121,7 +120,7 @@ The first six months are frequently the hardest. You're learning your rig, learn
 
 What actually helps: choosing a home base region where you return repeatedly rather than constantly chasing novelty. We spent our first winter in the Florida panhandle, returning to the same campground twice. Those second visits built familiarity and, eventually, real friendships. Long-term stays of a week or more at the same site also help. Moving every two to three days is exciting for a season and exhausting as a lifestyle.
 
-Physical health requires intentional effort. Build walking into your daily routine. If you're a gym person, Planet Fitness memberships are $25 a month and there are locations in almost every mid-size American city. I've used the same membership in 31 states.
+Physical health requires intentional effort. Build walking into your daily routine. If you're a gym person, Planet Fitness memberships are $25 a month and there are locations in almost every mid-size American city.
 
 And protect your relationship, if you have one. This lifestyle amplifies everything. Small irritations become real friction in a small space. Build in solo time deliberately, even when it feels unnecessary.
 

@@ -71,9 +71,9 @@ A 50-to-30 amp adapter (sometimes called a "dog bone") lets your 50 amp rig plug
 
 A 30-to-50 amp adapter goes the other direction: it lets a 30 amp rig use a 50 amp pedestal. This one is fine because you're not drawing more than your rig can handle. No risk.
 
-Never use adapters with a damaged cord, run them in standing water, or daisy-chain multiple adapters together. I've seen people stack two adapters to bridge odd connector combinations. Don't.
+Never use adapters with a damaged cord, run them in standing water, or daisy-chain multiple adapters together. Stacking two adapters to bridge odd connector combinations is risky and should be avoided.
 
-A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) rated for your amperage should be mandatory regardless of which service you're using. Campground pedestals can have miswired outlets, voltage problems, and power surges that fry your converter, inverter, or residential appliances. I've run a Progressive Industries EMS on every rig I've owned. It caught problems at three different campgrounds that would've cost hundreds in repairs. *(This site may earn a commission on qualifying purchases.)*
+A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) rated for your amperage should be mandatory regardless of which service you're using. Campground pedestals can have miswired outlets, voltage problems, and power surges that fry your converter, inverter, or residential appliances. *(This site may earn a commission on qualifying purchases.)*
 
 ## Step-by-Step: Connecting Safely at Any Campground
 
@@ -111,7 +111,6 @@ Most manufacturers rate appliances for 110-120V nominal operation, and consisten
 - [50 amp surge protector with EMS](https://www.amazon.com/s?k=rv+surge+protector+50+amp+ems&tag=contentportfo-20)
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20)
 - [zvika shmaya](https://www.pexels.com/@zvika-shmaya-1391475)
-
 
 If you're spending significant time off-grid, the 30 vs. 50 amp question shifts entirely. You're not plugging into a pedestal, so shore power capacity matters less than your battery bank, solar input, and inverter capacity.
 

@@ -27,8 +27,6 @@ lastmod: 2026-07-08
 ---
 Most people who email me about full-timing have already figured out the "where will you sleep" problem. What stops them is the money question. Specifically: *can I actually keep income coming in while I'm doing this?*
 
-I've been answering that question, in one form or another, for eight years. So here's what I know.
-
 ---
 
 ## The Mental Shift That Has to Happen First
@@ -68,7 +66,7 @@ Here's what I've personally seen work consistently for full-timers:
 - **Virtual bookkeeping.** Underrated. Steady monthly retainers, not much glamour, genuinely hard to automate. $40-75/hour is realistic once you have a small client base. Bookkeeper Launch is the training program I've heard good things about.
 - **Customer success and account management.** Plenty of SaaS companies hire fully remote for these roles and don't care about state as long as you're available during business hours. FlexJobs and We Work Remotely post these regularly.
 
-Here's the blunt part: if you don't have a marketable skill yet, learn one before you hit the road. The "I'll figure it out on the road" crowd has a high attrition rate. I've watched too many people sell their rigs and move back home within eighteen months because they couldn't stabilize income.
+If you don't have a marketable skill yet, learn one before you hit the road. People who plan to figure out remote work once traveling often struggle to stabilize income and may end up selling their rigs within eighteen months.
 
 ---
 
@@ -80,7 +78,7 @@ Campground wifi is a joke. I've stayed in probably 400 different spots over eigh
 
 Your real internet setup is going to be cellular, and you're going to spend more on it than you expect. My current setup: a Netgear Nighthawk M6 Pro router paired with T-Mobile's $50/month home internet SIM, plus a Verizon backup through Visible+ at $45/month. Total: $95/month just for connectivity. I also carry a WeBoost Drive Reach RV signal booster (runs about $500-600) for areas where signal exists but is weak.
 
-For most video calls and cloud-based work, that setup handles it. But I've been in parts of the Utah desert, certain stretches of Montana, and most of rural Kentucky where neither carrier had usable signal. You have to plan your work schedule around your route or your route around your work schedule.
+For most video calls and cloud-based work, that setup handles it. Parts of the Utah desert, certain stretches of Montana, and most of rural Kentucky have areas where neither carrier has usable signal. You have to plan your work schedule around your route or your route around your work schedule.
 
 If your job requires consistent synchronous communication, daily standups, lots of video meetings, real-time collaboration, you need to be realistic about where you can park. Full-timing while working a demanding remote job is much easier in the Southeast and Pacific Northwest than in the mountain West. That's geography, and it matters.
 
@@ -101,7 +99,6 @@ My honest floor for comfortable full-timing with a modest safety net is $5,000/m
 ## Sources
 
 - [www.kaboompics.com](https://www.pexels.com/@karola-g)
-
 
 If I were advising someone starting from scratch today, here's the sequence I'd recommend.
 

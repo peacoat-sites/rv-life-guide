@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most [remote work](/working-from-rv-income/) advice for RVers is written by people who've never actually tried to get reliable WiFi at a campground in rural Montana. I have. It's a different world.
 
-Eight years on the road means I've watched friends try to sustain the lifestyle on freelance gigs that fell apart, on remote jobs that required a landline, on "location-independent" businesses that quietly demanded they stay put. I've also watched people make it work beautifully, sometimes with surprisingly ordinary jobs. What I've learned is that the job category matters less than a few very specific factors: schedule flexibility, call requirements, and how your employer handles time zones.
+Many full-timers struggle to sustain the lifestyle on freelance gigs that fall apart, on remote jobs that require a landline, or on "location-independent" businesses that quietly demand staying put. Some make it work beautifully, sometimes with surprisingly ordinary jobs. The job category matters less than a few very specific factors: schedule flexibility, call requirements, and how your employer handles time zones.
 
 Let me tell you what's actually working for full-timers in 2026, with none of the lifestyle blog fluff.
 
@@ -63,7 +63,7 @@ I use a Mofi 4500 router with dual SIM slots and a Weboost Drive Reach booster, 
 | Customer Success & Account Management | $50,000-$75,000 base + bonus | - | Mostly | Scheduled calls |
 | UX & UI Design | - | $70-$100/hr | Yes | Minimal |
 
-**Technical writing** is one of the most underrated options I've seen work for full-timers. Entirely asynchronous. Pays $55,000 to $95,000 annually (SaaS and medical device documentation pay the best). Almost no live interaction once you're established with a client. A reader named Jill emailed me last spring about transitioning from marketing to technical writing over eight months. She now works for a software company that has no idea she lives in a 2021 Airstream. Her words.
+**Technical writing** is one of the most underrated options I've seen work for full-timers. Entirely asynchronous. Pays $55,000 to $95,000 annually (SaaS and medical device documentation pay the best). Almost no live interaction once you're established with a client.
 
 **Software development** is the obvious one. I won't oversell it, but the stereotype about needing a computer science degree is increasingly outdated. Bootcamp grads who specialize in niche areas like DevOps tooling or accessibility compliance land solid remote contracts at $75 to $110 per hour. Most development shops have genuinely asynchronous cultures. The real barrier is the learning curve to get there. You don't make that pivot in three months.
 
@@ -83,7 +83,7 @@ Call center work. It comes up in every "work from home" list and the entry barri
 
 The job board question comes up constantly. Honestly? LinkedIn is still the primary platform for finding remote roles at established companies, despite the complaints. RemoteOK and We Work Remotely are genuinely good for tech-adjacent roles. Contra works for freelance contracts.
 
-But here's the single most effective strategy I've seen full-timers use: get a remote job at a company you already know something about, stay long enough to build credibility, and negotiate permanence. It's much easier to convert an existing employer to remote-friendly than to cold-apply as an unknown quantity who lives in an RV. Most people don't advertise the RV part in job interviews, and I understand that. Once you've proven you deliver, it tends not to matter.
+The most effective strategy is to get a remote job at a company you already know something about, stay long enough to build credibility, and negotiate permanence. It's much easier to convert an existing employer to remote-friendly than to cold-apply as an unknown quantity. Once you've proven you deliver, the details of where you live tend not to matter.
 
 The thing nobody says out loud: if you're going to job-hunt while already on the road, you need a reliable mail address (mail forwarding services like Escapees or Traveling Mailbox cost $15 to $30 monthly), a quiet professional Zoom background (a simple cloth backdrop from Amazon for $25 does it), and a backup internet plan. I keep a Franklin T10 hotspot as my secondary device for exactly the days when my primary carrier has nothing.
 
@@ -95,7 +95,6 @@ The thing nobody says out loud: if you're going to job-hunt while already on the
 - consumption pattern</td><td>Text-based tools primary (Slack
 - way faster than you expect
 - which compacts your license type qualifies for
-
 
 A lot of successful full-timers don't have one job. They have an income stack. A primary remote role covering the baseline (say, $4,500 to $6,000 monthly), supplemented by a side contract or two that runs when life is stable and pauses when it isn't. That flexibility is hard to get from a single employer.
 

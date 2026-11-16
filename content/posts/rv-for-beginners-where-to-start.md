@@ -27,7 +27,7 @@ faqs:
 
 Most beginner RV advice starts you at the wrong place. It talks about "finding your style" and "choosing the right rig" before you've even figured out whether you actually want to do this, or how much it's actually going to cost you. Let me back up further than most guides do.
 
-Eight years ago I sold my house in Columbus, Ohio, bought a used 2014 Thor Ace class A for $52,000, and drove it off a dealership lot with exactly zero practice hours. That was a mistake on the practice hours. Not the decision.
+Buying a class A RV without first getting practice hours behind the wheel is a mistake worth avoiding.
 
 Here's what I wish someone had laid out clearly before I started.
 
@@ -110,6 +110,5 @@ Scenario: I spent my first two weeks camped at one state park 40 miles from Colu
 - [FMCA (Family Motor Coach Association)](https://www.fmca.com): Resources for motorhome owners including roadside assistance and technical guides.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

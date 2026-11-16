@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most people treating their black tank are solving the wrong problem. They're focused on odor, dumping products in after every flush, buying expensive enzyme treatments, when the real enemy is something most tank guides don't even mention: the pyramid plug.
 
-I'll be honest, I didn't understand any of this when I started living full-time in my 2017 Keystone Cougar. I did what the manufacturer's pamphlet said. Toss in a treatment tablet after each dump. Keep the tank valve closed until it's full. Everything will be fine. What followed, about three months in, was a situation bad enough that I had to crawl under my rig in August in southern Arizona and deal with it. I am not going into more detail than that.
+Many RV owners start by following the manufacturer's instructions: toss in a treatment tablet after each dump, keep the tank valve closed until it's full. But without proper water management and discipline, problems can develop. Black tank issues can be serious and unpleasant to fix.
 
 Eight years later, I have opinions about black tank treatment that some full-timers will push back on. Good. Let's get into it.
 
@@ -107,7 +107,6 @@ Where I'd push back on conventional wisdom: the obsessive focus on tissue type m
 - [Ana Benet](https://www.pexels.com/@ana-benet)
 - is somewhat mixed
 
-
 Don't use bleach in your black tank. I know it sounds like a good cleaner. It damages the seals, degrades sensors faster, and kills the biological activity you want if you're using enzyme treatments.
 
 Toilet bowl cleaners with bleach? Same problem. If you need to clean the bowl, use a product specifically rated as RV-safe. [Thetford Aqua-Foam Toilet Treatment](https://www.amazon.com/dp/B000HHO7AC) is the standard here, or plain white vinegar.
@@ -116,9 +115,8 @@ Also, if you're in a humid, warm climate, odor rises through the toilet itself w
 
 ---
 
-
 ---
 
-The reality is that black tank management is 80% water and discipline, and maybe 20% product choice. Get the basics right and you will almost never have a problem. Skip them and no product on the market will bail you out.
+Black tank management is 80% water and discipline, and maybe 20% product choice. Get the basics right and you will almost never have a problem. Skip them and no product on the market will bail you out.
 
 *Photo: [Ana Benet](https://www.pexels.com/@ana-benet) via Pexels*

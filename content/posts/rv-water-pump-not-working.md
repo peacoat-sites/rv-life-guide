@@ -26,17 +26,16 @@ faqs:
 lastmod: 2026-07-07
 ---
 
-Three years ago, a Monday morning in the Sonoran Desert, I turned on the kitchen faucet and got absolutely nothing. Not a sputter, not a groan. Just silence from under the floor and a dry faucet staring back at me. I had a full fresh tank, a working city water connection sitting right there at the hookup post, and a water pump that had decided it was done.
 
-If you're here, you're probably somewhere similar, maybe not in the desert, but you've got a pump that isn't doing what it's supposed to do. You might be wondering whether this is a $10 fix or a $300 problem. Honestly, it's usually the first thing. Let me walk you through this the way I wish someone had done for me.
+If you're here, you're probably somewhere similar, maybe not in the desert, but you've got a pump that isn't doing what it's supposed to do. You might be wondering whether this is a $10 fix or a $300 problem. It's usually the first thing. Let me walk you through this the way I wish someone had done for me.
 
 ## Start Here Before You Touch Anything
 
-Here's what I tell people when they first message me about a dead water pump: don't assume the pump is bad. I know that sounds obvious, but the number of times I've seen someone order a new Shurflo 2088 before checking whether their pump switch was tripped is embarrassing. I did it myself, sort of. Not with a pump, but with a water heater. Spent an afternoon on the phone with a tech before noticing the bypass valve was still in winter mode. These systems have multiple failure points, and the pump is often the last one to actually be at fault.
+Don't assume the pump is bad. Many people order a replacement Shurflo 2088 before checking whether the pump switch was tripped. These systems have multiple failure points, and the pump is often the last one to actually be at fault.
 
 Start with power. Your RV pump runs on 12-volt DC, pulled straight from your house battery. So before anything else:
 
-Check your battery voltage. A battery sitting below 11.5 volts under load will starve a pump. The SHURflo 2088 (one of the most common pumps on the road, and the one I've had in three different rigs) draws around 7 amps at peak demand. If your battery is weak, it'll click or barely hum and you'll mistake that for a dead pump.
+Check your battery voltage. A battery sitting below 11.5 volts under load will starve a pump. The SHURflo 2088 (one of the most common pumps on the road) draws around 7 amps at peak demand. If your battery is weak, it'll click or barely hum and you'll mistake that for a dead pump.
 
 Check your fuse. There's almost always a dedicated fuse for the water pump circuit, typically located near the 12V distribution panel. In many rigs it's labeled, but sometimes it's in a secondary fuse block tucked under a cabinet. It's a blade-style automotive fuse, often 10 or 15 amp. Pull it and look at it with a light.
 
@@ -50,7 +49,7 @@ This is actually a different problem from total silence, and it matters to disti
 
 If your pump hums or runs continuously but nothing comes out, you almost certainly have a leak on the suction side (between the tank and the pump inlet), an air pocket in the line, or a clogged inlet strainer. The pump is working, it just can't pull water.
 
-Check your fresh tank level first. Sounds dumb, but it happens. Then check the inlet strainer on the pump itself. Every Shurflo and Flojet pump has a small inline strainer on the inlet port that catches debris from the tank. I've seen these completely plugged with sediment in rigs that have lived in hard-water areas. Clean it out.
+Check your fresh tank level first. Then check the inlet strainer on the pump itself. Every Shurflo and Flojet pump has a small inline strainer on the inlet port that catches debris from the tank. These can become completely plugged with sediment in hard-water areas. Clean it out.
 
 A continuously running pump that delivers weak pressure usually means one of two things: a partially blocked strainer, or a leak somewhere in the system that's preventing the pump from building pressure and shutting off. Run your hand along every fitting and check valve in the water line. Even a pinhole in a connection downstream can cause this. In an older rig especially, those push-in fittings get brittle.
 
@@ -74,7 +73,7 @@ Take a multimeter (if you don't own one yet, the Klein Tools MM400 runs around $
 
 If you're getting voltage at the pump and it still won't run, the pump motor is likely seized or burned out. Sometimes you can feel this: a pump that seized will get warm quickly when voltage is applied because the motor is stalling. Don't run it long if you suspect this.
 
-Before you declare it dead, though: check the pump's internal pressure switch. Most diaphragm pumps like the Shurflo have a built-in pressure switch that shuts the pump off when system pressure is reached. These switches can stick, especially after a rig sits unused for months. I've had luck, more than once, gently tapping the pump body with a rubber mallet to free a stuck switch. Ridiculous, I know, but it works.
+Before you declare it dead, check the pump's internal pressure switch. Most diaphragm pumps like the Shurflo have a built-in pressure switch that shuts the pump off when system pressure is reached. These switches can stick, especially after a rig sits unused for months. Gently tapping the pump body with a rubber mallet can free a stuck switch.
 
 Worked example: My own 2019 Keystone Cougar sat in storage for about five months one winter when I took a work contract. When I recommissioned it, the pump would run briefly then stop, refusing to restart without waiting several minutes. Classic stuck pressure switch. Tapped it, ran it, problem solved for another two seasons before I eventually replaced the pump preemptively. Total cost for that fix: $0.
 
@@ -106,6 +105,5 @@ One thing I genuinely don't have good data on: how much different water sources 
 - [Practical Sailor / Independent Marine & RV Equipment Reviews](https://www.practical-sailor.com): Independent testing of marine and RV water pumps, including pressure consistency and lifespan comparisons.
 
 ---
-
 
 *Photo: [Magic K](https://www.pexels.com/@magic-k-24827758) via Pexels*

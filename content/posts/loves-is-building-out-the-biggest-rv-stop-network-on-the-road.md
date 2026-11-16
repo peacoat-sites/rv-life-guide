@@ -22,7 +22,7 @@ And starting spring 2026, Love's quietly added something that full-timers will a
 
 ## What the Tire and Battery News Actually Means
 
-I've spent enough time on the side of highways to know that a [blown RV tire](/tpms-now-standard-on-towables-what-rv-buyers-need-to-know/) is a different kind of bad day than a car tire. The rigs are heavier, the tire sizes are less common, and the mobile tire services that show up for you can run $400 to $600 before you've bought anything. The fact that Love's is now stocking RV-specific tires and batteries at 79 locations, according to NACS's June 2026 coverage, is genuinely useful news, not just a press release.
+A [blown RV tire](/tpms-now-standard-on-towables-what-rv-buyers-need-to-know/) is a different kind of bad day than a car tire. The rigs are heavier, the tire sizes are less common, and the mobile tire services that show up for you can run $400 to $600 before you've bought anything. The fact that Love's is now stocking RV-specific tires and batteries at 79 locations, according to NACS's June 2026 coverage, is genuinely useful news, not just a press release.
 
 What most people don't realize is how thin the roadside options have historically been. Flying-C, Pilot, and TA have truck care, but RV-specific inventory has always been spotty. If your Group 27 deep cycle dies at 6 a.m. in rural Nevada, you're calling around. Now there's at least a shot that the Love's you're already stopped at has what you need. Will the prices be competitive with ordering from Amazon or hitting a Walmart? Almost certainly not. But when you need it, you need it, and "available" beats "cheaper by Tuesday" every time.
 

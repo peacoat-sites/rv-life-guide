@@ -109,7 +109,7 @@ Learning to handle basic maintenance yourself can save thousands per year. An oi
 
 That said, some things most DIYers shouldn't touch: chassis brake work, propane system repairs, and anything involving the chassis air suspension or hydraulic leveling system. The liability risk and safety stakes are too high.
 
-The sweet spot is handling all the preventive work yourself (roof, seals, filters, lubrication, water system) and using professionals for the mechanical and structural stuff. YouTube is genuinely a game-changer. Channels dedicated to RV repair have walked thousands of owners through jobs they never thought they could do.
+The sweet spot is handling all the preventive work yourself (roof, seals, filters, lubrication, water system) and using professionals for the mechanical and structural stuff. YouTube offers accessible repair tutorials. Channels dedicated to RV repair have walked thousands of owners through jobs they never thought they could do.
 
 A good entry-level toolkit includes a lap sealant like Dicor (self-leveling for horizontal surfaces, non-sag for vertical), a multimeter for diagnosing 12-volt issues, a quality torque wrench, and a tire pressure monitoring system. The TPMS alone is arguably the best $80 to $150 you'll spend, since a blowout from low pressure can cause $10,000 in damage to a fender, storage bay, or slideout in seconds.
 
@@ -153,7 +153,6 @@ RV maintenance isn't a mystery. It doesn't have to be a financial nightmare. It 
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - Hey, plan on spending another $3,000 to $5,000 a year just keeping this thing running right. For
 - when you get them talking honestly
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

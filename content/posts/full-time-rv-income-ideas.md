@@ -29,7 +29,6 @@ Most people who ask me about full-time RV income are sitting somewhere between t
 
 So let me just do that.
 
-
 <div class="value-module">
   <div class="vm-head">RV Income Viability Reality Check</div>
   <div class="vm-body">
@@ -77,14 +76,13 @@ What works instead: niche down hard. A channel about workamping specifically. Fu
 
 Etsy and print-on-demand (Printful, Printify, Redbubble) generate passive trickle income if you have design skills. I know someone making around $800 a month selling campsite-themed art prints through Etsy, all print-on-demand, zero inventory, on complete autopilot. Not life-changing but real money showing up regardless of where the rig is parked.
 
-Online courses are potentially the highest-margin thing on this entire list. If you have a specific professional skill, teaching it through Teachable or Gumroad takes upfront time but generates income for years. A $97 course on QuickBooks for small business owners, built once, sold repeatedly. I've seen full-timers support themselves almost entirely this way.
+Online courses can be high-margin if you have a specific professional skill. Teaching through Teachable or Gumroad takes upfront time but generates income for years. A course on a specialized skill like QuickBooks can be built once and sold repeatedly.
 
 ## The Stuff I'd Actually Try First
 
 ## Sources
 
 - [Alfo Medeiros](https://www.pexels.com/@alfomedeiros)
-
 
 If I were starting over with no income and a paid-for rig, here's my order:
 

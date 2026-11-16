@@ -27,7 +27,7 @@ faqs:
 
 Most couples planning to go full-time have already run some version of the numbers on a napkin. And most of those napkin numbers are wrong, not because the people are bad at math, but because nobody tells you about the $340 propane fill in January, or the campground that charges $18 extra per night for a second car, or the fact that your [tow vehicle](/rv-tow-vehicle-guide/) will need four new tires at roughly $900 a set more often than you think.
 
-I've been full-timing with my husband since 2018. We started in a 32-foot [fifth wheel](/what-truck-to-tow-fifth-wheel/) and downsized to a 28-footer two years in, which I'd recommend to almost anyone but that's a different article. What I can tell you is that eight years in, our budget looks almost nothing like what we planned, and in some ways that's good news.
+Full-time RV budgets often shift over time. Downsizing from a 32-foot [fifth wheel](/what-truck-to-tow-fifth-wheel/) to a 28-footer can reduce costs and is worth considering, though the details depend on your setup. Many full-timers find that after several years, actual expenses diverge significantly from initial projections, sometimes in favorable ways.
 
 Here's what I tell people who are serious about doing this: the [monthly cost](/average-monthly-cost-of-full-time-rv-living/) for two people living full-time in an RV runs, realistically, between $2,800 and $5,500 depending on your camping style, how new your rig is, and whether you're driving hard or mostly stationary. The wide range isn't a cop-out. It reflects genuinely different lifestyles that all count as "full-timing."
 

@@ -29,9 +29,6 @@ My son was "behind" in math for exactly three weeks before his grandmother, a re
 
 I'm not saying that to brag. I'm saying it because the fear that your kid will fall through the cracks is real, and it's the first thing that holds people back from combining [full-time RV life with homeschooling](/rv-life-with-kids/). What most people don't realize is that the logistical challenges of RV homeschooling are actually pretty manageable. The emotional challenge of trusting the process? That's the harder thing, and no curriculum solves it.
 
-Eight years in, I've talked to hundreds of families doing this. I've made plenty of mistakes myself. Here's what I actually know.
-
-
 <div class="value-module">
  <div class="vm-head">Homeschool Law Comparison: Top RV Domicile States</div>
  <div class="vm-body">
@@ -47,7 +44,7 @@ Homeschool law in the U.S. is a state-by-state patchwork, and it genuinely matte
 
 Most [full-time RV families](/working-remotely-from-rv/) establish legal domicile in one of three states: South Dakota, Texas, or Florida. These are popular precisely because they have no state income tax, relatively light vehicle registration requirements, and critically, workable homeschool laws. South Dakota only requires that you notify the local school district once a year. Florida requires you to either file an annual notice with your county school superintendent or use an umbrella school. Texas is the most relaxed option, essentially treating homeschool as a private school with minimal oversight.
 
-Here's the thing people get wrong: you don't need to comply with the laws of every state you drive through. You don't. Your legal obligation is to the state where you're domiciled, period. I've seen families tie themselves in knots trying to track school requirements for every state on a road trip. That's not how it works.
+You don't need to comply with the laws of every state you drive through. Your legal obligation is to the state where you're domiciled, period. Many families tie themselves in knots trying to track school requirements for every state on a road trip, but that's not necessary.
 
 If you haven't chosen a domicile state yet, [Escapees RV Club](https://www.escapees.com/) and [Boondockers Welcome](https://boondockerswelcome.com/) both have solid resources, and South Dakota via the Escapees program is probably the most common starting point for full-timers. Get your domicile sorted before you worry about which math curriculum to buy.
 
@@ -109,15 +106,14 @@ Specialty camps work too. Not full-time summer camps, but week-long programs in 
 - [VIVO laptop stand](https://amzn.to/3example)
 - [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
 
-
 If your child might ever return to traditional school, apply to college, or need a transcript, keeping reasonable records from the start saves an enormous headache later.
 
 You don't need to be elaborate. A simple spreadsheet logging hours by subject, plus a folder where you save completed work samples, tests, and projects, is enough to construct a transcript or satisfy a school district if you need to re-enroll. Google Drive is free and accessible from anywhere.
 
-For high school: get familiar with the CLEP exam program. It lets students test out of college-level courses for around $90 per exam, and credits transfer to over 2,900 colleges. A well-prepared 16-year-old who's been doing serious self-directed learning can walk into college with 15-20 credits already earned. I've seen it.
+For high school: get familiar with the CLEP exam program. It lets students test out of college-level courses for around $90 per exam, and credits transfer to over 2,900 colleges. A well-prepared 16-year-old who's been doing serious self-directed learning can walk into college with 15-20 credits already earned.
 
 ---
 
-The families I've seen struggle most with RV homeschooling are the ones who try to replicate traditional school in a rolling box. Same hours, same subjects in the same order, same anxiety about being "on grade level." The families who thrive treat the road as part of the education. That shift in framing is worth more than any curriculum you'll buy.
+Families who struggle with RV homeschooling often try to replicate traditional school in a rolling box: same hours, same subjects in the same order, same anxiety about being "on grade level." The ones that thrive treat the road as part of the education. That shift in framing matters more than any curriculum you'll buy.
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

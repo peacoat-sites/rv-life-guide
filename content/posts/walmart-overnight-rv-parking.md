@@ -27,7 +27,7 @@ faqs:
 
 Most guides on Walmart overnight parking read like they were written by someone who googled it once. They'll tell you "just call ahead!" and leave it there. That's not wrong, exactly, but it misses about 80% of what you actually need to know to pull this off without getting tapped on the door at midnight.
 
-I've been doing this for eight years. Walmart lots have been a regular part of my rotation, not because I can't afford campgrounds, but because sometimes you're between stops, you hit a town after dark, and a free flat parking spot with a 24-hour bathroom inside is genuinely useful. Here's what actually works.
+Walmart lots can be useful when you're between stops, hit a town after dark, or need a free flat parking spot with a 24-hour bathroom. What actually works.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Roughly 60-70% of U.S. Walmart locations currently allow overnight RV parking, but that number varies by region and is shrinking in urban areas.</li><li style="margin:5px 0">Always get permission from the store manager on duty, not the greeter, not a random employee.</li><li style="margin:5px 0">Arrive after 7 PM, leave by 7 AM, stay a maximum of one night. These unwritten rules keep the privilege open for everyone.</li><li style="margin:5px 0">Avoid slide-outs, generators after 10 PM, and parking near cart corrals or fire lanes.</li><li style="margin:5px 0">Call ahead using the store's direct number, not the corporate line. Decisions are made at the store level.</li></ul></div>
 
@@ -35,7 +35,7 @@ I've been doing this for eight years. Walmart lots have been a regular part of m
 
 The app Campendium and the website Freecampsites.net both have user-submitted data on Walmart locations, including notes on which ones have recently started refusing overnight stays. As of August 2026, the RV Life app has a decent Walmart-specific filter too. These are starting points, not gospel. A report from six months ago may be outdated because a new manager took over, or the city issued a new ordinance.
 
-The actual confirmation call matters. When you phone the store, ask for the manager on duty specifically. Say: "I'm an RV traveler passing through, and I wanted to make sure it's okay to overnight in your lot tonight. Is that still permitted?" That exact framing works better than "can I park here?" because it signals you know the context, you're asking permission, and you're one night. The person on duty can say yes, no, or "check with the assistant manager who comes in at six." I've had all three.
+Call the store and ask for the manager on duty. Say: "I'm an RV traveler passing through, and I wanted to make sure it's okay to overnight in your lot tonight. Is that still permitted?" That framing works better than "can I park here?" because it signals you know the context, you're asking permission, and you're planning one night. The person on duty can say yes, no, or refer you to another manager.
 
 One thing that surprised me early on: corporate Walmart policy technically doesn't prohibit overnight parking, but it defers entirely to individual store managers and local ordinances. So the 1-800 number is useless. Don't bother.
 
@@ -43,7 +43,7 @@ One thing that surprised me early on: corporate Walmart policy technically doesn
 
 Urban stores and stores in states with aggressive anti-camping ordinances are your biggest risk. California, Oregon, and parts of Colorado have passed municipal regulations that prohibit sleeping in vehicles in commercial lots, and individual Walmart managers in those areas have essentially no choice but to say no. I ran into this in Sacramento a couple of years back. Manager was apologetic, said she'd personally be fine with it but the city had cited the store twice.
 
-The safest bets, in my experience: rural and suburban stores in the South and Midwest. Texas, Tennessee, Arkansas, Missouri, and Kansas are consistently welcoming. The lot is usually huge, it's flat, and the store staff tends to appreciate the customer traffic that comes with it, because overnighters almost always shop.
+Rural and suburban stores in the South and Midwest tend to be more welcoming. Texas, Tennessee, Arkansas, Missouri, and Kansas are common overnight destinations. Lots in these areas are often large and flat, and staff may appreciate the customer traffic overnighters bring.
 
 These figures are ballpark estimates from community-sourced data, not a formal survey. I don't have a clean dataset on this, so treat them as directional.
 
@@ -55,7 +55,7 @@ The short version of what I've seen ruin it for others:
 
 Setting up camp. Slides fully extended, chairs out, outdoor rug, grill going. I watched a guy get asked to leave in Knoxville for this. One night's parking is not a campsite, and looking like it is one is the fastest way to get the whole policy reconsidered.
 
-Running a generator at midnight. After 10 PM, you're imposing on the neighborhood and the store's neighbors. If your battery bank can't get you through one night without shore power or a generator, that's worth solving before it costs you the spot. A decent 200Ah lithium setup handles one night of moderate use without complaint. I've been running a pair of [Battle Born 100Ah lithium batteries](https://www.amazon.com/s?k=battle+born+lithium+rv+battery&tag=contentportfo-20) for three years and never thought twice about it in a Walmart lot.
+Running a generator at midnight. After 10 PM, you're imposing on the neighborhood and the store's neighbors. If your battery bank can't get you through one night without shore power or a generator, that's worth solving before it costs you the spot. A 200Ah lithium setup handles one night of moderate use. [Battle Born 100Ah lithium batteries](https://www.amazon.com/s?k=battle+born+lithium+rv+battery&tag=contentportfo-20) are a common choice for this setup.
 
 Leaving a mess. This one shouldn't need saying, but I've seen dump runs happen in Walmart lots. That's a crime in most states and a betrayal of every other RVer who needs that spot next week.
 

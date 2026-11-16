@@ -37,7 +37,7 @@ Let me walk you through what a real, functional lithium setup looks like, what i
 
 Not all lithium is the same, and this matters more than most YouTube videos let on. Lithium Iron Phosphate (LiFePO4) is the chemistry you want for [van life](/how-much-does-van-life-cost-per-month/). Not NMC (lithium nickel manganese cobalt), not the lithium-ion cells in your phone. LiFePO4 runs cooler, handles deeper discharge cycles, is far more stable chemically (lower fire risk in a hot van), and lasts longer. We're talking 2,000 to 4,000 cycles at 80% depth of discharge versus maybe 300-500 for AGM at the same depth.
 
-Renogy, Battle Born, Battleborn, Ampere Time (formerly LiTime), and SOK are the names you'll actually encounter. Battle Born 100Ah batteries run about $949 each as of mid-2026. Ampere Time's 100Ah units come in around $229-$269 depending on where you buy, which is a dramatic price difference. What surprised me was that the Ampere Time cells I tested for about 14 months in my current Transit held up extremely well. The BMS isn't quite as sophisticated, and their cold-weather performance is slightly worse below 25°F, but for someone building their first real system on a budget, they're genuinely solid.
+Renogy, Battle Born, Battleborn, Ampere Time (formerly LiTime), and SOK are the names you'll actually encounter. Battle Born 100Ah batteries run about $949 each as of mid-2026. Ampere Time's 100Ah units come in around $229-$269 depending on where you buy, which is a dramatic price difference. The BMS isn't quite as sophisticated, and their cold-weather performance is slightly worse below 25°F, but for someone building their first real system on a budget, they're genuinely solid.
 
 SOK deserves a mention too. They publish their BMS specs openly, which is unusual, and that transparency matters when you're depending on a battery bank for everything from your CPAP to your refrigerator.
 
@@ -78,7 +78,7 @@ Here's the part that doesn't get explained well in most "van build" content. The
 
 Prices current as of July 2026 and sourced from Amazon and manufacturer sites. They fluctuate, especially the panel prices.
 
-Three worked examples from real builds I've been part of or followed closely:
+Three example builds that illustrate different approaches:
 
 Weekend warrior, 100Ah Ampere Time + 200W Renogy + Victron 75/15 + no inverter → total spend $847, runs fridge and lighting through 2-day trips with no issues, struggles on longer cloudy stretches → upgraded to 200Ah six months later.
 

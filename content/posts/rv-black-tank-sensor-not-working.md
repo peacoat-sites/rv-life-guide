@@ -31,9 +31,7 @@ Here's the actual situation: [black tank](/rv-black-tank-treatment/) sensors are
 
 The good news is that most of the fixes either cost almost nothing or require only about $30-$60 in parts. The bad news is that the underlying problem can sometimes be the sensor technology itself, and no cleaning trick will fix that permanently.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Black tank sensors fail most often due to waste buildup on the probe tips, not broken wiring.</li><li style="margin:5px 0">Cleaning with a product like Unique Tank Cleaner or diluted dish soap + ice cube agitation resolves ~70% of false "full" readings.</li><li style="margin:5px 0">Sensor replacement (OEM or aftermarket) typically runs $15-$85 for the part alone, plus 1-2 hours labor.</li><li style="margin:5px 0">Capacitance-based aftermarket sensors (like the SeeLevel II) are far more accurate than factory probe-style sensors.</li><li style="margin:5px 0">A consistently inaccurate sensor can mask real full-tank situations; it's not just an inconvenience.</li></ul></div>
-
 
 ## Why Factory Black Tank Sensors Fail
 
@@ -51,7 +49,7 @@ Before you replace anything, clean the tank aggressively. This is the step most 
 
 The method I've had the most success with: fill the tank about 1/3 with water, add 1 cup of liquid dish soap (Dawn works fine), then dump in a 10-pound bag of ice. Drive the rig at least 20-30 miles on a highway, ideally with some starts and stops. The ice acts as a physical abrasive, scrubbing the probe tips and tank walls while the soap cuts through grease. When you get back, let it sit for an hour, then dump.
 
-A reader named Carla from Tucson emailed me after trying this and said her sensor went from reading "full" constantly to reading accurately within one treatment. That happens. It also sometimes takes two or three rounds.
+For example, a sensor reading "full" constantly may correct to accurate readings after one treatment. That happens. It also sometimes takes two or three rounds.
 
 For chemical cleaning, Unique RV Digest-It and Happy Campers Organic Holding Tank Treatment both have good track records. I've also used RV Digest-It Plus specifically on sensor issues with solid results. What I'd avoid is anything with formaldehyde-based chemicals. They kill the bacteria you need for breakdown and they don't actually clean probe tips.
 
@@ -69,7 +67,7 @@ If the wiring checks out, it's time to consider whether your sensor design is ev
 
 Here's where I'm going to give you a real opinion: if you're replacing sensors, strongly consider going with a capacitance-based system rather than replacing like-for-like with another probe sensor.
 
-The SeeLevel II tank monitoring system (by Garnet Technologies) reads the dielectric properties of the tank wall from the outside, which means no probes ever contact your waste. As of 2026, the SeeLevel II starts around $115-$145 for a single-tank kit and goes up to $189 or so for a multi-tank setup. I installed the multi-tank version on my rig about three years ago after my fourth round of probe-sensor frustration, and it has read accurately ever since.
+The SeeLevel II tank monitoring system (by Garnet Technologies) reads the dielectric properties of the tank wall from the outside, which means no probes ever contact your waste. As of 2026, the SeeLevel II starts around $115-$145 for a single-tank kit and goes up to $189 or so for a multi-tank setup.
 
 Installation does require you to attach sensors to the outside of the tank, which can be fiddly on tanks that aren't flat-sided or accessible. It took me about four hours including routing new wires to the panel. Worth it.
 
@@ -100,6 +98,5 @@ For people who just want a direct probe replacement without the upgrade cost, Ca
 - [Unique Camping & Marine product support documentation]: Manufacturer data on enzyme-based tank treatments and sensor recovery rates
 
 ---
-
 
 *Photo: [Doğan Alpaslan  Demir](https://www.pexels.com/@izafi) via Pexels*

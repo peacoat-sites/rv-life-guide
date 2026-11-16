@@ -50,7 +50,7 @@ Before we get into the variables, here's what almost every van dweller is paying
 
 **Fuel.** Diesel Sprinters get around 20-24 mpg on the highway, which sounds pretty good until you're doing 2,000 miles in a month. Gas-powered Transits hit closer to 15-18 mpg. Figure $200 to $500 monthly depending on how much you're moving around. During my more sedentary months I averaged about $280, but during the big cross-country pushes I was hitting nearly $500. You can really slash this number by staying put for two weeks at a time. But chase good weather and hit three states a month, and it adds up fast.
 
-**Campsite fees.** This is where most people get most unrealistic. Sure, there's tons of [free camping on BLM land](/boondocking-free-camping/) in the West. I've spent weeks in the Escalante area of Utah paying nothing. But free camping isn't evenly distributed. The good spots are increasingly packed. Some seasons you'll rely on paid campgrounds way more than you planned. My monthly campsite average over eight years has been somewhere between $80 and $350. It was lower when I was in the Southwest, way higher when I was in the Southeast or Pacific Northwest where free dispersed camping thins out considerably. An America the Beautiful pass runs $80/year and it's genuinely one of the best purchases you can make if you're camping in National Forests or on BLM land regularly.
+**Campsite fees.** This is where most people get most unrealistic. Sure, there's tons of [free camping on BLM land](/boondocking-free-camping/) in the West. But free camping isn't evenly distributed. The good spots are increasingly packed. Some seasons you'll rely on paid campgrounds way more than you planned. My monthly campsite average over eight years has been somewhere between $80 and $350. It was lower when I was in the Southwest, way higher when I was in the Southeast or Pacific Northwest where free dispersed camping thins out considerably. An America the Beautiful pass runs $80/year and it's genuinely one of the best purchases you can make if you're camping in National Forests or on BLM land regularly.
 
 **Food and water.** Van life doesn't make you a cheaper eater automatically. Some people cook every meal on their two-burner propane stove and spend $200 a month on groceries. Others eat out constantly because cooking in a van in July in Phoenix is genuinely miserable. I budget $350 to $500 a month for food, including groceries and occasional restaurant meals. Water's usually minor if you're filling up at campgrounds or using a Berkey or similar gravity filter system. But in dry areas you'll pay for it at fill stations.
 
@@ -62,7 +62,7 @@ Add all that up and you're looking at $700 to $1,800 a month just in core expens
 
 ## The One That Catches Everyone Off Guard: Van Maintenance
 
-I've seen the "$1,100 a month van life" videos. They always skip maintenance entirely or bury it in a tiny pie slice labeled "miscellaneous." That's a lie your future self will be furious about.
+Many "$1,100 a month van life" budgets skip maintenance entirely or bury it in a tiny slice labeled "miscellaneous." That approach will catch up with you.
 
 Older vans break. New ones do too, especially when you're putting 30,000 to 50,000 miles a year on them over rough roads. The standard automotive maintenance rule is 1-2% of the vehicle's value per month for repairs, and van lifers should probably hit the higher end because of mileage and road conditions. On a $25,000 van that's $250 to $500 a month you should be socking away even in months when nothing goes wrong. Something always eventually goes wrong.
 
@@ -78,7 +78,7 @@ Treat $200 a month as a floor for your maintenance reserve, not a ceiling.
 
 Health insurance as a full-timer is genuinely complicated. If you're employed remotely with employer coverage, you're fine. If you're self-employed or freelancing, you're hunting ACA marketplace plans, which vary enormously by state and income. I've paid as little as $89/month (with income-based subsidies during a lean year) and as much as $420/month for a bronze plan with a $7,000 deductible. Budget $150 to $500 a month if you're covering yourself, and also save for that high deductible.
 
-Mail forwarding is cheaper than you'd think. Services like Traveling Mailbox or Escapees' mail service run $15 to $30 a month and give you a real street address. You need it for your driver's license, vehicle registration, banking, and basically existing as an adult. South Dakota and Texas are popular domicile states for full-timers because of relatively simple residency requirements and no state income tax. I've been a South Dakota resident for six years and it's been completely painless.
+Mail forwarding is cheaper than you'd think. Services like Traveling Mailbox or Escapees' mail service run $15 to $30 a month and give you a real street address. You need it for your driver's license, vehicle registration, banking, and basically existing as an adult. South Dakota and Texas are popular domicile states for full-timers because of relatively simple residency requirements and no state income tax.
 
 Gym membership for showers: $10 to $30 a month if you use Planet Fitness or a similar chain. Some van lifers skip it entirely and rely on campground showers. I kept a Planet Fitness Black Card ($25/month) for years though because it covered guest access and was available in nearly every city I passed through.
 
@@ -111,7 +111,6 @@ The number that will actually matter is yours. Not mine. Not some YouTuber's hig
 - [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [ArtHouse Studio](https://www.pexels.com/@arthousestudio)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -35,7 +35,7 @@ Most people frame this as a mail problem. It's not. It's a domicile problem with
 
 Your forwarding service isn't just collecting your Amazon packages. It's the address on your driver's license, your vehicle registrations, your health insurance, your bank accounts, and sometimes your voter registration. Choosing a service in the wrong state can cost you thousands in taxes and registration fees. Choosing the wrong type of service can get your bank flagged or your insurance cancelled.
 
-Here's what most people miss when they start researching: the three states that actually make sense for full-timers are South Dakota, Texas, and Florida. Not because the mail services there are better, but because all three have no state income tax, relatively painless residency establishment processes, and a solid history of accommodating full-time RVers who need to claim domicile without physically living anywhere in particular. If you're currently a resident of a state with income tax and planning to full-time for more than a year or two, changing your domicile to one of these three is almost certainly worth it. I made the switch to South Dakota in my second year and it was one of the better financial decisions I've made on the road.
+The three states most commonly chosen by full-timers are South Dakota, Texas, and Florida. Not because the mail services there are better, but because all three have no state income tax, relatively painless residency establishment processes, and a solid history of accommodating full-time RVers who need to claim domicile without physically living anywhere in particular. If you're currently a resident of a state with income tax and planning to full-time for more than a year or two, changing your domicile to one of these three is almost certainly worth it.
 
 ## The Main Players, Honestly Assessed
 
@@ -52,7 +52,7 @@ There are probably a dozen services I could list here. I'm going to focus on the
 
 **Escapees RV Club** runs a mail service out of Livingston, Texas. If you're already an Escapees member (and honestly, $50 per year for membership is worth it for the campground discounts alone), their mail service is tightly integrated into a broader support ecosystem. Texas domicile, [help establishing it](/rv-domicile-state-options/), and they've been doing this for decades. Forwarding costs are reasonable, the scanning interface is functional if a little dated, and their community resources are unmatched. I've sent members there when they need hand-holding through the whole domicile process.
 
-**Traveling Mailbox** operates differently. It's not domicile-focused at all. Everything gets scanned and uploaded to a web interface or app, you decide what to open and scan fully, shred, or forward. Monthly plans start around $15 and go up based on volume. It's excellent if you already have your domicile sorted and just need an address that isn't your mom's kitchen table. I've used it as a secondary address for business mail. The app works well, the turnaround on scans is fast, and the address is a real street address, not a PO box, which matters for some banks.
+**Traveling Mailbox** operates differently. It's not domicile-focused at all. Everything gets scanned and uploaded to a web interface or app, you decide what to open and scan fully, shred, or forward. Monthly plans start around $15 and go up based on volume. It's excellent if you already have your domicile sorted and just need an address that isn't your mom's kitchen table. The app works well, the turnaround on scans is fast, and the address is a real street address, not a PO box, which matters for some banks.
 
 **PostScan Mail** is similar to Traveling Mailbox in the digital-first model, with slightly more flexible plan pricing and multiple address locations. Some people prefer it, some don't. Honestly the two are close enough that I'd just pick based on which interface you like better after their free trials.
 
@@ -70,14 +70,13 @@ Here's where I see people make expensive mistakes. When you sign up with a forwa
 
 **Banking.** Banks are increasingly paranoid about address changes. Use a forwarding service that provides a real street address, not a PO box format. Some of the big national banks are still fine with PO boxes, but credit unions and smaller institutions sometimes aren't, and flagging is annoying to untangle.
 
-The frustrating reality is that none of these services make all of this seamless. You'll have a few confusing weeks of paperwork, a few calls to agencies that put you on hold, and probably at least one thing that needs to be re-done. That's normal. It gets sorted.
+None of these services eliminate the paperwork entirely. You'll likely have a few weeks of forms, some calls to agencies, and possibly one thing that needs to be redone. That's normal.
 
 ## My Actual Recommendation
 
 ## Sources
 
 - [Kampus Production](https://www.pexels.com/@kampus)
-
 
 For someone going full-time and not yet settled on a domicile state: start with Americas Mailbox or Escapees. Pick the state that makes more sense for your situation (South Dakota if you want the simplest process, Texas if you want a bigger support community, Florida if you have other ties there). Treat the mail service as part of the domicile package, not a separate decision.
 

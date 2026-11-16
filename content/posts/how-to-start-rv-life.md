@@ -35,7 +35,7 @@ This sounds like therapy-speak, but it's actually practical advice with real fin
 
 People start RV life for wildly different reasons. Are you trying to cut housing costs in an expensive city? Are you a remote worker who wants to spend winters in Arizona and summers in Montana? Are you retired with a pension and a bucket list of national parks? Are you a family wanting to unschool on the road? Each scenario demands a completely different rig, budget, and travel pace.
 
-I've watched people spend $180,000 on a Class A motorhome because they wanted freedom, only to park it in one RV resort for six months because they hated driving something the size of a city bus. I've also watched minimalists buy a $9,000 cargo van conversion and discover they desperately needed a bathroom at 2 a.m. on a forest road in Wyoming.
+It's common to buy an RV based on an idealized vision of nomadic life, only to discover the reality doesn't match. For example, a large Class A motorhome can feel unwieldy to drive daily, and a small van conversion might lack essential amenities for longer trips.
 
 Be honest with yourself about physical needs, travel pace, and tolerance for discomfort. Write it down. Put it on paper. It will save you from a catastrophically expensive wrong purchase.
 
@@ -90,9 +90,9 @@ The maintenance budget is the one that gets people. In six years, I've replaced 
 
 The RV accessory market is enormous and full of junk. Here's what actually matters.
 
-**Electrical protection** is non-negotiable. Shore power at campgrounds is notoriously dirty, with voltage spikes and low-voltage conditions that fry appliances and air conditioners. A [progressive surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) rated for your service (30-amp or 50-amp) sits between the pedestal and your RV and monitors incoming power. I've seen it cut power automatically during a bad voltage event and probably save someone's entire electrical system. Budget $80 to $200 depending on amperage.
+**Electrical protection** is non-negotiable. Shore power at campgrounds is notoriously dirty, with voltage spikes and low-voltage conditions that fry appliances and air conditioners. A [progressive surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) rated for your service (30-amp or 50-amp) sits between the pedestal and your RV and monitors incoming power. A surge protector cuts power automatically during a bad voltage event, protecting your electrical system. Budget $80 to $200 depending on amperage.
 
-**Leveling blocks** sound boring until you've tried sleeping on a slant for three nights. [Andersen camper leveling blocks](https://www.amazon.com/s?k=andersen+rv+leveling+blocks&tag=contentportfo-20) are the ones I've used for years. Simple, durable, and they work for both wheel chocking and leveling on uneven sites.
+**Leveling blocks** sound boring until you've tried sleeping on a slant for three nights. [Andersen camper leveling blocks](https://www.amazon.com/s?k=andersen+rv+leveling+blocks&tag=contentportfo-20) are a reliable choice. Simple, durable, and they work for both wheel chocking and leveling on uneven sites.
 
 **Water filtration** matters more than most beginners expect. RV fresh water tanks and campground water can carry sediment, chlorine, and worse depending on where you are. A [two-stage inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) on your city water connection costs $25 to $40 and makes your water taste dramatically better while protecting your lines.
 
@@ -131,7 +131,6 @@ My honest advice: plan your first month at established campgrounds with full hoo
 - [two-stage inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [Victron SmartShunt](https://www.amazon.com/s?k=victron+smartshunt+battery+monitor&tag=contentportfo-20)
 - [portable solar panels](https://www.amazon.com/s?k=portable+rv+solar+panel+kit&tag=contentportfo-20)
-
 
 Two questions I get constantly: "How do you afford it?" and "Where is your mail?"
 

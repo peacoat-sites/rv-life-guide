@@ -20,9 +20,7 @@ This isn't a temporary COVID-era closure or a seasonal restriction. The National
 
 What most people don't realize is that this ban covers the entire highway between Canyon Junction and the East Entrance, not just the tunnel itself. That's a critical distinction. You're not getting stopped at the tunnel portal. You're getting turned away before you even get to the good part.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Effective June 7, 2026, oversized vehicles are permanently banned from the full Zion-Mt. Carmel Highway.</li><li style="margin:5px 0">The old tunnel escort permit system has been eliminated entirely, with no fee-based workaround remaining.</li><li style="margin:5px 0">Vehicles over 35 ft 9 in long, 7 ft 10 in wide, 11 ft 4 in tall, or 50,000 lbs are affected.</li><li style="margin:5px 0">Most Class A motorhomes and many fifth-wheel-and-truck combos exceed at least one of the four limits.</li><li style="margin:5px 0">Oversized rigs can still visit Zion via the South Entrance at Springdale using I-15 and SR-9.</li></ul></div>
-
 
 ## The Exact Limits, and Why Most Big Rigs Fail at Least One
 
@@ -39,7 +37,7 @@ A standard Class A diesel pusher runs 40 to 45 feet. A lot of fifth-wheel-and-tr
 
 ## What You Can Still Do (and It's Actually Not Bad)
 
-Here's the thing nobody leading with the doom-and-gloom coverage mentions: Zion is still fully accessible to oversized rigs. You just come in from the other side. The South Entrance at Springdale, reached via I-15 and SR-9, completely bypasses the tunnel and the Mt. Carmel Highway. You park in Springdale, hop the shuttle, and you're in the park. That's how most visitors experience Zion anyway. The shuttle system to Angels Landing, the Narrows trailhead, Emerald Pools, all of it runs from Springdale.
+Zion remains fully accessible to oversized rigs. You just come in from the other side. The South Entrance at Springdale, reached via I-15 and SR-9, completely bypasses the tunnel and the Mt. Carmel Highway. You park in Springdale, hop the shuttle, and you're in the park. That's how most visitors experience Zion anyway. The shuttle system to Angels Landing, the Narrows trailhead, Emerald Pools, all of it runs from Springdale.
 
 I'll be honest: the South Entrance approach is less dramatic than coming in through the moonscape of the east side. Rolling through that tunnel with the canyon suddenly opening up below you is one of those moments in RV travel you don't forget. Losing that approach is a real loss for big-rig travelers. But the park itself is very much still there, and the shuttle means you're not fighting for parking inside the canyon anyway.
 
@@ -47,7 +45,7 @@ If you're specifically trying to do the scenic drive from the east, coming in th
 
 ## Campground Reality Check for This Summer
 
-The campgrounds near the South Entrance are going to be under real pressure this summer. Watchman Campground and South Campground inside the park have hookup and tent sites, but they book through recreation.gov months out. I've seen people assume they'll figure out camping when they get there and end up driving 40 minutes to find anything with availability.
+The campgrounds near the South Entrance are going to be under real pressure this summer. Watchman Campground and South Campground inside the park have hookup and tent sites, but they book through recreation.gov months out. Showing up without a reservation often means driving 40 minutes or more to find available camping.
 
 Settler's Point Luxury RV Resort and similar private parks in Hurricane and St. George are picking up overflow, and they're showing as heavily booked through August, based on availability checks as of late June 2026. If you're heading to Zion in July or August 2026 without a reservation somewhere, you're gambling. Don't gamble. The closest full-hookup options to Springdale that can handle big rigs are mostly 20 to 30 minutes out, which is manageable, but you need to book now.
 

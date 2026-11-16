@@ -20,9 +20,7 @@ As of July 1, 2026, Assembly Bill 618, authored by Assemblymember Rebecca Bauer-
 
 The short version: the era of low-stakes ghost booking in California state parks is done. The San Francisco Chronicle reported more than 1.4 million [campsite bookings](/california-just-changed-the-rules-for-state-park-campsite-bookings/) in California in 2023 alone, with popular coastal sites selling out within seconds of the window opening. That kind of demand made abuse of the system almost inevitable. AB 618 is the state's attempt to actually match availability to the people who show up.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cancel 7+ days out: full refund minus an $8.25 fee. Cancel 2–6 days out: forfeit first night's site fee.</li><li style="margin:5px 0">Cancel within 48 hours or no-show: you lose every dollar paid for the entire stay.</li><li style="margin:5px 0">Three no-shows in one calendar year triggers a 365-day ban from ReserveCalifornia.com.</li><li style="margin:5px 0">A pilot lottery program is coming to high-demand parks like Pfeiffer Big Sur.</li><li style="margin:5px 0">These rules apply to California State Parks reservations specifically, not private or federal campgrounds.</li></ul></div>
-
 
 ## The New Penalty Tiers, Laid Out Plainly
 
@@ -40,7 +38,7 @@ What most people don't realize is how fast three no-shows can stack up for a ful
 
 ## What "Ghost Booking" Actually Looked Like and Why It Was So Bad
 
-I've seen this play out in campgrounds up and down the coast. Someone books five different sites across a long weekend, planning to pick one depending on weather, then cancels the others the night before. Someone else holds a site "just in case" while waiting to see if friends can make it. Multiply that by thousands of bookings and you get a system where a park looks full on ReserveCalifornia for months while physically sitting at 40% capacity on a Saturday afternoon.
+A common pattern: someone books five different sites across a long weekend, planning to pick one depending on weather, then cancels the others the night before. Another holds a site "just in case" while waiting to see if friends can make it. Multiply that by thousands of bookings and the system shows parks full on ReserveCalifornia for months while they sit at 40% capacity on a Saturday afternoon.
 
 The 2026 rule changes didn't happen in a vacuum, either. A broader industry shift is already underway. Many campgrounds nationwide have adopted stricter cancellation policies this year, and the data is showing it actually improves real-world availability for spontaneous RV travelers, according to recent reporting from CamperFAQs. California just went further than most.
 
@@ -60,7 +58,7 @@ The old approach of booking a few maybes and canceling whatever you don't use is
 
 Be realistic about your plans before you commit. If there's a real chance your schedule shifts, don't book inside the 7-day window unless you're certain. That $8.25 cancellation fee for early cancellations is essentially nothing. Losing a full four-night stay because you canceled the day before is a different kind of pain entirely.
 
-If something genuinely goes wrong, like a mechanical issue (and it will happen), act fast. Get your cancellation in before that 48-hour clock runs out. I've had a generator fail at a rest stop in the Central Valley and still managed to cancel two reservations from my phone before the deadline. It's worth building that habit now before the stakes get higher.
+If something genuinely goes wrong, like a mechanical issue (and it will happen), act fast. Get your cancellation in before that 48-hour clock runs out. Building the habit of quick cancellations now means you'll be ready if a real problem strikes.
 
 Also keep records. If you believe a no-show was logged against you incorrectly, you want documentation: confirmation emails, cancellation receipts, anything. The Contact Center is part of the ban system too, so this isn't just an online problem.
 

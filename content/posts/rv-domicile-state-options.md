@@ -33,7 +33,7 @@ People throw "domicile" and "residency" around like they're the same thing. They
 
 Every state has its own rules about what creates domicile. Generally it requires getting a driver's license, registering your vehicle, and maintaining a mailing address in the state. Some states also want proof of banking, voter registration, or a notarized statement of intent. The bar varies, but hitting the basic requirements isn't usually the hard part. The hard part is choosing which state deserves that legal tie.
 
-Here's the thing: your previous home state doesn't automatically release you just because you drove away. If you owned a home in California and you're still receiving mail there, California may still consider you a resident and expect income tax. You've got to formally establish domicile elsewhere and actively cut ties with your old state. It's not optional.
+Your previous home state doesn't automatically release you just because you drove away. If you owned a home in California and you're still receiving mail there, California may still consider you a resident and expect income tax. You've got to formally establish domicile elsewhere and actively cut ties with your old state. It's not optional.
 
 ## The Big Three: South Dakota, Texas, and Florida
 
@@ -109,7 +109,6 @@ If you're still deciding what kind of rig you'll be living in, our guide to [cho
 - and probably a conversation with a tax attorney before you try it
 - and one trip to the right DMV can realistically save you thousands of dollars ev
 
-
 A few mistakes show up over and over with RV domicile decisions.
 
 **Not actually cutting ties with your old state.** This is the most common and costly error. If your kids are still enrolled in school in California, if you're still receiving mail at a California address, or if you spend more than 183 days a year in a high-tax state, that state may assert you're still a resident. Keep travel logs, receipts, and calendar records. Document where you are.
@@ -124,6 +123,6 @@ For a complete picture of what full-time RV life involves, the [full-time RV liv
 
 ---
 
-Choosing your domicile state isn't glamorous. It's one of the highest-leverage decisions you'll make as a full-timer, though. A few hours of research and one trip to the right DMV can realistically save you thousands of dollars every year. Get this right early, document your choices carefully, and the rest of the administrative side of full-time RV life gets a lot simpler.
+Choosing your domicile state isn't glamorous, but it's one of the most important decisions you'll make as a full-timer. A few hours of research and one trip to the right DMV can save you thousands of dollars every year. Get this right early, document your choices carefully, and the rest of the administrative side of full-time RV life gets a lot simpler.
 
 ---

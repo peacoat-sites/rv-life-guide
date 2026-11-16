@@ -53,7 +53,7 @@ Campground fees are the wildcard. A good membership combination (Thousand Trails
 
 Fuel depends entirely on your rig. My 36-foot diesel pusher gets about 8 mpg. At current diesel prices (around $3.60-4.10/gallon in most of the country as of July 2026), a 300-mile travel day costs me $135-155 in fuel alone. Some months I barely move. Others I burn $400-600. Budget $150-300/month if you're averaging 500-800 miles of travel.
 
-Then there's maintenance, which is the budget line that humbles everyone. RVs are houses on wheels driving down interstates at 65 mph. Everything vibrates, everything loosens, everything wears. I budget 2-3% of the rig's purchase price annually for maintenance and repairs, which on a $120,000 coach is $2,400-3,600 per year. That's the floor. I've had years that cost double that (a slide motor failure plus an AC unit in the same summer nearly ended my career as a "budget-conscious" full-timer).
+Then there's maintenance, which is the budget line that humbles everyone. RVs are houses on wheels driving down interstates at 65 mph. Everything vibrates, everything loosens, everything wears. A practical budget is 2-3% of the rig's purchase price annually for maintenance and repairs, which on a $120,000 coach comes to $2,400-3,600 per year. That's the floor. Major failures like a slide motor and AC unit in the same year can easily double these costs.
 
 Realistic all-in monthly cost for a single person: $2,200-3,500. For a couple: $2,800-4,200. That includes campground fees, fuel, insurance, maintenance reserve, groceries, and a reasonable cell/internet budget. You can do it cheaper. You can also blow well past the top end without trying.
 
@@ -112,6 +112,5 @@ Van/Sprinter builds: the aesthetic is everywhere right now, and for good reason 
 - [TSD Logistics / South Dakota DMV](https://dps.sd.gov/driver-licensing): South Dakota's full-timer-friendly residency and vehicle registration process, widely used in the full-timer community.
 
 ---
-
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*

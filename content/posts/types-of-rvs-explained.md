@@ -48,7 +48,7 @@ The downside is real. Fuel economy sits between 6 and 10 MPG. Maneuvering in cit
 
 What they lack is space. Standing room is marginal in most unless you've got a high-roof model. Kitchens are tiny. You trade square footage for freedom of movement, and for solo travelers or couples who spend most of their time outdoors, that trade often works out.
 
-**Class C** rigs live in the middle ground. They're built on a cutaway truck chassis, and almost all of them have that distinctive cab-over bunk above the driver's cab. Length ranges from 20 to 38 feet. New prices run $70,000 to $160,000. They're easier to drive than a Class A, offer more space than a Class B, and are generally considered the best starter motorized rig for families. I've seen more first-timers in Class C units than any other type, and most of them do just fine.
+**Class C** rigs live in the middle ground. They're built on a cutaway truck chassis, and almost all of them have that distinctive cab-over bunk above the driver's cab. Length ranges from 20 to 38 feet. New prices run $70,000 to $160,000. They're easier to drive than a Class A, offer more space than a Class B, and are generally considered the best starter motorized rig for families. Class C units are a popular choice for first-time RV buyers, particularly families.
 
 A note on insurance and licensing: most states require only a standard driver's license for RVs under 26,000 pounds, which covers the majority of Class A, B, and C units. A few states require a non-commercial Class B license for the largest coaches, so check your state's DMV rules before you buy.
 
@@ -127,7 +127,6 @@ The RV market throws a lot of terminology at you fast, and dealerships aren't al
 - [dedicated RV inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter)
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor)
 - [Wolfgang Weiser](https://www.pexels.com/@wolfgang-weiser-467045605)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -30,7 +30,7 @@ For rigs under 28 feet and [travel trailers](/best-travel-trailers-full-time/), 
 
 For Class A motorhomes and [fifth wheels](/best-fifth-wheels-full-time/) over 32 feet, hydraulic is the right answer. Full stop. Electric motors just aren't built for the sustained load of a 40,000-lb rig, and they heat up fast in summer. Hydraulic rams deliver more force, level faster (typically 60–90 seconds for a good system), and handle uneven terrain more aggressively. HWH Corporation has been building hydraulic systems since the 1970s and is still the gold standard for Class A coaches. Lippert's hydraulic line is also solid, particularly on rigs built in the last six years.
 
-The one scenario where I'd push back on hydraulic: if you're parking in freezing temperatures regularly. Hydraulic fluid thickens below about 20°F, and I've seen systems run sluggishly or fail to extend fully in deep cold. Lippert's newer fluid spec helps, but electric scissor systems simply don't have that problem.
+The one scenario where I'd push back on hydraulic: if you're parking in freezing temperatures regularly. Hydraulic fluid thickens below about 20°F, causing systems to run sluggishly or fail to extend fully in deep cold. Lippert's newer fluid spec helps, but electric scissor systems simply don't have that problem.
 
 ## What These Systems Actually Cost
 
@@ -62,7 +62,7 @@ Hydraulic system failures almost always trace back to one of three things: low f
 
 Electric scissor failures are different. The motors themselves are reasonably reliable, but the limit switches wear out and the wiring harnesses chafe. If a jack runs and won't stop, or runs and won't start, check the limit switch before assuming the motor is dead. Replacement switches on Lippert's system run about $34 from their online parts portal.
 
-Sensor failures are the third category, and honestly the least predictable. The inclinometer (that's the sensor that tells the system which way is level) is usually housed in the control module. A bad inclinometer shows up as erratic leveling or a system that levels "correctly" according to itself but is visibly tilted. I don't have great numbers on failure rates here, so I can't quote you a reliability percentage, but in my experience and from reader questions over the years, sensor failures are less common than fluid or wiring issues.
+Sensor failures are the third category, and honestly the least predictable. The inclinometer (that's the sensor that tells the system which way is level) is usually housed in the control module. A bad inclinometer shows up as erratic leveling or a system that levels "correctly" according to itself but is visibly tilted. Sensor failures appear to be less common than fluid or wiring issues.
 
 One product I've found genuinely useful for diagnosing hydraulic systems: the [INNOVA 3160RS code reader](https://amzn.to/3example) with the Lippert-specific protocol cable, available through Lippert's dealer network. It reads the system's own fault codes in plain English rather than cryptic numbers. Worth the $80 for the cable if you're full-timing and want to stay out of expensive service bays.
 

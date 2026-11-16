@@ -27,7 +27,7 @@ faqs:
 
 Three winters ago, I was parked at a campground outside Flagstaff in January, temperatures dropping into the low teens, and my Suburban furnace clicked and clicked and clicked without lighting. That particular night ended with me in six layers of clothing and a very grumpy attitude toward propane appliances in general.
 
-I've since diagnosed that same no-ignition failure on my own rigs, on a neighbor's Keystone, and on a Forest River a reader named Dale from Tucson described to me in a detailed email last spring. Same symptom every time. Completely different root causes. That's the thing about RV furnace ignition problems: the failure mode looks identical from the inside, but the fix can range from a two-minute sail switch cleaning to a $340 control board replacement. Most articles online give you a generic "check your propane" tip and then nothing. This one goes further.
+RV furnace ignition failures often show the same symptom from the inside but can have completely different root causes. The fix can range from a two-minute sail switch cleaning to a $340 control board replacement.
 
 ## Why It Won't Light: The Actual Diagnosis Ladder
 
@@ -64,7 +64,7 @@ Before ordering parts, go through this in order. You'll resolve maybe 60% of fie
 
 **The flue and combustion air intake.** Mud dauber wasps pack these openings so tight it looks deliberate. They can completely block airflow, which either prevents the sail switch from closing or starves the burner of combustion air. Check both exterior vents with a flashlight every fall before your first cold night. This is the one I tell every new full-timer to put on their seasonal checklist.
 
-**Board voltage.** With a multimeter, confirm you're getting 10.5-12.6V DC to the furnace board when the thermostat calls for heat. Anything below 10.5V and Suburban boards in particular get flaky. I've watched a Suburban SF-35 go through every symptom of a failed board when the actual culprit was a weak house battery that dropped under load.
+**Board voltage.** With a multimeter, confirm you're getting 10.5-12.6V DC to the furnace board when the thermostat calls for heat. Anything below 10.5V and Suburban boards in particular get flaky. A weak house battery that drops under load can cause a Suburban SF-35 to show every symptom of a failed board.
 
 ## The Parts That Actually Fail (With Honest Cost Estimates)
 
@@ -82,7 +82,7 @@ When free fixes don't solve it, you're buying parts. Here's where the money goes
 | Blower motor | $95-160 | No blower movement at all | Moderate |
 | LP regulator (2-stage) | $30-50 | Weak flame on all appliances | Easy |
 
-The control board is the part that everyone replaces last because it's expensive, and correctly so. It's also what the RV service center replaces first because they get margin on it and it covers a lot of symptoms. I've seen people spend $300+ on a board swap when a $14 sail switch was the actual problem. Don't let that happen to you.
+The control board is the part that everyone replaces last because it's expensive, and correctly so. It's also what the RV service center replaces first because they get margin on it and it covers a lot of symptoms. Don't spend $300+ on a board swap when a $14 sail switch could be the actual problem.
 
 ## Worked Examples From the Field
 

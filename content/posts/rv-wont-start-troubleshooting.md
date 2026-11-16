@@ -39,7 +39,7 @@ When I finally stopped assuming and grabbed my multimeter, the chassis battery r
 
 A fully charged 12V chassis battery should read between 12.6 and 12.8 volts at rest. Below 12.2V, it's struggling. Below 11.8V, you probably won't start. If you're getting a single click or rapid clicking when you turn the key, that's almost always a battery that can't deliver enough amperage to crank the engine, even if the voltage looks passable on a meter. Voltage and cold cranking amps are different things.
 
-Jump it (correctly, with a quality jump pack or another vehicle), let it run for 20 minutes, then get the battery tested at an AutoZone or O'Reilly. They'll do it free and print you a ticket showing actual CCA remaining versus rated CCA. I've seen batteries test at 247 CCA when they were rated for 650. That battery will start your rig in July and leave you stranded in October.
+Jump it (correctly, with a quality jump pack or another vehicle), let it run for 20 minutes, then get the battery tested at an AutoZone or O'Reilly. They'll do it free and print you a ticket showing actual CCA remaining versus rated CCA. A battery might test at 247 CCA when rated for 650. It'll start your rig in July and leave you stranded in October.
 
 A good jump starter worth keeping in your bay: the NOCO Boost Pro GB150 handles up to a 10-liter diesel and runs around $220. Worth every cent. (As an Amazon affiliate, this site may earn a commission.)
 
@@ -47,13 +47,11 @@ A good jump starter worth keeping in your bay: the NOCO Boost Pro GB150 handles 
 
 Okay, so the battery is fine. You've confirmed it with a meter, it's reading 12.7V, and you still get nothing when you turn the key. Now what?
 
-Check the obvious stuff before you chase wiring. Some Class A coaches have a hidden kill switch or battery disconnect switch that's easy to bump accidentally. I've seen this happen to a guy at a dump station in Quartzsite who hit the disconnect with his elbow while reaching for his water hose. He spent 45 minutes convinced he had a blown fuse before someone walked by and noticed the switch.
+Check the obvious stuff before you chase wiring. Some Class A coaches have a hidden kill switch or battery disconnect switch that's easy to bump accidentally. For example, it's easy to bump the disconnect with your elbow while reaching for the water hose, leaving you convinced you have a blown fuse.
 
 Also check: the neutral safety switch. Automatics won't start in gear. Try wiggling the selector firmly into Park before turning the key. Sounds dumb. Works more often than you'd think.
 
 Fuses and relays are next. Your chassis fuse panel is usually in the cab, sometimes under the dash, sometimes in a compartment on the driver's side exterior. Pull the cover and look for a fuse labeled "IGN," "START," or "ECM." A blown fuse here cuts the ignition circuit completely. Starter relays fail too, often silently. You can test a relay by swapping it with an identical relay from another circuit (check amperage ratings match) and seeing if the problem moves with it.
-
-Scenario: A reader named Marco emailed me last spring after his 2015 Tiffin Allegro got towed to a dealership for a no-start. The dealer quoted him $340 for diagnosis. He hadn't yet checked the fuse panel. Action taken: Marco checked the fuse panel himself, found a 30A fuse for the ECM blown, replaced it with a $0.40 spare from the panel lid. Result: Engine started immediately, $339.60 saved, and he's now a fuse-checker.
 
 ## Fuel System and the Diesel Quirks Nobody Warns You About
 
@@ -98,9 +96,7 @@ I'm going to sound like a broken record here but I don't care: bad ground connec
 
 Check the negative battery terminal first. It should be tight and clean. Then follow the negative cable to where it attaches to the chassis or engine block and check that connection too. If you see green or white corrosion, a wire brush and dielectric grease will often fix a problem that's been mysteriously plaguing you for months.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">RV no-start causes by frequency (mobile tech estimates)</div><div class="sc-row"><span class="sc-label">Battery failure</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">38%</span></div><div class="sc-row"><span class="sc-label">Bad ground/connection</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">21%</span></div><div class="sc-row"><span class="sc-label">Starter/relay</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Fuel system</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">ECU/sensor fault</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">9%</span></div><div class="sc-row"><span class="sc-label">Other</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">6%</span></div><div class="sc-src">Source: RV Industry Association technician survey, 2025</div></div>
-
 
 ## Sources
 
@@ -111,6 +107,5 @@ Check the negative battery terminal first. It should be tight and clean. Then fo
 - [Battery Council International (BCI)](https://batterycouncil.org): Battery testing standards and CCA rating methodology.
 
 ---
-
 
 *Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*

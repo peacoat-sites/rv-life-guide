@@ -112,7 +112,6 @@ If you're adding solar or planning to, a **battery monitor** like the Victron Sm
 - [Battery monitors on Amazon](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
 
-
 Dealers mark up RVs aggressively. MSRP is not a real number; it's a starting point for a conversation.
 
 For new units, figure out the dealer's invoice price if you can, either through NADA guides or by calling multiple dealers for competing quotes. Offer 15-20% below MSRP to start and work up slowly. If they won't budge past 10% off MSRP, walk out. There is always another dealer.
@@ -123,7 +122,7 @@ Watch for these specific finance office moves:
 
 - **Dealer-added accessories:** Fabric protection, paint sealant, tire and wheel coverage added to the purchase price without your explicit consent. These appear as line items. Strike them.
 - **Extended warranties:** RV extended warranties can be valuable if you're buying used and plan to keep the rig long-term. But read the contract. Understand the deductible, the exclusion list, and which repair facilities are authorized. Never buy one in the heat of the signing moment. Ask them to email it to you so you can read it at home.
-- **Financing through the dealer:** Always come with pre-approval from your own bank or credit union. Dealer financing is a profit center. Use your pre-approval as leverage.
+- **Financing through the dealer:** Always come with pre-approval from your own bank or credit union. Dealer financing is a profit center. Your pre-approval gives you negotiating power.
 
 Go slow. The right unit for your situation is out there, and the used market is large enough that you don't have to settle or rush. The couple I mentioned in Phoenix? They eventually sorted out their rig and they're still out here rolling. But they'll tell you themselves: an extra week of homework and $500 for a professional inspection would have saved them the worst month of their RV lives. Don't skip the checklist.
 

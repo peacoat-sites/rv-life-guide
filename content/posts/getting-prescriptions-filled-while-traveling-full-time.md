@@ -34,7 +34,7 @@ Getting prescriptions filled on the road is one of those topics where almost eve
 
 Here's what I thought before I knew better: if you use a national chain like CVS or Walgreens, you can fill anywhere because "it's all one system." Technically true. Practically, it's more complicated.
 
-Yes, your prescription record transfers between locations of the same chain. But your controlled substance prescriptions (think ADHD meds, certain anxiety medications, some sleep aids) are governed by individual state laws, and those laws vary wildly. In Texas, a pharmacist at a Walgreens can refuse to fill a controlled substance that was prescribed by an out-of-state doctor even if it's on file. I've had this happen personally, not in Texas specifically, but I've had a pharmacist decline a transfer on a Schedule III medication because my prescribing doctor was licensed in a different state and they "couldn't verify the prescription." That's a real thing.
+Yes, your prescription record transfers between locations of the same chain. But your controlled substance prescriptions (think ADHD meds, certain anxiety medications, some sleep aids) are governed by individual state laws, and those laws vary wildly. In Texas, a pharmacist at a Walgreens can refuse to fill a controlled substance that was prescribed by an out-of-state doctor even if it's on file. Pharmacists can decline to transfer a controlled substance if the prescribing doctor is licensed in a different state, citing verification issues.
 
 For non-controlled medications, the chain system works pretty smoothly. I've transferred my thyroid prescription between a Kroger pharmacy in Tennessee and a Fred Meyer in Oregon without any friction at all.
 
@@ -49,9 +49,7 @@ The practical lesson: know your drug schedule before you travel. The DEA's sched
 | GoodRx / Cost Plus Drugs | Uninsured or coverage gaps | Active internet access | No |
 | Local telehealth + local pharmacy | Controlled substances (Schedule II-IV) | New in-state prescription each fill | Yes (platform & state dependent) |
 
-I'll be honest, I've tried most of these personally or heard about them in enough detail from fellow full-timers to speak to them with some confidence.
-
-**Mail-order pharmacy through your insurance.** This is the single best infrastructure move for full-timers, and it's underused. Most major insurance plans (Cigna, Aetna, BCBS, UnitedHealthcare) have a mail-order pharmacy option that ships 90-day supplies. You need a consistent mailing address, which most full-timers solve with a [mail forwarding service like Escapees](/best-mail-forwarding-service-for-full-time-rvers/) (based in Livingston, Texas) or America's Mailbox in South Dakota. The 90-day window gives you a massive buffer. I've been using Express Scripts through my insurance since 2021, and I set it to ship to whatever address I'll be at in the next two weeks. It's not perfect, timing can get tricky if you're moving fast, but it's dramatically more reliable than hunting down a pharmacy in every new state.
+**Mail-order pharmacy through your insurance.** Mail-order pharmacy through insurance is a reliable option for full-timers. Most major insurance plans (Cigna, Aetna, BCBS, UnitedHealthcare) have a mail-order pharmacy option that ships 90-day supplies. You need a consistent mailing address, which most full-timers solve with a [mail forwarding service like Escapees](/best-mail-forwarding-service-for-full-time-rvers/) (based in Livingston, Texas) or America's Mailbox in South Dakota. The 90-day window gives you a massive buffer. You can request shipment to an address where you expect to be in the coming weeks. Timing can get tricky if you're moving fast, but mail-order is generally more reliable than hunting down a pharmacy in every new state.
 
 **Telehealth prescribers.** This one changed my situation more than anything else. Services like Teladoc, Hims/Hers, Done (for ADHD), and Cerebral have telehealth-licensed prescribers in all 50 states. The important thing to understand is that you need a prescriber licensed in the state you're *physically in* at the time of the visit, not your home state. Most of these platforms handle that automatically by routing you to an in-state provider. As of July 2026, Teladoc is still available in all 50 states and can prescribe most non-controlled medications after a virtual visit. Controlled substances via telehealth have been tighter since federal regulations tightened in 2023, though some platforms still offer them depending on your state and condition.
 
@@ -110,6 +108,5 @@ Result: Zero prescription disruptions over 14 months of travel across 22 states.
 - [Escapees RV Club Mail Forwarding](https://www.escapees.com): Most widely used mail forwarding service among full-timers; essential infrastructure for mail-order pharmacy setup.
 
 ---
-
 
 *Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*

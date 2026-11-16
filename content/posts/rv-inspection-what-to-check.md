@@ -101,7 +101,7 @@ A [battery monitor](https://amzn.to/example) like a Victron BMV-712 will show yo
 
 If the rig has a solar setup, check the panel mounts on the roof for corrosion or loose hardware. Ask for the controller brand and model and look it up. Cheap PWM controllers paired with lithium batteries are a common mismatch on used rigs.
 
-A [surge protector](https://amzn.to/example) at the pedestal is essential every time you plug into campground power. I've seen bad campground power damage inverters, charge controllers, and TV sets. The Progressive Industries units are built for real protection, not just marketing copy.
+A [surge protector](https://amzn.to/example) at the pedestal is essential every time you plug into campground power. Bad campground power can damage inverters, charge controllers, and TV sets. The Progressive Industries units are built for real protection, not just marketing copy.
 
 **Propane and Appliances:**
 
@@ -134,7 +134,6 @@ Bring some [leveling blocks](https://amzn.to/example) and a level to your inspec
 - [surge protector](https://amzn.to/example)
 - [leveling blocks](https://amzn.to/example)
 - [Kampus Production](https://www.pexels.com/@kampus)
-
 
 Follow this order. It's designed to save time and catch the big problems early before you spend an hour testing the coffee maker.
 

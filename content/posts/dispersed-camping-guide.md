@@ -42,7 +42,7 @@ Dispersed camping is camping outside a designated campground on public land, usu
 
 The first thing people get wrong: not all public land allows it. National Parks almost never do. State parks vary wildly. But BLM land covers roughly 245 million acres mostly in the western U.S., and National Forests add another 193 million acres across the country. Both allow dispersed camping on most of their land with minimal restrictions.
 
-Here's what I tell newcomers: download the FreeRoam app or onX Offroad before you lose cell range. These show land ownership overlaid on satellite maps. You can see at a glance whether you're looking at BLM, Forest Service, state, tribal, or private land. I've used both for years. They've kept me from accidentally camping where I shouldn't more than once.
+Download the FreeRoam app or onX Offroad before you lose cell range. These show land ownership overlaid on satellite maps. You can see at a glance whether you're looking at BLM, Forest Service, state, tribal, or private land. Both are reliable tools for confirming you're on land where camping is allowed.
 
 A few land types worth knowing:
 
@@ -78,7 +78,7 @@ For most full-timers, here's what matters:
 
 **Power.** Shore power is gone. Without solar or a generator, you're living on house batteries, which in stock RVs means 1 to 2 days before things start failing. I run a 400-watt solar setup with a 200Ah lithium battery bank and can stay out indefinitely in sunny weather. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is not optional. You need to see your actual state of charge, not just a vague indicator light. *(Note: this site may earn a commission on purchases.)*
 
-**Leveling.** Most dispersed sites aren't level. Bring quality leveling blocks. I've used [Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20) for years and they're the kind of thing you buy once. *(This site may earn a commission on purchases.)*
+**Leveling.** Most dispersed sites aren't level. Bring quality leveling blocks like [Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20), which are durable enough to last for years of use. *(This site may earn a commission on purchases.)*
 
 **Waste.** Your black and gray tanks will fill. Know your capacity. Solo I can stretch 5 to 7 days before needing a dump station. Plan your route around one when you break camp.
 
@@ -113,7 +113,6 @@ One rule specific to motorized camping: don't drive off existing tracks to make 
 - [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
 - [gravity-fed water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
 - phase matters
-
 
 This is the section I wish someone had walked me through seriously in my first year. Being 40 miles from cell signal with a blown tire or a propane leak is different from being 40 miles from signal in a well-stocked, capable camp.
 

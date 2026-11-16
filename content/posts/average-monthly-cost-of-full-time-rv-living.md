@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-The number that stopped me cold when I first started researching full-time RV living was $1,800 a month. I'd seen it everywhere online, this tidy figure that made living on the road sound almost affordable. Then I actually did it, and year one cost me closer to $3,400 a month. Not because I was careless or living lavishly. Because the $1,800 number leaves out half the real expenses.
+A commonly cited figure for full-time RV living is $1,800 a month, but that number leaves out half the real expenses. In practice, year-one costs often run closer to $3,400 a month, not because of careless or lavish living, but because the $1,800 estimate omits several major categories.
 
-Eight years later, I can tell you what it actually costs, why the range is so wide, and where people get blindsided. I've seen couples live genuinely well on $2,200 a month and I've seen solo travelers blow $5,000 without much to show for it. The difference usually isn't lifestyle choices. It's whether they planned for the real categories or just the obvious ones.
+The actual cost varies widely: couples have lived well on $2,200 a month while solo travelers have spent $5,000 without proportional returns. The difference usually isn't lifestyle choices. It's whether they planned for the real categories or just the obvious ones.
 
 ## The Big Four: Where Most of Your Money Goes
 
@@ -49,7 +49,7 @@ The people who keep campground costs down do it through a combination of strateg
 
 Realistically, if you're a mix of boondocking, state parks, and occasional full-hookup sites, you're probably looking at $400 to $900 a month on campgrounds. That's my actual range over the years.
 
-Fuel is the second big one, and it's the most variable because it depends entirely on how much you move. I've had months where I drove 2,000 miles and months where I drove 200. A diesel Class A getting 8 mpg at $4 per gallon costs you $1 per mile in fuel alone. If you move every week, that adds up fast. The full-timers I know who keep fuel costs under $200 a month are mostly the slow travelers: people who pick a region, stay two to four weeks per spot, and don't chase weather across three time zones. The ones who drive 1,500 miles a month are paying $600 to $900 in fuel, sometimes more.
+Fuel is the most variable expense because it depends entirely on how much you move. A diesel Class A getting 8 mpg at $4 per gallon costs $1 per mile in fuel alone. Moving every week adds up fast. Slow travelers who pick a region and stay two to four weeks per spot typically keep fuel costs under $200 a month. Those driving 1,500 miles a month pay $600 to $900 in fuel, sometimes more.
 
 Food runs roughly what it runs anywhere, maybe slightly more if you're eating out a lot because you're in tourist areas, slightly less if you're good at cooking in a small kitchen. Figure $400 to $700 a month per person. I spend about $500 a month now, cooking most meals, occasionally splurging on local restaurants because that's half the point of being somewhere new.
 
@@ -61,7 +61,7 @@ Your RV payment and insurance together are often treated as fixed costs, which t
 
 I've talked to too many people who budgeted $200 a month for "RV maintenance" based on what they read online. Then the slides stopped working, or the water heater corroded through, or the roof seams needed resealing, and they were looking at a $1,500 to $4,000 repair they hadn't planned for. The rule I use, and the one I've heard from every experienced full-timer I respect: budget 1% to 2% of your RV's purchase price per year in maintenance costs. On a $60,000 RV, that's $600 to $1,200 a year, or $50 to $100 a month on average. But it doesn't come in smooth monthly increments. It comes as a $3,500 transmission repair in April when you're in the middle of nowhere in New Mexico.
 
-What most people don't realize is that the age and type of your rig matters more than almost anything else in determining repair costs. A Class C under five years old with low miles is going to be much cheaper to maintain than a 15-year-old Class A diesel pusher, regardless of how good a deal the latter was. I've watched people buy a $40,000 older diesel and spend $12,000 in repairs in their first two years. That "affordable" rig ended up costing more than a newer one would have.
+The age and type of your rig matter more than almost anything else in determining repair costs. A Class C under five years old with low miles will be much cheaper to maintain than a 15-year-old Class A diesel pusher, regardless of the initial price. An older diesel purchased for $40,000 can easily require $12,000 in repairs within two years, making that "affordable" rig more expensive than a newer option over time.
 
 RV insurance typically runs $1,200 to $2,400 a year for full-timers, because full-time policies are categorized more like homeowners insurance than vehicle insurance. If you have a loan, you're also carrying collision and comprehensive, which bumps the number up. I pay about $1,700 a year for my current setup.
 
@@ -81,7 +81,7 @@ And then there's what I call the "because you're a tourist" effect. When you're 
 
 ## So What Does It Actually Add Up To?
 
-Here's a realistic range based on real spending patterns I've seen and tracked personally:
+Here's a realistic range based on typical spending patterns:
 
 **Lean but comfortable:** Around $2,000 to $2,500 a month. This usually means boondocking heavily, cooking almost every meal, low-debt rig, minimal movement, no Starlink. Very doable. Requires planning and flexibility.
 
@@ -92,7 +92,6 @@ Here's a realistic range based on real spending patterns I've seen and tracked p
 The single biggest lever is how much you move and what you drive. After that, it's campground choices. Everything else you can optimize at the margins, but those two decisions set the floor and ceiling more than anything.
 
 ---
-
 
 ---
 
@@ -107,7 +106,6 @@ The math works. For a lot of people it works really well. But go in knowing the 
 - [Tom Fisk](https://www.pexels.com/@tomfisk)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

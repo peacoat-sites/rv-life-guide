@@ -25,7 +25,7 @@ author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 lastmod: 2026-07-08
 ---
-You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. I've been in that exact situation, and the difference between "inconvenience" and "dangerous" came down to whether I actually understood my generator setup before I needed it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.
+You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. The difference between "inconvenience" and "dangerous" often comes down to whether you actually understand your generator setup before you need it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.
 
 ---
 
@@ -37,7 +37,7 @@ The generator conversation usually starts with "how many watts do I need?" but t
 
 If you're in a Class A, B+, or larger Class C, you likely already have an Onan or Cummins generator mounted under the rig. Propane or gasoline-fed, running off your main fuel tank or an external propane supply, starting with a key or switch from inside the cab. Convenient, protected, capable of running your whole coach including dual rooftop air conditioners.
 
-Here's what the showroom doesn't mention: these generators need regular exercise. Run it under load for at least two hours a month, minimum. I've seen rigs come in with Onans that hadn't been run in 18 months because the owners only stayed at full-hookup parks. Carburetor varnish, stale fuel, seized components. A rebuilt carburetor on an Onan 4000 runs $300-$500 in labor plus parts if you take it to a shop. Run. The. Generator.
+What the showroom often doesn't mention: these generators need regular exercise. Run it under load for at least two hours a month, minimum. Without regular use, generators left sitting can develop carburetor varnish, stale fuel problems, and seized components. A rebuilt carburetor on an Onan 4000 runs $300-$500 in labor plus parts if you take it to a shop. Run. The. Generator.
 
 **Portable Inverter Generators**
 
@@ -91,7 +91,7 @@ A soft-start device like the [SoftStartRV](https://www.amazon.com/s?k=softstartR
 
 ## Fuel, Maintenance, and the Stuff That Kills Generators
 
-I've watched people buy quality generators and then kill them through neglect or bad habits. The maintenance list isn't long, but it matters.
+Quality generators can fail quickly through neglect or bad habits. The maintenance list isn't long, but it matters.
 
 **Fuel Management**
 
@@ -115,8 +115,6 @@ Transport portable generators in an upright position only. Inverter generators e
 
 ## Campground Etiquette and Generator Rules: Don't Be That Neighbor
 
-I've been on both sides of this one.
-
 Most campgrounds with generator-allowed dry-camping areas post specific "quiet hours" when generators must be off, typically 10pm to 6am or 8am. Respect them. Not because you'll get kicked out (though you might), but because other full-time and long-term campers around you are living in those rigs, and running a generator at midnight is genuinely disruptive to people's actual home life.
 
 Beyond quiet hours, a few practical rules:
@@ -135,7 +133,7 @@ A generator is only part of a power system. What's downstream of it matters just
 
 **Surge Protectors**
 
-Whether you're plugging into a campground pedestal or running off a generator, a [Progressive Industries or Hughes Autoformer surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) is something you want in line. These devices protect your RV's electronics and appliances from power spikes, voltage drops, and wiring problems. A 30-amp inline unit runs $150-$200. A single blown converter or damaged inverter costs 5-10 times that to replace. I've used a Progressive Industries EMS-PT30X for four years and it's flagged bad campground power more times than I can count.
+Whether you're plugging into a campground pedestal or running off a generator, a [Progressive Industries or Hughes Autoformer surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) is something you want in line. These devices protect your RV's electronics and appliances from power spikes, voltage drops, and wiring problems. A 30-amp inline unit runs $150-$200. A single blown converter or damaged inverter costs 5-10 times that to replace. A surge protector flags bad campground power conditions that you might otherwise miss.
 
 **Battery Monitors**
 
@@ -154,7 +152,6 @@ A generator isn't glamorous. Nobody brags about their generator setup the way th
 - [Progressive Industries or Hughes Autoformer surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
 - [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
 - [Jackery Explorer 1000 Portable Power Station (1002Wh)](https://www.amazon.com/dp/B083KBKJ8Q/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

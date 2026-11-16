@@ -14,13 +14,11 @@ slug: "california-ab-618-what-the-new-campsite-no-show-law-means-for-rvers"
 affiliate_disclosure: false
 ---
 
-Something most California [state park](/california-just-changed-the-rules-for-state-park-campsite-bookings/) regulars assumed was basically harmless just became very expensive. As of July 1, 2026, Assembly Bill 618, authored by Assemblymember Rebecca Bauer-Kahan, is live and enforced, and it fundamentally changes the risk calculation for anyone with a Reserve California booking. Cancel less than two days out? You lose every dollar you paid. Don't show up at all? Same result, plus you're one step closer to a full account ban. I'll be honest, when I first heard the details, I thought it was overstated. After digging into the actual policy language, it's not.
+Something most California [state park](/california-just-changed-the-rules-for-state-park-campsite-bookings/) regulars assumed was basically harmless just became very expensive. As of July 1, 2026, Assembly Bill 618, authored by Assemblymember Rebecca Bauer-Kahan, is live and enforced, and it fundamentally changes the risk calculation for anyone with a Reserve California booking. Cancel less than two days out? You lose every dollar you paid. Don't show up at all? Same result, plus you're one step closer to a full account ban.
 
 The law was written specifically to kill "ghost bookings," the practice of holding multiple campsites speculatively and canceling late (or just not showing up), which left high-demand parks technically full but visually empty on summer weekends. Anyone who's pulled into a California state park and seen half the sites sitting vacant while knowing the reservation list stretches for months knows exactly how infuriating that system was. AB 618 is a real attempt to fix it. Whether it fixes it fairly is a different question, and I think the answer is complicated.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">As of July 1, 2026, canceling under 48 hours before arrival forfeits all fees, no exceptions.</li><li style="margin:5px 0">Three no-shows in one calendar year triggers a one-year ban from making Reserve California reservations.</li><li style="margin:5px 0">Not checking in or contacting park staff by noon the day after your scheduled arrival counts as a no-show.</li><li style="margin:5px 0">All remaining nights on a no-show booking are canceled automatically and released to the public.</li><li style="margin:5px 0">This applies to every California state park campground using the Reserve California platform.</li></ul></div>
-
 
 ## What "No-Show" Actually Means Under AB 618
 

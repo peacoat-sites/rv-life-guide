@@ -25,7 +25,7 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 lastmod: 2026-07-08
 ---
-Most people walk into an RV dealership, see a gleaming 40-foot diesel pusher in one bay and a Sprinter van conversion in the next, and immediately freeze. The salesperson is already walking over. You haven't done nearly enough research. And the price difference between those two rigs? It could be $300,000. That moment of sticker shock is exactly where bad decisions get made, and I've watched it happen to more people than I can count over six years on the road.
+Most people walk into an RV dealership, see a gleaming 40-foot diesel pusher in one bay and a Sprinter van conversion in the next, and immediately freeze. The salesperson is already walking over. You haven't done nearly enough research. And the price difference between those two rigs? It could be $300,000. That moment of sticker shock is exactly where bad decisions get made.
 
 I sold my house in suburban Columbus in 2019 and have put over 90,000 miles on three different rigs since then. I've lived in a Class C, a Class A gas coach, and I currently call a Class B+ my home. None of them were perfect. All of them taught me something. What follows is what I wish someone had put in front of me before I signed anything.
 
@@ -57,7 +57,7 @@ Diesel pushers are a different animal. The engine in the rear distributes weight
 
 The practical reality of Class A ownership breaks down like this:
 - You need to be comfortable driving something the size of a city bus
-- Many state and national park roads have length restrictions that will turn you away at the gate. I've been turned away at sites in the Smokies and Rocky Mountain NP for being too long
+- Many state and national park roads have length restrictions that will turn you away at the gate.
 - You'll typically tow a "toad" (a dinghy car) because you cannot practically use your Class A for errands
 - Fuel economy runs 7 to 12 mpg depending on size, engine, and whether there's any headwind
 
@@ -111,7 +111,6 @@ One thing that table can't capture: water and electrical systems are a major var
 - [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
 - [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [Bryan Mendez](https://www.pexels.com/@lightskiing)
-
 
 Don't start with the rig. Start with these questions.
 

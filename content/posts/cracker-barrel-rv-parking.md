@@ -67,7 +67,7 @@ Leave before 8 AM. The morning breakfast rush at Cracker Barrel is real and they
 
 Cracker Barrel lots are not quiet. You're parked next to a busy road, usually within 200 feet of an interstate, and the lot stays active until close. Families loading kids into minivans, refrigerated delivery trucks at odd hours, the occasional car alarm. If you sleep light, you'll feel it.
 
-The surface is asphalt. Leveling can be annoying depending on the lot's grade. I carry [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20) (site may earn a commission) for exactly this reason, and I've needed them at probably a third of the Cracker Barrels I've used.
+The surface is asphalt. Leveling can be annoying depending on the lot's grade. Many RV owners carry [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20) (site may earn a commission) for asphalt lots with uneven grades.
 
 No hookups. No dump station. No water. You're self-contained or you're uncomfortable. If you're driving a rig that requires shore power to run your AC or CPAP, plan accordingly. A good [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) and [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) are worth having whether or not you use Cracker Barrel, but here they're non-negotiable.
 
@@ -90,12 +90,10 @@ Apps like iOverlander and Campendium have user-reported Cracker Barrel reviews. 
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Capitol Reef RV Park Glamping A-frames](https://www.pexels.com/@capitol-reef-rv-park-glamping-a-frames-1266940476)
 
-
 Cracker Barrel is part of a broader category of free overnight stops that includes Walmart, Cabela's, Flying J, and casino lots. Of those, Cracker Barrel is my consistent second choice after a good casino lot (casinos are quieter than you'd think and often have better surfaces). Walmart has gotten significantly more restrictive in the past few years, with maybe 40-50% of locations posting no-overnight signs as of 2026. Cracker Barrel has held steadier, but the trend isn't moving in a great direction for any of these.
 
 Use it while it works. Be the kind of guest that keeps it working.
 
 ---
-
 
 *Photo: [Capitol Reef RV Park Glamping A-frames](https://www.pexels.com/@capitol-reef-rv-park-glamping-a-frames-1266940476) via Pexels*

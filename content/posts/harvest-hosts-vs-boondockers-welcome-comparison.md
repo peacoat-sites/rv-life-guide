@@ -29,7 +29,7 @@ Most full-[time RVers](/best-remote-jobs-for-full-time-rvers/) join one of these
 
 Here's the number that genuinely surprised me when I dug into this: [Harvest Hosts](/harvest-hosts-membership/) currently lists over 5,000 member locations across the U.S. and Canada, while Boondockers Welcome sits closer to 2,100 active hosts. That's a 2:1 advantage in raw site count, but count alone tells you almost nothing about which membership will actually save you money or make your trips better. A lot depends on what kind of rig you're in, how social you want your stays to be, and whether you're more comfortable at a winery than in a stranger's driveway.
 
-I'll be honest: I was skeptical of both when I first heard about them back when I was still full-timing in my 2017 Thor Chateau. Free overnight parking sounded like the kind of thing that's "technically free" until you factor in all the wine you feel obligated to buy. But I've now used Harvest Hosts well over 60 times and Boondockers Welcome a dozen or so, and I have actual opinions here.
+Free overnight parking can sound like it comes with hidden costs. Both Harvest Hosts and Boondockers Welcome are worth considering if you want alternatives to paid campgrounds.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Harvest Hosts costs $99/year (or $149 for Plus) and has 5,000+ locations; Boondockers Welcome is $45/year with ~2,100 hosts.</li><li style="margin:5px 0">Harvest Hosts works best for self-contained rigs; Boondockers Welcome sometimes offers hookups, which is rare and genuinely valuable.</li><li style="margin:5px 0">Neither program allows multi-night stays by default, most Harvest Hosts are one night, and Boondockers Welcome hosts set their own limits.</li><li style="margin:5px 0">The "free" in both programs is real, but Harvest Hosts has an unwritten expectation to spend $20-$30 at the venue.</li><li style="margin:5px 0">For solo travelers or couples who like human connection, Boondockers Welcome often wins on experience despite the smaller network.</li></ul></div>
 
@@ -66,11 +66,11 @@ One practical thing only regulars figure out: call ahead. Not every Harvest Host
 
 Forty-five dollars a year. That's currently less than a single night at most RV parks in the Pacific Northwest. And what you get is access to actual humans who have volunteered to host you.
 
-The stays feel completely different. I've had hosts who left out a welcome note with the WiFi password, local restaurant recommendations, and a bag of homegrown tomatoes. I've also had stays where the host checked in briefly and we waved and that was it, totally fine, zero pressure. Most hosts are former or current RVers themselves, which means they actually understand what you need. They know you don't want to ask where the water spigot is at 10 p.m.
+The stays can vary widely. Some hosts leave welcome notes with WiFi passwords and local tips; others check in briefly and give you space. Most hosts are former or current RVers, so they tend to understand what you need without you having to ask.
 
 The hookup question is worth dwelling on. A meaningful subset of Boondockers Welcome hosts offer at least a water connection, and some offer 30-amp electric. This is legitimately rare in the free-camping world and it's something Harvest Hosts almost never has. If you're not fully self-contained, maybe you've got a shorter tank capacity or you rely on shore power for a CPAP, that changes the math considerably.
 
-What I don't have good numbers on is host churn. Anecdotally, I've tried to book spots that were listed as available but hadn't had an active host in months. The platform is working on this, but it's worth sending a message before you route your trip around a Boondockers Welcome stop.
+Host availability can be inconsistent; some listings may not have active hosts despite appearing available. It's worth messaging before planning a trip around a specific Boondockers Welcome stop.
 
 **Worked examples:**
 
@@ -94,7 +94,7 @@ I'll just say it: if you had to pick one and you're in a self-contained rig with
 
 If you're in a smaller rig, not fully self-contained, or you're someone who finds random conversations with fellow RVers energizing rather than exhausting, Boondockers Welcome might actually win on a per-stay-quality basis even with the smaller network.
 
-Honestly, at $99 + $45 = $144 combined for both programs, and given that a single prevented campground stay covers almost the entire cost of Boondockers Welcome, I'd just get both. I've had them both running for years and I treat them like different tools. Harvest Hosts when I want somewhere interesting to park near a town. Boondockers Welcome when I want a quiet driveway and maybe a conversation.
+At $99 + $45 = $144 combined for both programs, a single prevented campground stay covers almost the entire cost of Boondockers Welcome. The two memberships serve different purposes: Harvest Hosts works well for parking near interesting destinations close to towns, while Boondockers Welcome suits those looking for a quiet driveway stay.
 
 ## Sources
 

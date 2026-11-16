@@ -104,7 +104,7 @@ Here's a practical sequence to follow in the 60-90 days before you go full-time.
 
 Real-world full-time RV health insurance isn't always clean. You'll probably use urgent care more than you expect. A twisted ankle in Moab, a sinus infection in Montana, a minor cut that needs stitches in the Florida Panhandle, these aren't emergencies, but they happen. Knowing that your plan covers urgent care visits at a flat copay anywhere in the country is genuinely valuable.
 
-Telehealth has become a game-changer. Services like Teladoc (included in many ACA plans for free), MDLive, and Amazon Clinic let you see a provider over video for things like UTIs, minor infections, and medication refills. I've talked to dozens of full-timers who say they handle probably 40% of their medical needs through telehealth now. It's fast, cheap, and location-agnostic.
+Telehealth is useful for full-time RVers. Services like Teladoc (included in many ACA plans for free), MDLive, and Amazon Clinic let you see a provider over video for things like UTIs, minor infections, and medication refills. Many full-timers handle a significant portion of their medical needs through telehealth. It's fast, cheap, and location-agnostic.
 
 For prescriptions, GoodRx often beats your insurance copay, especially at big-box pharmacies like Costco, Walmart, and Kroger that exist in most metro areas. Keep the app on your phone.
 
@@ -125,7 +125,6 @@ Health insurance for full-time RVers isn't one-size-fits-all, but it's absolutel
 
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

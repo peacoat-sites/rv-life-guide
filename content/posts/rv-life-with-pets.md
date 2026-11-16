@@ -25,7 +25,7 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 lastmod: 2026-07-08
 ---
-My dog Cleo has slept in the same 6-inch window of sunlight every morning for eight years, except now that window moves. Montana one week, New Mexico the next. She adjusted faster than I did.
+Dogs often adjust to travel faster than their owners do.
 
 I'll be honest: I went into [full-time RV life](/full-time-rv-living-with-a-dog-tips/) assuming pets would be the hard part. I'd read all the forums. Anxious dogs, motion sickness, campgrounds that don't allow certain breeds, veterinary access in the middle of nowhere. The warnings stacked up. What surprised me was that most of the real challenges weren't the ones people warned me about. The pet stuff that actually broke my rhythm was mundane and avoidable, and the pet stuff I dreaded mostly didn't happen.
 
@@ -35,7 +35,7 @@ This is the real rundown. Not the "RVing with pets is magical!" content, not the
 
 The single biggest mistake I see new RVers make with pets is doing zero prep before the first long haul. They figure the animal will sort itself out. Sometimes that's true. Often it isn't.
 
-Motion sickness is real. More common in dogs than most people admit. You might not see dramatic vomiting, though. Sometimes it's just excessive drooling, lethargy, or a dog that refuses to eat for the entire travel day. Cleo had mild nausea for the first dozen trips before her inner ear adapted. My vet recommended Cerenia (maropitant citrate) for longer drives, which costs around $3-$5 a pill depending on the pharmacy. For a dog that's genuinely miserable, that conversation's worth having. Ginger supplements and holding food 4-6 hours before departure work for some dogs too, if you want to start lower-key.
+Motion sickness is real. More common in dogs than most people admit. You might not see dramatic vomiting, though. Sometimes it's just excessive drooling, lethargy, or a dog that refuses to eat for the entire travel day. Many dogs experience mild nausea on early trips before their inner ear adapts. My vet recommended Cerenia (maropitant citrate) for longer drives, which costs around $3-$5 a pill depending on the pharmacy. For a dog that's genuinely miserable, that conversation's worth having. Ginger supplements and holding food 4-6 hours before departure work for some dogs too, if you want to start lower-key.
 
 Get your vet records in order before you go mobile. Actually do this. I can't tell you how many times I've needed proof of rabies vaccination to get into a campground, board an animal in an emergency, or cross into Canada. A physical folder with printed records is decent. A PDF on your phone is better. I use a Google Drive folder now, shared with my partner, labeled by animal and year. Dead simple.
 
@@ -45,7 +45,7 @@ If your pet isn't microchipped, get that done yesterday. A dog that bolts in an 
 
 Pet policies at campgrounds are inconsistent in ways that will genuinely frustrate you. Some KOAs are dog paradise. Some state parks have tight leash rules and zero designated off-leash areas. I've pulled into a spot after a nine-hour drive and discovered the campground had a 25-pound weight limit I somehow missed in the fine print.
 
-Breed restrictions are especially annoying. Pit bulls, Rottweilers, Dobermans, and Huskies get flagged constantly, and whether your dog qualifies depends entirely on how the campground defines the breed and how the staff feels that day. If you have a dog that could be misidentified, get a DNA test (Embark runs about $99 during sales) just to have documentation on hand. It won't work everywhere, but it's worked for me twice when a manager wanted to argue about whether Cleo was "part pit."
+Breed restrictions are especially annoying. Pit bulls, Rottweilers, Dobermans, and Huskies get flagged constantly, and whether your dog qualifies depends entirely on how the campground defines the breed and how the staff feels that day. If you have a dog that could be misidentified, get a DNA test (Embark runs about $99 during sales) just to have documentation on hand. It won't work everywhere, but documentation can help in disputes over breed identification.
 
 What nobody tells you: the nicest campgrounds for pets are often Army Corps of Engineer sites, national forest dispersed areas, and BLM land. Minimal fees, no breed discrimination, no gravel pad squeezed between two other rigs. The trade-off is that hookups are rare and you'll need to be self-sufficient. That's a whole other article, but the short version is: solar gets you farther than you'd think.
 
@@ -64,19 +64,17 @@ This is where I'll push back on the conventional wisdom. Most of what you see on
 
 But here's the thing: [not every dog tolerates crating](/rv-life-with-dogs/), and not every RV layout accommodates a large crate in a way that's actually safer than the alternative. What I do, and what I've landed on after years of testing, is a combination approach. Cleo rides in a crash-tested harness (I've used the Sleepypod Clickit Sport, which runs about $80, and it's the only one that's been tested in actual crash simulations by the Center for Pet Safety) clipped to the seatbelt. It's not perfect, but it's meaningfully better than nothing.
 
-Cats are a different story entirely. Cats in cars are basically unsolvable. Every cat I've known either tolerates the carrier or actively loses its mind. My cat Jasper destroyed two soft carriers before I gave up and bought a hard-sided Petmate Sky Kennel. He hates it. He screams for approximately 45 minutes, then gives up and sleeps. We've reached an understanding.
+Cats are a different story entirely. Cats in cars are basically unsolvable. Cats typically either tolerate carriers or find travel extremely stressful. Hard-sided carriers may work better than soft ones for anxious cats, though acceptance varies widely.
 
 Temperature is the other big one. RV interiors heat up catastrophically fast when you're stopped and the AC is off. I have a cheap dual thermometer with a remote sensor that lets me check interior temp from my phone while I'm at a trailhead. The ThermoPro TP65S runs about $25 on Amazon and has saved me from real anxiety on warm-weather driving days. If you're parked somewhere hot and need to run into a store, your propane refrigerator and a cracked vent won't cut it. Either run the generator with AC on, find a dog-friendly spot to take them, or don't stop.
 
 ## Veterinary Access on the Road
 
-This was the thing I most underestimated, and I've watched it stress out more full-timers than any other pet issue.
-
 Most vets won't take you as a walk-in for non-emergencies. You need to be an established patient, or you need to book out weeks ahead, or you need to pay the out-of-hours emergency clinic rate, which runs $100-$200 just to walk in the door before any treatment. When Cleo tore a nail on a rocky trail outside Moab, Utah, the nearest emergency vet was 45 minutes away in Grand Junction, Colorado, and the total bill was $340 for what amounts to a ten-minute procedure at a regular vet.
 
-What actually helps: the Banfield Pet Hospital partnership program gives you access to any Banfield location (they're inside PetSmart locations across the country) with your existing records. Not perfect, but usable. Vetco clinics at Petco do low-cost vaccines on a drop-in basis. Telehealth has become genuinely useful for "is this an emergency or can it wait" triage. I've used Dutch and Pawp for that, and they're worth the subscription cost if you're remote regularly.
+What actually helps: the Banfield Pet Hospital partnership program gives you access to any Banfield location (they're inside PetSmart locations across the country) with your existing records. Not perfect, but usable. Vetco clinics at Petco do low-cost vaccines on a drop-in basis. Telehealth has become genuinely useful for "is this an emergency or can it wait" triage. Telehealth services like Dutch and Pawp are worth exploring if you're remote regularly.
 
-Pet insurance deserves a real conversation before you go full-time. The research here is mixed on whether it saves money in aggregate, but for mobile life where emergency vet bills can't be predicted or spread across a familiar network, the peace of mind has real value. I've used Trupanion and Healthy Paws. Both had frustrating claim processes. Neither was a scam. That seems to be about as good as it gets right now.
+Pet insurance deserves a real conversation before you go full-time. The research here is mixed on whether it saves money in aggregate, but for mobile life where emergency vet bills can't be predicted or spread across a familiar network, the peace of mind has real value. Pet insurance options like Trupanion and Healthy Paws tend to have frustrating claim processes, so research terms carefully before committing.
 
 ## The Daily Rhythm That Actually Works
 
@@ -86,7 +84,6 @@ Pet insurance deserves a real conversation before you go full-time. The research
 - [Helena Lopes](https://www.pexels.com/@helenalopes)
 - part pit. What
 - here is mixed on whether it saves money in aggregate
-
 
 The thing that took me longest to figure out wasn't a gear problem or a logistics problem. It was understanding that my pets needed a routine even when geography was completely fluid.
 

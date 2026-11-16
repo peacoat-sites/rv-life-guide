@@ -76,7 +76,7 @@ The catch: a lot of what shows up in searches includes paid campgrounds, and the
 
 Campendium gets recommended constantly, and it's a good app. The reviews are thorough. The cell signal reports actually matter (they show AT&T, Verizon, and T-Mobile signal reported by actual campers). The photos are better than competing apps. If you work remotely like I do, those signal reports are the difference between a productive work week and driving twenty miles to park outside a Starbucks.
 
-Where Campendium falls short: density of listings in the Southeast and Midwest. Western data is strong. Southern data is thin in places. I've had better luck using it alongside Freecampsites.net rather than choosing one.
+Where Campendium falls short: density of listings in the Southeast and Midwest. Western data is strong. Southern data is thin in places. Using it alongside Freecampsites.net rather than choosing one can help fill gaps.
 
 Also worth knowing: you can access Campendium fully from a browser. If you hate downloading apps, campendium.com works just as well without taking up phone space.
 
@@ -96,7 +96,7 @@ Avenza is free to download with a limited number of free maps. The maps themselv
 
 ## A Word About Apps That Are More Marketing Than Tool
 
-Here's the blunt truth: Harvest Hosts and Boondockers Welcome are membership programs, not free camping apps, and they sometimes get lumped into "free camping app" lists in a misleading way. Harvest Hosts costs $99 a year and gets you access to wineries, breweries, farms, and attractions that let you overnight for free. It's genuinely good. I've had beautiful nights at a lavender farm in Oregon and a working vineyard outside Walla Walla, Washington. But it's not free, and it's not dispersed camping.
+Harvest Hosts and Boondockers Welcome are membership programs, not free camping apps, and they sometimes get lumped into "free camping app" lists in a misleading way. Harvest Hosts costs $99 a year and gets you access to wineries, breweries, farms, and attractions that let you overnight for free. But it's not free, and it's not dispersed camping.
 
 Boondockers Welcome ($30 a year) connects you with private homeowners who have RV space. Also worthwhile. Also not free.
 
@@ -113,7 +113,6 @@ Know what you're signing up for before you hand over a credit card.
 - is community-sourced and genuinely extensive
 - quality in the American West and border regions is really strong
 - is thin in places
-
 
 Recreation.gov covers National Park campgrounds, most with fees. But it also lists some first-come, first-served sites at smaller areas that people don't know about. Not free, but often $5 to $10 a night, which starts to matter when you're budgeting $600 to $800 a month for all campsite costs like I was my first two years out.
 

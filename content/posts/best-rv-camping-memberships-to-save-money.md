@@ -25,10 +25,9 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 lastmod: 2026-07-08
 ---
-I've spent somewhere around $40,000 on campground fees over eight years on the road. That number made me want to lie down when I actually calculated it. And the honest part? A big chunk of that was paid before I figured out which memberships were actually worth buying and which ones were just well-marketed money traps.
+Campground fees add up fast. Many RVers don't realize how much they're spending until they total it up, and often find they paid for memberships that weren't worth the cost before learning which ones actually save money.
 
 Here's what nobody tells you upfront: the RV membership game is complicated, the savings are real but context-dependent, and if you camp less than 60 nights a year, most of the premium programs won't pay off. Let me walk you through what I've actually used, what broke my heart, and what I'd buy again tomorrow.
-
 
 <div class="value-module">
  <div class="vm-head">RV Membership Break-Even Calculator</div>
@@ -71,7 +70,7 @@ Boondockers Welcome ($50/year) works differently: you're parking in driveways or
 
 ## Escapees and Good Sam: The Practical Reality
 
-Good Sam gets pushed hard because Camping World has a financial incentive. The membership (price varies from $29-$79 depending on tier) gives you 10% off at Camping World and supposedly 10% at affiliated parks. Here's the truth: the park discounts get inconsistently honored, and many parks in their network are already charging $65-75/night for gravel and 30-amp power. I've had Good Sam for years, mostly out of habit and the occasional urgent Camping World parts run. If you're not buying gear regularly there, the math doesn't work.
+Good Sam gets pushed hard because Camping World has a financial incentive. The membership (price varies from $29-$79 depending on tier) gives you 10% off at Camping World and supposedly 10% at affiliated parks. Park discounts get inconsistently honored, and many parks in their network charge $65-75/night for gravel and 30-amp power. If you're not buying gear regularly at Camping World, the membership doesn't pay for itself.
 
 Escapees RV Club ($49/year) is better. The discount network overlaps some Good Sam parks but includes independent parks that are usually better maintained. More importantly, Escapees is an actual community organization. Their SKP parks (member-owned co-ops in a handful of states) are excellent long-term options for full-timers. The mail forwarding service at around $165/year is one of the best-reviewed options if you need a permanent address. The membership opens doors beyond campsite discounts.
 
@@ -79,7 +78,7 @@ Escapees RV Club ($49/year) is better. The discount network overlaps some Good S
 
 I'd be doing you a disservice if I only talked about paid memberships without mentioning free or nearly-free options that sometimes beat every paid program.
 
-BLM and National Forest land in the western U.S. is free camping, no membership required. I've spent months on BLM land in Arizona, Utah, and Nevada without paying a single campsite fee. The Dyrt Pro ($35.99/year) and iOverlander (free) are apps that map dispersed camping with user reviews and GPS coordinates. The Pro version adds offline maps, crucial when you're in the desert with no signal.
+BLM and National Forest land in the western U.S. is free camping, no membership required. The Dyrt Pro ($35.99/year) and iOverlander (free) are apps that map dispersed camping with user reviews and GPS coordinates. The Pro version adds offline maps, which matter when you're in the desert with no signal.
 
 FreeCampsites.net is free and surprisingly comprehensive, though comments sometimes get stale.
 
@@ -93,10 +92,9 @@ None of this replaces a good membership if you want hookups or amenities. But if
 - [Tom Fisk](https://www.pexels.com/@tomfisk)
 - by Membership Type (2024 Rates)</caption><thead><tr><th>Membership</th><th>Annua
 
-
 My current setup, refined over three years: Passport America ($44), Harvest Hosts + Boondockers Welcome bundle ($119), and Escapees ($49). Total: $212/year. I dropped Thousand Trails after year two because my route didn't justify it. Good Sam stays only for occasional Camping World parts runs.
 
-That $212 stack probably saves me $3,000-4,000 annually compared to paying full rates at comparable parks. My camping costs now run around $400-500 per month, down from $900+ when I was paying rack rates everywhere with no system.
+That $212 stack can save $3,000-4,000 annually compared to paying full rates at comparable parks, bringing camping costs down to around $400-500 per month instead of $900+.
 
 The key is matching memberships to your actual travel pattern, not the imaginary one you picture during a sales pitch or watching a YouTube video of a beautiful California property. Pull up your last 12 months of camping locations, map them, and see which membership networks actually cover where you go.
 

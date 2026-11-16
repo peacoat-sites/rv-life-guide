@@ -59,7 +59,7 @@ Four names show up repeatedly in full-timer forums and from agents who specializ
 
 **National General** has earned genuine trust in the full-timer community. Their full-timer package includes personal liability coverage that works more like a homeowner's policy, which matters if someone slips and falls at your campsite.
 
-**Good Sam Insurance** (underwritten by Foremost) is heavily marketed to RV owners and they've got name recognition, but I've seen their quotes run 15 to 25 percent higher than comparable Progressive or National General policies for identical coverage and the same rig. Get a comparison before assuming the RV-branded insurer is your best deal.
+**Good Sam Insurance** (underwritten by Foremost) is heavily marketed to RV owners and they've got name recognition, but quotes can run 15 to 25 percent higher than comparable Progressive or National General policies for identical coverage and the same rig. Get a comparison before assuming the RV-branded insurer is your best deal.
 
 **Roamly** is newer and specifically built for full-timers and part-timers. They've gotten solid reviews for handling claims cleanly and policies that don't penalize you for actually living in your RV. Worth a quote especially if you're in a Class B or van conversion.
 
@@ -116,7 +116,6 @@ Here's the practical stuff. None of it is complicated, but it does take work.
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

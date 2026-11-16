@@ -52,7 +52,7 @@ Not every remote job works equally well from an RV, though. The real filter isn'
 
 **Project management and operations roles** are underrated. Companies hiring remote project managers often care more about outcomes than your exact location. Tools like Asana, ClickUp, and Notion make async work natural. Pay runs $60,000-$100,000 at established companies, and you're usually not required to be on camera every hour.
 
-**Bookkeeping and accounting** travel well. QuickBooks Online, Xero, and similar cloud platforms mean you genuinely need nothing but a laptop and decent internet. Intuit's QuickBooks ProAdvisor certification is free and can open doors faster than most credentials I've seen. Rates for independent bookkeepers run $30-$75/hour depending on specialization.
+**Bookkeeping and accounting** travel well. QuickBooks Online, Xero, and similar cloud platforms mean you genuinely need nothing but a laptop and decent internet. Intuit's QuickBooks ProAdvisor certification is free and can open doors faster than most credentials I've seen. Independent bookkeepers typically charge $30-$75/hour depending on specialization.
 
 **Customer success and support roles** -- I'd pump the brakes a little here. Many of them require you to be available during specific business hours, tied to a queue, on video, with low background noise. Some campgrounds are loud. Some are not. If you're going this route, look for support roles at smaller companies where there's more flexibility. Be honest in interviews about your setup. I've heard from several readers who got burned by accepting roles with rigid "camera on, no background noise" policies and then struggled all summer.
 
@@ -64,7 +64,7 @@ Here's what almost every "remote jobs for RVers" article glosses over: the job i
 
 I've run a dual-carrier setup for most of the past four years. Right now that's a Verizon unlimited plan and a T-Mobile home internet router. The Verizon covers most of the West where T-Mobile thins out; T-Mobile picks up the mid-South and East where it's denser. Neither alone would cut it for anything with real deadlines.
 
-Starlink has changed things significantly for full-timers. The RV/portable plan runs about $150/month plus $599 for hardware, and in my experience it delivers 50-200 Mbps in most locations including dispersed camping where cellular is nonexistent. If you're planning to boondock heavily and still work full-time, Starlink is probably the most important infrastructure decision you'll make. Not a cheap one, but real.
+Starlink has changed options for full-timers. The RV/portable plan runs about $150/month plus $599 for hardware and typically delivers 50-200 Mbps in most locations, including dispersed camping where cellular is unavailable. If you're planning to boondock heavily while working full-time, Starlink is likely the most important infrastructure investment you'll consider.
 
 One thing people underestimate: power. Running a laptop, a router, a hotspot, and maybe a secondary monitor off a 30-amp hookup is fine. Running all of that on battery power while boondocking is a different conversation. If remote work is your plan, you either need shore power access most of the time or a legitimate solar setup. A 400-watt solar panel array with 200Ah of lithium battery capacity can keep a work-from-RV setup running through a cloudy day, but it's not a small investment. [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20) will tell you exactly what you're working with so you're not surprised mid-call. (Affiliate link, the site may earn a commission on purchases like this.)
 
@@ -97,7 +97,6 @@ If your new job classifies you as a W-2 employee, check whether your employer is
 - [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20)
 - [Vitaly Gariev](https://www.pexels.com/@silverkblack)
 - remote work for two years before they ever take a single trip
-
 
 A lot of people doing remote work from an RV are trying to clear $4,000-$6,000/month after expenses and feel comfortable. That's achievable across most of the categories above, but it takes 6-18 months to build to in most cases, especially if you're going the freelance route.
 

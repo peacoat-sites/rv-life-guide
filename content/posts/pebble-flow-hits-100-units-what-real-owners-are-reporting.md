@@ -20,9 +20,7 @@ I'll be honest, when Pebble first started taking reservations I filed them menta
 
 According to Camper Report's August 7, 2026 roundup, more than half of Flow owners are first-time RV buyers, which is genuinely wild data. The conventional wisdom says new RVers buy a cheap used [travel trailer](/motorhome-vs-travel-trailer/) to learn on before committing to something expensive. Pebble apparently attracted a cohort of buyers who skipped that step entirely, and those owners are reportedly using their trailers about four times as often as the average RV owner. That's either a sign that the product is genuinely removing friction from the RV lifestyle, or that early adopters who spent $139,500 on a trailer are psychologically motivated to justify the purchase. Probably some of both.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pebble confirmed 100+ Flow trailers delivered as of August 2026, collectively logging 250,000+ miles.</li><li style="margin:5px 0">Over half of Flow owners are first-time RVers, using their trailers ~4x more than average RV owners.</li><li style="margin:5px 0">The Magic Pack trim starts at $139,500; a base model at $113,500 is planned for late 2026 or early 2027.</li><li style="margin:5px 0">The 45 kWh LFP battery and 1.1 kW solar array support multi-day off-grid camping without shore power.</li><li style="margin:5px 0">Class B motorhome shipments rose 19.5% in June 2026, even as total RV shipments fell 13.1% year-over-year.</li></ul></div>
-
 
 ## What You're Actually Buying at $139,500
 
@@ -51,11 +49,9 @@ The broader shipment numbers make the Pebble milestone more interesting than it 
 
 Pebble isn't a Class B, but it's fishing in the same attitudinal pond. Buyers who want capability without the complexity of a 40-foot fifth wheel, who are comfortable with app-based interfaces, and who see their phone as a valid campground management tool. That buyer exists and appears to be multiplying.
 
-
-
 ## What This Means If You're Not Buying One
 
-Most of you reading this aren't going to spend $139,500 on a trailer. I'm not going to either. But I've watched this industry long enough to know that products built by people with different assumptions tend to pull the whole market in new directions eventually. The self-hitching technology, the LFP power architecture, the integrated tow-assist concept: those ideas don't stay exclusive to $140K trailers forever if they prove out.
+Most of you reading this aren't going to spend $139,500 on a trailer. I'm not going to either. But products built by people with different assumptions tend to pull the whole market in new directions eventually. The self-hitching technology, the LFP power architecture, the integrated tow-assist concept: those ideas don't stay exclusive to $140K trailers forever if they prove out.
 
 The first-time-buyer data point is the one I keep coming back to. If Pebble is actually converting people who wouldn't have tried RVing otherwise, that's legitimately good for the community and the industry. New entrants with money and tolerance for tech friction can fund development that eventually reaches the rest of us through trickle-down engineering, lower-cost competitors, and standard features that start as expensive differentiators.
 

@@ -38,11 +38,11 @@ Most people shopping for a boondocking generator fixate on wattage. I get it, th
 
 The Honda EU2200i is still, as of June 2026, the benchmark. 2,200 running watts, about 57 decibels at 23 feet at quarter load, and Honda's inverter technology means cleaner power for sensitive electronics. Street price runs around $1,100 to $1,200 depending on the retailer. I've had mine for four years. It has started on the second pull in temperatures from 18°F to 106°F. That's not marketing copy, that's my actual experience.
 
-The Yamaha EF2200iS is Honda's closest competitor, priced almost identically and performing almost identically. Yamaha people will tell you their fuel efficiency is slightly better at full load. Honda people will tell you the EU2200i is slightly quieter. Honestly, I've run both extensively and if someone handed me either one I'd be fine.
+The Yamaha EF2200iS is Honda's closest competitor, priced almost identically and performing almost identically. Yamaha people will tell you their fuel efficiency is slightly better at full load. Honda people will tell you the EU2200i is slightly quieter. Both are closely matched options.
 
 What most people don't realize is that a 2,200-watt inverter generator will NOT reliably start a residential-style rooftop AC unit on its own. It'll usually handle RV-specific AC units (like a Dometic Penguin II or a Coleman-Mach) if you add a soft-starter like the [Micro-Air EasyStart 364](https://www.amazon.com/dp/B07CWJFHYY?tag=contentportfo-20), which drops startup amp draw from around 65A to roughly 15A. That $300 soft-starter is the difference between a generator that works and one that trips the breaker every time you flip on the AC.
 
-Scenario: A reader emailed me last spring after buying an EU2200i. She couldn't start her Coleman-Mach 15 without tripping the overload. She added the EasyStart, and the AC has started without issue every time since. She estimated the setup cost her $1,450 total and eliminated the problem completely.
+For example, pairing an EU2200i with an EasyStart soft-starter can resolve overload issues when starting larger AC units such as a Coleman-Mach 15.
 
 ## When to consider going bigger
 
@@ -56,9 +56,9 @@ Scenario: A reader emailed me last spring after buying an EU2200i. She couldn't 
 
 There are rigs where a 2,200-watt unit genuinely isn't enough, and I'll be straight with you about what those look like. If you're running a larger slide-out fifth wheel with a 15,000 BTU AC, a residential-size fridge, and you want to run an induction cooktop occasionally, you're probably looking at the 3,500- to 4,500-watt class.
 
-The Champion 3500-watt dual-fuel inverter (model 200987) currently runs around $850, and the dual-fuel capability (gasoline or propane) is genuinely useful for extended boondocking where you might not want to carry extra gas cans. I've tested it on a friend's 40-foot diesel pusher. Heavier than the Honda (around 95 pounds versus 47), louder, but it handled his 13,500 BTU AC without a soft-starter and powered a Keurig, a laptop, and a box fan simultaneously without flinching.
+The Champion 3500-watt dual-fuel inverter (model 200987) currently runs around $850, and the dual-fuel capability (gasoline or propane) is genuinely useful for extended boondocking where you might not want to carry extra gas cans. It's heavier than the Honda (around 95 pounds versus 47) and louder, but it can handle a 13,500 BTU AC without a soft-starter and power multiple devices like a Keurig, laptop, and box fan at once.
 
-The Westinghouse iGen4500 is another one worth knowing. It'll run about $600 to $700, puts out 4,500 peak watts and 3,700 running watts, and in my experience it's one of the better values in this class. Noisier than Honda by a few decibels but still inverter-based and fine for sensitive electronics.
+The Westinghouse iGen4500 is another one worth knowing. It'll run about $600 to $700, puts out 4,500 peak watts and 3,700 running watts, and it's a solid value in this class. Noisier than Honda by a few decibels but still inverter-based and fine for sensitive electronics.
 
 One thing to know: bigger isn't automatically better for fuel economy. Running a 4,500-watt generator at 25% load to power your laptop and a single light is wasteful and sometimes louder than running a 2,200-watt unit at the same actual load. Match the generator size to your actual average load, not your theoretical peak.
 
@@ -93,7 +93,6 @@ Scenario: Before upgrading to lithium, I was running my Honda 4 to 5 hours per d
 - Victron Energy: MPPT charge controller documentation and battery charging efficiency data. [victronenergy.com](https://www.victronenergy.com)
 
 ---
-
 
 *Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
 

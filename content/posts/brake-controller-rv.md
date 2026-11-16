@@ -63,11 +63,11 @@ One thing people don't think to ask: how the controller mounts. Proportional uni
 
 ## Installation: Harder Than the Box Makes It Look
 
-Plug-and-play brake controllers exist. The Curt Echo and the Tekonsha Prodigy RF are wireless or semi-wireless units that use a 7-pin trailer connector and pair with a smartphone app. They're genuinely easier to install. But they also cost $200-$350, and a reader named Marcus from Albuquerque emailed me this past spring to say his Echo app lost connection on a mountain descent and he got no trailer braking for about four seconds before it reconnected. I can't verify that's a pattern, but it's worth knowing.
+Plug-and-play brake controllers exist. The Curt Echo and the Tekonsha Prodigy RF are wireless or semi-wireless units that use a 7-pin trailer connector and pair with a smartphone app. They're genuinely easier to install. But they also cost $200-$350, and there are reports of wireless controller apps losing connection briefly, which would disable trailer braking until reconnection occurs.
 
 Traditional hardwired controllers require running a wire to your brake pedal switch (to detect when you're braking), tapping into a 12V constant power source, finding a ground, and connecting to your 7-pin trailer harness. On most modern trucks it takes 45 minutes to an hour if you know your way around a wiring diagram. On some trucks with complex under-dash panels, it's genuinely annoying.
 
-If you're not comfortable with basic automotive wiring, pay someone to do it right. A bad ground causes all kinds of ghost behavior: brakes engaging randomly, the controller reading error codes, trailer lights flickering. I've seen full-timers chase electrical gremlins for weeks that turned out to be a brake controller with a loose ground.
+If you're not comfortable with basic automotive wiring, pay someone to do it right. A bad ground causes all kinds of ghost behavior: brakes engaging randomly, the controller reading error codes, trailer lights flickering. A loose ground connection at a brake controller can cause weeks of troubleshooting before the problem is identified.
 
 Example scenario: Full-timer towing a 28-foot fifth wheel, noticed trailer brakes seemed weak on downhills despite controller set to gain level 7 (out of 10). Action: Checked brake controller wiring, found the brake output wire had a marginal connection at the trailer 7-pin plug. Cleaned and re-terminated the connection. Result: Gain setting dropped to 4, braking was significantly stronger, even. Never underestimate your connector.
 
@@ -108,6 +108,5 @@ A solid surge protector for your campsite hookup and a [battery monitor](https:/
 - State towing laws database maintained by U-Haul's compliance team (publicly accessible): State-by-state breakdown of trailer brake requirements by gross weight threshold.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

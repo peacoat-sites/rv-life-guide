@@ -30,7 +30,7 @@ Slide rooms will quietly destroy your RV if you ignore them long enough. Most ma
 
 ## The seal is not your main problem
 
-Everyone obsesses over slide-out seals. They're the visible thing, the part you can poke with your finger in a YouTube video. But in my experience, the seals themselves last reasonably well if you keep them clean. What actually fails first is the seal's mounting channel and the wiper seal at the bottom of the slide.
+Everyone obsesses over slide-out seals. They're the visible thing, the part you can poke with your finger in a YouTube video. The seals themselves typically last reasonably well if you keep them clean. What actually fails first is the seal's mounting channel and the wiper seal at the bottom of the slide.
 
 The wiper seal is that flat, flexible rubber strip that drags along the floor when the slide moves in and out. It scrapes up grit, pet hair, gravel, whatever you tracked in from the last campground. Within two or three years on a full-timer's rig, that wiper seal can wear down to almost nothing. When it does, outside air, moisture, and insects have a highway right into your rig. I replaced mine on my Keystone Cougar around year four. It wasn't cheap ($140 in parts, plus a Saturday afternoon) but water had already started staining the subfloor edge.
 
@@ -48,7 +48,7 @@ One more thing people skip: clean the seal before conditioning it. A dirty seal 
 
 There are three main slide-out systems on production RVs today: rack-and-pinion (Lippert and Schwintek being the dominant versions), cable-and-pulley, and hydraulic. Each fails differently.
 
-Schwintek in-wall systems are common on lightweight travel trailers and fifth wheels. They're compact, relatively quiet, and also the most sensitive to misalignment I've ever worked on. If one motor starts moving slightly faster than the other, the slide racks. Once it racks, you can bend the gear track. I've seen repair estimates for a racked Schwintek slide run $800 to $1,400 at a dealer. The fix is almost always the same: catch it early. If your slide is moving unevenly or you hear a grinding or clicking sound, stop cycling it. Running it further makes the damage worse, not better.
+Schwintek in-wall systems are common on lightweight travel trailers and fifth wheels. They're compact and relatively quiet, but they're sensitive to misalignment. If one motor starts moving slightly faster than the other, the slide racks. Once it racks, you can bend the gear track. Repair estimates for a racked Schwintek slide typically run $800 to $1,400 at a dealer. The fix is almost always the same: catch it early. If your slide is moving unevenly or you hear a grinding or clicking sound, stop cycling it. Running it further makes the damage worse, not better.
 
 Lubrication on rack-and-pinion systems matters more than people admit. Use a dry lubricant like Super Lube with PTFE on the gear tracks, not WD-40. WD-40 attracts dust and you'll have a grinding paste inside your drive mechanism within a few months of full-time camping. I made this mistake myself in year two. Took me a while to figure out why my slide sounded progressively worse even after "lubing" it.
 
@@ -58,18 +58,17 @@ Hydraulic slides are generally found on larger Class A coaches. They're powerful
 
 ## Subfloor rot: the silent expensive one
 
-Water intrusion around slides is the single biggest source of serious structural damage in the RVs I've seen at shops and campgrounds over eight years. The problem is that subfloor rot is almost always invisible from inside the coach. The laminate or vinyl flooring looks fine right up until you step on it and your foot goes through.
+Water intrusion around slides is a leading cause of serious structural damage in RVs. The problem is that subfloor rot is almost always invisible from inside the coach. The laminate or vinyl flooring looks fine right up until you step on it and your foot goes through.
 
 Get under your rig twice a year and look at the belly pan beneath the slide room opening. Any discoloration, soft spots, or sagging belly material is a red flag. From inside, press firmly with your hand along the floor at the edge of the slide opening, especially the corners. Soft or springy where it should be rigid means moisture got there first.
 
-The fix, if you catch it early, is doable. Dry it out, treat it with a wood hardener like Minwax High-Performance Wood Hardener ($15 at any hardware store), and seal the intrusion point. If you catch it late, you're looking at a shop pulling the slide and replacing floor decking. I've watched that job cost a full-timer $3,500 at a Camping World service center.
+The fix, if you catch it early, is doable. Dry it out, treat it with a wood hardener like Minwax High-Performance Wood Hardener ($15 at any hardware store), and seal the intrusion point. If you catch it late, you're looking at a shop pulling the slide and replacing floor decking. That job can cost around $3,500 at a service center.
 
 ## What a maintenance schedule actually looks like
 
 ## Sources
 
 - [Kampus Production](https://www.pexels.com/@kampus)
-
 
 Every trip: visually inspect the slide seals for tears, debris caught in the folds, or any debris on the slide track. Takes 30 seconds.
 
@@ -80,6 +79,5 @@ Every six months: inspect the wiper seals for wear, check cable condition if app
 Annually: have someone cycle the slide while you watch the drive mechanism move. You want to see smooth, even movement. Listen for anything that sounds different from last year.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

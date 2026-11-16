@@ -49,7 +49,7 @@ Here's a quick look at how the two approaches compare for everyday ownership:
 
 ## What This Means If You're Buying New in the Next Year or Two
 
-If you're shopping for a new rig in late 2026 or planning to buy in 2027, start asking your dealer which water heater is spec'd in any unit you're serious about. This is not a trivial question. I've seen buyers get six months down the road and realize their rig can't do what they bought it for, because they didn't ask the right questions before signing.
+If you're shopping for a new rig in late 2026 or planning to buy in 2027, start asking your dealer which water heater is spec'd in any unit you're serious about. This is not a trivial question. Buyers who don't ask the right questions before signing can get six months down the road and realize their rig can't do what they bought it for.
 
 If you're a full-hookup camper, a seasonal site renter, or someone who mostly stays in state parks with 30-amp service, the Electric Water Heater Essential is honestly a solid value proposition. Fewer maintenance items, no propane system to inspect, no exterior access door to deal with. Simple is good when simple meets your actual use case.
 

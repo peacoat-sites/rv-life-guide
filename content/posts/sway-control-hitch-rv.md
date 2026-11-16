@@ -42,7 +42,7 @@ The physics version: your trailer is a pendulum attached to the back of your veh
 
 The real-world causes I see most often are tongue weight issues and speed. Most people run too little tongue weight, which makes the trailer tail-heavy and much more prone to swinging. The rule is 10 to 15 percent of your loaded trailer weight should be sitting on the hitch ball. So a 7,000-pound trailer needs 700 to 1,050 pounds of tongue weight. Not at the hitch ball itself (that's what a weight distribution system handles), but in terms of front-to-back balance of the trailer's load.
 
-Speed matters more than people want to admit. I know 65 feels slow when everyone's passing you, but a lot of rigs that are stable at 60 become genuinely unpredictable at 72. I keep a firm 62 mph limit in anything over 24 feet. That's not timid; that's physics.
+Speed matters more than people want to admit. Many rigs that are stable at 60 become genuinely unpredictable at 72. For larger RVs over 24 feet, a firm 62 mph limit keeps things predictable. That's not timid; that's physics.
 
 ## The Two Types of Sway Control: Friction vs. Active
 
@@ -66,11 +66,11 @@ A sway control bar on a hitch that isn't properly distributing weight is like pu
 
 Weight distribution hitches work by transferring some of the tongue weight load back onto the front axle of your tow vehicle, which lifts the rear of the tow vehicle back up and restores steering feel. If your truck or SUV is squatting visibly in the rear when you hook up, you need weight distribution before you even think about sway control. A squatting tow vehicle means your front wheels have less contact pressure, which means you're steering with maybe 60 percent of the grip you think you have.
 
-A reader named Marcus from outside Flagstaff emailed me last fall after his F-150 passed the GVWR check but kept feeling "floaty" in the front end when towing his 28-foot Keystone. He was running a friction bar and no WD hitch. Once he switched to a Reese Towpower Pro Round Bar WD kit (about $480) and got it properly set up, his front-end steering feel came back, and the floatiness went with it. He drove from Arizona to Michigan that winter without an incident.
+If a truck passes the GVWR check but feels floaty in the front end while towing, upgrading from a friction bar to a weight-distribution hitch can make a real difference. A Reese Towpower Pro Round Bar WD kit (about $480) paired with proper setup can restore steering feel and eliminate front-end wandering.
 
 ## Setting Up Your Hitch Correctly (Where Most People Get It Wrong)
 
-I thought for a long time that hitch setup was something you just did once at the dealer and forgot about. That's not right. And honestly, most dealer setups I've seen are mediocre at best.
+Hitch setup isn't a one-time dealer adjustment you can forget about. And honestly, most dealer setups I've seen are mediocre at best.
 
 Here's the process that actually matters:
 
@@ -86,7 +86,7 @@ Here's the process that actually matters:
 
 Most people skip steps 1 through 3 and then wonder why the setup doesn't feel right. Spend 45 minutes doing this properly and your rig will feel like a different vehicle.
 
-Concrete example from my own driveway: When I first set up my Equalizer on my 32-foot trailer, I had the spring bars tensioned about two chain links too loose. The trailer felt okay, but I noticed slight porpoising over freeway expansion joints at 60 mph. I tightened two links per side, re-measured my wheel wells (front came back up about 0.4 inches), and that porpoising disappeared completely. Small adjustment, real difference.
+For example, a 32-foot trailer with spring bars tensioned about two chain links too loose might feel okay until you hit freeway expansion joints, where slight porpoising starts at 60 mph. Tightening the bars by two links per side and re-measuring wheel heights (the front can come back up about 0.4 inches) can eliminate that movement entirely.
 
 ## What to Spend and What to Skip
 
@@ -105,6 +105,5 @@ A [surge protector for your electrical connections](https://www.amazon.com/s?k=r
 - [Reese Towpower Installation and Setup Guides](https://www.reesepow.com): Manufacturer documentation for WD hitch setup, chain link adjustment, and friction sway control calibration procedures.
 
 ---
-
 
 *Photo: [Nadine Ginzel](https://www.pexels.com/@nadine-ginzel-80607840) via Pexels*

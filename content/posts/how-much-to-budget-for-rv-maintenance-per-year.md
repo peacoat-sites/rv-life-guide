@@ -49,7 +49,7 @@ Tires are the biggest one-time hit most people don't plan for. A set of six ST-r
 
 Roof maintenance is chronic and sneaky. The eternal enemy of an RV is water intrusion, and it almost always comes from a failed sealant joint on the roof. I reseal my roof every single year, running a full tube of Dicor self-leveling lap sealant ($12-$15 per tube, I use about four) around every vent, skylight, and AC base. Takes me three hours on a Saturday. If you skip this for two or three years, you're looking at potential decking replacement that runs $3,000-$8,000 depending on how far it spread.
 
-Generator service, if you have one. Onan generators are the industry workhorse, and they need an oil change roughly every 100-150 hours of use. The oil and filter run maybe $40, but if you let it sit for a season without running it, the carb gums up. I've seen people spend $400-$700 on a carburetor service that could've been avoided by running the genny 30 minutes every month and adding Sta-Bil to the fuel.
+Generator service, if you have one. Onan generators are the industry workhorse, and they need an oil change roughly every 100-150 hours of use. The oil and filter run maybe $40, but if you let it sit for a season without running it, the carb gums up. Running the generator 30 minutes every month and adding Sta-Bil to the fuel can prevent carburetor gumming, which might otherwise cost $400-$700 in service.
 
 Here's the full breakdown by category as I'd actually budget it for a mid-2010s Class A gas pusher, full-time use:
 
@@ -73,17 +73,17 @@ That "miscellaneous" line is not padding. It's always used. Every year something
 
 Weekend warriors can get away with reactive maintenance. You notice a problem, you fix it before the next trip. Full-timers can't do that. When you live in the thing, you're running systems hard. AC runs 8-10 hours a day in summer. The water pump cycles dozens of times daily. The slideouts open and close every time you set up camp, sometimes twice a week.
 
-I've seen full-timers average around $4,500-$6,000 annually on maintenance and repairs when they're honest about it, and that's not including upgrades or cosmetic work. One reader, Mark from Phoenix, tracked every receipt over 18 months and came out to $7,312 total, or roughly $4,875 annualized. His rig was a 2014 Tiffin Allegro, which is a quality coach. Older or lesser-built rigs can run higher.
+Full-timers typically spend around $4,500-$6,000 annually on maintenance and repairs, not including upgrades or cosmetic work. Older or lesser-built rigs can run higher.
 
 The scenario that bites people hardest: first two years of full-timing, costs seem manageable because everything is still relatively new or recently inspected. Then year three hits and the fridge compressor goes ($800-$1,400), the AC needs a new capacitor and blower motor ($350), and the leveling system starts hunting for level and never quite finds it ($600-$1,200 for hydraulic system work). All in one summer.
 
-I thought for years that my mechanical background would insulate me from big bills. It does help, a lot, but it doesn't stop things from failing. It just cuts the labor cost, which is often 50-60% of what a shop charges.
+A mechanical background helps by cutting labor costs, which often run 50-60% of what a shop charges, but it won't prevent parts from failing.
 
 ## What To Actually Do With These Numbers
 
 Build two separate buckets. One is your maintenance budget, covering everything routine and semi-routine: oil changes, filter swaps, roof seals, tire rotation, generator service. Budget $1,500-$2,500 for that depending on your rig age and type. The second bucket is your emergency reserve, and it should sit at $5,000-$8,000 untouched. Not invested. Liquid. Sitting in a high-yield savings account where you can wire it to an RV repair shop in Flagstaff on a Tuesday afternoon without panic.
 
-For protecting your electrical systems, a [Progressive Industries EMS-HW50C hardwired surge protector](https://www.amazon.com/dp/B001AXHFP0?tag=contentportfo-20) is around $290 installed and has saved me from at least two sketchy campground power situations. The site may earn a commission on purchases like that, but I'd tell you the same thing either way because I've watched bad shore power kill inverters and damage appliances.
+For protecting your electrical systems, a [Progressive Industries EMS-HW50C hardwired surge protector](https://www.amazon.com/dp/B001AXHFP0?tag=contentportfo-20) is around $290 installed. Bad shore power can kill inverters and damage appliances, making surge protection worth the investment. The site may earn a commission on purchases like that.
 
 A [quality water filter](https://www.amazon.com/dp/B000Q8JXVQ?tag=contentportfo-20) on your city water inlet, something like the Camco TastePURE inline filter at around $25, extends the life of your water pump and water heater by keeping sediment out. Replace the cartridge every 3-4 months if you're full-timing. Small thing, genuinely extends component life.
 

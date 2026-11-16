@@ -17,4 +17,4 @@ This quick quiz won't tell you to sell your house tomorrow. Answer 7 questions a
 
 {{< quiz >}}
 
-Here's the thing though: almost nobody starts out a confident RVer. People grow into it one trip, one campground, and one small upgrade at a time. Your result isn't a verdict. Use it as a starting point, browse our [beginner guides and gear breakdowns](/best-rv-for-full-time-living/), and take the next small step at your own pace.
+Almost nobody starts out a confident RVer. Most RVers grow into confidence one trip, one campground, and one small upgrade at a time. Your result isn't a verdict. Use it as a starting point, browse our [beginner guides and gear breakdowns](/best-rv-for-full-time-living/), and take the next small step at your own pace.

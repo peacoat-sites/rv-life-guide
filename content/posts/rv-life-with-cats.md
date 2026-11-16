@@ -35,9 +35,9 @@ Here's the number that surprised me most when I dug into it: according to the Am
 
 ## Why Cats Actually Do Well on the Road
 
-Everyone assumes dogs are the natural RV pet and cats are a disaster waiting to happen. In my experience, that's backwards. Dogs need daily exercise outside the rig, which means leashes, campground rules, muddy paws. Cats need territory, routine, and vertical space. A well-configured RV actually checks all three boxes better than you'd think.
+Many people assume dogs are the natural RV pet and cats are a disaster waiting to happen. Actually, the opposite is often true. Dogs need daily exercise outside the rig, which means leashes, campground rules, muddy paws. Cats need territory, routine, and vertical space. A well-configured RV actually checks all three boxes better than you'd think.
 
-The ASPCA notes that cats are highly adaptable to small spaces as long as they have consistent hiding spots, environmental enrichment, and reliable food and water timing. That matches what I've seen. Miso and Ramen were anxious for the first two weeks after I went full-time, then they stopped caring entirely. They have their spots. They know the schedule. Pickles was harder, maybe six weeks before she stopped hiding under the bed every time I started the engine. But she got there.
+The ASPCA notes that cats are highly adaptable to small spaces as long as they have consistent hiding spots, environmental enrichment, and reliable food and water timing. Most cats take anywhere from two to six weeks to adjust to full-time RV living before they settle into the routine.
 
 What most people don't realize is that the stress isn't the moving. It's the transition days, the unfamiliar smells, the new campground sounds at night. Once a cat's scent is embedded in the rig, the rig is home. That's their territory, and they're in it whether it's parked in Flagstaff or Pensacola.
 
@@ -67,9 +67,9 @@ This is where most new cat-owning RVers get it wrong at first, me included. I sp
 
 **Airflow first.** Cats overheat faster than you'd expect, and what kills them is a parked rig with inadequate cooling. The American Veterinary Medical Association's heat safety guidelines put the danger threshold for cats at sustained interior temps above 80°F. If you're full-timing in the south or southwest at any point between May and September, your air conditioning reliability is not a convenience item, it's a life-safety system. I run a [Micro-Air EasyStart](https://www.amazon.com/s?k=Micro-Air+EasyStart&tag=contentportfo-20) (around $329 installed) on my main rooftop AC so it can run on a 30-amp connection without tripping breakers at older campgrounds. That single upgrade has let me leave Miso, Ramen, and Pickles safely while I run errands in weather I wouldn't otherwise risk.
 
-**Screen doors are a crisis waiting to happen.** The standard screen door on most RVs is not designed to contain a cat. One sniff of a bird outside, and they're through it. I've seen this go badly for people. The fix I use is a [Camco RV Screen Door Grille Guard](https://www.amazon.com/s?k=Camco+RV+screen+door+guard&tag=contentportfo-20), which runs about $47-$55, reinforced with a simple hook-and-eye latch mounted 18 inches from the bottom. Total cost: under $60. It has never failed me in four years.
+**Screen doors are a crisis waiting to happen.** The standard screen door on most RVs is not designed to contain a cat. One sniff of a bird outside, and they're through it. The fix is a [Camco RV Screen Door Grille Guard](https://www.amazon.com/s?k=Camco+RV+screen+door+guard&tag=contentportfo-20), which runs about $47-$55, reinforced with a simple hook-and-eye latch mounted 18 inches from the bottom. Total cost: under $60.
 
-**Litter boxes: placement beats size.** I tested this by accident. I originally put two boxes in the bathroom, which seemed logical, until I realized the bathroom door swings in a way that can trap a cat inside when it's left slightly ajar. Ramen spent four hours in there one day when I was out. Now I keep one box under the dinette (the space between the seat pedestal and the slide wall, which is exactly 14 inches in most Class A dinette configurations), and one in the wet bath but with a door stop wedged permanently. The cats adapted in about 24 hours. Honestly, I should have thought about this on day one.
+**Litter boxes: placement beats size.** Avoid placing boxes in rooms with doors that can swing shut unexpectedly. A better option is under the dinette (the space between the seat pedestal and the slide wall, which is exactly 14 inches in most Class A dinette configurations), and another in the wet bath with a door stop wedged permanently to keep it open. Most cats adapt to a new box location in about 24 hours.
 
 A thin [Iris USA enclosed litter box](https://www.amazon.com/s?k=Iris+enclosed+litter+box&tag=contentportfo-20) fits under most dinette bench seats. Odor control matters even more in 350 square feet than it does in a 2,000-square-foot house. That's not an opinion, that's math.
 
@@ -83,15 +83,15 @@ Start day → Load cats into large [Sherpa Original Deluxe carriers](https://www
 
 When I drove from Denver to Corpus Christi in a single push, about 13 hours, I did not follow my own protocol. Pickles had loose stools for two days afterward. I've never made that mistake again.
 
-For cats who are genuinely too anxious for even short drives, talk to your vet about gabapentin. It's a mild sedative that's increasingly popular in feline travel medicine, dosing is typically around 50-100mg given 1.5 hours before travel, and in my experience with Ramen (who was a disaster in the rig for the first three months), it was the bridge that got him over the hump. He doesn't need it anymore. He just needed about eight experiences of "travel = not dying" to reset his response. Cost is minimal, usually $4-8 per dose from a compounding pharmacy.
+For cats who are genuinely too anxious for even short drives, talk to your vet about gabapentin. It's a mild sedative increasingly used in feline travel medicine, dosing is typically around 50-100mg given 1.5 hours before travel. Most cats eventually stop needing it once they've had several positive travel experiences. Cost is minimal, usually $4-8 per dose from a compounding pharmacy.
 
 ## Health Maintenance Without a Home Vet
 
 The honest reality of full-time RV life is that you probably won't maintain a relationship with a single veterinarian. Most RVers I know cobble together a system, and as of mid-2026, telehealth options have gotten significantly better than they were even two years ago.
 
-My current setup: I use Vetster for video consultations ($75-$95 per session, no subscription required) for anything that looks concerning but not emergency-level. I keep a written health log for each cat that I bring to any in-person vet, which speeds up the new-patient intake considerably. I maintain a small medicine kit with basic supplies: saline wound wash, styptic powder, an elizabethan collar in Pickles' size (she's a scratcher), and a spare course of Revolution Plus flea/tick prevention.
+Vetster offers video consultations ($75-$95 per session, no subscription required) for non-emergency concerns. Keep a written health log for each cat to bring to any in-person vet visit, which speeds up the new-patient intake process. A basic medicine kit should include saline wound wash, styptic powder, an elizabethan collar, and a spare course of Revolution Plus flea/tick prevention.
 
-I also keep photocopies of each cat's vaccination records in both physical form and in my Google Drive. More campgrounds than you'd think now require proof of current rabies vaccination. I've been asked to show it twice in eight years, but the one time I couldn't find it quickly cost me 25 minutes of searching and a lot of stress.
+Keep photocopies of each cat's vaccination records in both physical form and in cloud storage. More campgrounds now require proof of current rabies vaccination, and having it readily accessible saves time and stress.
 
 ## Sources
 

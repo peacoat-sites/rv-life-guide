@@ -81,7 +81,7 @@ The total I'm spending right now, including the HSA contributions I'm making to 
 
 One thing that's changed the RV life health picture significantly in the last few years is the explosion of telehealth. Services like Teladoc, MDLive, and Amazon Clinic mean I can get a prescription for a UTI or a sinus infection from wherever I'm parked, usually within an hour, without finding an urgent care in an unfamiliar town.
 
-Many ACA plans now include telehealth visits at no cost or low cost even before you meet your deductible. If yours doesn't, a direct-pay telehealth membership like Teladoc's general medical plan (around $75 a month as a standalone) is worth considering as a complement to high-deductible coverage. I've used it from a campsite in the Gila National Forest with LTE signal and it worked fine.
+Many ACA plans now include telehealth visits at no cost or low cost even before you meet your deductible. If yours doesn't, a direct-pay telehealth membership like Teladoc's general medical plan (around $75 a month as a standalone) is worth considering as a complement to high-deductible coverage. Telehealth works well in most RV locations with adequate cell signal.
 
 For dental and vision, which health insurance rarely covers adequately anyway, I pay out of pocket for dental and use a discount plan called Careington (about $12 a month) that gets me reduced rates at participating dentists nationwide. It's not insurance, but when you're only getting a cleaning twice a year and don't have a regular dentist, it does the job.
 
@@ -94,7 +94,6 @@ Getting this stuff sorted in your first few months of full-time RV life is genui
 - [Kampus Production](https://www.pexels.com/@kampus)
 - [Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)
 - [EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

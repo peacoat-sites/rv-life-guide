@@ -20,15 +20,13 @@ Effective June 7, 2026, Zion [National Park](/national-park-rv-camping/) began e
 
 The why actually matters here. Studies found the escort procedure was blocking traffic for an average of 41 minutes out of every hour during peak season. Some hours had just 8 minutes of free-flowing traffic. Zion is the second-most visited national park in the country, with visitation roughly 90 times higher than it was in 1930 when that highway was built. The old system was unsustainable. The park made a call. Fair or not, it's real.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">As of June 7, 2026, the full Zion-Mt. Carmel Highway is closed to RVs over 11'4" tall, 35'9" long, or 7'10" wide.</li><li style="margin:5px 0">The paid tunnel escort permit is permanently discontinued ,  no workaround exists for oversized rigs.</li><li style="margin:5px 0">Rerouting via US-89, AZ-389, and UT-59 adds only 10 to 45 minutes depending on your destination.</li><li style="margin:5px 0">Most Class A, Class C, fifth wheels, and dually setups exceed at least one restricted dimension.</li><li style="margin:5px 0">You can still access Zion's main canyon from the south/west entrance ,  the restriction is east-side only.</li></ul></div>
-
 
 ## Does Your Rig Actually Qualify as Oversized?
 
 This is where people get tripped up. The restrictions sound clear until you start measuring and realize your "35-foot" [fifth wheel](/fifth-wheel-vs-travel-trailer/) is measured differently depending on who's doing the measuring. For the Zion restriction, the 35'9" length applies to the total vehicle, and CamperFAQs noted in their June 6, 2026 coverage that trailers with more than 26 feet from hitch to rear axle are specifically captured under the rule. The width limit of 7'10" catches a lot of dually trucks even without a trailer. And the 11'4" height limit? That grabs the majority of Class A coaches, many of which run 12'6" or taller with rooftop AC units.
 
-If you're not sure, measure before you go. I've seen people drive six hours to find out their rig doesn't fit somewhere, and it's a brutal feeling. Check your coach's actual roof height including any antenna or AC shroud, not the chassis spec sheet. The spec sheet lies.
+If you're not sure, measure before you go. Driving hours to find out your rig doesn't fit is a brutal feeling. Check your coach's actual roof height including any antenna or AC shroud, not the chassis spec sheet. Spec sheets often don't account for aftermarket additions.
 
 ## The Reroute Is Not Actually That Bad
 

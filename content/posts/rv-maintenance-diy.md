@@ -79,7 +79,7 @@ Water heater anode rods are something absurdly few people actually change on sch
 
 Winterizing is something you can absolutely do yourself. The RV shops charge $80-150 for a winterization service that takes them about 30 minutes. You need a hand pump or a winterizing kit, RV antifreeze (not automotive), and patience. Bypass your water heater first so you're not filling a 6-gallon tank with antifreeze unnecessarily. Run pink antifreeze through every faucet, the toilet, and the shower until it comes out pink. Blow out the lines with compressed air first if you want to use less antifreeze. I do both.
 
-For your black and gray tanks, the one piece of advice that matters more than anything else: use enough water. Most odor and sensor problems I've seen in other people's rigs come from not using enough water in the toilet and black tank. Treatments help, I use Happy Campers, around $18 for a large container, but they can't compensate for a dry, cake-y tank.
+For your black and gray tanks, the one piece of advice that matters more than anything else: use enough water. A common cause of odor and sensor problems is not using enough water in the toilet and black tank. Treatments like Happy Campers (around $18 for a large container) can help, but they can't compensate for a dry, cake-y tank.
 
 ## What Actually Needs a Professional
 
@@ -95,12 +95,11 @@ Generator carburetor rebuilds, major engine work on a Class A or C, frame or cha
 
 You don't need a full shop. But a couple of things genuinely earn their space:
 
-A good multimeter (I've used a Fluke 115 for years, about $90), a cordless drill, a basic socket set with both metric and standard, a quality caulk gun (the cheap ones make a mess), and a headlamp with good output. Add a [water pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=contentportfo-20) and a [whole-house style inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) to your hose setup, those aren't maintenance tools exactly, but they prevent maintenance problems by protecting your pump and lines from pressure spikes and sediment.
+A good multimeter (around $90), a cordless drill, a basic socket set with both metric and standard, a quality caulk gun (the cheap ones make a mess), and a headlamp with good output. Add a [water pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=contentportfo-20) and a [whole-house style inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20) to your hose setup, those aren't maintenance tools exactly, but they prevent maintenance problems by protecting your pump and lines from pressure spikes and sediment.
 
-Leveling blocks deserve a mention here too. Properly leveling your rig isn't just comfort, it's maintenance. Your refrigerator (if it's absorption type) needs to be reasonably level to work correctly and to avoid damage to the cooling unit. [Camco's Fasten leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks+rv&tag=contentportfo-20) run about $25 and I've had the same set for five years. *(Note: this site may earn a commission on purchases made through these links.)*
+Leveling blocks deserve a mention here too. Properly leveling your rig isn't just comfort, it's maintenance. Your refrigerator (if it's absorption type) needs to be reasonably level to work correctly and to avoid damage to the cooling unit. [Camco's Fasten leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks+rv&tag=contentportfo-20) run about $25 and are durable for long-term use. *(Note: this site may earn a commission on purchases made through these links.)*
 
 ---
-
 
 *Photo: [Peter Dyllong](https://www.pexels.com/@peter-dyllong-2158803154) via Pexels*
 
@@ -113,7 +112,6 @@ Leveling blocks deserve a mention here too. Properly leveling your rig isn't jus
 - [whole-house style inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [Camco's Fasten leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks+rv&tag=contentportfo-20)
 - [Peter Dyllong](https://www.pexels.com/@peter-dyllong-2158803154)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -73,7 +73,7 @@ Budget this line item honestly at somewhere between $200 and $900 a month depend
 
 Fuel is simple math until it isn't. A Class A diesel motorhome gets 7 to 10 miles per gallon. A gas Class C gets 10 to 14. A truck-towed fifth wheel depends on the truck, but figure 10 to 12 mpg towing. At $3.50 per gallon diesel (prices fluctuate wildly, especially in California where I've paid $6.40), driving 1,500 miles in a month in a diesel Class A costs $525 to $750. If you're a slow mover who picks a spot for a month, fuel costs almost nothing. If you're chasing weather or covering long distances, it adds up fast.
 
-Maintenance is where people get humbled. An RV is a house on wheels, and both the house part and the wheel part break. I've had a refrigerator compressor fail ($1,200 repair), a slide room motor seize up ($800), a tire blowout that damaged a wheel well ($600 out of pocket after insurance), an inverter die in the middle of nowhere ($450), and a water pump fail twice ($130 each time, I started buying spares).
+Maintenance is where people get humbled. An RV is a house on wheels, and both the house part and the wheel part break. Common repairs include refrigerator compressor failures ($1,200), slide room motors ($800), tire damage ($600 out of pocket after insurance), inverters ($450), and water pumps ($130 each). Keeping spare parts on hand for frequent failures can save money and downtime.
 
 The industry rule of thumb is to budget 1% to 2% of the RV's value per year in maintenance and repairs. On an $80,000 motorhome that's $800 to $1,600 per year, or $65 to $135 a month. From my experience, that's optimistic in the early years before you've found and fixed all the hidden problems in a used rig.
 
@@ -141,7 +141,6 @@ Six years in, my average monthly spend across all of 2023 was $2,780 for one per
 - [Camco TastePURE](https://www.amazon.com/s?k=Camco+TastePURE+water+filter)
 - [Renogy leveling kit](https://www.amazon.com/s?k=RV+leveling+blocks)
 - [Viktoria B.](https://www.pexels.com/@viktoriab)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

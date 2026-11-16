@@ -31,9 +31,7 @@ So let's talk about what these two hookup types actually deliver, what they cost
 
 The short version: full hookup is water, electric, and sewer at your pad. Partial hookup is usually just electric and water, sometimes just electric. The "partial" label covers a lot of ground, which is part of the problem. A 30-amp electric-only site and a 50-amp water-and-electric site are both called "partial," and they'll give you very different lives.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Full hookup (water + electric + sewer) is available at under 38% of U.S. campgrounds, per RVIA 2025 data.</li><li style="margin:5px 0">Full hookup sites typically run $8-$22/night more than partial, adding $240-$660/month for full-timers.</li><li style="margin:5px 0">Partial hookup forces tank management; a 40-gallon gray tank lasts roughly 3-4 days for two people with careful use.</li><li style="margin:5px 0">50-amp partial can power more than a poorly wired full-hookup 30-amp site, amperage matters as much as hookup type.</li><li style="margin:5px 0">Long-term stays (weekly/monthly) narrow the price gap significantly; many parks charge flat rates regardless of hookup type.</li></ul></div>
-
 
 ## What You're Actually Getting
 
@@ -62,15 +60,13 @@ The monthly gap between full hookup 30-amp and partial water-plus-30-amp is roug
 
 That said, the gap compresses at monthly rates. A lot of parks that charge $890/month for full hookup will do partial at $810. When you're negotiating a long-term stay, always ask, the rate card on the website is a starting point, not scripture.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average monthly campground cost by hookup type</div><div class="sc-row"><span class="sc-label">Full hookup 50-amp</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$890</span></div><div class="sc-row"><span class="sc-label">Full hookup 30-amp</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$710</span></div><div class="sc-row"><span class="sc-label">Partial water+50-amp</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">$640</span></div><div class="sc-row"><span class="sc-label">Partial water+30-amp</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">$540</span></div><div class="sc-row"><span class="sc-label">Electric only 30-amp</span><span class="sc-track"><span class="sc-bar" style="width:48%"></span></span><span class="sc-val">$430</span></div><div class="sc-row"><span class="sc-label">Dry camping</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">$210</span></div><div class="sc-src">Source: KOA North American Camping Report 2025 + RVshare 2025 pricing data</div></div>
-
 
 ## When Full Hookup Is Worth Every Dollar
 
 If you're working remotely and running dual monitors, an air conditioner, a coffee maker, and a laptop charger simultaneously, you need 50-amp service and you probably need the sewer connection to stay sane. This isn't a luxury argument; it's a workflow argument.
 
-Medical equipment changes the calculus entirely. A reader named Gary from Tucson emailed me last spring, he runs a CPAP and his wife uses a nebulizer. Dry camping is mostly off the table for them. Partial electric works, but they can't risk a 30-amp breaker tripped at 2 a.m. Full hookup 50-amp is, for them, a non-negotiable.
+Medical equipment changes the calculus entirely. For someone running a CPAP and a nebulizer, dry camping is mostly off the table. Partial electric works, but they can't risk a 30-amp breaker tripped at 2 a.m. Full hookup 50-amp is, for them, a non-negotiable.
 
 Families with kids also tip heavily toward full. Tank management with three kids is not a weekend hobby, it's a logistical grind. A blown dump station day when the kids are complaining is a genuinely terrible afternoon.
 
@@ -82,7 +78,7 @@ The parks that offer partial-only are often the best parks. State parks, county 
 
 I've stayed at partial sites in the Smokies, the Columbia River Gorge, and northern Michigan where I wouldn't have traded the location for all the sewer connections in Texas. The dump station was on-site. Problem solved in ten minutes every few days.
 
-The practical management toolkit for partial: a quality water filter (I've used the Camco TastePURE inline filter for years, around $28 on Amazon, and it's held up through hundreds of connections -- [the site may earn a commission on that link](https://www.amazon.com)), a tank treatment like Unique RV Digest-It that actually works instead of blue chemical maskers, and honest knowledge of your tank capacities. Know your numbers before you need them.
+The practical management toolkit for partial: a quality water filter like the Camco TastePURE inline filter (around $28 on Amazon -- [the site may earn a commission on that link](https://www.amazon.com)), a tank treatment like Unique RV Digest-It instead of blue chemical maskers, and knowledge of your tank capacities. Know your numbers before you need them.
 
 Scenario: Solo full-timer, one year on partial water + 30-amp sites exclusively, 2024-2025 → Tracked every dump station visit → Averaged 2.3 dump station trips per week → Total time at dump stations for the year: roughly 48 hours → Total savings vs. equivalent full hookup sites: approximately $2,200. Her conclusion (she's a reader who sent me a spreadsheet, I love this community): the time cost was acceptable, the money was significant.
 
@@ -94,7 +90,7 @@ A 50-amp service delivers up to 12,000 watts across two legs of 120V power. The 
 
 Always check amperage before booking. "Full hookup" in the listing means nothing if you pull a 40-foot fifth wheel and the site only delivers 30-amp service. The campground directory app The Dyrt has made this easier, their user-submitted photos often show the actual pedestal, and you can see at a glance what you're working with.
 
-A [surge protector](https://www.amazon.com/s?k=rv+surge+protector) is non-negotiable regardless of hookup type, by the way. Campground power is dirty. The Progressive Industries EMS-HW50C is around $289 hardwired, and it has saved my RV's electronics at least twice that I know of. Worth every dollar.
+A [surge protector](https://www.amazon.com/s?k=rv+surge+protector) is non-negotiable regardless of hookup type, by the way. Campground power is dirty. The Progressive Industries EMS-HW50C is around $289 hardwired. Worth every dollar.
 
 ## Sources
 
@@ -105,6 +101,5 @@ A [surge protector](https://www.amazon.com/s?k=rv+surge+protector) is non-negoti
 - Unique Camping + Marine (product documentation and usage data): Tank treatment efficacy comparisons for gray and black tank management.
 
 ---
-
 
 *Photo: [Engin Akyurt](https://www.pexels.com/@enginakyurt) via Pexels*

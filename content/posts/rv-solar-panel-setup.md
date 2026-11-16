@@ -25,7 +25,7 @@ author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 lastmod: 2026-07-08
 ---
-Most people shopping for RV solar panels start by asking "how many watts do I need?" That's the wrong first question. After eight years on the road and three separate solar builds across two different rigs, I can tell you the question that actually matters is: what does your battery bank look like? Because you can bolt 800 watts of panels to your roof and still run out of power by 9pm if your battery storage isn't matched to your generation. I've watched people spend $2,000 on panels and then wonder why their system underperforms. The battery bank is the foundation. Everything else is built on top of it.
+Most people shopping for RV solar panels start by asking "how many watts do I need?" That's the wrong first question. The question that actually matters is: what does your battery bank look like? Because you can bolt 800 watts of panels to your roof and still run out of power by 9pm if your battery storage isn't matched to your generation. Many RVers spend significant money on panels only to find their system underperforms. The battery bank is the foundation. Everything else is built on top of it.
 
 Here's what I actually learned going deep on this, including some things that surprised me.
 
@@ -37,7 +37,7 @@ A solar setup is not just panels on a roof. It's a chain, and every link matters
 
 You have four core pieces: the solar panels themselves, a charge controller, a battery bank, and an inverter if you need AC power. Leave out any one of these or mismatch their sizing, and the whole system either underperforms or fails outright.
 
-**Solar panels** convert sunlight to DC electricity. Most residential RVers are running 100-watt to 200-watt monocrystalline panels. Monocrystalline is more efficient per square foot than polycrystalline, which matters when roof space is limited. Flexible panels exist but I'll be honest: I've seen them delaminate within two years on multiple rigs. They run hotter, which kills efficiency, and they don't breathe well against a flat roof. Rigid panels with a small air gap underneath are almost always the better long-term call.
+**Solar panels** convert sunlight to DC electricity. Most residential RVers are running 100-watt to 200-watt monocrystalline panels. Monocrystalline is more efficient per square foot than polycrystalline, which matters when roof space is limited. Flexible panels exist, but they tend to delaminate within two years. They run hotter, which kills efficiency, and they don't breathe well against a flat roof. Rigid panels with a small air gap underneath are almost always the better long-term call.
 
 **Charge controllers** are where I see the most confusion. There are two types: PWM (Pulse Width Modulation) and MPPT (Maximum Power Point Tracking). PWM is cheaper but wastes available energy, sometimes significantly. MPPT controllers, like the [Renogy Rover 40A MPPT](https://www.amazon.com/s?k=renogy+rover+40a+mppt+charge+controller&tag=contentportfo-20), can extract 20-30% more power from the same panels, especially in cold weather or partial shade conditions. If you're investing in a real solar system, spend the extra $50-100 on MPPT. You'll recover the cost in performance within the first few months.
 
@@ -60,7 +60,7 @@ You have four core pieces: the solar panels themselves, a charge controller, a b
 
 Lead-acid batteries (flooded, AGM, or gel) have been the RV standard for decades. They're cheap upfront, widely available, and well understood. But there's a catch most salespeople won't tell you: you can only safely use about 50% of a lead-acid battery's rated capacity before you start damaging the cells. So a 200Ah AGM battery actually gives you around 100Ah of usable power.
 
-Lithium iron phosphate (LiFePO4) batteries changed the math entirely. You can discharge them to 80-90% without damage, they charge faster, they hold voltage better under load, and they weigh significantly less. I made the switch to two 100Ah LiFePO4 batteries two years ago and it was the single best upgrade I've made to my electrical system, full stop.
+Lithium iron phosphate (LiFePO4) batteries changed the math entirely. You can discharge them to 80-90% without damage, they charge faster, they hold voltage better under load, and they weigh significantly less. LiFePO4 batteries deliver the biggest improvement to most RV electrical systems.
 
 The tradeoff is cost. Expect to pay $700-1,000 for a quality 100Ah LiFePO4 battery versus $150-200 for a comparable AGM. But when you factor in lifespan (LiFePO4 typically lasts 2,000-3,000+ cycles versus 300-500 for AGM), the math often favors lithium over a 5-10 year horizon.
 
@@ -100,7 +100,7 @@ I'll be honest: the installation manuals for solar components are often written 
 
 **Wire sizing matters more than most people think.** Undersized wire doesn't just lose efficiency through resistance, it creates a fire risk. Use an online wire gauge calculator and always size for the maximum amperage your system might ever produce, not the average. For most runs under 10 feet between panels and controller, 10 AWG wire handles up to about 30 amps. Longer runs need heavier gauge.
 
-**Mount panels with proper hardware, not just caulk.** I've seen panels blow off rigs at highway speed because someone just used lap sealant. Aluminum Z-brackets with self-tapping screws into the roof structure are the right call. Seal every penetration with Dicor self-leveling sealant, recheck it every 6 months.
+**Mount panels with proper hardware, not just caulk.** Panels secured with only lap sealant can blow off at highway speed. Aluminum Z-brackets with self-tapping screws into the roof structure are the right call. Seal every penetration with Dicor self-leveling sealant, recheck it every 6 months.
 
 **Run your wiring through the interior whenever possible.** Exterior conduit on a moving RV vibrates, rattles, and eventually cracks. A clean interior run protects your wires and looks better.
 
@@ -119,9 +119,6 @@ Pair your solar with a [quality surge protector on shore power](https://www.amaz
 - [quality surge protector on shore power](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
 - [proper water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [Michael Pointner](https://www.pexels.com/@michael-pointner-134459625)
-
-
-What surprised me when I started connecting with other full-timers was how often people make the same expensive mistakes.
 
 **Mixing old and new batteries.** Adding a new battery to a bank with older ones drags the new battery down to match the degraded ones. If you're expanding your bank, start fresh.
 

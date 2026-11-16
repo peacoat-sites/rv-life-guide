@@ -33,7 +33,7 @@ The day we signed the title on our 38-foot fifth wheel, I was convinced we'd mad
 
 This is where most people go wrong. They shop for an RV like they're buying a vacation toy, not a primary residence that will be driven on rough roads, parked in extreme heat, occupied 24 hours a day, and expected to handle electrical loads that a weekend camper never sees.
 
-A rig that works beautifully for two-week summer trips will quietly fall apart under full-time conditions. Slide room seals dry out faster. Water lines stress more. Holding tanks fill up in two days instead of two weeks. Appliances that are rated for "occasional use" become daily appliances. I've watched people buy gorgeous Class A coaches with stunning residential kitchens, only to discover that the cabinetry is stapled together with material that swells and warps after six months of humidity changes.
+A rig that works beautifully for two-week summer trips will quietly fall apart under full-time conditions. Slide room seals dry out faster. Water lines stress more. Holding tanks fill up in two days instead of two weeks. Appliances that are rated for "occasional use" become daily appliances. Residential kitchens in some Class A coaches use cabinetry that can swell and warp after six months of humidity changes.
 
 Before you look at a single floor plan, answer three questions honestly:
 
@@ -113,7 +113,7 @@ Whatever you buy, get a battery monitor installed. A [Victron BMV-712](https://w
 
 **Shore Power Protection**
 
-Every time you plug into a campground pedestal, you're trusting that the park's wiring is safe and the voltage is consistent. It often isn't. A 30-amp or 50-amp [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp) is not optional equipment for full-timers. I've personally seen air conditioners fry from low voltage situations at state parks. A Progressive Industries EMS runs around $300 to $400 and has paid for itself twice over in my experience.
+Every time you plug into a campground pedestal, you're trusting that the park's wiring is safe and the voltage is consistent. It often isn't. A 30-amp or 50-amp [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp) is not optional equipment for full-timers. Low voltage situations at campgrounds can damage air conditioners. A Progressive Industries EMS runs around $300 to $400 and is worth the investment for full-timers.
 
 **Water Quality**
 
@@ -134,7 +134,6 @@ If you're not level, you're not sleeping well. Your refrigerator may not functio
 - [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter)
 - [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv)
 - [Viktoria B.](https://www.pexels.com/@viktoriab)
-
 
 Never buy a used full-timer without doing these steps, in this order:
 

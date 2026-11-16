@@ -37,7 +37,7 @@ A vacation camper and a full-time home have almost nothing in common. When you'r
 
 The bi-level floor plan is the big one. The front section sits over the truck bed and becomes a dedicated bedroom, and it changes everything. You get real separation of spaces. The bedroom isn't just a bed at one end of a long tube. It's upstairs, it's quieter, and it doesn't turn into a living room during the day. That single feature makes a 36-foot fifth wheel feel significantly larger than a 36-foot travel trailer.
 
-Storage is the other major advantage. Fifth wheels typically have more basement storage, more overhead cabinets, and better-organized utility spaces. I've been inside full-time fifth wheels where people kept tools, a folding bike, a generator, and full seasonal wardrobes in the basement compartments alone. That's not possible in most travel trailers or class A motorhomes at the same price point.
+Storage is the other major advantage. Fifth wheels typically have more basement storage, more overhead cabinets, and better-organized utility spaces. Fifth wheels can accommodate tools, bikes, generators, and full seasonal wardrobes in basement compartments alone. That's not possible in most travel trailers or class A motorhomes at the same price point.
 
 The stability while parked is better too. Because the hitch point is over the rear axle of the truck, there's less pitch and sway when you're moving around inside. You're not rocking the whole rig every time you get up at 2 a.m.
 
@@ -73,7 +73,7 @@ These prices shift constantly. A two-year-old Grand Design Solitude in good cond
 
 ## The Truck Question Nobody Wants to Talk About
 
-You can buy the perfect fifth wheel and ruin the whole experience by underestimating the truck requirement. This is where I've watched otherwise smart, well-researched people make catastrophic mistakes.
+You can buy the perfect fifth wheel and ruin the whole experience by underestimating the truck requirement. This is where people often make costly mistakes.
 
 A loaded 40-foot fifth wheel with full tanks and gear can easily hit 18,000 to 20,000 pounds of Gross Vehicle Weight. You need a truck rated to handle that. A half-ton pickup like the Ford F-150, Ram 1500, or Chevy Silverado 1500 is not adequate for most full-size fifth wheels. You need a three-quarter ton minimum (F-250, Ram 2500, Silverado 2500), and for anything over 16,000 pounds, a one-ton dually (F-350, Ram 3500, Silverado 3500) is the safer, saner choice.
 
@@ -90,7 +90,6 @@ Diesel vs. gas is a real debate. Diesel trucks get significantly better mileage 
 - [Camco TastePURE water filter](https://amzn.to/3example)
 - [Lynx Leveling blocks](https://amzn.to/3example)
 - [Mo Eid](https://www.pexels.com/@mo-eid-1268975)
-
 
 The rig that comes off the dealer lot is a starting point, not a finished home. Every serious full-timer I know has made significant modifications in the first year. Here are the ones that matter most.
 

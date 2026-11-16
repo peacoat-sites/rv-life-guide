@@ -33,7 +33,7 @@ Here's what that advice gets wrong: it focuses almost entirely on logistics. Cra
 
 Full-time RVers don't have a regular vet. You think you'll find one wherever you go. You will, mostly. But "finding one" means calling six clinics because four aren't taking new patients, one can't see you for three weeks, and the sixth has a two-hour wait. On a Tuesday. With a dog who's been vomiting since dawn.
 
-I've been there twice. The second time was outside Flagstaff, AZ in October 2021. My current dog Biscuit, a 65-lb mutt of dubious ancestry, ate something on a desert hike. I spent 40 minutes on the phone before I found a vet who could see us same-day. She charged $280 for an exam and activated charcoal. Worth every dollar. But that's not the point. The point is I had no relationship with anyone, no records on hand, and I was making decisions cold.
+Finding a vet in an emergency is harder without an established relationship. You'll have no records on hand and will be making decisions under stress.
 
 What actually works:
 
@@ -46,8 +46,6 @@ Establish a "home base" vet if you can. A lot of full-timers use their mail forw
 ## How RV Life Actually Changes a Dog's Day
 
 For most dogs, [full-time RV life](/full-time-rv-living-with-a-dog-tips/) is better than a house with a backyard. I'll say it directly: after eight years, I believe it. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
-
-Biscuit is calmer and more confident than any dog I've had living in a house. She's been to 31 states. She knows what "we're packing up" means and she goes to her spot in the passenger seat like clockwork.
 
 But there are dogs who don't adapt well to this. You need to be honest about your dog's temperament before you commit. If your dog is reactive, anxious, or needs a very predictable physical territory to feel safe, life on the road will stress both of you. That's not a dealbreaker necessarily. It's a real consideration. A trainer I respect told me that anxious dogs often need 3-4 weeks in a new location before they settle, which doesn't work when you're moving every few days.
 
@@ -68,7 +66,7 @@ People go overboard buying dog gear before they hit the road. I did it myself. I
 
 **Worth every penny:**
 
-A good orthopedic dog bed. Your dog sleeps more than you do and the floors in RVs are hard. I've used the Big Barker Orthopedic Dog Bed (around $180-250 depending on size) for the last four years and it's held up better than anything cheaper I tried. Your dog's joints will thank you, especially on long driving days.
+A good orthopedic dog bed. Your dog sleeps more than you do and the floors in RVs are hard. Options like the Big Barker Orthopedic Dog Bed (around $180-250 depending on size) are worth the investment for durability and joint support, especially on long driving days.
 
 A hands-free leash system. [This one from Tuff Mutt](https://www.amazon.com/s?k=hands+free+dog+leash) runs about $25 and clips to a hip belt. When you're carrying a water jug and trying to set up camp and your dog wants to investigate every neighboring rig, having both hands isn't optional.
 
@@ -84,7 +82,7 @@ Elaborate dog ramps with 18 attachment points. A simple foam ramp works fine. We
 
 Not every campground is dog-friendly in practice, even when they claim to be.
 
-Most private campgrounds (KOA, Thousand Trails, Good Sam parks) allow dogs with a fee, usually $2-5/night, but have size or breed restrictions. Pit bulls, Rottweilers, and German Shepherds get flagged constantly. If you have a restricted breed, call ahead every single time. I've seen people turned away at the gate with a dog they've had for years.
+Most private campgrounds (KOA, Thousand Trails, Good Sam parks) allow dogs with a fee, usually $2-5/night, but have size or breed restrictions. Pit bulls, Rottweilers, and German Shepherds get flagged constantly. If you have a restricted breed, call ahead every single time, as some parks enforce restrictions strictly at arrival.
 
 State parks are generally great for dogs. Most allow them in campsites and on some trails. National Parks are famously restrictive: dogs are allowed on pavement and in parking lots, basically. Not on trails. If your life revolves around hiking with your dog, NPS campgrounds should be lower on your list than BLM land or national forests, where the rules are much looser.
 
@@ -100,7 +98,6 @@ One more thing: not everyone likes dogs. Even friendly, quiet dogs. Some campgro
 - [This one from Tuff Mutt](https://www.amazon.com/s?k=hands+free+dog+leash)
 - [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter+camco)
 - [Oliver Wagenblatt](https://www.pexels.com/@oliver-wagenblatt-238537059)
-
 
 This is where I'll say something slightly unpopular: most full-timers don't properly restrain their dogs while driving. Including me for the first few years.
 

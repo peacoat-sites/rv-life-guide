@@ -31,9 +31,7 @@ I'll be honest: before I moved into my rig full-time in 2018, I was terrified of
 
 The social architecture of this life is genuinely unusual. It doesn't work like neighborhoods or offices. It takes some deliberate effort, a little vulnerability, and knowing where to look.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">RV social life is opt-in: passive campers stay isolated; actively social RVers build surprisingly deep connections.</li><li style="margin:5px 0">Workamping, rallies, and membership campground networks (Thousand Trails, Passport America) are the fastest ways into real community.</li><li style="margin:5px 0">Online groups (Facebook, Escapees forums) are how you meet people before you arrive at a location.</li><li style="margin:5px 0">Snowbird corridors like Quartzsite, AZ and the Texas Hill Country create dense, reliable winter community clusters.</li><li style="margin:5px 0">Loneliness is a real risk in this lifestyle, it's not automatically social just because you're moving.</li></ul></div>
-
 
 ## The Campground Reality Nobody Warns You About
 
@@ -63,7 +61,7 @@ The Escapees forums have been running since the early internet days and have ten
 
 Facebook groups have basically colonized the practical day-to-day conversation. "RVillage," a dedicated social platform for RVers, lets you see who else is camped nearby and send messages before you even arrive. It's not perfect, the app is a little clunky, but the concept is useful. I've used it to line up a happy hour meetup at a [state park](/california-just-changed-the-rules-for-state-park-campsite-bookings/) in Montana with four other people I'd never met in person.
 
-What actually works, in my experience:
+What actually works:
 
 - Post in a regional Facebook group ("Heading to the Texas Hill Country in March, anyone else?") about two weeks before you arrive.
 - Join the Escapees forums and post a location update when you settle somewhere for a week or more.
@@ -101,6 +99,5 @@ Some of these social pathways cost real money. Others cost time. Worth laying ou
 - RVillage platform user documentation and campground proximity features, rvillage.com
 
 ---
-
 
 *Photo: [Viktoria B.](https://www.pexels.com/@viktoriab) via Pexels*

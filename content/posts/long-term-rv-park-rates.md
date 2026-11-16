@@ -93,7 +93,7 @@ A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentpor
 
 ## What to Check Before You Commit to a Long-Term Site
 
-I've watched people sign seasonal leases and regret it within a month because they didn't do proper due diligence. A few things that can make or break a long-term stay:
+Many people sign seasonal leases only to regret the decision within a month because they skipped crucial research. A few things that can make or break a long-term stay:
 
 **Electric infrastructure.** Ask how old the electrical pedestals are and whether the park has had power issues. Older parks sometimes have outdated wiring that causes surges and voltage problems. A quality [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20) is non-negotiable for long-term stays. I use a Progressive Industries unit and have seen it save rigs from genuinely dangerous voltage drops. *(Affiliate link, commission may apply.)*
 
@@ -114,7 +114,6 @@ I've watched people sign seasonal leases and regret it within a month because th
 - [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
 - [water filtration system](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

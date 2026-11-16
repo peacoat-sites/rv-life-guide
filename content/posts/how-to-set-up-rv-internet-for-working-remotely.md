@@ -54,7 +54,7 @@ For day-to-day reliability, cellular data is still the workhorse. Which carrier 
 
 Verizon has the densest coverage for rural areas, particularly in the West and Midwest. AT&T tends to do better in certain parts of the South and along I-10 and I-20 corridors. T-Mobile's made huge improvements in the last two years and their pricing is often lower, but there are still dead patches in rural Montana and Wyoming that will humble you fast.
 
-Most full-timers I know run at least two carriers. A reader named Carla emailed me last spring after her first winter in Arizona, and she'd figured this out the hard way: T-Mobile only, camped at elevation near Flagstaff for three weeks, essentially no internet. She switched to a Verizon MiFi device as a backup and that solved it.
+Most full-timers I know run at least two carriers. For example, relying on a single carrier at elevation can leave you without service. Camping at elevation near Flagstaff on T-Mobile alone might mean three weeks with essentially no internet. She switched to a Verizon MiFi device as a backup and that solved it.
 
 The device itself matters. A dedicated hotspot like the Netgear Nighthawk M6 (around $300 unlocked) or the Inseego MiFi X PRO outperforms using your phone as a hotspot, both in signal strength and battery management. Running your phone as a hotspot all day kills the battery and eventually the phone itself. Get a dedicated device.
 
@@ -72,13 +72,13 @@ What most people don't realize before they buy it: trees are the enemy. Starlink
 
 The other thing: the dish needs to be level to work properly. Parking on uneven terrain without leveling first will degrade your signal. I use [Camco leveling blocks](https://amzn.to/leveling-blocks) anyway, but level parking matters for Starlink specifically.
 
-Starlink's portability has improved significantly. The Roam plan lets you use it across the country and "pause" the service in months you're not using it. That pause feature is actually real, and I've used it during months I was visiting family and not living in the RV.
+Starlink's portability has improved significantly. The Roam plan lets you use it across the country and "pause" the service in months you're not using it.
 
 Does it replace cellular? For me, no. Trees, occasional satellite repositioning outages, and the fact that you can't run the dish while driving means I keep a Verizon backup. But Starlink is my primary connection 80% of the time now.
 
 ## Signal Boosters and Routers: The Hardware Layer People Skip
 
-A cellular booster won't create a signal from nothing, but it'll take a weak 1-bar signal and turn it into something you can actually work on. The WeBoost Drive Reach RV (around $500-550) is the one I've used and trusted. It's specifically designed for RVs, includes an exterior antenna, and the difference in weak-signal areas is real. I tested it on the edge of coverage near Glacier National Park and went from unusable to about 10 Mbps down, which is enough for video calls.
+A cellular booster won't create a signal from nothing, but it'll take a weak 1-bar signal and turn it into something you can actually work on. The WeBoost Drive Reach RV (around $500-550) is specifically designed for RVs, includes an exterior antenna, and the difference in weak-signal areas is real.
 
 The router is where a lot of people cheap out and regret it. If you're pulling multiple signals and managing them smartly, a dedicated mobile router like the GL.iNet Slate AX or the Pepwave MAX BR1 Mini makes the setup significantly more reliable. The Pepwave in particular lets you bond two cellular connections simultaneously and prioritize between Starlink and cellular automatically. It costs around $400 and is overkill for casual travelers, but for full-time remote workers, it earns its keep within a couple months of not troubleshooting internet mid-workday.
 
@@ -93,7 +93,6 @@ I won't pretend setting up a Pepwave is plug-and-play. The first time I configur
 - is still the workhorse
 - plans are the ongoing cost you need to budget for
 - for RV use tends to run $80-120/month per line from resellers on plans like Moba
-
 
 The best internet setup fails if you don't plan your campsite selection around connectivity. I check signal maps before I commit to a location. Coverage Critic and the T-Mobile and Verizon coverage maps are decent starting points, but the most reliable intel is other RVers. The Campendium app has real reviews from people who note signal quality. So does the FreeRoam app for dispersed camping.
 

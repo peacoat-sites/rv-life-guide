@@ -127,7 +127,6 @@ Storage units are a sneaky recurring cost. A lot of people pay $100 to $200 a mo
 - [solar panel kit](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
 - [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 
-
 Don't guess. Build a real spending plan before your first month out.
 
 1. **Pick your domicile state first.** This affects your vehicle registration cost, income taxes, and health insurance options. Do this research before you quit your lease or sell your house.
@@ -146,7 +145,7 @@ Don't guess. Build a real spending plan before your first month out.
 
 ---
 
-The truth about full-time RV living costs is that the budget isn't fixed and it isn't magic. It's a skill you develop over months of trial and error, of realizing you drove too much in October and overspent on sites in March, and adjusting. I've had months that cost me $1,100 and months that cost me $3,400. Most of them land somewhere in the $1,400 to $1,800 range now because I know my habits, my rig, and my priorities. You'll learn yours. Just go in with honest numbers and realistic expectations, and give yourself at least a year before you decide whether it's working.
+Full-time RV living costs aren't fixed. Your budget develops over months as you track patterns and adjust spending. Monthly costs typically land somewhere in the $1,400 to $1,800 range once you understand your habits, your rig, and your priorities. You'll learn yours. Just go in with honest numbers and realistic expectations, and give yourself at least a year before you decide whether it's working.
 
 *Photo: [Melike B](https://www.pexels.com/@mlkbnl) via Pexels*
 

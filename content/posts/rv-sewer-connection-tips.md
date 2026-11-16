@@ -44,7 +44,7 @@ The industry loves selling you accessories. Half of them are junk. Here's what y
 
 **Non-negotiable:**
 
-A quality sewer hose. Not the thin accordion-style hose that came bundled with your rig. Those fail catastrophically, and at the worst possible times. The Camco RhinoFLEX 20-foot kit is what I've used for years. Thick walls, decent fittings, doesn't kink into a pretzel when you're routing it around concrete. [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=contentportfo-20) *(site may earn a commission)*.
+A quality sewer hose. Not the thin accordion-style hose that came bundled with your rig. Those fail catastrophically, and at the worst possible times. The Camco RhinoFLEX 20-foot kit is a popular choice. Thick walls, decent fittings, doesn't kink into a pretzel when you're routing it around concrete. [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=contentportfo-20) *(site may earn a commission)*.
 
 A sewer hose support. I resisted buying one for my first full year on the road, huge mistake. When your hose sags mid-run, waste doesn't drain completely, and you're left with residue that ferments and eats through the interior. The Camco Sidewinder sits low enough to work under most rigs and holds even a 20-foot run at the right angle without tipping. Worth every dollar of its $25 price.
 
@@ -64,7 +64,7 @@ Deodorant treatments in every dump. Enzyme-based treatments help with tank maint
 
 Step-by-step matters here because the sequence is not obvious, and doing it backward means cleaning up something that shouldn't have left the tank.
 
-**Step 1: Confirm your tanks are closed.** Both gray and black. Check the valve handles physically, not just visually. I've seen pull handles that looked closed but weren't seated properly. Pull them, then push them back firmly until they stop.
+**Step 1: Confirm your tanks are closed.** Both gray and black. Check the valve handles physically, not just visually. Pull handles can look closed but not be seated properly. Pull them, then push them back firmly until they stop.
 
 **Step 2: Prep the sewer pedestal.** Remove the cap from the site's sewer inlet. Some are threaded, some just lift off. If the inlet is lower than your dump outlet (happens at older campgrounds), note it now. You may need to get creative with your hose support to create proper downhill slope.
 
@@ -118,7 +118,6 @@ Backflow is less common but worth knowing about. If a heavy rainstorm fills the 
 
 - [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=contentportfo-20)
 - [Marta Wave](https://www.pexels.com/@marta-wave)
-
 
 | Factor | Dump Station | Full-Hookup Site |
 |---|---|---|

@@ -74,7 +74,7 @@ Many private parks offer monthly rates that work out to $600 to $1,200 all-in fo
 Here's the process I use when evaluating a new park for a monthly stay:
 
 1. **Call, don't book online.** The monthly rate is almost never published. Ask directly. Parks almost always have a lower monthly rate than multiplying the nightly rate by 30.
-2. **Ask what's included.** Electricity is often metered separately on monthly contracts. I've seen a $650/month site turn into a $950/month reality after an electric bill in a hot Texas summer.
+2. **Ask what's included.** Electricity is often metered separately on monthly contracts. Electricity costs can add significantly to the monthly bill, especially during hot months. A site advertised at $650/month might end up costing $950/month after electric charges accumulate.
 3. **Ask about the deposit and cancellation policy.** Some parks require full payment upfront. That's a risk if you hate the place.
 4. **Visit before you commit.** I always do a one or two night stay before signing a monthly agreement. You learn things in 48 hours that no Google review will tell you, like the highway noise at 5am or the neighbors with a generator habit.
 5. **Check cell signal independently.** Use your carrier's actual coverage map or walk the park with your phone. Don't trust the park's "great WiFi" claim for remote work.
@@ -86,7 +86,7 @@ This comes up constantly in full-timer Facebook groups and the answer is genuine
 
 **Thousand Trails:** You pay a membership fee (typically $500 to $700 a year for the base zone pass) and get unlimited stays at their network of parks. If you stay in their parks often and for longer periods, the math works. If you're moving fast and prefer [dispersed camping](/boondocking-free-camping/), you'll never recoup the cost.
 
-**Passport America:** About $44 a year and gives you 50% off at roughly 1,900 partner campgrounds. This one almost always pays for itself on a single trip. It's one of the few memberships I've kept every year without regret.
+**Passport America:** About $44 a year and gives you 50% off at roughly 1,900 partner campgrounds. The membership typically pays for itself on a single trip.
 
 **Harvest Hosts:** $99 a year. You park overnight (one night, usually) at wineries, farms, breweries, and museums. No hookups. Requires a self-contained rig. It's wonderful for the experience and adds up to real savings if you use it. I've stayed at a blueberry farm in Oregon and a vineyard outside Santa Barbara using this membership.
 
@@ -100,7 +100,7 @@ Even experienced RVers get surprised. Here are the ones I've personally run into
 
 **Reservation fees:** Recreation.gov charges a $10 reservation fee per site. Doesn't sound like much until you're booking multiple sites per month. Some private parks also charge non-refundable booking fees through third-party platforms.
 
-**Peak season pricing:** Some parks use dynamic pricing now, similar to airline tickets. The same site on a holiday weekend might cost 40 to 60 percent more than a Tuesday in October. I've seen a site that ran $55 a night on a Wednesday jump to $95 on the Friday of the same week.
+**Peak season pricing:** Some parks use dynamic pricing now, similar to airline tickets. The same site on a holiday weekend might cost 40 to 60 percent more than a Tuesday in October. A site might cost $55 a night on a Wednesday but jump to $95 on the Friday of the same week.
 
 **Electrical overages:** Parks that charge flat-rate electricity sometimes cap your usage, often at 30 or 50 kWh per day. Run the air conditioner hard in summer or use electric heat in winter and you might get a surcharge bill at checkout.
 
@@ -119,7 +119,6 @@ Protecting your rig when you do arrive matters too. A quality [surge protector](
 - [whole-house water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Yakup Polat](https://www.pexels.com/@yakup-polat-420882786)
-
 
 | Category | Private Park (Monthly) | BLM/Free Camping (Monthly) |
 |---|---|---|

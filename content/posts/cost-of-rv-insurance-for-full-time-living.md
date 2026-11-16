@@ -31,9 +31,7 @@ I know this because I almost made the same mistake myself. When I first hit the 
 
 So before we get into the actual numbers, let me say this clearly: full-time RV insurance is a distinct product category, and if you're shopping for it using the same process you'd use for a vacation camper, you're going to get burned.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Full-time RV insurance averages $1,500–$4,500/year, compared to $500–$1,200 for recreational policies.</li><li style="margin:5px 0">Standard recreational policies almost always exclude liability and property claims if the RV is your primary residence.</li><li style="margin:5px 0">A handful of insurers (Good Sam, National General, Progressive, Foremost) actually specialize in full-timer coverage.</li><li style="margin:5px 0">Deductibles, personal property limits, and "total loss replacement" clauses vary wildly ,  these three items are where the coverage gaps hide.</li><li style="margin:5px 0">Your state of domicile, rig class (A, B, C, fifth wheel), and rig value are the three biggest premium drivers.</li></ul></div>
-
 
 ## What Makes Full-Timer Coverage Different
 
@@ -49,9 +47,7 @@ Here's where I'll ask you to pay attention, because the price range is genuinely
 
 Your premium is driven by: rig class and value, how many miles you drive per year, your driving record, your [domicile state](/rv-domicile-state-options/) (South Dakota, Texas, and Florida are the three most popular for full-timers, and they differ), whether you're stationary most of the time or constantly moving, and what liability limits you choose. A Class A diesel pusher worth $180,000 is going to cost a lot more to insure full-time than a Class C worth $45,000, obviously, but the less obvious variable is mileage. If you're a "semi-stationary" full-timer who parks for three months at a time and drives fewer than 5,000 miles annually, some carriers will price you closer to the recreational tier even with full-timer status. I've seen premiums drop by $400 to $600 a year just by accurately reporting low annual mileage.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual full-timer RV insurance premium by rig class</div><div class="sc-row"><span class="sc-label">Class A (diesel)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$3,800</span></div><div class="sc-row"><span class="sc-label">Class A (gas)</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">$2,600</span></div><div class="sc-row"><span class="sc-label">Class C</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$1,900</span></div><div class="sc-row"><span class="sc-label">Class B / Van</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">$1,400</span></div><div class="sc-row"><span class="sc-label">Fifth Wheel</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-src">Source: National General / Good Sam rate surveys, 2025–2026</div></div>
-
 
 | Rig Type | Avg. Annual Premium (Full-Timer) | Avg. Annual Premium (Recreational) | Key Coverage Difference |
 |---|---|---|---|
@@ -79,7 +75,7 @@ Worth noting: your domicile state determines where your rig is registered and wh
 
 ## Where the Coverage Gaps Actually Hide
 
-I've been doing this long enough to know that people focus on the headline premium and miss the three places that actually matter.
+Most people focus on the headline premium and miss the three places that actually matter.
 
 **Total loss replacement.** If your rig is totaled, a standard policy pays actual cash value, which after depreciation on a 5-year-old Class A might be $40,000 less than what you need to replace it. Full-timer policies often offer "agreed value" or "total loss replacement" riders. These cost more upfront but are worth every penny if your rig is your home. Progressive and National General both offer this; ask specifically for it by name.
 
@@ -96,7 +92,6 @@ I've been doing this long enough to know that people focus on the headline premi
 - Foremost Insurance Group: Policy documents and full-timer endorsement terms, reviewed for coverage definitions used in this article.
 
 ---
-
 
 ---
 

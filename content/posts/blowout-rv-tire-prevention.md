@@ -25,7 +25,7 @@ faqs:
     a: "For a passenger car spare situation, maybe. For an RV tire, no. RV tire pressures are too high for consumer sealant products to hold reliably, and some sealants can damage the TPMS sensors and coat the inner liner in ways that prevent proper repair later. Call a roadside service. Coach-Net and Good Sam roadside assistance both cover tire changes; the average response time I've experienced is 47 minutes, which is inconvenient but a lot better than the alternative."
 ---
 
-Thirty percent. That's the share of all highway accidents involving large vehicles that the National Highway Traffic Safety Administration attributes to tire failure, and the most common cause of that failure isn't a nail in a campground gravel lot or a pothole on a back road in rural Montana. It's heat buildup from running underinflated tires at highway speed. I'll be honest: when I first read that number, I figured it was one of those stats that sounds scarier than it is. Then I blew a rear dual on my 2017 Thor Motorcoach somewhere outside Amarillo on a 104-degree afternoon, watched $340 worth of tire shred itself across two lanes of I-40, and developed a very different relationship with tire pressure.
+Thirty percent. That's the share of all highway accidents involving large vehicles that the National Highway Traffic Safety Administration attributes to tire failure, and the most common cause of that failure isn't a nail in a campground gravel lot or a pothole on a back road in rural Montana. It's heat buildup from running underinflated tires at highway speed. The risk is real. Underinflated tires running at highway speed generate heat that can lead to catastrophic failure, sometimes at substantial cost.
 
 Eight years in, I still meet full-timers who treat their RV tires like passenger car tires. Check them occasionally, replace them when they look worn. That approach will eventually catch up with you, and it tends to do it at 65 mph.
 
@@ -39,7 +39,7 @@ That's the physics piece. The age piece is where I see even experienced RVers ge
 
 ## Age Is Not a Suggestion
 
-I thought for years that tire age only mattered for tires that looked cracked or dried out. The visible sidewall cracking is the late-stage symptom, not the early warning sign. What the industry knows, and what Michelin, Goodyear, and Continental all formally state in their RV tire guidance, is that most RV tires should be replaced at 5-6 years regardless of tread depth and regardless of mileage. Some manufacturers say 7 years as an absolute ceiling. This is not conservative marketing to sell more tires. The rubber compound degrades from UV exposure and oxidation at the molecular level long before you can see it.
+Visible sidewall cracking is a late-stage symptom, not an early warning sign. Michelin, Goodyear, and Continental all formally state in their RV tire guidance that most RV tires should be replaced at 5-6 years regardless of tread depth and regardless of mileage. Some manufacturers say 7 years as an absolute ceiling. This is not conservative marketing to sell more tires. The rubber compound degrades from UV exposure and oxidation at the molecular level long before you can see it.
 
 Here's how to find your tire's birthday: look for the DOT code on the sidewall. The last four digits tell you the week and year of manufacture. A tire stamped "2319" was made in the 23rd week of 2019. That tire, as of July 2026, is seven years old and has no business being on a highway.
 
@@ -60,7 +60,7 @@ There are two categories: valve-stem cap sensors (external) and internal sensors
 
 For most Class A and Class C owners, I'd point you toward the TST 507 series. It's what I run, and the monitor display inside the cab is readable at a glance without squinting. The flow-through sensor design means you can still add air without removing the sensor, which sounds minor until you're at a truck stop at 7 AM and the guy in line behind you is impatient.
 
-Real-world example: A reader named Paul, who full-times in a 2021 Tiffin Phaeton, told me his TST system alarmed at 5:48 AM outside of Flagstaff, Arizona last fall when a rear tire dropped to 87 PSI from a slow bead leak. He pulled over safely in the dark, added air, limped to a shop at opening time. His alternative, without the system, was to not know until 65 mph on the highway later that morning.
+For example, a tire pressure monitoring system can catch a slow bead leak before it becomes dangerous at highway speed, allowing time to pull over safely and address the issue rather than discovering it at 65 mph.
 
 ## Load Rating, Weight, and the Mistake Almost Every New Full-Timer Makes
 

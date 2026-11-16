@@ -87,7 +87,7 @@ This is the part you actually came here for.
 
 **What you'll need:**
 
-- Dicor self-leveling lap sealant (for horizontal surfaces) or Dicor non-sag (for vertical surfaces and sidewalls). For EPDM roofs this is the most trusted product I've used consistently. [Dicor lap sealant is widely available on Amazon](https://www.amazon.com/s?k=dicor+lap+sealant) and costs around $10-14 per tube.
+- Dicor self-leveling lap sealant (for horizontal surfaces) or Dicor non-sag (for vertical surfaces and sidewalls). For EPDM roofs, Dicor products are widely trusted. [Dicor lap sealant is widely available on Amazon](https://www.amazon.com/s?k=dicor+lap+sealant) and costs around $10-14 per tube.
 - EternaBond tape for any seam repairs or larger cracks (a 4-inch wide roll runs about $25-35 and is worth every cent)
 - A plastic scraper or putty knife
 - Mineral spirits and clean rags
@@ -105,7 +105,7 @@ Use your plastic scraper to lift and peel away any cracked or separated old seal
 
 **Step 3: Apply EternaBond to any seam separations first.**
 
-If you have a seam that's separated more than a hairline, EternaBond tape is your best option before you caulk over it. Peel and stick it over the seam, pressing firmly and rolling with a j-roller or just your hand. This stuff is genuinely impressive. I've seen it outlast fresh sealant applied at the same time.
+If you have a seam that's separated more than a hairline, EternaBond tape is your best option before you caulk over it. Peel and stick it over the seam, pressing firmly and rolling with a j-roller or just your hand. EternaBond tape is known for durability and can outlast fresh sealant applied at the same time.
 
 **Step 4: Apply fresh sealant.**
 
@@ -126,7 +126,6 @@ If your membrane is aged and the entire surface looks worn, a liquid RV roof coa
 - [Dicor lap sealant is widely available on Amazon](https://www.amazon.com/s?k=dicor+lap+sealant)
 - [Indiana Barriopedro](https://www.pexels.com/@indiana-barriopedro-639081391)
 
-
 A basic resealing job you do yourself might run $50-150 in materials. A full rubber roof replacement at a dealership or RV repair shop can run $3,000 to $8,000 depending on the rig size. If there's subfloor rot involved, add more.
 
 Here's the calculus I give people: if the damage is isolated to failed sealant with no structural rot underneath, DIY is a reasonable call. If you're finding soft spots in the roof decking, water damage in walls, or any sign of delamination on the exterior sidewalls, get a professional involved before you seal over the top of a bigger problem. Sealing over wet rot accelerates the damage. The moisture gets trapped and has nowhere to go.
@@ -135,6 +134,6 @@ A moisture meter is genuinely useful here. You can get a basic one for under $20
 
 ---
 
-The roof is the part of your RV most people ignore until it's too late. Everything else you do to maintain your rig, your engine, your systems, your tires, can be undone by a leak that goes unaddressed for a single rainy season. Schedule the inspection like you schedule an oil change. Bring the right materials, take your time up there, and don't skip the cleaning step. The hour and a half you spend on that roof twice a year is some of the highest-value maintenance time you'll put into this lifestyle. I've seen rigs get written off to water damage that a seasonal inspection would have caught. Don't let yours be one of them.
+The roof is the part of your RV most people ignore until it's too late. Everything else you do to maintain your rig, your engine, your systems, your tires, can be undone by a leak that goes unaddressed for a single rainy season. Schedule the inspection like you schedule an oil change. Bring the right materials, take your time up there, and don't skip the cleaning step. The hour and a half you spend on that roof twice a year is some of the highest-value maintenance time you'll put into this lifestyle. Water damage from unaddressed leaks can total an RV, but seasonal inspections catch most problems before they become serious.
 
 *Photo: [Indiana Barriopedro](https://www.pexels.com/@indiana-barriopedro-639081391) via Pexels*

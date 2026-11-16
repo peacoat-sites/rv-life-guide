@@ -52,7 +52,7 @@ The catch: people skip the fuse step, or they put it too far from the battery, o
 
 Here's a concrete example. Say you're wiring a 2000-watt pure sine wave inverter. The math: 2000 watts at 12 volts is about 167 amps peak draw. You need cable rated for at least 200 amps, typically 2-gauge or 4-gauge depending on the run length. Your breaker should be 150 amps. Now, where does that breaker go? As close to the battery positive terminal as you can physically fit it. Not under the van, not behind a compartment door. Within 18 inches of the battery. This isn't a suggestion. It's a fire-prevention rule.
 
-I tested a setup once where someone had routed their inverter cable through a 40-foot run with the breaker at the inverter end instead. Took a few weeks of cycling the system, but that wire got hot. Didn't catch fire because the wire gauge was oversize, but it was well on its way. The fix was a $20 breaker and 30 minutes of rewiring.
+For example, if an inverter cable runs 40 feet with the breaker placed at the inverter end instead of near the battery, the wire can overheat during normal cycling. While an oversized wire gauge might prevent a fire, the fix is still simple: a $20 breaker in the right location and 30 minutes of rewiring.
 
 ## Mapping charge sources and the disconnect between them
 
@@ -113,14 +113,13 @@ Print or open your diagram. For each circuit, write down the wire gauge, the fus
 
 Example: fridge pulls 3 amps, water pump pulls 15 amps, heater pulls 50 amps, inverter (if used) pulls 50 amps. That's potentially 118 amps. Your main breaker should be 150 amps (20% safety margin). Your cable from battery to breaker should be rated for 200 amps. You do this math on the diagram, and you either change the diagram or you realize you need a bigger battery bank or a smaller heater. Fix it on paper.
 
-I've also seen people draw the diagram, and then when it's time to install, they realize there's no clean path to run the main negative cable. The diagram looked fine from above. The reality is a wheel well and the spare tire. Back to the drawing board. The lesson: the diagram should include a side-view or a roof-view map showing physical routing, not just electrical connections.
+Another issue: a diagram can look clean on paper when viewed from above, but physical obstacles like wheel wells and spare tires make certain cable routes impossible. The diagram should include a side-view or roof-view map showing physical routing, not just electrical connections.
 
 ## Where most DIYers diverge from reality
 
-People ask me about the difference between a "proper" marine electrical system and a budget van setup. Honestly, the difference is discipline, not complexity. A proper system has sub-panels, isolators, and documented routing. A budget setup that follows the same electrical rules works just as well, it just uses cheaper components.
+People ask me about the difference between a "proper" marine electrical system and a budget van setup. The difference is discipline, not complexity. A proper system has sub-panels, isolators, and documented routing. A budget setup that follows the same electrical rules works just as well, it just uses cheaper components.
 
 The expensive Mastervolt system and the Blue Sea fuse block are both protecting circuits the same way. One's shinier. That's half the difference. The other half is that one person knew what they were doing and the other didn't. The diagram is the evidence of knowing.
-
 
 ## Sources
 

@@ -18,11 +18,9 @@ Most people assume that when an industry is struggling, the smart move is to wai
 
 Here's what's actually happening: May 2026 wholesale RV shipments came in at just 22,900 units, the lowest single production month in over a decade, according to RVIA data published June 25, 2026. Year-to-date through May, total shipments sit at 138,160 units, down 14.4% compared to the same stretch in 2025. That's 23,213 fewer units rolling off manufacturer lots. Retail sales are tracking similarly ugly, off roughly 14 to 15% year-over-year, with Class A motorhomes taking the steepest hit. Meanwhile, 2027 model-year units are already showing up at dealerships. That means every 2026 model on a lot right now just became aging inventory overnight, and dealers know it.
 
-I'll be honest, I've been full-timing since 2018, and I've watched the RV market cycle through a lot of phases. The pandemic boom. The 2022 correction. The slow bleed of 2023 and 2024. This moment feels different. The data backs that up, and so does what I'm seeing on the ground.
-
+The RV market has cycled through distinct phases in recent years: the pandemic boom, the 2022 correction, and the slowdown of 2023 and 2024. This moment feels different, and the data supports it.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">May 2026 RV production hit a 10-year low at just 22,900 wholesale units.</li><li style="margin:5px 0">Year-to-date shipments through May 2026 are down 14.4% vs. 2025.</li><li style="margin:5px 0">New RV listings on RVTrader dropped from 131,348 to 125,235 in a single month.</li><li style="margin:5px 0">2027 models arriving now make leftover 2026 inventory immediately negotiable.</li><li style="margin:5px 0">Diesel fell 60.5 cents in a month to $4.843/gallon, easing one key buyer cost.</li></ul></div>
-
 
 ## The Inventory Picture Is More Complicated Than It Looks
 
@@ -51,15 +49,13 @@ The diesel number matters more than people realize. At $4.843 per gallon as of e
 
 ## Class A vs. Towables: Where the Real Deals Are
 
-I'll be honest about my bias here: I drive a diesel pusher. I've spent a lot of time in the Class A world. And right now, that segment has the most motivated sellers.
+Full disclosure: diesel pushers and Class A RVs are the focus here. Right now, that segment has the most motivated sellers.
 
 Towables (fifth wheels and [travel trailers](/best-travel-trailers-full-time/)) are still moving comparatively better. They're cheaper to entry, don't require a special license in most states, and appeal to a broader buyer pool. The discounts are real but not dramatic. Class A motorhomes, especially diesel units in the $150,000 to $300,000 range, are where dealers are genuinely hurting. Production cuts from manufacturers like Thor and Forest River have helped slow new supply, but the existing inventory overhang is still significant.
 
 The research here is mixed on exactly how deep discounts are going. Bi-State Honda's June 2026 industry analysis suggests buyers can realistically expect to negotiate 10 to 20% off MSRP on 2026 models, depending on the unit and the dealer's situation. That tracks with what I'm hearing from full-timer communities and forums. On a $200,000 Class A, that's a $20,000 to $40,000 swing. That's not small.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">YTD RV Wholesale Shipments: 2025 vs 2026 (through May)</div><div class="sc-row"><span class="sc-label">2025 YTD (May)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">161,373 units</span></div><div class="sc-row"><span class="sc-label">2026 YTD (May)</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">138,160 units</span></div><div class="sc-src">Source: RVIA via RV News, June 25, 2026</div></div>
-
 
 ## The Timing Risk Nobody Talks About
 

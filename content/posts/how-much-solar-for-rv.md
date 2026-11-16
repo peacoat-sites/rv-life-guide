@@ -110,7 +110,7 @@ Size your charge controller to handle your total panel wattage with 25% headroom
 
 **Inverters:** If you're running AC appliances from your battery bank, you need an inverter. Size it based on your peak load, not your average. A 1,000-watt coffee maker plus a 65-watt laptop plus a 120-watt TV equals 1,185 watts peak. Buy a 2,000-watt pure sine wave inverter and you'll never sweat simultaneous loads. Modified sine wave inverters are cheaper and will damage sensitive electronics over time. Pay for pure sine once.
 
-A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) for shore power hookups is separate from your inverter but equally important. One bad campground pedestal can fry your entire electrical system. A 30-amp or 50-amp inline surge protector costs $80-300 and has saved my rig at least twice that I know of.
+A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) for shore power hookups is separate from your inverter but equally important. One bad campground pedestal can fry your entire electrical system. A 30-amp or 50-amp inline surge protector costs $80-300 and is worth the investment for protection against bad campground pedestals.
 
 ## Roof Space, Portable Panels, and Real-World Constraints
 
@@ -121,7 +121,6 @@ A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentpor
 - [100-watt portable panels](https://www.amazon.com/s?k=portable+solar+panels+rv&tag=contentportfo-20)
 - [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
 - [Los Muertos Crew](https://www.pexels.com/@cristian-rojas)
-
 
 Math says you need 3,000 watts. Your roof holds 1,800 watts. Now what?
 

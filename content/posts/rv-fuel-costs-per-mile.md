@@ -60,7 +60,7 @@ Let me give you actual numbers rather than marketing material. Manufacturers lis
 | Fifth Wheel (truck + trailer) | 8-12 mpg combined | Gas/Diesel | $0.35 - $0.50 |
 | Travel Trailer (light, half-ton) | 12-16 mpg combined | Gas | $0.24 - $0.32 |
 
-These figures assume you're loaded and driving real highway miles, not empty on a test loop. The price column uses national averages as of mid-2024, but you'll need to plug in your regional fuel prices. California diesel has hit $5.60/gallon in my experience, which can push a diesel pusher to 75+ cents per mile on fuel alone.
+These figures assume you're loaded and driving real highway miles, not empty on a test loop. The price column uses national averages as of mid-2024, but you'll need to plug in your regional fuel prices. In high-cost regions like California, diesel can reach $5.60/gallon or more, pushing fuel costs to 75+ cents per mile or higher.
 
 ## How to Calculate Your Own Number Accurately
 
@@ -104,7 +104,7 @@ Fuel is significant, but it's not your only per-mile cost. Tires on a Class A ca
 
 A realistic all-in operating cost for a large gas Class A driven 20,000 miles per year often runs between 65 cents and $1.10 per mile when you factor in fuel, maintenance, tires, and insurance. That doesn't include campsite costs, groceries, or the clutch cable that snapped in rural Nevada. That's just keeping the wheels turning.
 
-The fuel math isn't meant to scare you off the road. I've driven over 90,000 miles in six years and I'd do it again without hesitating. But I've watched too many people hit month three with an empty bank account because they built a budget on optimistic mpg estimates and forgot that 25,000 miles is a lot of fill-ups. Know your number before you go. Recalculate it after your first month on the road. Adjust accordingly. The road is worth it when you've done the math honestly.
+The point isn't to discourage full-timing. Rather, many people run out of money by month three because they budgeted based on optimistic mpg estimates and underestimated how many fill-ups 25,000 miles requires. Know your number before you go. Recalculate it after your first month on the road. Adjust accordingly. The road is worth it when you've done the math honestly.
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
@@ -115,7 +115,6 @@ The fuel math isn't meant to scare you off the road. I've driven over 90,000 mil
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
 - [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
 - [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

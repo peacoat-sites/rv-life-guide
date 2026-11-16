@@ -70,7 +70,7 @@ Every state manages public land differently, and most states have camping-relate
 
 State forests are criminally underused. Virginia's state forests allow dispersed camping in some units. Michigan has an entire program. Pennsylvania's State Forest system has designated primitive camping areas that are free, clearly mapped, and almost always less crowded than nearby National Forest land. Go to your target state's Department of Natural Resources website, search for "state forests" (not state parks, which usually charge fees), and dig around for dispersed or primitive camping policies.
 
-Army Corps of Engineers land is another underrated option. They manage something like 12 million acres across the country, mostly around reservoirs. Some of that land allows primitive camping. The free camping isn't always documented anywhere. You sometimes have to call the local project office and ask. I've had rangers enthusiastically describe great spots that aren't on any app because nobody bothered to add them.
+Army Corps of Engineers land is another underrated option. They manage something like 12 million acres across the country, mostly around reservoirs. Some of that land allows primitive camping. The free camping isn't always documented anywhere. You sometimes have to call the local project office and ask. Some great spots aren't on any app because nobody bothered to add them, so calling the local project office can uncover options that don't show up in standard searches.
 
 State trust land varies wildly by region. In Arizona, some state trust parcels are open to recreation. In Montana, you can get an annual recreational access license for $10 that lets you access state trust land for camping. These programs don't get talked about much in general RV content because they're state-specific, but if you're stationary somewhere for a season, it's worth looking into.
 
@@ -104,7 +104,6 @@ One thing that's actually worked well: leaving a note on Freecampsites or The Dy
 - [National Map Viewer](https://www.blm.gov/maps)
 - [USFS Motor Vehicle Use Maps](https://www.fs.usda.gov/managing-land/travel-management/motor-vehicle-use-maps)
 - [Renogy 200W solar setup](https://www.amazon.com/s?k=renogy+200w+solar+panel&tag=contentportfo-20)
-
 
 You're camping without hookups. Water capacity, battery capacity, and waste capacity are all finite and entirely your problem.
 

@@ -71,7 +71,7 @@ I've lived with all three roof types over the years. They don't fail the same wa
 
 **EPDM rubber** (the black or white membrane that most older and mid-range rigs use) is UV-sensitive and needs conditioning. Dicor makes an EPDM roof coating that I apply once a year; it runs about $25 for a 32-ounce bottle. Without it, the rubber chalks and eventually micro-cracks. The sealant around penetrations on EPDM roofs is also EPDM-compatible lap sealant, not silicone. Using the wrong sealant is a mistake I see constantly in online forums. Silicone on EPDM doesn't bond correctly and will fail.
 
-**TPO** (the white membrane on most rigs made in the last decade) is more UV-resistant but the heat-welded seams are load-sensitive. TPO is harder to repair yourself if you find a failure. Most failures I've seen on TPO roofs happen at corners and transitions where the material has to bend sharply, not in the flat field.
+**TPO** (the white membrane on most rigs made in the last decade) is more UV-resistant but the heat-welded seams are load-sensitive. TPO is harder to repair yourself if you find a failure. TPO roof failures most often occur at corners and transitions where the material has to bend sharply, not in the flat field.
 
 **Fiberglass** is the most durable and easiest to inspect because failures show up as visible cracks or crazing in the gelcoat. But gel coat problems can hide subsurface delamination. If you knock on a fiberglass roof and you hear a hollow thud in a spot that should sound solid, that's delamination, and it may have nothing to do with the surface condition.
 
@@ -94,7 +94,6 @@ I do a quick scan after any significant hailstorm. Hail won't typically penetrat
 - [Hoan Ngọc](https://www.pexels.com/@hoan-ng-c-510735)
 - above where you
 - on which roof type actually lasts longest is honestly mixed
-
 
 Most sealant work is genuinely DIY-friendly if you're willing to prep correctly. Prep is 90% of a good sealant repair. Clean the area with a dedicated cleaner (Dicor makes one, so does Proflux), let it dry completely, and apply the correct sealant for your roof type.
 

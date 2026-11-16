@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most articles about RV life with kids show you smiling families at Yellowstone and leave out the part where your seven-year-old has a full meltdown in a Walmart parking lot in Amarillo because she hasn't had a real bedroom in four months. That gap between the Instagram version and the actual experience is where I'm going to spend this article.
 
-I've been full-timing for eight years. My kids joined me for three of those years, ages six through nine for my daughter, eight through eleven for my son. What I know about this life with children in tow comes from 47 states, roughly 140 different campgrounds, two major rig breakdowns with kids in the back seat, one ER visit in rural Montana, and more "are we there yet" questions than any parent should have to field.
+Full-timing with school-age children means managing tight quarters, unexpected breakdowns, medical emergencies in unfamiliar places, and the constant refrain of restless kids. It requires deliberate strategies across every aspect of van life.
 
 Here's the honest headline: RV life with kids is genuinely good. It's also genuinely hard in ways that have nothing to do with what you read in most travel blogs.
 
@@ -71,7 +71,7 @@ People underestimate how much having a consistent daily routine protects the who
 
 What worked for us: school from 8am to noon, every day, even travel days when we had to do it in the cab of the truck. Then the afternoon was exploration, campground time, whatever the location offered. Dinner at the rig. One outdoor activity before dark if possible.
 
-Travel days need a hard rule. We never drove more than four hours with the kids on board, and we never drove more than five days in a row. Those aren't arbitrary numbers, they're the point at which kids (and frankly adults) start fraying. Long drive days kill morale faster than almost anything else. The families I've seen burn out and quit the road life within a year almost always made the same mistake: they tried to see too much too fast. Pick a region, stay in it for three months, learn it properly. The country isn't going anywhere.
+Travel days need a hard rule. We never drove more than four hours with the kids on board, and we never drove more than five days in a row. Those aren't arbitrary numbers, they're the point at which kids (and frankly adults) start fraying. Long drive days kill morale faster than almost anything else. Families who try to see too much too fast often burn out and quit the road life within a year. Pick a region, stay in it for three months, learn it properly. The country isn't going anywhere.
 
 Campground selection matters differently when you have kids. Not every campground is family-friendly in practice, even if it technically allows children. Look for: playgrounds (obviously), other families with kids visible in photos or reviews, proximity to a town with at least a grocery store, and cell signal strong enough for schoolwork. Apps like Campendium and The Dyrt let you filter reviews by family mentions. Use them. Driving 200 miles to discover the campground is effectively a retirement community where you're genuinely unwelcome with loud children is a bad day.
 
@@ -83,7 +83,7 @@ Carbon monoxide detector placement: one near sleeping areas, one near the propan
 
 Surge protection at the hookup is the unsexy but important one. A power surge that fries your inverter or your air conditioning system is a $1,500 to $3,000 repair, and it can happen at any campground with aging electrical infrastructure. The [Progressive Industries EMS-HW50C](https://www.amazon.com/s?k=Progressive+Industries+EMS+RV+surge+protector&tag=contentportfo-20) is what I run. It's hardwired, which means nobody can walk off with it. Worth every dollar of its roughly $350 price.
 
-Water quality: you don't know what's coming out of that campground spigot. I've tested water that looked fine and showed coliform bacteria. With kids, run a [dedicated inline filter](https://www.amazon.com/s?k=RV+inline+water+filter+drinking&tag=contentportfo-20) on drinking water minimum, and a whole-rig sediment filter if your kids are bathing in it daily. The Camco TastePURE is about $20 and replaces every three months. Do it.
+Water quality: you don't know what's coming out of that campground spigot. Campground water can harbor coliform bacteria despite appearing clear. With kids, run a [dedicated inline filter](https://www.amazon.com/s?k=RV+inline+water+filter+drinking&tag=contentportfo-20) on drinking water minimum, and a whole-rig sediment filter if your kids are bathing in it daily. The Camco TastePURE is about $20 and replaces every three months. Do it.
 
 One I didn't expect to care about: leveling. A rig that's consistently unlevel messes with sleep quality, door operation, and refrigerator function. [Camco leveling blocks](https://www.amazon.com/s?k=Camco+leveling+blocks+RV&tag=contentportfo-20) and a decent level app on your phone take two minutes and matter more than people admit.
 
@@ -97,7 +97,6 @@ One I didn't expect to care about: leveling. A rig that's consistently unlevel m
 - [Camco leveling blocks](https://www.amazon.com/s?k=Camco+leveling+blocks+RV&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
 
-
 This section exists because it's real, not because the article needs a feel-good moment.
 
 My kids, now teenagers, have a geographic fluency that their friends don't have. My son can look at a topographic map and read it. My daughter navigated us through a road closure in southern Utah at age eight because she'd been reading the atlas for two years. They've both had conversations with strangers, handled unexpected situations, and adapted to discomfort in ways that I attribute directly to this life.
@@ -105,6 +104,5 @@ My kids, now teenagers, have a geographic fluency that their friends don't have.
 The social piece is the genuine hard part. Full-timing kids miss out on long-term friendships built over years. You can patch this with RV family communities (Fulltime Families is a real organization worth looking into), extended stays in one place, and returning to the same campgrounds seasonally. But you can't fully replace it. That's the honest trade.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

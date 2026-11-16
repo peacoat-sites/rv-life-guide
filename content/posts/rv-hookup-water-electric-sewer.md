@@ -25,7 +25,7 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 lastmod: 2026-07-08
 ---
-You've just pulled into a full-hookup site after a 400-mile drive. Your back hurts, the dog needs out, and your partner's already asking when dinner is happening. You spot the pedestal with the water spigot, the 30-amp outlet, and the sewer cleanout cap, and you think: *I've got this*. Then you forget the order of operations, hook up water before leveling, and spend the next twenty minutes re-doing everything while your neighbor watches from a lawn chair. I've been that person. I've also been the neighbor watching someone flood their own sewer hose connection all over a perfectly nice campsite in Moab.
+You've just pulled into a full-hookup site after a 400-mile drive. Your back hurts, the dog needs out, and your partner's already asking when dinner is happening. You spot the pedestal with the water spigot, the 30-amp outlet, and the sewer cleanout cap, and you think: *I've got this*. A common mistake is hooking up water before leveling, which means redoing the whole process. Another frequent mishap is improper sewer connections that can lead to spills on the campsite.
 
 Getting your hookups right isn't complicated once you understand the logic behind the sequence. But "not complicated" doesn't mean "obvious." There's a reason experienced RVers develop a setup ritual they never deviate from.
 
@@ -37,7 +37,7 @@ Most campground guides won't tell you this directly, but the sequence matters fo
 
 **Electric second.** Once you're parked, shore power goes in first. Your fridge, your CPAP charger, your battery management system, all of it benefits from being on shore power while you're setting up the rest. More importantly, you want a surge protector inline before anything else draws power.
 
-I've seen two inverters and one air conditioning unit get fried by power pedestals with wiring problems. A quality surge protector like the [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20) is one of the best $200-$300 you'll spend. The cheap plug-in versions offer some protection; the hardwired units are more comprehensive. Either beats nothing. *(Disclosure: this site may earn a commission on qualifying purchases.)*
+Power pedestals with wiring problems can damage inverters and air conditioning units. A quality surge protector like the [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20) is one of the best $200-$300 you'll spend. The cheap plug-in versions offer some protection; the hardwired units are more comprehensive. Either beats nothing. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 **Water third.** Connect freshwater after you're on shore power. The order here matters less for safety and more for practicality. You want a clean drinking-water hose (white, not the green garden hose from home), a pressure regulator, and a water filter inline.
 
@@ -58,7 +58,7 @@ If you're new to this, the amp service question trips people up first. Most olde
 
 The actual pedestal connection is straightforward: flip the breaker off before you plug in. This matters especially on 50-amp hookups because those connectors are large and you want to avoid any arcing. Plug in, then flip the breaker on. When you disconnect, reverse it: breaker off first, then unplug.
 
-What most people don't realize is that campground power quality varies wildly. State parks tend to be better maintained than some private campgrounds built in the 1970s and never seriously upgraded. I've seen voltage readings as low as 103 volts at a busy Florida campground in July when everyone's running their AC. That low voltage actually damages your appliances over time more than a spike does. A good surge protector with an EMS (Electrical Management System) monitors voltage and cuts power if it drops dangerously low.
+What most people don't realize is that campground power quality varies wildly. State parks tend to be better maintained than some private campgrounds built in the 1970s and never seriously upgraded. Voltage can dip as low as 103 volts at a busy campground during peak usage times when everyone is running their AC. That low voltage actually damages your appliances over time more than a spike does. A good surge protector with an EMS (Electrical Management System) monitors voltage and cuts power if it drops dangerously low.
 
 One more thing: extension cords. Don't use them. If your cord doesn't reach the pedestal, buy a longer 30-amp or 50-amp shore power cord, not a home extension cord run in series. The amperage you're pulling will overheat a household extension cord.
 
@@ -99,7 +99,6 @@ When you disconnect: close both valves, remove the hose from the cleanout first,
 - [two-stage inline filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [sewer hose support/slinky](https://www.amazon.com/s?k=rv+sewer+hose+support&tag=contentportfo-20)
 - [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20)
-
 
 | Setup | What You Have | What You Manage |
 |---|---|---|

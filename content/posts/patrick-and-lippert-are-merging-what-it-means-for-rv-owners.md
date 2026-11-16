@@ -30,13 +30,11 @@ The companies are projecting over $150 million in annual cost savings within thr
 
 The merger announcement landed in the middle of a soft RV market. May 2026 wholesale shipments came in at just 22,900 units, the lowest single month since before 2016, according to RVBusiness. That context matters a lot.
 
-When the industry is booming, manufacturers have leverage. They're placing large orders, suppliers compete for their business, and there's pressure to keep prices competitive and lead times short. In a downturn, that leverage shifts. If there's now effectively one massive supplier controlling the bulk of your components, RV manufacturers have fewer cards to play. And when manufacturers lose negotiating power, that cost eventually works its way down to buyers and owners.
-
+When the industry is booming, manufacturers can negotiate favorable terms: suppliers compete for their business, and there's pressure to keep prices competitive and lead times short. In a downturn, that changes. If one massive supplier controls the bulk of components, RV manufacturers have fewer options. When manufacturers lose negotiating power, those costs typically get passed to buyers and owners.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Combined vs. individual company revenue (trailing 12 months, March 2026)</div><div class="sc-row"><span class="sc-label">Patrick Industries</span><span class="sc-track"><span class="sc-bar" style="width:48%"></span></span><span class="sc-val">3.9 $B</span></div><div class="sc-row"><span class="sc-label">LCI Industries (Lippert)</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">4.2 $B</span></div><div class="sc-row"><span class="sc-label">Combined Entity</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">8.1 $B</span></div><div class="sc-src">Source: RV PRO, June 30 2026</div></div>
 
-
-The $1 billion in projected adjusted EBITDA (including synergies) and $508 million in free cash flow tell you this combined company will have serious financial muscle. That's not inherently bad. But it does mean the new entity won't be struggling for leverage at the negotiating table.
+The $1 billion in projected adjusted EBITDA (including synergies) and $508 million in free cash flow show this combined company will have significant financial strength and negotiating power at the supplier table.
 
 ## What This Could Mean for Parts Availability and Repair Waits
 
@@ -52,7 +50,7 @@ This is where it gets practical. Here's a side-by-side look at the two companies
 | Electrical components | Yes | Yes |
 | Exterior components and trim | Yes | Yes |
 
-When two companies with that much overlap merge, one of two things tends to happen with parts: either SKUs get consolidated and availability improves because there's one streamlined ordering system, or product lines get cut to hit those cost-savings targets and specific parts become harder to source. I've seen both play out in other industries. In automotive, supplier consolidation in the early 2010s eventually led to longer lead times on obscure but necessary parts. RV repair shops already complain about wait times. If product rationalization cuts the catalog, that problem gets worse.
+When two companies with that much overlap merge, one of two things typically happens with parts: either SKUs get consolidated and availability improves with one streamlined ordering system, or product lines get cut to hit cost-savings targets and specific parts become harder to source. Supplier consolidation in automotive in the early 2010s led to longer lead times on obscure but necessary parts. RV repair shops already complain about wait times. If product rationalization cuts the catalog, that problem could get worse.
 
 For full-timers especially, a three-week wait on a Lippert slide motor or a Patrick-sourced wall panel isn't an inconvenience. It's a housing crisis.
 

@@ -33,7 +33,7 @@ Let's get something uncomfortable out of the way first. No RV brand is consisten
 
 That said, some brands do meaningfully better than others. Within brands, some product lines are dramatically more reliable than others. The difference between a Forest River Berkshire and a Forest River Cherokee is enormous, even though they share a parent company. So you have to go a level deeper than brand names alone.
 
-I've spent six years on the road, visited repair shops in 31 states, and talked to hundreds of fellow full-timers. Here's what I've actually learned.
+Here is what full-time RVers who avoid catastrophic breakdowns have learned.
 
 ## The Brands With the Best Reliability Reputations (And Why)
 
@@ -109,7 +109,7 @@ This is the part most buyers skip over in their research, and it's the part that
 
 Roof seams need inspection every 90 days and resealing annually, minimum. Slide seals need conditioning every three to four months. Battery banks need monitoring, and if you're running AGM or lithium, a quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) like a Victron BMV-712 will tell you what's actually happening with your system rather than letting you guess. [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) sound basic, but consistently leveling your rig protects your refrigerator's cooling unit from premature failure, which can run $800 to $1,200 to replace.
 
-The full-timers I've seen make it five or more years without catastrophic breakdowns are almost always people who maintain obsessively and catch problems small. The ones who treat their RV like a house that takes care of itself are the ones calling me from the side of I-40.
+They maintain obsessively and catch problems small. Those who treat their RV like a house that takes care of itself tend to face serious breakdowns on the road.
 
 If you're just getting started and want a structured approach to the whole lifestyle, there are some solid [RV living guides](https://www.amazon.com/s?k=rv+living+guide+book&tag=contentportfo-20) that cover maintenance schedules in practical detail.
 
@@ -124,7 +124,6 @@ After 90,000 miles and six years, I still don't have a perfect answer to the rel
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [RV living guides](https://www.amazon.com/s?k=rv+living+guide+book&tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -42,7 +42,7 @@ Here's what actually matters, how often to do it, and what I've learned from doi
 | Fiberglass | Hard, smooth surface | Mild soap and water | Gel coat oxidation and cracking | Nearly impervious if maintained |
 | Aluminum | Metallic | Mild soap and water | Seams (riveted or lapped) | Good |
 
-This sounds obvious. It isn't. I've watched people at rallies scrub an EPDM roof with a petroleum-based cleaner and wonder why it started cracking. Different roof materials require different products, different inspection logic, and different repair approaches.
+This sounds obvious. It isn't. A common mistake is scrubbing an EPDM roof with a petroleum-based cleaner, which can cause cracking. Different roof materials require different products, different inspection logic, and different repair approaches.
 
 The four types you'll encounter on production RVs:
 
@@ -84,7 +84,7 @@ For EPDM: Dicor makes a rubber roof cleaner that's widely available, around $14 
 
 For TPO: Camco makes a TPO-specific roof cleaner that costs roughly $12 to $16. You can also use mild dish soap and water. Same rule applies: no petroleum products.
 
-Use a long-handled soft brush, not a pressure washer. A pressure washer can lift sealant edges and force water under membrane seams. I've seen the aftermath of this, and it looked like someone had half-peeled a giant sticker off the roof.
+Use a long-handled soft brush, not a pressure washer. A pressure washer can lift sealant edges and force water under membrane seams.
 
 After cleaning EPDM, apply a UV protectant. Dicor's Rubber Roof Treatment works. Some people use 303 Aerospace Protectant, which costs about $15 to $20 and works on both rubber roofs and exterior trim. This step dramatically slows chalking and micro-cracking.
 
@@ -108,7 +108,7 @@ The proper procedure for resealing a vent or fixture: clean the area with a rag 
 
 Do not just apply new sealant over old, cracked sealant. I know it's tempting. I know it takes 10 minutes instead of 45. It doesn't work. The old sealant beneath continues to crack, the bond between old and new fails within a season, and you end up re-doing the job anyway. Strip the old material with a plastic scraper or a commercial sealant remover, clean the surface, then seal fresh.
 
-One product worth having in your toolkit: [Eternabond Tape](https://www.amazon.com/s?k=eternabond+tape&tag=contentportfo-20). It's a butyl-based repair tape that's almost absurdly effective for sealing cracks in rubber roofs, minor tears, or anywhere you need a fast repair before you can do a proper job. A 4-inch by 50-foot roll runs around $70 to $90 and lasts years. I've used it on an emergency repair in a Montana campsite at 6 PM in October and it held through a winter's worth of weather until I could get the rig into a shop.
+One product worth having in your toolkit: [Eternabond Tape](https://www.amazon.com/s?k=eternabond+tape&tag=contentportfo-20). It's a butyl-based repair tape that's almost absurdly effective for sealing cracks in rubber roofs, minor tears, or anywhere you need a fast repair before you can do a proper job. A 4-inch by 50-foot roll runs around $70 to $90 and lasts years. For example, a quick application in cold weather can hold through extended exposure until a permanent repair is possible.
 
 ---
 
@@ -119,7 +119,6 @@ One product worth having in your toolkit: [Eternabond Tape](https://www.amazon.c
 - [Eternabond Tape](https://www.amazon.com/s?k=eternabond+tape&tag=contentportfo-20)
 - [Camco Vent Covers](https://www.amazon.com/s?k=camco+rv+vent+cover&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
-
 
 Desert parking (Phoenix, Tucson, southern Nevada): UV is the dominant threat. Your sealant life is shorter here than anywhere. Annual resealing on all penetrations is not excessive. Cover your roof vents with vent covers like [Camco Vent Covers](https://www.amazon.com/s?k=camco+rv+vent+cover&tag=contentportfo-20) to reduce heat buildup and slow UV damage on the plastic rims.
 

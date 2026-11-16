@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-My first week full-time was in a Walmart parking lot in Barstow, California, in July, and the temperature inside my rig hit 104 degrees because I didn't yet understand that my roof AC unit needed 30-amp shore power to run properly and I was plugged into a 15-amp extension cord I'd bought at Home Depot like an absolute rookie. I ate warm string cheese and watched a YouTube video about amperage on my phone, sweating through my shirt, wondering what I had done.
+A common mistake for new full-timers is plugging an AC unit rated for 30-amp service into a 15-amp extension cord. This won't supply enough power, and the AC won't run properly, leaving you sweltering in your rig while you figure out what went wrong.
 
 That was eight years ago. I've since logged somewhere around 140,000 miles across 41 states, lived through two major engine failures, one flooded bathroom, and a refrigerator that died in New Mexico with $300 worth of groceries inside. I'm not telling you those stories to scare you off. I'm telling you because everything I know, I learned the hard way, and I'd rather you didn't have to.
 
@@ -51,9 +51,9 @@ On the campground side: current rates (as of July 2026) at full-hookup parks in 
 | Coach-Net | Better in rural areas | 4 hours (western Montana example) | Remote locations |
 | Good Sam Roadside | Adequate in populated areas | 11 hours (rural example) | Populated regions |
 
-I had a reader named Paul from Columbus email me last spring about a slide-out that jammed shut in a campground outside Amarillo, TX, right before a cold front moved in. He spent three days waiting for a mobile tech because he didn't know what warranty coverage he actually had or who to call.
+A slide-out that jams shut in a campground during bad weather can leave you stranded for days if you don't know your warranty coverage or who to call for service.
 
-What most people don't realize is that RV manufacturers' warranties and extended warranties often have massive geographic gaps in service network coverage. Coach-Net and Good Sam Roadside are the two dominant services most people end up with, and in my experience, Coach-Net's mobile tech network is genuinely better in rural areas. I've used both. Coach-Net got a tech to me in western Montana in four hours. Good Sam took eleven, and the guy who showed up wasn't sure what a Cummins Onan generator was.
+RV manufacturers' warranties and extended warranties often have significant geographic gaps in service network coverage. Coach-Net and Good Sam Roadside are the two dominant services most people end up with. Coach-Net's mobile tech network tends to be stronger in rural areas.
 
 Beyond roadside, learn to fix basic things yourself before you go. I'm not saying you need to become a diesel mechanic. But you should be able to: replace a water pump, reseal a window, reset a tripped breaker on your converter, and bleed air from propane lines after a tank swap. YouTube's "RV Repair Club" channel is legitimately good for this. I learned how to replace my water heater anode rod from a 12-minute video, which saved me a $200 service call.
 
@@ -67,7 +67,7 @@ Domicile is your legal state of residence, and it affects your taxes, your vehic
 
 Mail forwarding services (America's Mailbox, Escapees Mail Service, and St. Brendan's Isle are the main three) typically run $150 to $200 per year for basic service, and you'll pay per scan or per forward on top of that. Budget $30 to $50 per month for mail-related costs if you get any volume. It adds up.
 
-Health insurance is where this gets genuinely hard. If you're under 65 and not covered through a remote employer, your options are ACA marketplace plans, which are often cheaper than you'd expect if your income is modest, or a health-sharing ministry, which is not insurance but can work for generally healthy people who want catastrophic coverage. I'm not going to pretend this is solved. It's complicated, the costs vary enormously by state and income, and I've seen people make perfectly reasonable choices that backfired. I use an ACA bronze plan with a high deductible paired with a solid HSA, currently running me about $310 per month in 2026. That's workable. But I'd talk to an independent insurance broker who works specifically with nomads before you commit to anything. Some of them specialize in this.
+Health insurance is where this gets genuinely hard. If you're under 65 and not covered through a remote employer, your options are ACA marketplace plans, which are often cheaper than you'd expect if your income is modest, or a health-sharing ministry, which is not insurance but can work for generally healthy people who want catastrophic coverage. It's complicated, the costs vary enormously by state and income, and reasonable choices can still backfire. Talk to an independent insurance broker who specializes in nomad coverage before you commit to anything.
 
 ## Solar and Batteries: The Upgrade That Actually Changed My Life
 
@@ -75,7 +75,7 @@ I resisted going solar for two full years because I thought it was a luxury for 
 
 My current setup: 400 watts of Renogy solar panels on the roof, a Victron SmartSolar MPPT charge controller ($189 on Amazon, well worth it), and two 100Ah Battle Born lithium batteries. The whole system, which I installed myself over a long weekend with help from Will Prowse's YouTube channel, cost me about $2,100 in parts. I can now run my laptop, charge devices, power LED lighting, and run the fantastic fan for four to five days without plugging in. I can't run the AC off solar alone, and anyone who tells you 200 watts will run your air conditioner is either lying or selling something.
 
-A battery monitor is non-negotiable. The Victron BMV-712 ($89 on Amazon, affiliate link) was one of the smartest $89 purchases I've made. Without one, you're guessing at your battery state and usually guessing wrong.
+A battery monitor is essential. The Victron BMV-712 ($89 on Amazon, affiliate link) is a solid option. Without one, you're guessing at your battery state and usually guessing wrong.
 
 **Worked example on solar ROI:** My campground costs in year two (pre-solar) averaged $780/month. After installing my solar setup, I boondocked an average of 18 nights per month instead of 6, dropping my campground spend to roughly $420/month. That's $360/month saved, meaning my $2,100 system paid for itself in under six months.
 
@@ -98,7 +98,6 @@ One more thing I got badly wrong at first: expecting my productivity to go up be
 - Will Prowse, "DIY Solar Power" (YouTube/willprowse.com): Widely cited practitioner resource for RV solar installations; informed solar system sizing and component recommendations.
 
 ---
-
 
 *Photo: [Jeff Stapleton](https://www.pexels.com/@jeffstapleton) via Pexels*
 

@@ -44,7 +44,7 @@ Most RVs have three tanks: fresh, gray, and black. You probably know that. What 
 
 Here's the math I actually live by: a full-time solo traveler doing dishes, washing hands, a daily shower, and cooking uses roughly 15-20 gallons of fresh water per day with mindful habits. Two people bumps that to 25-35 gallons. So if your fresh tank holds 40 gallons and you're a couple, you're looking at 1-2 days of capacity without hookups. Not the 3-4 days people often assume.
 
-Gray fills up faster than you'd think, especially once you factor in that most RV gray tanks are smaller than the fresh tank. My rig has a 40-gallon fresh, 32-gallon gray, and 30-gallon black. When I was [boondocking in the Sonoran Desert](/boondocking-without-hookups/) for five days straight back in 2023, I ran out of gray capacity on day three. Fresh tank still had 8 gallons in it. Gray was the real bottleneck.
+Gray fills up faster than you'd think, especially once you factor in that most RV gray tanks are smaller than the fresh tank. For example, on a five-day [boondocking](/boondocking-without-hookups/) trip without hookups, gray capacity can run out before fresh water does, even when the fresh tank still has water remaining. Gray is often the real bottleneck.
 
 The fix was behavioral, not technical. I stopped running water while soaping dishes. I switched to a spray bottle for rinsing vegetables. Gray capacity extended to day four and a half. 
 
@@ -60,7 +60,7 @@ What surprised me was how often people skip this entirely when buying a used RV.
 
 Do this at minimum twice a year: once when you recommission in spring, once before winterizing. If you've been sitting in a hot climate for more than 30 days on the same tank of water, do it then too. Heat accelerates bacterial growth in standing water.
 
-A good inline water filter (I've been running the Camco TastePURE KDF for about three years now, around $25 on Amazon) helps with taste and some sediment, but it doesn't replace sanitizing your tank. These are not the same job. (Affiliate disclosure: the site may earn a commission on purchases through our links.)
+A good inline water filter like the Camco TastePURE KDF (around $25 on Amazon) helps with taste and some sediment, but it doesn't replace sanitizing your tank. These are not the same job. (Affiliate disclosure: the site may earn a commission on purchases through our links.)
 
 ## Managing Your Black Tank Without Losing Your Mind
 
@@ -93,6 +93,5 @@ Recommissioning in spring means flushing every bit of that pink antifreeze out b
 - [Centers for Disease Control: Drinking Water in Recreational Vehicles](https://www.cdc.gov): CDC guidance on preventing waterborne illness in RV potable water systems, including Legionella risk in standing water.
 
 ---
-
 
 *Photo: [Athena Sandrini](https://www.pexels.com/@athena) via Pexels*

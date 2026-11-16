@@ -25,7 +25,7 @@ author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
 lastmod: 2026-07-08
 ---
-You're standing in a dealership lot on a Saturday morning, coffee going cold in your hand, staring at two very different machines. The salesperson is hovering. Your partner is already climbing into a Class A motorhome the size of a city bus. And you have absolutely no idea which direction to walk. I've been there. Six years and 90,000 miles later, I can tell you that this decision shapes almost every single day of your life on the road, and most people get it wrong because they fall in love with floor plans instead of thinking about how they actually live.
+You're standing in a dealership lot on a Saturday morning, coffee going cold in your hand, staring at two very different machines. The salesperson is hovering. Your partner is already climbing into a Class A motorhome the size of a city bus. And you have absolutely no idea which direction to walk. This decision shapes almost every single day of your life on the road. Most people get it wrong because they fall in love with floor plans instead of thinking about how they actually live.
 
 ## What You're Really Choosing Between
 
@@ -114,7 +114,7 @@ Travel trailers tend to have simpler 12-volt systems and more roof space for [so
 
 Get a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) installed before you leave the dealership, regardless of which rig you choose. Watching your state of charge in real time changes how you use power and protects your battery investment. I use a Victron BMV-712 and check it constantly.
 
-The best boondocking rigs I've seen in six years of campfire conversations have usually been well-equipped trailers or van conversions. Motorhomes can do it, but the fuel burn to reposition when the weather turns makes them less flexible.
+Well-equipped trailers and van conversions tend to work well for boondocking. Motorhomes can do it, but the fuel burn to reposition when the weather turns makes them less flexible.
 
 ## Resale Value and Long-Term Depreciation
 
@@ -125,7 +125,6 @@ The best boondocking rigs I've seen in six years of campfire conversations have 
 - [filtered water hose](https://www.amazon.com/s?k=rv+water+filter+hose&tag=contentportfo-20)
 - [solar panels](https://www.amazon.com/s?k=rv+solar+panels&tag=contentportfo-20)
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-
 
 Neither RVs nor travel trailers are investments. Let's be honest about that upfront.
 

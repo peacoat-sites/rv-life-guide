@@ -68,7 +68,7 @@ Since people always ask, here's a quick comparison of the [main membership alter
 | Passport America | $44 | 50% off fees at participating campgrounds | Yes, usually | Just pay the discounted rate |
 | Thousand Trails | $600+ | Campground network, full hookups | Yes | Stay within the system |
 
-These serve different needs. Harvest Hosts is for people who want memorable overnight stops with no hookups required. Boondockers Welcome is for people who're comfortable with the slightly more personal dynamic of staying on another RVer's property. Passport America is for people who want hookups but at a discount. They're not really competitors; I've used all four at different times.
+These serve different needs. Harvest Hosts is for people who want memorable overnight stops with no hookups required. Boondockers Welcome is for people who're comfortable with the slightly more personal dynamic of staying on another RVer's property. Passport America is for people who want hookups but at a discount.
 
 The Harvest Hosts Plus plan ($135/year as of 2024) bundles Harvest Hosts and Boondockers Welcome together, which is worth it if you'd use both.
 
@@ -95,7 +95,6 @@ If you're doing a lot of Harvest Hosts nights without hookups, think about water
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [solar panel setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
-
 
 Harvest Hosts works great if you're a full-timer who moves frequently and values experience over amenities. It's great for weekend warriors who want to do something more interesting than another state park campground. It's great for anyone who's self-contained and comfortable boondocking even for just one night.
 

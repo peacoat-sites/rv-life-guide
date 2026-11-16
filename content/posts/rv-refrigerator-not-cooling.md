@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 You open up your RV after a three-hour drive to a summer campground in 90-degree heat, reach into the fridge for a cold drink, and find everything is warm. The milk is already questionable. That's not a hypothetical. That happened to me on a Friday night outside Moab, Utah, with no parts store or mobile tech within 40 miles. What followed was three hours of troubleshooting by headlamp, and eventually a warm beer, because that's what was left that I wasn't worried about.
 
-Eight years in, I've seen this exact problem more times than I'd like to count, on my own rigs and on rigs belonging to people I've met at campgrounds who spotted my tool bag and knocked on my door. An RV refrigerator not cooling is one of the most common complaints on the road, and the good news is that the cause is almost always one of a fairly short list of things. The bad news is that some of those things are an easy $15 fix and some of them are a $900 replacement. Knowing the difference before you call a tech can save you a lot of money.
+An RV refrigerator not cooling is one of the most common complaints on the road, and the good news is that the cause is almost always one of a fairly short list of things. The bad news is that some of those things are an easy $15 fix and some of them are a $900 replacement. Knowing the difference before you call a tech can save you a lot of money.
 
 Let me walk you through what I actually check, in the order I check it, and tell you what I've found over the years.
 
@@ -36,13 +36,13 @@ Let me walk you through what I actually check, in the order I check it, and tell
 
 Most RV refrigerators are absorption-style units. They run on propane or 120V AC power, they have no compressor, and they cool through a chemical reaction involving ammonia, water, and hydrogen gas. This is genuinely clever technology that's been around since the 1930s, but it has one major weakness: it hates heat, it hates being off-level, and it needs adequate ventilation to work properly. Understanding this changes everything about how you diagnose the problem.
 
-What most people don't realize is that these refrigerators are not sealed systems like your home fridge. They depend on gravity to circulate the cooling solution. If you've been parked off-level for more than about 30 minutes, especially in the heat, you may have temporarily disrupted the absorption cycle. The fix can be as simple as leveling the rig and giving it 6-8 hours to recover. I've watched people spend $400 on a service call for exactly this problem.
+What most people don't realize is that these refrigerators are not sealed systems like your home fridge. They depend on gravity to circulate the cooling solution. If you've been parked off-level for more than about 30 minutes, especially in the heat, you may have temporarily disrupted the absorption cycle. The fix can be as simple as leveling the rig and giving it 6-8 hours to recover. A simple leveling fix can prevent expensive service calls for this issue.
 
 The other dirty secret is the ventilation situation. Your fridge has exterior vents, usually one low on the outside wall and one high, sometimes in the roof. If those vents are blocked by debris, a bird nest (yes, really), or if the rig is parked too close to a wall or hedge, the heat from the cooling unit can't escape and the fridge never gets cold. Go outside and look at those vents. Clear them. It sounds too simple to be the answer. It isn't.
 
 ## Start Here: The Quick Checklist Before You Touch Anything
 
-Before you open a panel or call anyone, run through this. I've seen each of these be the sole culprit.
+Before you open a panel or call anyone, run through this. Any one of these can be the sole culprit.
 
 Check which power source you're running on. If you're on shore power, is the circuit breaker tripped? If you're on propane, is the tank actually on and does it have gas? Is the fridge set to AUTO mode or manually set to a source that isn't available?
 
@@ -74,7 +74,7 @@ The 120V heating element is what powers the absorption cycle on electric mode. W
 
 The 12V DC board controls most of the logic on modern units. If your fridge is doing strange things, like cycling on and off, throwing fault codes, or refusing to switch modes, the control board is a real suspect. This is where repairs start to get expensive. Boards run $150-400 depending on the model, and you need to be confident in your diagnosis before you spend that.
 
-One thing I want to push back on: a lot of people on forums will tell you to replace the control board whenever the fridge acts up. In my experience, that's often premature. Before you spend $200 on a board, check your 12V connections at the fridge. Loose or corroded connections at the fridge's DC harness cause all kinds of ghost problems and they take about ten minutes to clean and tighten.
+One thing I want to push back on: a lot of people on forums will tell you to replace the control board whenever the fridge acts up. This is often premature. Before you spend $200 on a board, check your 12V connections at the fridge. Loose or corroded connections at the fridge's DC harness cause all kinds of ghost problems and they take about ten minutes to clean and tighten.
 
 ## The Cooling Unit: When It's Actually Serious
 
@@ -93,7 +93,6 @@ This is where I'll give you my honest opinion: if the refrigerator is more than 
 - [Caio](https://www.pexels.com/@caio)
 - yellow light flashing. Feel
 
-
 I keep coming back to this because it's the most consistently overlooked factor. Absorption refrigerators are rated to cool to a certain temperature *differential* below ambient, not to a fixed temperature. Most are rated for something like 50°F below the temperature at the cooling fins. When it's 100°F outside and your refrigerator compartment vents are in direct sun, that fridge is working against serious heat load.
 
 Adding a small 12V fan inside the refrigerator compartment (behind the access panel, blowing across the fins) makes a meaningful difference in hot weather. A [computer-style 12V fan](https://www.amazon.com/s?k=12v+fan+rv+refrigerator+vent&tag=contentportfo-20) zip-tied in the right spot costs $8 and can drop your internal fridge temps by 10-15 degrees in summer. I've done this on three different rigs. It works.
@@ -101,6 +100,5 @@ Adding a small 12V fan inside the refrigerator compartment (behind the access pa
 Parking with the refrigerator side of the rig in shade matters too. On an east-west parked rig, that can mean the difference between adequate cooling and a warm fridge by afternoon. Little things, but they add up.
 
 ---
-
 
 *Photo: [Caio](https://www.pexels.com/@caio) via Pexels*

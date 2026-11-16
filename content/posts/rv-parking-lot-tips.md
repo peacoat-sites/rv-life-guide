@@ -57,7 +57,7 @@ Don't put out your awning, chairs, and welcome mat like you're setting up camp. 
 
 Shop at the store if it's a retailer. Buy gas if it's a truck stop. Buy a $14 meal if it's Cracker Barrel. I'm not saying you're obligated to spend money, but a small purchase turns you from a squatter into a customer, and that distinction matters when a manager is deciding whether to extend the courtesy again tomorrow.
 
-One more thing: if you travel with a dog, pick up immediately and completely. I've seen "No RV Parking" signs go up within months of a cluster of RVers treating a lot like a dog park. Those signs affect every person who comes after you.
+One more thing: if you travel with a dog, pick up immediately and completely. Irresponsible pet care can lead to "No RV Parking" signs going up within months, affecting all future visitors. Those signs affect every person who comes after you.
 
 ## Comparing Your Options: Overnight Parking Costs and Tradeoffs
 
@@ -74,17 +74,17 @@ Not all free parking is created equal. Here's a realistic breakdown of what diff
 | Home Depot/Lowe's | Free | Low | Variable | None | Ask manager |
 | Hospital overflow | Free | Low | Good | None | Ask security |
 
-The casino column is underrated. Many casino properties, especially in the Southwest and along I-10, actively welcome RVers because they know you'll wander inside. Free Wi-Fi, good lighting, security cameras, and sometimes even a dump station. I've had genuinely comfortable nights at casino lots in Tucson, Biloxi, and up near Reno.
+The casino column is underrated. Many casino properties, especially in the Southwest and along I-10, actively welcome RVers because they know you'll wander inside. Free Wi-Fi, good lighting, security cameras, and sometimes even a dump station.
 
 ## What Can Actually Go Wrong
 
 Let me skip past the generic safety talk and be specific about what I've actually encountered.
 
-The knock. Security guard, store employee, or occasionally a police officer asking you to move. This happens. It's not an emergency. Be polite, say "of course," ask if they know anywhere nearby you could go, and move without drama. I've had security guards who asked me to move then personally directed me to a better spot two blocks away. People are generally decent if you are.
+The knock. Security guard, store employee, or occasionally a police officer asking you to move. This happens. It's not an emergency. Be polite, say "of course," ask if they know anywhere nearby you could go, and move without drama. People are generally decent if you are.
 
-Slide-outs in parking lots are a judgment call. I've extended my passenger-side slide in larger lots at 3 a.m. when I was clearly the only RV there. But I've also had a delivery truck show up at 5 a.m. and nearly clip it. My current rule: if I'm in a lot where trucks might move at night, slides stay in.
+Slide-outs in parking lots are a judgment call. For example, extending a slide in a large lot at night might seem safe until a delivery truck arrives at dawn. My current rule: if I'm in a lot where trucks might move at night, slides stay in.
 
-Carbon monoxide in parking lots adjacent to loading docks or near idling semis. If you're parked within 50 feet of a diesel truck that idles all night (which they do, all night), crack a vent and make sure your CO detector works. Mine went off once outside a Flying J, not dramatically, but enough to wake me and send me to a different spot. [A working CO and propane combo detector](https://www.amazon.com/s?k=rv+carbon+monoxide+propane+detector&tag=contentportfo-20) isn't optional in my rig.
+Carbon monoxide in parking lots adjacent to loading docks or near idling semis. If you're parked within 50 feet of a diesel truck that idles all night (which they do, all night), crack a vent and make sure your CO detector works. [A working CO and propane combo detector](https://www.amazon.com/s?k=rv+carbon+monoxide+propane+detector&tag=contentportfo-20) isn't optional in my rig.
 
 Worked examples from actual nights:
 

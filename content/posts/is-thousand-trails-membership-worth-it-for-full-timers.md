@@ -37,7 +37,7 @@ The 14-day-on, 7-days-off rule is the other thing the marketing doesn't explain 
 | Resale Membership | $150-$300 | Transfers to new owner | Budget-conscious RVers | Nationwide (Elite) or zoned |
 | Pay-as-you-go camping | None | None | Flexibility-focused travelers | Any campground |
 
-When I bought in, Thousand Trails still had a Zone membership structure where you paid for a specific geographic zone and paid upgrade fees to access others. They've since moved mostly toward the nationwide Elite Membership, but some older zone memberships still exist in the resale market.
+Thousand Trails historically used a Zone membership structure where members paid for a specific geographic zone and paid upgrade fees to access others. They've since moved mostly toward the nationwide Elite Membership, but some older zone memberships still exist in the resale market.
 
 A zone membership probably isn't the move if you're a full-timer who moves with the seasons. I've talked to full-timers who bought a Pacific Northwest zone membership thinking they'd winter there and summer there, then found themselves paying out of pocket for huge stretches of the country every time they went elsewhere.
 
@@ -53,7 +53,7 @@ This is where full-timers need to get honest with themselves. Park quality acros
 
 Some parks are genuinely excellent. The TT Orlando/Clermont property in Florida has been a reader favorite for years. TT Leavenworth in Washington is stunning. Idyllwild in California is one of the better mountain parks I've stayed at anywhere, membership or not.
 
-Then there are the others. I've stayed at TT properties with electric hookups that couldn't sustain a hair dryer without tripping the breaker, Wi-Fi that gave up when more than 20 rigs were in the park (which is always), and sites clearly designed before slide-outs existed. A 40-foot fifth wheel with two slides has no business in some of these spots, and I've watched people try.
+Facilities vary widely. Some Thousand Trails properties have electric hookups insufficient for high-draw appliances, Wi-Fi that fails at higher occupancy, and sites designed before modern slide-outs. A 40-foot fifth wheel with two slides may not fit comfortably at every location.
 
 The maintenance gap is something longtime TT members recognize immediately. Some parks have clearly had capital investment in recent years. Others feel like they're running on 1992 infrastructure with a fresh coat of paint. Thousand Trails was acquired by Equity LifeStyle Properties in 2014, and while ELS has generally improved the system, the quality floor is still pretty low at certain locations.
 
@@ -82,7 +82,6 @@ The people who get the least value out of Thousand Trails are the ones who bough
 ## Sources
 
 - [Viktoria B.](https://www.pexels.com/@viktoriab)
-
 
 #### How long does it take to "break even" on a Thousand Trails membership?
 

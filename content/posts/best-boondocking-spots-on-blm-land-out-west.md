@@ -66,7 +66,7 @@ One practical thing: bookmark the BLM's **LandMapper** tool online. It's clunky,
 
 ## What Your Rig Actually Needs (And What People Underestimate)
 
-Boondocking on BLM land is not the same as pulling into a KOA with full hookups. I've watched people arrive at dispersed camping areas completely unprepared and have terrible experiences, then blame "boondocking" when really they just weren't set up for it.
+Boondocking on BLM land is not the same as pulling into a KOA with full hookups. Arriving unprepared at dispersed camping areas often leads to poor experiences, even though the issue is usually inadequate setup rather than boondocking itself.
 
 Water is number one. You need to know your tank capacity and your actual daily usage, not the theoretical number. My 40-gallon fresh tank lasts me about five days if I'm being careful. Three days if I'm not. If you're somewhere like the Escalante or central Nevada, the nearest potable water fill might be 60 miles away. Plan like you're going to need more than you think.
 
@@ -74,7 +74,7 @@ Power is next. Solar is not optional if you want to stay more than two nights wi
 
 Road access is the thing that catches people off guard most. "High-clearance recommended" is not a suggestion. I drive a half-ton pickup with my trailer and I've still had moments on Cottonwood Canyon Road and parts of the Escalante region where I thought carefully about whether I was making a mistake. If you're in a Class A motorhome or a large fifth wheel with limited clearance, you will be limited to the more accessible BLM areas. Stick to areas like Quartzsite, the Owens Valley, or the flatlands east of Moab where the roads are graded regularly.
 
-Leveling blocks are something you absolutely need in the desert where pullouts are almost never flat. I've used **Camco Tri-Leveler blocks** for years. They stack, they're cheap (around $25 for a set), and they've never failed me. Pair them with a surge protector if you're occasionally mixing in campgrounds between your boondocking stretches. The [Camco leveling blocks](https://amzn.to/camco-tri-leveler) and a [Progressive Industries EMS surge protector](https://amzn.to/progressive-ems) are two products I genuinely can't imagine being without. (Disclosure: the site may earn a commission on purchases through those links.)
+Leveling blocks are essential in the desert where pullouts are almost never flat. **Camco Tri-Leveler blocks** stack, cost around $25 for a set, and are reliable. Pair them with a surge protector if you're occasionally mixing in campgrounds between your boondocking stretches. The [Camco leveling blocks](https://amzn.to/camco-tri-leveler) and a [Progressive Industries EMS surge protector](https://amzn.to/progressive-ems) are two products I genuinely can't imagine being without. (Disclosure: the site may earn a commission on purchases through those links.)
 
 ## The 14-Day Rule and How to Move Smart
 
@@ -84,7 +84,6 @@ Leveling blocks are something you absolutely need in the desert where pullouts a
 - [Progressive Industries EMS surge protector](https://amzn.to/progressive-ems)
 - [Alfo Medeiros](https://www.pexels.com/@alfomedeiros)
 - this: the hardest part isn't finding BLM land
-
 
 BLM land has a standard 14-day stay limit in most areas. After that, you're required to move at least 25 miles before returning to the same area. Most people know this rule. Fewer people follow it.
 

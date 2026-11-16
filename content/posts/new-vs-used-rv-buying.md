@@ -43,7 +43,7 @@ Here's the part dealers won't emphasize: new RVs come with bugs. The RV manufact
 
 ## The Real Case for Buying Used
 
-When I bought my first rig, a 2009 Keystone Cougar fifth wheel, it was 2019 and the unit was ten years old. I paid $18,500. The previous owners had taken decent care of it, there were some minor cosmetic issues, and the tires needed replacement. But the bones were solid, and critically, most of the early failure points had already happened and been fixed.
+A used RV that's been properly maintained often comes with this advantage: the early failure points have already happened and been fixed. The previous owners have dealt with minor issues, and the bones of the rig remain solid.
 
 That's the concept experienced RVers call "buying past the problems." New RVs have systems that fail in the first year or two: slide seals dry out, fan motors die, LP regulators act up, water heaters develop igniter issues. If you buy a rig that's three to five years old and has been properly maintained, a lot of those early failures are already in the rearview mirror.
 
@@ -51,7 +51,7 @@ Used also means you can get significantly more rig for your money. A five-year-o
 
 The risks are real, though. Roof damage and water intrusion are the biggest killers of used RVs. A roof that's been leaking slowly for two seasons can mean rotted sidewalls, damaged subfloor, and mold, and you might not see any of it without a professional inspection. Delamination (when the fiberglass sidewall separates from the underlying structure) is another one to watch for. Run your hand along the exterior sides and look for bubbles or soft spots.
 
-Before you buy any used RV, spend $300 to $600 on an [independent RV inspection](/rv-inspection-what-to-check/) from a certified inspector. Find one through NRVIA (National RV Inspectors Association). This is non-negotiable. I've seen people skip this step and regret it bitterly six months later when they discover a slow roof leak that's been quietly wicking into the walls for years.
+Before you buy any used RV, spend $300 to $600 on an [independent RV inspection](/rv-inspection-what-to-check/) from a certified inspector. Find one through NRVIA (National RV Inspectors Association). This step matters: skipping it can lead to discovering slow roof leaks or other hidden damage months after purchase.
 
 ## A Side-by-Side Comparison
 
@@ -83,7 +83,7 @@ Here's a practical breakdown of the major factors, honest and without spin:
 | Insuring | Standard rates | Similar, may be slightly lower |
 | Peace of mind | High (short term) | High (after inspection clears it) |
 
-One thing people often overlook: used RVs frequently come loaded with extras the previous owner added. Solar panels, upgraded mattresses, nicer outdoor kitchens, aftermarket backup cameras. I've bought used units that came with $4,000 worth of add-ons already installed. That's a genuine bonus.
+One thing people often overlook: used RVs frequently come loaded with extras the previous owner added. Solar panels, upgraded mattresses, nicer outdoor kitchens, aftermarket backup cameras. Used RVs sometimes come with thousands of dollars in add-ons already installed. That's a genuine bonus.
 
 ## How to Buy a Used RV Without Getting Burned: A Step-by-Step Process
 
@@ -114,7 +114,6 @@ If you're leaning used, here's how to approach it without making an expensive mi
 - [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Anton Massalov](https://www.pexels.com/@antonhansenphotography)
-
 
 People focus on the monthly payment. That's the mistake.
 

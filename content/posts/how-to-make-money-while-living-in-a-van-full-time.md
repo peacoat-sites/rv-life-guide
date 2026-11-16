@@ -29,7 +29,7 @@ Most people who ask me about van life income are asking the wrong question. They
 
 I've met people making $12,000 a month from a 2003 Sprinter with a folding desk and a hotspot. I've also met people who burned through their savings in four months because the freelance pipeline they "had lined up" evaporated the week they hit the road. The money part of van life isn't hard because the opportunities are scarce. It's hard because you're managing irregular income, unreliable connectivity, no separation between your office and your bedroom, and the constant temptation to just drive somewhere more interesting instead of finishing the thing that pays you.
 
-I didn't figure most of this out gracefully. Eight years in, I've tried a lot of income streams, kept a few, and watched others fall apart in ways I should have seen coming.
+Finding a reliable income stream while traveling takes experimentation. Most approaches require testing multiple options before settling on what works for your situation.
 
 ---
 
@@ -49,7 +49,7 @@ For the practical setup: a solid mobile hotspot is non-negotiable. I've used the
 
 ## Content Creation: The Long Game That Actually Works
 
-I want to be careful here because [content creation](/full-time-rv-income-ideas/) is wildly oversold as a van life income strategy. I've watched a lot of people burn out on it. YouTube, Instagram, TikTok, Substack can generate real money. The honest truth? Most van life channels that monetize well were started before 2020, and the ones succeeding now are doing something genuinely specific.
+[Content creation](/full-time-rv-income-ideas/) is often oversold as a van life income strategy. YouTube, Instagram, TikTok, and Substack can generate real money, but channels starting now face more saturation than earlier platforms. Success typically requires a specific angle or audience rather than generic travel content.
 
 The channels growing right now aren't "Van Life with Jake and Sarah." They're the mechanic who does hands-on Sprinter conversion tutorials. The woman who documents solo female van life in national forests with actual campsite coordinates and safety assessments. The guy who does brutally honest budget breakdowns with receipts. Specificity wins.
 
@@ -98,14 +98,13 @@ Service businesses are arguably even cleaner: mobile dog grooming, mobile notary
 - [Kampus Production](https://www.pexels.com/@kampus)
 - plan for the past two years
 
-
 Irregular income is psychologically brutal if you're not prepared for it. This is probably the thing I wish someone had explained to me in year one.
 
 The system that's worked for me: keep a "baseline" savings buffer equivalent to three months of your actual expenses, not some theoretical budget. Treat that buffer as untouchable. Every month I earn above baseline, half goes to taxes, a quarter goes to the buffer if it's depleted, and the rest is genuinely free to spend or invest. I use a separate high-yield savings account (currently at Marcus by Goldman Sachs) just for the tax allocation. That way you're never surprised in April.
 
 Health insurance is the budget line that bites van lifers hardest. If you're self-employed with variable income, ACA marketplace plans deserve careful looking. Income-based subsidies can be significant if your AGI is below 400% of the federal poverty line. HealthSherpa is a better comparison interface than healthcare.gov itself.
 
-On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20) and a [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20) are what I've been running, and they've been solid.
+On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20) and [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20) are popular choices for this setup.
 
 ---
 

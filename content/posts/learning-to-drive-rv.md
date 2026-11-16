@@ -33,7 +33,7 @@ Before you touch the ignition, understand what you're actually working with. An 
 
 The most important concept is **off-tracking**, which is what happens when your rear wheels don't follow the same path as your front wheels during a turn. On a 30-foot motorhome, the rear wheels cut inside your front wheels by several feet. Ignore this in a parking lot and you'll hop a curb. Ignore it at a gas station and you'll clip a pump. New drivers consistently underestimate how much space the back end needs.
 
-Height clearance is the other critical one. The average Class A motorhome runs between 11.5 and 13.5 feet tall. Low-hanging tree branches, older gas station canopies, and fast-food drive-throughs can all be right at that threshold. I've seen people damage their AC units or satellite dishes simply because they forgot to check the height before pulling under something. Know your rig's exact height. Write it on a sticky note and put it on the dashboard until it's burned into memory.
+Height clearance is the other critical one. The average Class A motorhome runs between 11.5 and 13.5 feet tall. Low-hanging tree branches, older gas station canopies, and fast-food drive-throughs can all be right at that threshold. Damage to AC units or satellite dishes from low clearances is common and easily preventable. Know your rig's exact height. Write it on a sticky note and put it on the dashboard until it's burned into memory.
 
 Braking distance is longer too. A 30,000-pound motorhome loaded with gear, water, and supplies doesn't stop like a Honda Accord. You need 3 to 4 seconds of following distance instead of the 2-second rule from driver's ed. On downhill grades, engine braking and exhaust brakes become critical tools.
 
@@ -108,7 +108,6 @@ Knowing what tends to go wrong saves you from learning it the hard way.
 
 - [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - backed in on the first try. Start
-
 
 Confidence comes from mileage. There's no shortcut. But there are ways to make that mileage count more.
 

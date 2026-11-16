@@ -43,7 +43,7 @@ The weight difference is real and it matters. I replaced 400Ah of AGM in my Clas
 
 You might be wondering whether all lithium batteries are created equal. They're not, and this is where people make expensive mistakes.
 
-The chemistry you want is lithium iron phosphate, or LiFePO4. Not lithium cobalt oxide (the stuff in laptops and phones). LiFePO4 is thermally stable, meaning it doesn't carry the same fire risk that makes some people nervous about lithium. It also has a much longer cycle life, typically 2,000 to 5,000 cycles versus 300 to 500 for AGM. That's not a marketing number. I've had my Battle Born 100Ah batteries since 2019 and they're performing within 5% of original capacity.
+The chemistry you want is lithium iron phosphate, or LiFePO4. Not lithium cobalt oxide (the stuff in laptops and phones). LiFePO4 is thermally stable, meaning it doesn't carry the same fire risk that makes some people nervous about lithium. It also has a much longer cycle life, typically 2,000 to 5,000 cycles versus 300 to 500 for AGM.
 
 Here's what I tell people to look for specifically:
 
@@ -126,7 +126,6 @@ The lithium upgrade isn't a magic fix for everything, but after eight years of f
 - [Victron SmartShunt 500A](https://www.amazon.com/s?k=victron+smartshunt+500a&tag=contentportfo-20)
 - [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
 - [EF EcoFlow DELTA 2 Portable Power Station (1024Wh)](https://www.amazon.com/dp/B0B9XB57XM/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

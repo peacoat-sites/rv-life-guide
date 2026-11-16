@@ -29,9 +29,7 @@ Most full-time RVers pick their [domicile state](/rv-domicile-state-options/) th
 
 The short version: three states dominate the domicile conversation for good reason, a couple of others are underrated, and a few popular choices are traps. The differences aren't trivial. Pick the wrong state and you could be paying $600 to $900 more per year just in vehicle registration fees, plus income tax exposure if you're not careful about where your money originates.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">South Dakota, Texas, and Florida are the top three domicile states for full-time RVers, all with zero state income tax.</li><li style="margin:5px 0">South Dakota has the cheapest vehicle registration and quickest setup (one day in Sioux Falls, no appointment needed).</li><li style="margin:5px 0">Florida's Homestead Exemption is irrelevant to full-timers, don't let agents sell you on that benefit.</li><li style="margin:5px 0">Some states with no income tax still hit RVers hard through annual vehicle property taxes or registration schemes.</li><li style="margin:5px 0">Your domicile choice follows you: bank accounts, insurance rates, jury duty, and voting all tie to it.</li></ul></div>
-
 
 ## The Tax Picture Most Guides Miss
 
@@ -45,7 +43,7 @@ A reader named Cliff, who'd been full-timing for four years out of Nevada, email
 
 Here's where I'll commit to something most articles won't: a ranked order, not a "they're all great, it depends" hedge.
 
-**1. South Dakota.** The fastest, cheapest, most RV-friendly setup in the country. No state income tax. No vehicle property tax. Registration is based on weight, not value, so a $150,000 diesel pusher doesn't get punished the way it would in other states. You can establish residency in a single day using one of the Sioux Falls mail forwarding services (America's Mailbox and My Dakota Address are the two I've seen most RVers use). The clerk at the DMV will ask you if you want to register your toad vehicle at the same time, and the answer is almost always yes.
+**1. South Dakota.** South Dakota offers significant advantages for RV owners. No state income tax. No vehicle property tax. Registration is based on weight, not value, so a $150,000 diesel pusher doesn't get punished the way it would in other states. Residency can be established in a single day using one of the Sioux Falls mail forwarding services (America's Mailbox and My Dakota Address are the two most commonly used by RVers). The clerk at the DMV will ask you if you want to register your toad vehicle at the same time, and the answer is almost always yes.
 
 **2. Texas.** No income tax, and registration fees are reasonable, though not as low as South Dakota's. The catch: Texas requires you to get a vehicle inspection every year, which is a minor hassle when you're 1,400 miles away from Texas come renewal time. Some inspection shops near RV parks in the Houston and San Antonio areas know the drill and service out-of-state domicile folks regularly, so it's manageable. Texas does not charge personal property tax on RVs registered as vehicles (as opposed to real property), which is the right call.
 
@@ -53,9 +51,7 @@ Here's where I'll commit to something most articles won't: a ranked order, not a
 
 The others you'll hear about: Wyoming (no income tax, reasonable fees, but thin infrastructure for establishing domicile), Montana (popular for LLC-based RV title strategies to avoid sales tax, which is legally gray and not what this article is addressing), Nevada (no income tax but a pain in practice for full-timers).
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Annual RV Registration Cost by State (Class A, 30,000 lbs)</div><div class="sc-row"><span class="sc-label">South Dakota</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$147</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">$238</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">$271</span></div><div class="sc-row"><span class="sc-label">Wyoming</span><span class="sc-track"><span class="sc-bar" style="width:13%"></span></span><span class="sc-val">$214</span></div><div class="sc-row"><span class="sc-label">Nevada</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$289</span></div><div class="sc-row"><span class="sc-label">South Carolina</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,680</span></div><div class="sc-src">Source: State DMV fee schedules, verified July 2026</div></div>
-
 
 ## A Side-by-Side Comparison
 
@@ -90,7 +86,7 @@ Someone who earns $80,000/year in freelance income and moves from California dom
 
 ## The Insurance Angle Nobody Talks About
 
-Your domicile state directly affects your RV insurance premium. Not by 2 or 3 percent. I've seen 15 to 22 percent swings.
+Your domicile state directly affects your RV insurance premium, with differences of 15 to 22 percent possible between states.
 
 States with high uninsured motorist rates and dense population (Florida, notably) tend to produce higher premiums even for full-timers who are stateless in practice. South Dakota, with its low traffic density and claim history, tends to produce lower premiums. When I've called insurers to quote with different domicile states (yes, I've done this, more than once, out of curiosity and because I had a reader ask), the difference between a Florida and South Dakota address on the same rig has been as high as $340/year.
 
@@ -105,6 +101,5 @@ Progressive and National General both write full-timer policies. Good Sam Insura
 - Escapees RV Club Domicile Guide: Long-running community resource documenting domicile state options, mail forwarding requirements, and member-reported experiences across South Dakota, Texas, and Florida.
 
 ---
-
 
 *Photo: [Capitol Reef RV Park Glamping A-frames](https://www.pexels.com/@capitol-reef-rv-park-glamping-a-frames-1266940476) via Pexels*

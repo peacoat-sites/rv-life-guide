@@ -44,7 +44,7 @@ Most people think leveling is just about comfort. And sure, sleeping on a slant 
 
 Your RV refrigerator, if it's an absorption-style fridge (the kind that runs on propane or electric, which covers most RVs), relies on a chemical process involving ammonia, hydrogen gas, and water. That process only works correctly when the unit is level. Run it off-level for a few days and you risk crystallization inside the cooling unit. A replacement cooling unit runs $500 to $1,200. A new fridge costs $1,500 or more. Leveling blocks cost $30. The math is clear.
 
-Your slide-outs take abuse when you're parked crooked too. They're designed to extend and retract on a level plane. Repeated operation at an angle puts uneven stress on the motors and seals. I've seen people drive slightly off-level for a season and then wonder why their slide motor burned out.
+Your slide-outs take abuse when you're parked crooked too. They're designed to extend and retract on a level plane. Repeated operation at an angle puts uneven stress on the motors and seals. Driving slightly off-level for extended periods puts uneven stress on the motors and seals, which can eventually cause slide motors to burn out.
 
 Fresh and gray water tanks also drain more completely when you're level. Your shower and toilet work better. It's a small thing with a big daily quality of life payoff.
 
@@ -69,7 +69,7 @@ A decent bubble level placed on a countertop works fine for checking your work. 
 This is the process I walk every new towable owner through. It works whether you have a fancy remote-controlled stabilizer system or just a tongue jack and a bag of blocks.
 
 **What you'll need:**
-- Leveling blocks (I've used [Camco Fasten leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks&tag=contentportfo-20) for years; they're stackable and lock together)
+- Leveling blocks like [Camco Fasten leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks&tag=contentportfo-20) are stackable and lock together, making them easy to position and adjust.
 - A bubble or digital level
 - Wheel chocks
 - A tongue jack or pin box with crank or motor
@@ -124,7 +124,6 @@ Here's what I tell people when they're frustrated with a bad site:
 - [Camco Fasten leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks&tag=contentportfo-20)
 - [Tri-Lynx Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20)
 - [Clément Proust](https://www.pexels.com/@clement-proust-363898785)
-
 
 | Tool | Useful? | Cost Range | My Take |
 |---|---|---|---|

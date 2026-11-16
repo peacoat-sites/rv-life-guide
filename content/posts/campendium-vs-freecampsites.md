@@ -27,13 +27,11 @@ faqs:
 
 You probably already have one of these apps open in another tab. Maybe you're parked somewhere with spotty signal, trying to figure out where you're sleeping tomorrow night, and someone in a Facebook group told you to "just use Campendium" while someone else swore by Freecampsites. Now you're wondering which one to actually trust.
 
-Here's what I tell people who ask me this: use both, but understand what each one is actually good at, because they are not the same tool doing the same job. I've been full-timing since 2018 and I've used both platforms in real conditions, not just poked around them on a laptop at a coffee shop. There's a meaningful difference between what these apps do well, and picking the wrong one for the wrong situation has cost me a wasted drive or two.
+Use both, but understand what each one is actually good at, because they are not the same tool doing the same job. There's a meaningful difference between what these apps do well, and picking the wrong one for the wrong situation can lead to wasted time or a frustrating detour.
 
 The short version is that Campendium skews toward reviews and context, while Freecampsites skews toward sheer volume and coordinates. Both are free at the basic level. Neither is perfect.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Campendium offers richer reviews and filter options; Freecampsites has more raw listings, especially dispersed BLM spots.</li><li style="margin:5px 0">Both platforms are free to use; Campendium Pro costs $29.99/year and unlocks offline maps and advanced filters.</li><li style="margin:5px 0">Freecampsites pulls listings from multiple sources and currently shows over 60,000 sites across North America.</li><li style="margin:5px 0">For trip planning at home, Campendium wins. For finding a spot tonight in the desert, Freecampsites often has the edge.</li><li style="margin:5px 0">Neither replaces a current Motor Vehicle Use Map from the Forest Service for true dispersed camping navigation.</li></ul></div>
-
 
 ## What Each Platform Actually Is
 
@@ -72,15 +70,13 @@ The listing count difference is real and matters. If you camp a lot on [BLM land
 
 ## Who Should Pay for Campendium Pro?
 
-Honestly, the $29.99/year is easy to justify if you're full-timing or even doing 60+ nights a year on the road. The offline maps alone are worth it. I've been in enough dead zones where having saved maps meant the difference between finding camp before dark and doing a white-knuckle turnaround on a dirt road at dusk. The trip-planning tools are decent for sketching out a rough route with overnight options flagged along the way.
+The $29.99/year is easy to justify if you're full-timing or even doing 60+ nights a year on the road. The offline maps alone are worth it; in dead zones, saved maps can be the difference between finding camp before dark and struggling to navigate back on an unfamiliar road at dusk. The trip-planning tools work well for sketching out a rough route with overnight options flagged along the way.
 
 If you're doing a couple of trips a year and mostly sticking to established campgrounds, you probably don't need Pro. The free version of Campendium covers a lot of ground.
 
 Freecampsites' app is free with no tiered features, which is genuinely refreshing. Their business model relies on donations and minimal ads. It works.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated listings by platform (North America, 2026)</div><div class="sc-row"><span class="sc-label">Campendium (total)</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">30,000 listings</span></div><div class="sc-row"><span class="sc-label">Freecampsites (total)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">60,000 listings</span></div><div class="sc-src">Source: Campendium and Freecampsites platform data, 2026</div></div>
-
 
 ## How I Actually Use Them Together
 
@@ -90,7 +86,7 @@ Then I've got Freecampsites open on my phone as a backup layer, especially when 
 
 Worked example: In March 2025, I was working my way through southern Utah and planned a two-night stop near the Escalante area using a Campendium-vetted BLM spot. Got there to find it still snow-covered and inaccessible. Freecampsites showed me three alternative pins within eight miles. Two were junk (old listings, no road access visible on satellite), but the third put me on a beautiful bench with a clear approach. Total detour: about 40 minutes. Without Freecampsites, I'd have been driving to the nearest RV park.
 
-Second example: A reader named Marcus from Tucson emailed me earlier this year asking why he kept finding "better" spots on Freecampsites that Campendium didn't show. His situation: full-timing in a Jeep-pulled teardrop, so road quality was basically irrelevant to him. For a small trailer person, the volume advantage of Freecampsites is proportionally bigger, because you can access spots that a 30-footer can't touch. His rig opened up the long tail of Freecampsites' database in a way mine can't. So his answer was different from mine.
+For a small trailer owner, the volume advantage of Freecampsites is proportionally bigger, because you can access spots that a 30-footer can't. A compact rig opens up the long tail of Freecampsites' database in ways a larger vehicle can't, so the app choice depends on what you're towing.
 
 ## Sources
 
@@ -101,6 +97,5 @@ Second example: A reader named Marcus from Tucson emailed me earlier this year a
 - [The Dyrt](https://thedyrt.com): Competing platform often mentioned in comparisons; useful benchmark for understanding how review-based models vary.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

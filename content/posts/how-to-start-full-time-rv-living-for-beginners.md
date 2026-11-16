@@ -66,7 +66,7 @@ Whatever you buy, get it inspected by a [certified RV inspector](/rv-inspection-
 
 Pick a domicile state before you sell or vacate your house. This is your legal home state for taxes, vehicle registration, and voting. South Dakota, Texas, and Florida are the three most popular among full-timers, all for similar reasons: no state income tax, relatively easy to establish residency without actually living there, and vehicle registration processes that don't make your brain hurt.
 
-South Dakota's probably the most common choice. You can establish residency in a single day by staying one night at a motel, visiting the DMV in person, and getting a South Dakota driver's license. Companies like America's Mailbox in Box Elder, SD ($179/year) will handle your mail forwarding and serve as your permanent address. I've used this system for years. It works.
+South Dakota's probably the most common choice. You can establish residency in a single day by staying one night at a motel, visiting the DMV in person, and getting a South Dakota driver's license. Companies like America's Mailbox in Box Elder, SD ($179/year) will handle your mail forwarding and serve as your permanent address. This system is straightforward and reliable for full-time travelers.
 
 Mail forwarding is non-negotiable. You need a real street address (not a PO box) for your driver's license, vehicle registration, and most banking. Escapees RV Club offers mail forwarding and a domicile package out of Livingston, Texas, and their service is solid. Their basic mail forwarding plan runs about $100/year plus postage.
 
@@ -94,7 +94,6 @@ Cell boosters and hotspots deserve a whole article. Short version: a WeBoost Dri
 - [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [Clément Proust](https://www.pexels.com/@clement-proust-363898785)
 - here is genuinely mixed
-
 
 The first month is usually a mix of exhilarating and overwhelming. You'll discover things about your rig that the previous owner or dealer didn't mention. The refrigerator might not hold temp when it's 95 degrees out. The slideout might have a slow leak you missed during inspection. Plan to spend your first few weeks parked somewhere stable with hookups, near a city with RV parts availability, rather than immediately chasing remote destinations.
 

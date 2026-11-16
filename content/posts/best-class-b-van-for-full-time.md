@@ -25,7 +25,7 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 lastmod: 2026-07-08
 ---
-Six years ago I handed over the keys to my 2,400-square-foot house in Columbus, Ohio, drove to a dealership in Indiana, and came home in a 24-foot Class B motorhome. I thought I'd done my research. I had not. Three blown tires, two failed inverters, one terrifying moment on a mountain pass in Colorado, and roughly 90,000 miles later, I can tell you that choosing the *right* van makes or breaks [full-time living in ways](/full-time-rv-living-guide/) no YouTube walkthrough will fully prepare you for.
+Choosing the *right* van makes or breaks [full-time living in ways](/full-time-rv-living-guide/) no YouTube walkthrough will fully prepare you for. Many who transition to full-time RV life underestimate how critical the build quality is until they face issues like electrical failures or mechanical breakdowns on the road.
 
 [Class B motorhomes](/class-a-vs-class-b-vs-class-c-rv/), built on cargo van platforms rather than custom chassis, are the smallest drivable RVs you can buy. That's both their power and their problem. You can park in a regular campsite, slip into most city parking garages, fill up at a standard gas station pump, and actually drive the thing without feeling like you're piloting a city bus. But "Class B" covers an enormous range of quality, price, and livability. A $45,000 entry-level build and a $200,000 Airstream Interstate are both technically Class Bs. They're not remotely the same experience.
 
@@ -41,7 +41,7 @@ Floor plans matter less than build quality and mechanical platform, because you 
 
 **Powertrain reliability** is why the Mercedes-Benz Sprinter and Ram ProMaster platforms dominate the premium Class B market. The Sprinter diesel, particularly the 3.0L V6, has a track record that justifies the premium. It gets 18 to 22 MPG on highway, which adds up fast when you're driving 20,000+ miles a year. The ProMaster runs a Pentastar 3.6L gas V6 that's genuinely solid but drinks more fuel. The Ford Transit, used by Coachmen and Winnebago on some models, sits somewhere in the middle.
 
-**Electrical systems** are where cheap builds fall apart fastest. Full-time living means you need real lithium battery capacity, not the 100Ah AGM setup a weekend camper can get away with. Minimum 200Ah lithium. Honestly 300Ah is more comfortable if you're running a compressor fridge, laptop, phone, and CPAP machine. Solar input matters too. A single 200W panel is almost a joke for full-time use. Look for 400W minimum, with shore power hookup as backup. I run a [Renogy 200W solar panel](https://www.amazon.com/s?k=renogy+200w+solar+panel) setup in pairs, and it's been the single best upgrade I've made. (Disclosure: this site may earn a commission on purchases made through links.)
+**Electrical systems** are where cheap builds fall apart fastest. Full-time living means you need real lithium battery capacity, not the 100Ah AGM setup a weekend camper can get away with. Minimum 200Ah lithium. Honestly 300Ah is more comfortable if you're running a compressor fridge, laptop, phone, and CPAP machine. Solar input matters too. A single 200W panel is almost a joke for full-time use. Look for 400W minimum, with shore power hookup as backup. A [Renogy 200W solar panel](https://www.amazon.com/s?k=renogy+200w+solar+panel) setup in pairs can be a solid upgrade for full-time van living. (Disclosure: this site may earn a commission on purchases made through links.)
 
 ---
 
@@ -109,10 +109,9 @@ Here's the honest setup I'd build if I were starting over, knowing what I know n
 - [inline water filter](https://www.amazon.com/s?k=inline+rv+water+filter)
 - [Andersen Camper Levelers](https://www.amazon.com/s?k=andersen+camper+levelers)
 
-
 You will feel small. Not metaphorically. Physically small. A Class B has somewhere between 65 and 100 square feet of living space. That's not a tiny house. That's a studio apartment without the "apartment" part. Some people adapt in two weeks. Others feel claustrophobic for months. There's no way to predict which camp you'll fall into without living it.
 
-Relationships get stress-tested. I've watched couples thrive in Class Bs and I've watched couples dissolve inside of a year. The van doesn't cause problems, but it removes every place you'd normally go to decompress. When you're angry at your partner, you can't go to another room. You can go outside, which helps, but it's raining in the Pacific Northwest six months a year.
+Relationships get stress-tested. Couples living full-time in vans experience varying outcomes depending on how they manage the tight quarters. The van doesn't cause problems, but it removes every place you'd normally go to decompress. When you're angry at your partner, you can't go to another room. You can go outside, which helps, but it's raining in the Pacific Northwest six months a year.
 
 Maintenance will cost more than you expect and take longer than you expect. Sprinter repairs at a dealership run $180 to $250 per hour in labor. ProMaster work is cheaper and more widely available. Transit work is somewhere in the middle. Factor this in when choosing your platform.
 

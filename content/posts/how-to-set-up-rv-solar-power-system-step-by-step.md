@@ -119,7 +119,6 @@ Wire the inverter directly to the batteries with appropriately sized cable (chec
 - [solar cable entry gland](https://www.amazon.com/s?k=rv+solar+cable+entry+gland&tag=contentportfo-20)
 - [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009)
 
-
 Roof weight adds up faster than you think. Four 200-watt panels at roughly 25 lbs each is 100 lbs before brackets and wire. Know your roof rating. Fiberglass roofs on older rigs can flex and crack under that load if the mounting spans poorly.
 
 Shade management is the biggest ongoing performance issue after installation. One big tree shadow across two panels at noon can drop your production 60-70%. It changes where you camp and how you position. Get used to thinking about it.
@@ -130,6 +129,6 @@ Finally: check your connections every six months. Vibration loosens terminals. A
 
 ---
 
-Eight years in, the solar setup on my current rig is the single best upgrade I've made to full-time life. Not because it's glamorous. Shore power anxiety is gone. You can stay somewhere beautiful for a week without running a generator and without watching your battery percentage like a hawk. That's what the system is really for. The wiring is just how you get there.
+A quality solar setup is one of the most worthwhile upgrades for full-time RV life. The real benefit: shore power anxiety disappears. You can stay somewhere beautiful for a week without running a generator and without constantly checking your battery percentage. That's what the system is really for. The wiring is just how you get there.
 
 *Photo: [Florida Solar Fix](https://www.pexels.com/@florida-solar-fix-2154752009) via Pexels*

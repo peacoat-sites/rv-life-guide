@@ -25,7 +25,7 @@ faqs:
    a: "Biscuit is 65 pounds, which is solidly 'large dog' territory, and she's genuinely happy. What matters far more than rig size is how much time you spend outside. If you're a screen-and-campfire person who stays parked for days at a time, a big dog will go stir-crazy regardless of how spacious your rig is. If you're active and moving, a dog that size adjusts fine, I've met Great Dane owners doing this life who would argue the same."
 lastmod: 2026-07-08
 ---
-My dog Biscuit has logged more miles than most people's cars. Somewhere north of 60,000 miles across 34 states, all from a custom platform bed wedged into the passenger-side corner of my 32-foot fifth wheel. When I started full-timing with her in 2018, I figured the hardest part would be tracking down pet-friendly campgrounds. I was completely wrong about that.
+Dogs can rack up serious road miles in an RV. A custom platform bed wedged into a corner makes a good travel spot. Many people assume finding pet-friendly campgrounds will be the hardest part of full-timing with a dog, but other issues often prove more challenging.
 
 The hardest part is everything you don't anticipate. The vet situation. The anxiety spikes when you're parked somewhere new every few nights. The campground neighbors giving you the look when your dog barks at 6am. The summer heat that turns your rig into an oven the second you leave to run errands. None of the "[RV life with pets](/rv-life-with-pets/)" content I found back then was honest about any of it, so here's my attempt to actually fix that.
 
@@ -60,7 +60,7 @@ This is the one keeping me up at night more than any mechanical failure.
 
 There's no perfect system here. What I've built over eight years is a patchwork that mostly works. I have a home base vet in Denver I try to see twice a year when I loop through Colorado. She knows Biscuit's full history, maintains her records, and calls prescriptions into pharmacies wherever I happen to be. That relationship took years to build and it's worth organizing your travel around it.
 
-For everything else I use VetFinder and Banfield's location search. Banfield is inside every Petsmart, which means they're everywhere, and their Optimum Wellness Plan (currently $35-55/month depending on tier) covers annual exams and core vaccinations at any location. I've used it in seven different states. The care quality varies honestly, but for routine stuff it's been solid.
+For everything else, VetFinder and Banfield's location search are useful options. Banfield is inside every PetSmart, which means they're everywhere, and their Optimum Wellness Plan (currently $35-55/month depending on tier) covers annual exams and core vaccinations at any location. Care quality can vary between locations, but the plan works well for routine veterinary care.
 
 Telehealth surprised me with how useful it actually is for non-emergency situations. Dutch and Pawp have both helped me get Biscuit's anxiety medication prescribed without hunting down a vet in an unfamiliar city at 8pm on Saturday.
 
@@ -105,7 +105,6 @@ Separation anxiety showed up around year two, probably because we were together 
 - [Flexi retractable leash](https://www.amazon.com/s?k=flexi+retractable+leash&tag=contentportfo-20)
 - [Ruffwear Bivy Bowl](https://www.amazon.com/s?k=ruffwear+bivy+bowl&tag=contentportfo-20)
 - [filtered water solution](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-
 
 Quick take on this since there's endless garbage marketed at dog-owning RVers.
 

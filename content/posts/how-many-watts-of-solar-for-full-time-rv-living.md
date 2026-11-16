@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most solar sizing guides will tell you to "calculate your daily watt-hours, then add 20% for buffer." That advice isn't wrong, but it's incomplete enough to get you into real trouble. I've watched people park a shiny new rig loaded with 400 watts of rooftop panels and then scratch their heads when they're running on empty by 7 PM. The math wasn't the problem. The assumptions were.
+Most solar sizing guides will tell you to "calculate your daily watt-hours, then add 20% for buffer." That advice isn't wrong, but it's incomplete enough to get you into real trouble. A common mistake is installing 400 watts of rooftop panels without accounting for real-world factors, only to find the battery depleted by 7 PM. The math wasn't the problem. The assumptions were.
 
 Here's the honest version, from someone who's been running off solar as a primary power source for going on six years.
 
@@ -83,7 +83,7 @@ Now the solar math. A 100W panel in good sun produces roughly 350-400Wh on a sol
 
 ## Panel Type, Roof Space, and the Rigid vs. Flexible Debate
 
-Monocrystalline panels are the right choice. Polycrystalline are cheaper per watt but less efficient in partial shade and take more roof space per watt. Flexible panels are convenient for curved roofs but they run hot (which kills output and shortens lifespan), and I've had two delaminate within three years in desert heat. If your roof can take rigid panels, use rigid panels.
+Monocrystalline panels are the right choice. Polycrystalline are cheaper per watt but less efficient in partial shade and take more roof space per watt. Flexible panels are convenient for curved roofs but they run hot (which kills output and shortens lifespan), and they tend to delaminate within a few years in desert heat. If your roof can take rigid panels, use rigid panels.
 
 Space is often the real constraint. A standard Class C or travel trailer roof has maybe 80-120 square feet of usable area once you account for vents, air conditioner units, and roof racks. A typical 200W rigid monocrystalline panel is about 17-18 square feet. Do the math on your actual roof before you spec out 1,600W and realize you can only physically fit 800W.
 
@@ -113,7 +113,6 @@ Get a proper battery monitor. The [Victron BMV-712](https://www.amazon.com/s?k=v
 - [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
 - [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
 
-
 Here's the contrarian take: most solar build videos are filmed in summer, in the Southwest, at full sun. Then they're watched in January in Oregon.
 
 The Pacific Northwest, the Upper Midwest in winter, the Gulf Coast in rainy season, the Northeast in November through March. These regions cut your effective solar production by 40-60% compared to the summer Arizona numbers everybody uses for their "proof of concept" videos. If you're full-timing and you move around, design your system for bad sun conditions, not the best ones. That means more panels than the math says you need on a perfect day.
@@ -121,7 +120,6 @@ The Pacific Northwest, the Upper Midwest in winter, the Gulf Coast in rainy seas
 I've also seen too many builds skip a [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) and water filtration system. Not directly solar-related, but if you're running a big inverter system and plugging into shore power occasionally, an unprotected hookup can fry your inverter/charger. Ask me how I know. (I don't love talking about the $600 mistake from my second year on the road.)
 
 ---
-
 
 ---
 

@@ -25,7 +25,7 @@ faqs:
     a: "It depends heavily on how it's managed. Rental programs like Outdoorsy or RVshare can offset ownership costs, but rental use tends to accelerate wear, particularly on interiors, slides, and appliances. A rental-history rig will often fetch less at private resale than a comparable owner-kept unit, even with lower net ownership cost along the way."
 ---
 
-A $45,000 Class C sitting in someone's driveway for three years loses roughly $18,000 in value while the owner argues with themselves about whether to sell it. I've watched this exact situation play out more times than I can count, usually ending with the seller being genuinely shocked at what dealers offer versus what they paid.
+A $45,000 Class C sitting in a driveway for three years can lose roughly $18,000 in value. Sellers are often shocked at what dealers offer versus what they paid.
 
 RV depreciation is brutal in the early years and most buyers walk into a purchase completely unprepared for how fast it hits. What most people don't realize is that depreciation isn't uniform across RV types, and the difference between buying a two-year-old unit versus brand new can mean recovering $12,000-$15,000 of losses that you didn't have to absorb yourself.
 
@@ -35,7 +35,7 @@ I've been living in a 2018 Keystone Montana [fifth wheel](/fifth-wheel-vs-travel
 
 ## The First Year Will Wreck You
 
-No other way to say it. New RVs depreciate approximately 20-30% the moment you drive off the lot, and some Class A gas coaches can lose closer to 35% in year one depending on brand and market conditions. That's not anecdote, that's consistent with NADA RV valuations and what dealers will actually offer you when you try to trade in 14 months after purchase.
+New RVs depreciate approximately 20-30% the moment you drive off the lot, and some Class A gas coaches can lose closer to 35% in year one depending on brand and market conditions. This matches NADA RV valuations and dealer trade-in offers.
 
 The reason is partly structural. RVs are discretionary purchases. Nobody "needs" one the way they need a reliable car for work. So the resale market is highly sensitive to economic wobbles, fuel prices, and even interest rates, all of which have been making life interesting as of 2026. When buyers get squeamish, dealers drop offers fast.
 
@@ -59,9 +59,9 @@ The Class B ([camper van](/how-to-insulate-a-camper-van-for-winter-living/)) cat
 
 ## What Actually Accelerates Depreciation
 
-Condition kills value faster than anything else, and there are three specific things I've seen destroy RV resale faster than age: water damage, deferred roof maintenance, and slide-out issues. Any of these showing up on an inspection will knock $5,000-$15,000 off an offer immediately. Dealers know buyers fear them, so the discount is disproportionate to the actual repair cost.
+Condition kills value faster than anything else. Water damage, deferred roof maintenance, and slide-out issues destroy RV resale value faster than age. Any of these showing up on an inspection will knock $5,000-$15,000 off an offer immediately. Dealers know buyers fear them, so the discount is disproportionate to the actual repair cost.
 
-Brand reputation matters more than most buyers expect. A Tiffin Allegro or a Newmar pulls higher resale than a similarly-aged Forest River or Coachmen from the same class, even at the same mileage and condition. That's not snobbery, it's just that the market has learned which units have fewer chronic issues. I've talked to enough full-timers who've been burned by cheaply-made interiors falling apart that "buy quality once" is pretty genuine advice here.
+Brand reputation matters more than most buyers expect. A Tiffin Allegro or a Newmar pulls higher resale than a similarly-aged Forest River or Coachmen from the same class, even at the same mileage and condition. The market has learned which units have fewer chronic issues, making quality brands a safer investment.
 
 One detail that surprises people: storage type. An RV that's been stored outside for three years under Texas sun will fetch several thousand less than one that's been garage-stored or covered, even if mechanically they're identical. UV damage to the roof and delamination of the sidewalls reads immediately to any experienced inspector. I store mine under a $340/year carport canopy at a covered storage facility outside Tucson and I can see the difference in my sidewall condition compared to rigs parked next to me that aren't covered.
 
@@ -83,7 +83,7 @@ You can't stop it, but you can manage it. A few things that have genuinely made 
 
 Regular roof maintenance is the single highest-ROI maintenance task on a towable or Class C. A tube of Dicor lap sealant ($8-$12) applied at every seam inspection twice a year has kept water out of my Montana since I bought it. Water intrusion is the number-one value killer, and it's largely preventable. The trick most people miss: you need to inspect in a light rain, not just visually. Lap sealant that looks fine dry can gap when it's wet and flexing.
 
-Keeping records of every repair, every tire change, every oil service matters at resale. Buyers pay more for documented maintenance than the same rig with a shrug and "it ran fine." I keep a Google Drive folder for my rig with photos, receipts, and service notes. When I eventually sell, that folder is part of the listing.
+Keeping records of every repair, every tire change, and every oil service matters at resale. Buyers pay more for documented maintenance than the same rig with spotty records. Maintain a folder with photos, receipts, and service notes to include with your listing.
 
 Brand choice at purchase matters for resale. Thor, Coachmen, and Forest River mid-range product consistently underperforms Tiffin, Newmar, Winnebago, and Airstream at resale as a percentage of original purchase price. If you're buying partly as an investment, factor that in even if the cheaper brand looks appealing upfront.
 

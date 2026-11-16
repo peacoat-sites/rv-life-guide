@@ -17,7 +17,7 @@ lastmod: 2026-07-07
 
 You're sitting in a campground in August, trying to schedule a slide-out repair, and the service writer tells you it's a six-week wait for a Lippert motor. Annoying, right? Now imagine that same company also controls the wall panels, the windows, the axles, and the flooring in your rig. That's not a hypothetical scenario anymore. On June 30, 2026, Patrick Industries and LCI Industries (Lippert's parent) announced a definitive all-stock merger agreement, with both boards voting unanimously to approve it. If this deal clears regulatory review, the RV industry will have one dominant supplier touching almost every component in your home on wheels.
 
-I've been watching this industry for eight years from the driver's seat. This merger is the biggest structural shift I've seen in the supply chain, and RVers need to understand what it actually means before it gets waved through as just another Wall Street story.
+This merger represents a significant structural shift in the RV supply chain, and RVers should understand what it means before regulatory approval.
 
 ## What These Two Companies Actually Control
 
@@ -43,13 +43,13 @@ The joint press release filed with the SEC on June 30 projects a combined compan
 
 The merger announcement projects over $150 million in annual run-rate cost savings within three years of closing. The companies will pitch that number hard to regulators and shareholders alike. But as RV Miles noted in their July 1 analysis, the real question is who actually captures those savings. Shareholders? Manufacturers? Or does any of it flow downstream to dealers and buyers?
 
-My honest read: in a contracting market, probably not much reaches us. RVIA data through May 2026 shows total RV shipments already down 14.4% year-over-year. That's a market under serious pressure. When unit volumes fall, manufacturers squeeze costs and protect margins. A newly merged super-supplier would have every incentive to hold prices firm precisely because there's no longer a competing bid from the other guy. Cost savings in a consolidation like this tend to stay where the leverage is, and the leverage here shifts decisively toward the new combined company.
+In a contracting market, the benefits of consolidation are unlikely to reach consumers. RVIA data through May 2026 shows total RV shipments already down 14.4% year-over-year. That's a market under serious pressure. When unit volumes fall, manufacturers squeeze costs and protect margins. A newly merged super-supplier would have every incentive to hold prices firm precisely because there's no longer a competing bid from the other guy. Cost savings in a consolidation like this tend to stay where the leverage is, and the leverage here shifts decisively toward the new combined company.
 
 ## The Antitrust Problem Nobody Is Sure How to Solve
 
 Senator Mike Lee raised antitrust concerns about this potential merger before it was even formally announced, which tells you something about how obvious the concentration issue is. The combined entity wouldn't just be big, it would be structurally unavoidable. You can't build a production RV without a frame. You can't sell a slide-out without a mechanism. You can't finish an interior without wall panels. When one company controls multiple chokepoints simultaneously, the traditional antitrust analysis gets complicated.
 
-The deal still needs regulatory approval, and it's not guaranteed to sail through. I've seen consolidations in this industry move slowly through review before. What's different here is the breadth. This isn't two window suppliers merging. This is a horizontal and vertical integration across almost every major component category at once, in an industry where the three or four big RV manufacturers don't have real alternative sourcing at scale. That's a hard story to tell regulators as a pro-competitive move.
+The deal still needs regulatory approval, and it's not guaranteed to sail through. What's different here is the breadth. This isn't two window suppliers merging. This is a horizontal and vertical integration across almost every major component category at once, in an industry where the three or four big RV manufacturers don't have real alternative sourcing at scale. That's a hard story to tell regulators as a pro-competitive move.
 
 ## What This Means for Parts, Repairs, and Your Wallet
 

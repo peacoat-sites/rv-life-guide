@@ -58,9 +58,9 @@ Let's go through what's worth using and what you can skip.
 
 Skip the Reflectix as a primary insulator. I know it's everywhere in van build videos. It has an R-value of roughly R-1.1 when installed with an air gap, which is almost nothing. It can work as a radiant barrier on your windows, and it's great for exactly that, but if someone is telling you to line your walls with it and call it done, they haven't spent a January in Minnesota in a van.
 
-**Sheep's wool batts** are something I've seen more of in recent years, and I respect the material. It manages moisture well, it's non-toxic, and it performs consistently. Havelock Wool (about $75 for a 30 sq ft bag) is the brand most van builders are using. The honest drawback is cost and the fact that it can hold moisture if your vapor control elsewhere isn't right. I'd use it in walls alongside spray foam in the ribs, but I wouldn't rely on it alone.
+**Sheep's wool batts** are increasingly popular for van insulation. It manages moisture well, it's non-toxic, and it performs consistently. Havelock Wool (about $75 for a 30 sq ft bag) is the brand most van builders are using. The honest drawback is cost and the fact that it can hold moisture if your vapor control elsewhere isn't right. It works well in walls alongside spray foam in the ribs, but shouldn't be used alone.
 
-**Thinsulate (3M SM600L)** is worth knowing about for wall cavities. It doesn't absorb moisture, installs easily, and performs well without requiring a vapor barrier. Plenty of builders swear by it. It runs about $5-7 per square foot and it's legitimately good. I've seen clean, warm vans built with Thinsulate in the walls. My only reservation is that in the coldest climates, the R-value per inch (around R-4 to R-5) means you're limited by the depth of your wall cavity.
+**Thinsulate (3M SM600L)** is worth knowing about for wall cavities. It doesn't absorb moisture, installs easily, and performs well without requiring a vapor barrier. Plenty of builders swear by it. It runs about $5-7 per square foot and it's legitimately good. My only reservation is that in the coldest climates, the R-value per inch (around R-4 to R-5) means you're limited by the depth of your wall cavity.
 
 ## How to Actually Do the Work: A Winter Build Sequence
 
@@ -82,7 +82,7 @@ Windows and doors are your biggest heat loss and condensation points. Reflectix 
 
 ## Heating Still Matters
 
-Even a well-insulated van needs a heat source for serious winter living. A diesel heater is the current standard because they're efficient, safe, and don't produce meaningful moisture like propane does. The Webasto and Espar units are the original German engineering and they're excellent but expensive, $1,200-2,000 installed. The Chinese-made units, sold under names like Vevor, Fogatti, or generic "diesel air heater" branding on Amazon, run $150-300 and work for plenty of people. I've used one for two seasons without problems. I'd never run any diesel heater without a CO detector mounted at sleeping height.
+Even a well-insulated van needs a heat source for serious winter living. A diesel heater is the current standard because they're efficient, safe, and don't produce meaningful moisture like propane does. The Webasto and Espar units are the original German engineering and they're excellent but expensive, $1,200-2,000 installed. The Chinese-made units, sold under names like Vevor, Fogatti, or generic "diesel air heater" branding on Amazon, run $150-300 and work for plenty of people. Always mount a CO detector at sleeping height when using any diesel heater.
 
 Good insulation lets your heater run less, which extends its life and saves fuel. A properly insulated Transit can maintain a comfortable 65°F in temps down to 10-15°F on maybe 0.1-0.15 liters of diesel per hour with a quality heater. That's real economy.
 
@@ -94,11 +94,9 @@ Good insulation lets your heater run less, which extends its life and saves fuel
 - [humidity meter like the ThermoPro TP49](https://www.amazon.com/s?k=ThermoPro+TP49+humidity+meter&tag=contentportfo-20)
 - [Thirdman](https://www.pexels.com/@thirdman)
 
-
 Vapor and condensation control accessories. A [humidity meter like the ThermoPro TP49](https://www.amazon.com/s?k=ThermoPro+TP49+humidity+meter&tag=contentportfo-20) costs $10 and tells you when your van interior is getting into the danger zone for condensation (above 55-60% relative humidity is where you start getting trouble). A small 12V fan to circulate air, a Maxxair roof vent that you crack even in winter to let humid air escape, and that humidity monitor will prevent more damage than an extra inch of insulation.
 
 ---
-
 
 ---
 

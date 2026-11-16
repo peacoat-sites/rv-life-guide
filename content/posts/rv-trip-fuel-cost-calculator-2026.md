@@ -175,7 +175,7 @@ Then add:
 - Campground: 15 × $50 = $750
 - **Total: $1,474 for the trip**
 
-Real talk: Most people underestimate trip costs by 20-30%. The calculator helps, but pad your budget an extra $500 for parking, entrance fees, and emergencies.
+Most people underestimate trip costs by 20-30%. The calculator helps, but pad your budget an extra $500 for parking, entrance fees, and emergencies.
 
 ## Sources
 

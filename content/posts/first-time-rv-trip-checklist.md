@@ -48,7 +48,7 @@ Here's a comparison of what new renters typically spend on unexpected first-trip
 | Leveling damage to slide or frame | $300-$2,000+ | $30 (Camco leveling blocks) |
 | Campground no-show/wrong site type | $0-$150 (rebooking fees) | $0 (call ahead) |
 
-That table isn't designed to make you anxious. It's designed to show you where the leverage is. Ninety dollars in gear and 45 minutes of pre-departure checks can realistically save you $500 to $2,000 on a single trip.
+That table shows where your maintenance efforts matter most. Ninety dollars in gear and 45 minutes of pre-departure checks can realistically save you $500 to $2,000 on a single trip.
 
 ## Before You Even Touch the Ignition
 
@@ -58,9 +58,7 @@ The exterior walk goes like this: Check that all compartment doors are latched (
 
 Tire pressure deserves a separate sentence because it's the most skipped item and the most expensive when skipped. RV tires should be checked cold, before driving. A Class A or Class C tire is often rated at 80-110 PSI depending on load. Most people run them 15-20 PSI underinflated without knowing it, and that's where blowouts live. A digital tire gauge costs about $14 on Amazon. ([This one works fine.](https://amzn.to/example)) I'm not going to pretend I check mine every single morning on a long trip, but I do check before any driving day over 150 miles, and always after an overnight below 40°F, because pressure drops roughly 1 PSI per 10°F of temperature change.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">First-trip RV problems by category (%)</div><div class="sc-row"><span class="sc-label">Electrical</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">Plumbing</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">22%</span></div><div class="sc-row"><span class="sc-label">Propane</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">19%</span></div><div class="sc-row"><span class="sc-label">Towing/Leveling</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">17%</span></div><div class="sc-row"><span class="sc-label">Other</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">14%</span></div><div class="sc-src">Source: Outdoorsy 2025 Claims Analysis</div></div>
-
 
 ## Systems Checklist: What You Actually Need to Check
 
@@ -70,7 +68,7 @@ This is where I see people go wrong. They bring the kitchen and forget to check 
 
 **Propane.** Open the valve at the tank (fully, then back a quarter turn). Light each burner on the stove. Check the refrigerator is set to LP mode if you're running without hookups. A [two-stage regulator](https://amzn.to/example) is worth having if your rig is older; pressure fluctuations cook unevenly and can mess with the water heater.
 
-**Electrical.** If you're going to a campground with shore power, you need a surge protector, full stop. Not optional. Campground pedestals vary wildly in quality, and as of 2026, roughly 30% of older campground electrical systems show measurable voltage issues at some point during peak season, according to Progressive Industries' internal service data. Get either a [Progressive Industries EMS-PT30X](https://amzn.to/example) (around $180) or the 50-amp version if your rig uses it. I've had mine save me from a bad pedestal twice.
+**Electrical.** If you're going to a campground with shore power, you need a surge protector, full stop. Not optional. Campground pedestals vary wildly in quality, and as of 2026, roughly 30% of older campground electrical systems show measurable voltage issues at some point during peak season, according to Progressive Industries' internal service data. Get either a [Progressive Industries EMS-PT30X](https://amzn.to/example) (around $180) or the 50-amp version if your rig uses it.
 
 **Generator.** If the rig has one, start it and let it run for ten minutes under load. Check oil. Don't wait until you're boondocking in 95°F heat to discover it won't start.
 
@@ -109,7 +107,7 @@ This matters more than people think. The sequence prevents damage.
 6. Connect water (filter inline, check for leaks at the connection).
 7. Dump connection last (you're not dumping immediately; just hook it up so you don't forget later).
 
-I've seen people do this backwards and it rarely causes a crisis on trip one. It does cause wear and bad habits. The sequence exists for a reason.
+Skipping steps in the sequence can cause wear and bad habits. The sequence exists for a reason.
 
 ## Sources
 
@@ -120,7 +118,6 @@ I've seen people do this backwards and it rarely causes a crisis on trip one. It
 - Camco Product Documentation: Water heater bypass valve procedures and water system sanitization guidelines for RV owners.
 
 ---
-
 
 *Photo: [Lisha Dunlap](https://www.pexels.com/@lishadunlap) via Pexels*
 

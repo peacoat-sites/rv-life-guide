@@ -19,7 +19,7 @@ Most RVers still think of propane as a permanent fixture, something you'll alway
 
 On July 1, 2026, Dometic launched the Electric Water Heater Essential, a fully propane-free hot water system built specifically for factory RV installation. No gas line. No combustion chamber. No exterior wall cutout. According to RV PRO's coverage of the launch, it runs entirely on 120-volt shore power and mounts inside the rig without requiring a vent or exterior access panel. That's not a minor spec tweak. That's a fundamental rethink of how a core RV appliance gets built and installed.
 
-I'll be honest: when I first heard "electric-only water heater for RVs," my instinct was skepticism. We've had propane-electric combination units for years. The Atwood, the Suburban, the Truma Combi, they all kept propane as the backbone and offered electric as a nice-to-have when you're plugged in. A fully electric unit with no propane fallback felt like a risk. But after digging into what Dometic actually released and the context around it, I think the timing makes more sense than it initially appears.
+Electric-only water heaters for RVs can seem like a risky departure from the traditional propane-electric combination units that have been standard for years. The Atwood, the Suburban, the Truma Combi, they all kept propane as the backbone and offered electric as a nice-to-have when you're plugged in. A fully electric unit with no propane fallback is worth reconsidering once you look at what Dometic released and the context behind it.
 
 ## Why Ditching the Anode Rod Actually Matters
 

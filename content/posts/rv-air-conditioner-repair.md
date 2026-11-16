@@ -25,7 +25,7 @@ faqs:
     a: "Depends entirely on what failed. Capacitors, coils, fan motors: repair every time. Compressor failure on a unit over six years old: replace the whole unit. A new Coleman-Mach 8 or Dometic Brisk II runs $480-$560 and comes with a two-year warranty. That's often less than a compressor job on an aging unit with no warranty on the rest of the system."
 ---
 
-Seventy-two percent of RV air conditioner failures happen between Memorial Day and Labor Day, which is exactly when you can least afford to be without one. I've seen that stat bear out in real life more times than I care to count, and I've lived through at least four of those failures personally over eight years on the road.
+Seventy-two percent of RV air conditioner failures happen between Memorial Day and Labor Day, which is exactly when you can least afford to be without one.
 
 The [first time](/first-time-rv-trip-checklist/) my Dometic Penguin died on me, I was outside Needles, California in mid-July. The ambient temp was 112°F. I had two dogs, a half-melted stick of butter on the counter, and absolutely no idea what I was doing. I paid a shop in Kingman $380 to replace a capacitor that costs $14 at any HVAC supply house. That was an expensive education, but it was also the moment I decided to actually learn this stuff.
 
@@ -41,7 +41,7 @@ The four things that account for the overwhelming majority of failures, in rough
 
 **Capacitors.** The start capacitor gives the compressor the initial jolt of power to fire up. The run capacitor keeps the fan motor spinning efficiently. When either fails, you get one of two symptoms: the unit hums, tries to start, and then clicks off (start cap), or the unit runs but the fan sounds labored and the cooling is weak (run cap). I've replaced probably a dozen of these across my own rigs and friends' rigs. A dual run capacitor for a Dometic or Coleman-Mach unit is typically rated at 45+5 µF or 35+5 µF, costs between $12 and $22 on Amazon, and takes maybe twenty minutes to swap if you've ever looked at a wiring diagram before.
 
-**Dirty coils.** Both the evaporator coils (inside) and condenser coils (outside, on the roof) collect gunk. The evaporator side pulls in every bit of dust, pet hair, and cooking grease that floats through your RV. The condenser side on the roof collects road debris and cottonwood seeds. Clogged coils mean the unit works twice as hard to move the same amount of heat. I've seen a rig that wouldn't cool below 82°F drop to 68°F after a good coil cleaning. That's not unusual.
+**Dirty coils.** Both the evaporator coils (inside) and condenser coils (outside, on the roof) collect gunk. The evaporator side pulls in every bit of dust, pet hair, and cooking grease that floats through your RV. The condenser side on the roof collects road debris and cottonwood seeds. Clogged coils mean the unit works twice as hard to move the same amount of heat. A unit that won't cool below 82°F can drop to 68°F after a thorough coil cleaning.
 
 **Refrigerant leaks.** This is where it gets more complicated. RV ACs are sealed systems; they shouldn't need refrigerant added unless there's a leak. If your unit is genuinely low on refrigerant (confirmed with manifold gauges, not guesswork), that means there's a breach somewhere, and finding it usually requires a licensed technician and UV dye or an electronic leak detector. I won't pretend otherwise. Recharging without fixing the leak is just burning money.
 
@@ -57,7 +57,7 @@ Before you call anyone, spend twenty minutes doing this yourself. Seriously. You
 
 **Step 3: Pull the inside cover.** Most RV AC shrouds are held on by four to six plastic clips or screws. Take it down. What you'll find is the evaporator coil, the fan assembly, and the air filter (if your unit has one). Is the filter matted with gray fluff? That's your problem. Is the coil itself caked with debris or showing ice? Both of those are diagnostic.
 
-**Step 4: Get on the roof.** I know, I know. It's hot up there. But pull the outer shroud off the rooftop unit (usually six to eight screws) and look at the condenser coil. If it's packed with cottonwood, bugs, or general grime, hit it with [Nu-Calgon Evap Foam No Rinse coil cleaner](https://www.amazon.com/s?k=nu-calgon+evap+foam+coil+cleaner&tag=contentportfo-20) ($18-$22 a can) and let it drip off. Don't use a pressure washer. I've seen people bend fins flat that way.
+**Step 4: Get on the roof.** Pull the outer shroud off the rooftop unit (usually six to eight screws) and look at the condenser coil. If it's packed with cottonwood, bugs, or general grime, hit it with [Nu-Calgon Evap Foam No Rinse coil cleaner](https://www.amazon.com/s?k=nu-calgon+evap+foam+coil+cleaner&tag=contentportfo-20) ($18-$22 a can) and let it drip off. Don't use a pressure washer. A pressure washer can bend fins flat.
 
 **Step 5: Listen at startup.** Does it hum and then click off? That's almost always the start capacitor. Does it start but run weakly? Run capacitor or coils. Does it start normally but blow warm air? Refrigerant issue or a failed reversing valve (on heat pump models).
 

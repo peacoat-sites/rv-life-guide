@@ -73,7 +73,7 @@ This is where most people actually go wrong. The hitch works as advertised only 
 4. **Engage spring bars and re-measure.** Crank the spring bars to tension. The rear bumper should rise 1-1.5 inches from baseline; the front bumper should return to within about 1/2 inch of its pre-hookup height. If you're nowhere close, your head angle or bar tension is wrong.
 5. **Check trailer level.** Should be within 1 inch of your initial measurement.
 
-The step people miss: measuring before AND after engaging the bars. Without that comparison, you're guessing. I've watched people crank spring bars until they "feel right" and end up with the trailer tail dragging and the nose up, which actually creates a different load transfer problem going the other direction.
+The step people miss: measuring before AND after engaging the bars. Without that comparison, you're guessing. Cranking spring bars until they "feel right" without measurement can result in the trailer tail dragging and the nose up, which creates a different load transfer problem going the other direction.
 
 **Worked example 1:** A reader, Marcus from Bend, Oregon, emailed me in April 2026 about persistent sway with his 7,200-lb Keystone Cougar. He had an Equal-i-zer but had set it up without measuring rear lift. His rear bumper was dropping 2.5 inches loaded vs. rising 1 inch at correct setup. We talked through the adjustment, he re-set the head angle, and his first highway run after had zero sway incidents through the Columbia River Gorge. That's a notoriously windy stretch.
 

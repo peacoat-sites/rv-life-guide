@@ -27,7 +27,7 @@ faqs:
 
 My daughter learned to read sitting on a dinette bench somewhere outside of Moab, Utah, with red rock formations filling the window behind her like a National Geographic spread. I remember thinking: *this* is why we do this. Then, forty minutes later, she knocked over a full cup of apple juice onto the multiplication worksheets we'd printed at the Walmart in Grand Junction, and that's also why we do this. You take the whole thing.
 
-Full-time RV living with kids is genuinely one of the most rewarding ways I've seen families operate. I've crossed paths with hundreds of traveling families over eight years on the road, some thriving beyond what they imagined, some quietly burning out by month six. The difference between those two groups almost never comes down to the size of their rig or their schooling curriculum. It comes down to planning for the specific realities of this life, not the Instagram version.
+Full-time RV living with kids can be deeply rewarding, but success depends less on the rig or curriculum and more on realistic planning. The difference between those two groups almost never comes down to the size of their rig or their schooling curriculum. It comes down to planning for the specific realities of this life, not the Instagram version.
 
 What most people don't realize before they launch is that homeschooling on the road is a completely different beast than homeschooling in a house. The flexibility is real and it's wonderful. So is the chaos, the wifi scramble at 8 a.m., and the argument about who has to sit next to the slide mechanism during math.
 
@@ -39,9 +39,9 @@ Here's the part where most advice goes sideways: people spend weeks comparing cu
 
 If you're slow-traveling (staying 2-4 weeks in each spot), you can manage a more structured, traditional homeschool approach. You'll have time to find local co-ops, library programs, and activity groups. Families I've met doing this often use something like Sonlight or My Father's World, which have built-in read-alouds that work beautifully in a small space and don't require a ton of printing.
 
-If you're moving frequently, one to three nights at a time, a traditional daily schedule will wreck you. You'll spend too much energy breaking camp and setting up to also produce quality instruction every single day. The families I've watched make this work usually do something closer to unit studies or project-based learning. You spend a week deep on one topic (say, ecosystems, because you're at the Everglades anyway) and cover multiple subjects through that lens. Tasha and Marcus, a family I camped near in Quartzsite, Arizona a couple winters back, used a combination of Khan Academy offline downloads and a one-subject-per-week rotation. Their three kids were measurably ahead in math and science by the time they tested. The approach felt chaotic from the outside. From the inside, it was working.
+If you're moving frequently, one to three nights at a time, a traditional daily schedule will wreck you. You'll spend too much energy breaking camp and setting up to also produce quality instruction every single day. Families often find unit studies or project-based learning works well with frequent moves. You spend a week deep on one topic (say, ecosystems, because you're at the Everglades anyway) and cover multiple subjects through that lens. Combining Khan Academy offline downloads with a one-subject-per-week rotation can keep kids progressing in core skills. The approach can feel chaotic but tends to work in practice.
 
-What I'd actually recommend as a starting point: Outschool for live small-group classes (their wifi-dependency is a real drawback, but the social component is worth it when you're connected), Khan Academy for math and reading skill-building that works offline, and your actual surroundings for everything else. State parks, historical sites, and national monuments do more for a curious kid's science and history education than any textbook. That's not a platitude. I've watched it happen.
+A practical starting point: Outschool for live small-group classes (their wifi-dependency is a real drawback, but the social component is valuable when you're connected), Khan Academy for math and reading skill-building that works offline, and your actual surroundings for everything else. State parks, historical sites, and national monuments genuinely teach science and history better than textbooks.
 
 ## Legal Reality: Domicile, State Laws, and What You Actually Have to File
 
@@ -67,7 +67,7 @@ I made the mistake of thinking campground wifi and a cell plan would cover our c
 
 Seriously, if your kids are doing any live classes, any cloud-based curriculum, or any video-heavy content: you need a dedicated solution. Current options as of mid-2026:
 
-A Starlink Roam subscription runs around $150/month and is the most reliable option I've personally used in remote areas. It's heavy (the dish and router together are about 10 pounds), and you'll need a good mount, but the latency is low enough for live video calls. In my experience it drops maybe 5% of sessions, usually in heavy tree cover.
+A Starlink Roam subscription runs around $150/month and is reliable in remote areas. It's heavy (the dish and router together are about 10 pounds), and you'll need a good mount, but the latency is low enough for live video calls. It may drop connection in heavy tree cover.
 
 For a lower-cost backup, most families pair a Starlink with a cellular-based router like the Pepwave MAX BR1 MK2 or a simpler option like a Netgear Nighthawk M6. You can get a T-Mobile Home Internet plan or add a high-data hotspot to a Verizon or AT&T plan and use multiple carriers as failover. I don't have precise current pricing because carrier deals change constantly, but budget around $80-$180/month total for connectivity that actually works for schooling.
 
@@ -97,7 +97,7 @@ The second scenario is more common than people admit. Moving fast is hard on sch
 
 You'll get this question from relatives approximately forever. The honest answer is that socialization on the road is fully achievable, but it doesn't happen passively the way it does in a neighborhood.
 
-What actually works: finding your people deliberately. The Harvest Hosts network (membership currently around $99/year) opens you to farm and winery stays that often have other families. Rainbow's End gatherings, the Fulltime Families rallies (they run several a year and specifically cater to road schooling families), and regional homeschool co-ops that welcome visiting families, these are your infrastructure. I've seen kids form genuine, lasting friendships through the Fulltime Families events that continued through text and video calls for years after.
+Find community deliberately. The Harvest Hosts network (membership currently around $99/year) opens you to farm and winery stays that often have other families. Rainbow's End gatherings, the Fulltime Families rallies (they run several a year and specifically cater to road schooling families), and regional homeschool co-ops that welcome visiting families provide real infrastructure for connection and friendship.
 
 Slow down near cities when you can. A month near Austin or near Asheville, North Carolina gives you access to established homeschool co-ops that often let traveling families participate short-term for a drop-in fee, usually $10-$20 per session. This is worth every dollar.
 

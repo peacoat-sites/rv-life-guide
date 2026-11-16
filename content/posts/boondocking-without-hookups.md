@@ -23,7 +23,7 @@ author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 lastmod: 2026-07-08
 ---
-Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation. I've been exactly there, parked on BLM land outside Moab with a storm rolling in and a power setup I hadn't stress-tested hard enough. That moment taught me more about boondocking than any YouTube video ever did.
+Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation.
 
 Boondocking, camping without electrical, water, or sewer hookups, is either the best thing about RV life or a source of constant low-grade anxiety, depending entirely on how well-prepared you are. Eight years in, I've done hundreds of nights off-grid, from desert flats to mountain forest roads to city-adjacent "[dispersed camping](/dispersed-camping-guide/)" spots that felt like a secret. What separates people who love it from people who dread it isn't the rig. It's the systems.
 
@@ -44,7 +44,7 @@ Boondocking, camping without electrical, water, or sewer hookups, is either the 
 
 Let's start with the one that sends people home early.
 
-Most factory RVs come with a single Group 24 or Group 27 lead-acid battery. That battery, under real-world load, gives you maybe 30 to 40 usable amp-hours before you're doing damage to it (you shouldn't discharge lead-acid below 50%). Run your lights, charge a phone, power a fan, and you'll burn through that in a single evening. This isn't a scare tactic. It's just what I've watched happen to people camped next to me who assumed their rig was "set up for camping."
+Most factory RVs come with a single Group 24 or Group 27 lead-acid battery. That battery, under real-world load, gives you maybe 30 to 40 usable amp-hours before you're doing damage to it (you shouldn't discharge lead-acid below 50%). Run your lights, charge a phone, power a fan, and you'll burn through that in a single evening. Many people assume their factory rig is set up for boondocking without stress-testing the system first.
 
 The first real upgrade that changed my boondocking life was moving to lithium. Two 100Ah lithium iron phosphate (LiFePO4) batteries gave me 200 usable amp-hours, nearly four times what I had before. The upfront cost stings, around $400-800 per 100Ah battery depending on brand, but the math over three to five years of boondocking makes it obvious.
 
@@ -73,9 +73,9 @@ For sourcing water on the road, [iOverlander](https://www.ioverlander.com) and C
 
 Your gray tank fills faster than your black tank. That surprises almost everyone. Dishes, hand washing, and a single shower add up to several gallons fast, and a 30-gallon gray tank on a 7-day boondock is going to get uncomfortable around day 4 or 5.
 
-The good news: gray water management has options. In most dispersed camping areas on public land, it's legal (and fine leave-no-trace practice) to dump strained gray water on the ground away from water sources. Check local regulations because they vary, but in my experience, the BLM is more concerned about sewage than gray water.
+The good news: gray water management has options. In most dispersed camping areas on public land, it's legal (and fine leave-no-trace practice) to dump strained gray water on the ground away from water sources. Check local regulations because they vary; generally, the BLM is more concerned about sewage than gray water.
 
-Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a [composting toilet](/rv-water-tank-management/) is a genuine game-changer. I switched to an Airhead composting toilet three years ago and my entire relationship with water management changed because the black tank was now exclusively available for gray overflow. That's a real solution, not a lifestyle statement.
+Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a [composting toilet](/rv-water-tank-management/) eliminates black tank use entirely, freeing tank capacity for gray water overflow.
 
 Dump stations are everywhere if you know where to look. Sanidumps.com is a better database than most campground apps for finding standalone dump stations. Many Flying J and Pilot truck stops have them, usually for $10 to $20.
 
@@ -129,8 +129,7 @@ A [quality surge protector](https://amzn.to/3example4) is more relevant when you
 - [Garmin inReach Mini](https://amzn.to/3example3)
 - [quality surge protector](https://amzn.to/3example4)
 
-
-Let's be honest about what full-time boondocking actually costs because the "free camping" narrative leaves some important asterisks out.
+Full-time boondocking has real costs that the "free camping" narrative often overlooks.
 
 **The real costs:**
 

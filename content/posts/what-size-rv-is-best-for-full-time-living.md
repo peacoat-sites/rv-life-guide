@@ -53,7 +53,7 @@ Everyone wants someone to just tell them which type is best. Fine. Here's my hon
 
 **Fifth wheels lead for couples and families.** The bi-level layout gives you genuine separation between sleeping and living. The hitch setup is more stable than a bumper-pull at highway speeds. Storage underneath is usually cavernous. But here's the real cost: [you need a pickup truck](/fifth-wheel-vs-travel-trailer/), and not just any truck. A 40-foot fifth wheel pushing 15,000 lbs loaded needs a dually, realistically a Ram 3500 or F-350, and that vehicle costs money to buy and fuel. Don't buy the fifth wheel first and the truck second. I've seen that mistake end trips.
 
-**Class A motorhomes are the most livable but the most expensive to own.** A used 36-foot Tiffin Allegro or Entegra Coach gives you a layout that actually feels like an apartment. Washer/dryer combos, full-size refrigerators, residential bathrooms. Then something breaks. Anything under $80,000 used (2024 prices) probably has deferred maintenance that'll catch up fast. Diesel pushers are more reliable long-term than gas Class A's in my experience, but repair bills when something fails will make your knees buckle. Budget $3,000-5,000 a year for maintenance on a diesel Class A, minimum.
+**Class A motorhomes are the most livable but the most expensive to own.** A used 36-foot Tiffin Allegro or Entegra Coach gives you a layout that actually feels like an apartment. Washer/dryer combos, full-size refrigerators, residential bathrooms. Then something breaks. Anything under $80,000 used (2024 prices) probably has deferred maintenance that'll catch up fast. Diesel pushers tend to be more reliable long-term than gas Class A's, but repair bills when something fails can be steep. Budget $3,000-5,000 a year for maintenance on a diesel Class A, minimum.
 
 **Travel trailers are the entry point for good reason.** Lower upfront cost, easier to work on, and if the trailer turns into a disaster, you still have a functional tow vehicle. A 28-30 foot mid-range trailer like an Airstream Bambi (overpriced but bulletproof), Grand Design Reflection, or Lance 2285 gives a real full-timer enough room to work with. The Grand Design Reflection 150 Series 268BH runs around $35,000-42,000 new and has one of the more livable layouts in its class. Not glamorous but genuinely functional.
 
@@ -93,12 +93,11 @@ While you're thinking about the living-in-place setup: a [surge protector](https
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron)
 - [Dudubangbang Travel](https://www.pexels.com/@dudubangbang)
 
-
 Here's something nobody talks about enough: a bigger rig doesn't automatically mean more off-grid capability, but it usually means more roof for solar panels.
 
 A 35-foot fifth wheel can fit 1,200 watts of solar on the roof. A 22-foot travel trailer maxes out around 400-600 watts. That difference matters if you're boondocking regularly. More living space also means more appliances, more lights, more draw on your battery bank. It roughly balances out, but the bigger rig gives you more room to build a capable system.
 
-For serious off-grid full-timing, you want at minimum 400 amp-hours of lithium battery storage and 600+ watts of solar. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron) like the Victron BMV-712 (around $85-100) is one of the most useful things in my rig and gives you real data instead of guessing. Most rigs come with useless factory battery gauges.
+For serious off-grid full-timing, you want at minimum 400 amp-hours of lithium battery storage and 600+ watts of solar. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron) like the Victron BMV-712 (around $85-100) gives you real data instead of guessing. Most rigs come with useless factory battery gauges.
 
 If this is the direction you want to go, the Airstream Bambi 16 is the worst possible choice despite being beautifully built. The roof is curved and limited. The 40-foot Class A with a flat roof gives you a solar farm. Size the rig around your lifestyle first, then figure out energy.
 

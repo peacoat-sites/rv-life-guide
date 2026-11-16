@@ -50,7 +50,7 @@ Here's where most guides get it wrong: people assume "BLM land" is one uniform p
 | Fifth Wheel (35+ ft) | Limited | Established BLM areas only |
 | Low Clearance (<8 in) | Poor | Viable sites shrink significantly |
 
-Bad site selection is expensive. A blown tire on sharp volcanic rock. A wet clay road that swallowed a 26-foot trailer. A wash that flooded overnight. I've seen all of it. Due diligence before arrival is not optional.
+Bad site selection is expensive. For example, sharp volcanic rock can blow tires, wet clay roads can trap trailers, and washes can flood overnight. Due diligence before arrival is not optional.
 
 **The tools that actually work:**
 
@@ -116,7 +116,6 @@ The practical takeaway: BLM developed areas like Cottonwood Cove in Nevada or th
 - [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=contentportfo-20)
 - easy. BLM
-
 
 "Free" BLM camping is real, but it's not cheap if you're not prepared.
 

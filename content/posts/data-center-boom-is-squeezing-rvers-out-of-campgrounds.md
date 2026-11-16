@@ -34,7 +34,7 @@ Stephanie Chrisman manages Unhitched Sleepy Hollow and Lazy Acres RV Parks, and 
 | Cedar Rapids, IA | Unhitched Sleepy Hollow and Lazy Acres | Unknown | 20-30% to ~95%+ | Data center construction |
 | Port Washington, WI | Regional capacity | Unknown | Rising pressure | Vantage Data Centers (700+ workers) |
 
-I've seen demand spikes hit regional campground clusters before, usually around big events or temporary construction projects. What's different here is the timeline. These workers aren't leaving after a few weeks. Some of them plan to stay for years, locked into long-term monthly rates that campground owners have every financial reason to prefer over transient nightly traffic.
+Demand spikes often hit regional campground clusters around big events or temporary construction projects. What's different here is the timeline. These workers aren't leaving after a few weeks. Some of them plan to stay for years, locked into long-term monthly rates that campground owners have every financial reason to prefer over transient nightly traffic.
 
 Port Washington, Wisconsin is already seeing the same pressure. A Vantage Data Centers site there is expected to employ around 700 workers initially, growing to thousands as construction ramps up. By March 2026, the situation had gotten serious enough that the Town Plan Commission was actively considering new RV parking ordinances after residents started raising concerns, according to a report from the Ozaukee Press. That's a community scrambling to write rules for something that caught them completely off guard.
 

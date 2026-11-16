@@ -27,13 +27,11 @@ faqs:
 
 Over 400,000 GPS-tagged camp spots exist across the two apps combined, and most boondockers I talk to are using the wrong one for how they actually camp.
 
-That's not a knock on anyone. When I started full-timing back in 2018, I used iOverlander almost exclusively because a van-lifer I met at a rest stop in New Mexico swore by it. Took me about eight months to realize I was missing whole categories of dispersed BLM sites that were sitting right there in Campendium. The two apps look similar on the surface. They solve pretty different problems.
+That's not a knock on anyone. Many van-lifers start with iOverlander, then discover after a few months that they're missing whole categories of dispersed BLM sites available in Campendium. The two apps look similar on the surface. They solve pretty different problems.
 
 Here's what I tell people when they ask me which one to download: the answer depends almost entirely on how remote you want to go and how much you trust crowd-sourced data from strangers versus data that's been lightly curated. Let me walk you through what I've actually found using both, in real conditions, on real roads.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">iOverlander has stronger international coverage and is better for true off-grid, trail-end camping beyond cell service.</li><li style="margin:5px 0">Campendium's filtering and search UX is noticeably cleaner; it's faster to find BLM spots by amenity or rig size.</li><li style="margin:5px 0">Campendium shows verified cell signal strength at sites, iOverlander does not, which matters if you work remotely.</li><li style="margin:5px 0">Both are free to browse; Campendium's premium tier runs $35.99/year and unlocks offline maps.</li><li style="margin:5px 0">For U.S. boondocking specifically, use both: Campendium to find the site, iOverlander to verify road conditions.</li></ul></div>
-
 
 ## What each app is actually built for
 
@@ -41,7 +39,7 @@ iOverlander started as a tool for overlanders crossing international borders, pe
 
 Campendium was built with North American RVers in mind from the start. It launched in 2014 and has leaned into the full-timer community specifically, which means the review ecosystem reflects people who actually live in their vehicles rather than weekend campers. The filtering options reflect that: you can sort by rig length suitability, cell carrier signal, hookup availability, and whether dogs are allowed. That's useful. Really useful, especially when you're trying to answer "will my 38-foot [fifth wheel](/how-to-back-up-a-fifth-wheel-for-beginners/) fit here without backing down a half-mile of bad road."
 
-Neither app is perfect. Both rely on user-submitted data, which means spots go stale. I've shown up twice to iOverlander locations that had been gated off, once in the Arizona Strip and once outside of Moab. Campendium has fewer of those dead-ends in my experience, probably because its user base turns over reviews more frequently in popular U.S. areas.
+Neither app is perfect. Both rely on user-submitted data, which means spots go stale. iOverlander locations sometimes get gated off after being posted. Campendium tends to have fewer stale listings in popular U.S. areas, likely because its user base updates reviews more frequently.
 
 ## The data gap that actually matters for boondockers
 
@@ -49,9 +47,7 @@ Here's a figure that surprised me when I dug into it: according to Campendium's 
 
 For boondockers who work remotely (and a lot of us do), that 34% figure is not just a nice-to-have. It's the difference between committing to a site and driving two hours to discover you have no Verizon signal for a Monday morning call. I've started using Campendium's cell filter as my first screen before I look at anything else.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">User-reported free campsites by app (U.S. &amp; Canada)</div><div class="sc-row"><span class="sc-label">Campendium (U.S./Canada)</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">50,000 sites</span></div><div class="sc-row"><span class="sc-label">iOverlander (U.S./Canada est.)</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">28,000 sites</span></div><div class="sc-row"><span class="sc-label">iOverlander (Global)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">180,000 sites</span></div><div class="sc-src">Source: Campendium public stats &amp; iOverlander contributor data, 2026</div></div>
-
 
 That global number is where iOverlander wins decisively. If you're planning anything outside North America, Campendium becomes nearly irrelevant. iOverlander has documented sites in 168 countries as of this year, with particularly dense coverage in South America and Southeast Asia, where overlanding communities have been contributing for over a decade.
 
@@ -70,13 +66,13 @@ That global number is where iOverlander wins decisively. If you're planning anyt
 | Review volume (U.S. sites) | Lower | Higher |
 | App stability (iOS/Android) | Occasional sync issues | Generally stable |
 
-A few things in that table need a word of explanation. The offline maps situation is important if you camp where you lose signal before you reach the site, which is most of the good spots. iOverlander's offline capability is genuinely free, which is a meaningful advantage. I tested this on a trip into the Cabeza Prieta National Wildlife Refuge in February 2025: downloaded the region the night before at a Flying J in Yuma, then had reliable offline access to all the cached spots for three days with zero cell signal. Campendium's offline feature requires the premium subscription, but $35.99 a year is not exactly breaking the bank if you use the app regularly.
+A few things in that table need a word of explanation. The offline maps situation is important if you camp where you lose signal before you reach the site, which is most of the good spots. iOverlander's offline capability is genuinely free, which is a meaningful advantage. iOverlander's offline maps work reliably even after several days without cell signal. Campendium's offline feature requires the premium subscription, but $35.99 a year is not exactly breaking the bank if you use the app regularly.
 
 The road condition notes gap is worth flagging for truck-camper and van people specifically. iOverlander's community is much more likely to leave detailed notes about "requires high clearance past the second wash" or "gate is locked November through April." Campendium reviews trend toward "beautiful spot, very quiet" -- more lifestyle, less logistics.
 
 ## How I actually use them together
 
-My workflow as of August 2026: I open Campendium first, filter by free sites, set my rig length ceiling (I'm in a 24-foot Class C), and toggle on cell signal if I have any work obligations that week. That gives me a shortlist. Then I cross-reference every shortlisted site in iOverlander to read the road condition and access notes. If a spot shows recent iOverlander check-ins with positive road reports, I feel good. If the last iOverlander visit was 14 months ago and nobody's left notes, I call that a yellow flag.
+A practical workflow: start with Campendium filtered by free sites and your rig length, then cross-reference shortlisted sites in iOverlander for road condition and access notes. Recent check-ins with positive reports suggest a good site. If the last visit was many months ago with no notes, treat it as a yellow flag.
 
 A few worked examples from real trips:
 
@@ -105,6 +101,5 @@ There's also no great verification system for hazards. Anyone can add a point. I
 - Rvers Online Full-Timer Survey (2025): Community-sourced data on app usage habits among long-term vehicle dwellers
 
 ---
-
 
 *Photo: [Dziana Hasanbekava](https://www.pexels.com/@dziana-hasanbekava) via Pexels*

@@ -29,9 +29,7 @@ Most full-timers don't think hard about mail service until they're sitting in a 
 
 The RV mail service world has a few dominant players, a handful of scrappy regional options, and a lot of confused advice floating around full-timer forums. I spent several weeks last spring actually talking to people at these services, testing their scan quality, comparing their forwarding costs, and reading the fine print on what "unlimited scans" actually means. Here's what I found, as of July 2026.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The three services most full-timers actually use are Escapees, Traveling Mailbox, and PostScan Mail, each with real tradeoffs.</li><li style="margin:5px 0">Domicile state matters as much as the mail service itself: South Dakota, Texas, and Florida are the big three for full-timers.</li><li style="margin:5px 0">Scan quality varies wildly; request a free trial scan before committing to any service.</li><li style="margin:5px 0">Forwarding fees are where costs quietly balloon -- $3-5 per package adds up fast.</li><li style="margin:5px 0">Your mail service address doubles as your legal domicile address, which affects taxes, licensing, and voting.</li></ul></div>
-
 
 ## The Part Most Comparisons Skip: Domicile Is the Real Decision
 
@@ -39,13 +37,11 @@ Before you pick a mail service, you need to pick a state. Because these services
 
 [South Dakota](/south-dakota-rv-domicile/) has no state income tax, relatively cheap vehicle registration, and is generally considered the most full-timer-friendly state. Getting established there requires one night at a campground and a trip to the DMV. Texas also has no income tax, but vehicle registration can be expensive depending on the value of your rig, and the inspection requirements are stricter. Florida has no income tax either, but insurance rates in Florida tend to be higher, and the annual vehicle inspection exemption is a draw for some people.
 
-I've been a South Dakota resident for six years. The main hassle is that to maintain legitimate residency you should actually pass through the state occasionally, which I do. I don't have hard numbers on how often South Dakota actually audits full-timer residency claims, and I'm not going to pretend I do. What I know is that my accountant, who handles several full-timer clients, recommends documenting your visits.
+Some states require physical presence to maintain legitimate residency. If you choose a residency state, check its specific requirements and make sure you can meet them. Documenting your visits is a sensible precaution.
 
 ## The Main Players, Honestly Compared
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly base plan cost (USD) by service</div><div class="sc-row"><span class="sc-label">Escapees</span><span class="sc-track"><span class="sc-bar" style="width:55%"></span></span><span class="sc-val">$12</span></div><div class="sc-row"><span class="sc-label">Traveling Mailbox</span><span class="sc-track"><span class="sc-bar" style="width:68%"></span></span><span class="sc-val">$15</span></div><div class="sc-row"><span class="sc-label">PostScan Mail</span><span class="sc-track"><span class="sc-bar" style="width:91%"></span></span><span class="sc-val">$20</span></div><div class="sc-row"><span class="sc-label">Earth Class Mail</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">$19</span></div><div class="sc-row"><span class="sc-label">St. Brendan's Isle</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$22</span></div><div class="sc-src">Source: Service websites, July 2026</div></div>
-
 
 Here's the table that actually matters for planning:
 
@@ -61,7 +57,7 @@ These are base plan prices, current as of July 2026. Every service has upsell ti
 
 **Escapees Mail Service** (run by the RV club of the same name) is the one I used for my first three years full-timing. What I didn't expect was how much the community aspect matters when something goes wrong. When a piece of my mail got misrouted in 2022, I had an actual human on the phone within 20 minutes who knew what "full-timing" meant and didn't treat me like an oddity. The tradeoff is that the web interface feels like it was designed in 2009 and hasn't been fully updated since. Functional. Not pretty.
 
-**Traveling Mailbox** has the cleanest app experience of any service I've tested. Scanning is fast, the interface is genuinely good, and their customer service response times (when I tested them with questions in May this year) averaged under 4 hours by email. The downside: they don't offer a dedicated domicile service the way Escapees does, so if you're starting from scratch, you're handling the legal residency setup yourself.
+**Traveling Mailbox** offers fast scanning and a straightforward interface. The main limitation is that they don't offer a dedicated domicile service the way Escapees does, so if you're starting from scratch, you're handling the legal residency setup yourself.
 
 **PostScan Mail** is worth considering if you run any kind of business from the road. Multiple address options on one account, solid integration with how small business owners receive mail. Pricier, and honestly the scan quality on some of my test pieces wasn't as sharp as Traveling Mailbox, but it was acceptable.
 
@@ -84,7 +80,7 @@ Could easily hit $1,200+ per year, which is real money but potentially tax-deduc
 
 ## The Scan Quality Problem Nobody Talks About
 
-This one surprised me. I tested four services by having identical pieces of mail sent to each (I roped in a friend who was setting up her mail service at the same time, so we split addresses). The variation in scan quality was significant. Traveling Mailbox scanned a standard 8.5x11 document at what appeared to be 300 DPI or better, every word sharp. One of the smaller regional services I won't name here produced scans that were borderline unreadable in the margins. For most mail, this doesn't matter. For tax documents, insurance notices, anything you might actually need to read carefully, it matters a lot.
+Scan quality varies between services. Check whether a service can produce clear scans of 8.5x11 documents at 300 DPI or better, especially if you need to read tax documents, insurance notices, or other important mail carefully. Borderline unreadable margins can make critical documents unusable.
 
 My recommendation: before you commit, ask the service to send you a sample scan. Every reputable service will do this. If they won't, move on.
 
@@ -103,6 +99,5 @@ Also, I thought "unlimited scans" would save me money. What I didn't read closel
 - Technomadia "Full-Timer Domicile Guide" (ongoing resource): Community-sourced comparison of SD, TX, FL domicile implications for nomads.
 
 ---
-
 
 *Photo: [Othmane Ettalbi](https://www.pexels.com/@othmane-ettalbi-2148497459) via Pexels*

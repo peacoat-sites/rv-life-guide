@@ -48,7 +48,7 @@ Most comparisons hit a wall right away. People compare a van's sticker price to 
 
 A used Class B van (already converted) runs somewhere between $45,000 and $120,000 depending on age, builder, and condition. A quality DIY conversion in a decent used Sprinter might cost $25,000 to $60,000 all in if you're doing real work. Meanwhile, a solid used travel trailer in the 24-to-30-foot range that's actually livable goes for $15,000 to $35,000. Add a capable tow vehicle (used F-250 or RAM 2500 for another $25,000 to $40,000) and you're in roughly the same territory as a mid-range van, sometimes cheaper.
 
-What trips people up: van life has lower campground costs because you can stealth camp in cities and pull into a Walmart lot without anyone caring. That's real. I've met van lifers paying $200 to $400 a month for overnight spots total. I was dropping $600 to $900 in campground fees when I was in a 32-foot fifth wheel. That gap adds up fast.
+What trips people up: van life has lower campground costs because you can stealth camp in cities and pull into a Walmart lot without anyone caring. That's real. Van lifers using stealth camping and Walmart lots often report $200 to $400 monthly for overnight spots, while traditional RV campground fees typically run $600 to $900 per month. That gap adds up fast.
 
 But here's the flip side: van repairs hit different. A Sprinter high-roof 4x4 is a prestige vehicle. Injector problems, AdBlue system headaches, or a transfer case issue can cost $3,000 to $8,000 at a shop that actually knows what they're doing. I've talked to full-time van lifers who got absolutely hammered by one bad repair season. A used travel trailer's mechanical problems are usually cheaper, though the tow vehicle is a separate beast.
 
@@ -78,7 +78,7 @@ A properly winterized travel trailer or Class A with heated tanks and a real fur
 
 Summer is different. A rooftop AC unit in a travel trailer is a genuine luxury. A 13,500 BTU Dometic running on 30-amp shore power will cool a 28-foot trailer down fast. Vans, even with a portable unit like a Zero Breeze or EcoFlow WAVE, struggle to maintain comfortable temps in a Texas July. Shore power at a campground fixes this, but then you're not doing the cheap stealth camping thing anymore. The systems don't layer together the way you'd hope.
 
-What I've seen work: van lifers who follow the weather, spending summers in the Pacific Northwest and winters in the Southwest. If your life allows that kind of flexibility, the climate management problem is mostly solved by geography. If you have commitments that anchor you in one region, an RV with HVAC is often the more livable choice.
+Many van lifers manage climate by following the weather, spending summers in the Pacific Northwest and winters in the Southwest. If your life allows that kind of flexibility, the climate management problem is mostly solved by geography. If you have commitments that anchor you in one region, an RV with HVAC is often the more livable choice.
 
 On the water side: a 28-foot travel trailer typically carries 30 to 60 gallons of fresh water. Most vans carry 15 to 30 gallons. Both lifestyles require you to think about water constantly in ways apartment dwellers never do. A [gravity water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) is non-negotiable in both cases. I use a Camco TastePURE inline filter at minimum and a Berkey inside for drinking water.
 
@@ -106,18 +106,17 @@ If true off-grid capability matters to you, both setups require real investment.
 - [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Charlie Seidowsky](https://www.pexels.com/@charlie-seidowsky-2154710744)
 
-
 Nobody in the comparison articles talks about this, and it matters.
 
 Van life can be isolating in a specific way. When you pull into a campground in a van, you're often invisible. Other RVers set up camp chairs, neighbors wander over, there's social gravity to the bigger setups. Van lifers I know who've been at it for years are almost universally strong introverts or they've built a travel partner situation that works. Solo van life long-term is hard psychologically in ways that have nothing to do with the vehicle.
 
-RV communities are real and surprisingly warm. Full-timer Facebook groups, Harvest Hosts properties, boondocking meetups. I've made some of my closest friends on the road through connections that started at a campground. There's a communal quality to a row of RVs that a van parked on a street doesn't replicate.
+RV communities are real and surprisingly warm. Full-timer Facebook groups, Harvest Hosts properties, boondocking meetups. There's a communal quality to a row of RVs that a van parked on a street doesn't replicate.
 
 That's not a dealbreaker for van life. Just something to factor in if you're the kind of person who needs regular human connection.
 
 ---
 
-Eight years in, I've done extended time in a Class C, a 32-foot fifth wheel, and two shorter stints borrowing friends' converted vans for weeks at a time. I love the RV life I'm living, and I've watched van life work beautifully for specific people. The worst outcomes I've seen are people who picked based on the lifestyle they wanted to project and ended up miserable in the wrong vehicle. Pick based on the Tuesday your neighbor described. The ordinary days are the whole point.
+Van life works beautifully for specific people. The worst outcomes happen when people pick based on the lifestyle they want to project rather than the day-to-day reality of living in their vehicle. Pick based on the Tuesday your neighbor described. The ordinary days are the whole point.
 
 *This post contains affiliate links. If you purchase through them, this site may earn a small commission at no extra cost to you.*
 

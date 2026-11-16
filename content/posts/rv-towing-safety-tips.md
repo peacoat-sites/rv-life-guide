@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Three years ago, I watched a 36-foot fifth wheel come completely uncoupled from a pickup on I-40 outside Amarillo. The trailer swung wide, took out a guardrail, and came to rest in a ditch. Nobody was hurt, which was miraculous. The driver had been towing for years. He knew what he was doing, or thought he did. Turned out he'd skipped one pre-trip check that morning because he was running late. One check.
 
-That moment stuck with me. I've been pulling trailers of various sizes for eight years now, and the thing that still gets me is how close the margin is between a routine drive and a catastrophe. Towing isn't inherently dangerous, but it punishes complacency in ways that regular driving doesn't.
+The margin between a routine drive and a catastrophe can be surprisingly close when towing. Towing isn't inherently dangerous, but it punishes complacency in ways that regular driving doesn't.
 
 So let me share what I've actually learned, including the stuff I got wrong before I knew better.
 
@@ -52,13 +52,11 @@ Get your rig to a CAT Scale (most truck stops have them, cost is around $13 per 
 
 I rushed this for longer than I should admit. My first year towing, I was doing a visual check of the hitch ball and calling it good. What I wasn't checking was the ball mount torque, the coupler latch fully seated, the safety chains crossed under the coupler (so they'd cradle the tongue if the coupler failed, not just drag), and the breakaway cable properly attached to the tow vehicle's frame, not the hitch ball.
 
-That last one is embarrassing to admit, but I've seen it done wrong by people who should know better, including at dealerships.
-
 For fifth wheels, make sure the kingpin is locked and the locking jaws are fully engaged before you pull any safety pin. Tug the trailer forward manually before you drive. If it doesn't move with you, you're good. If there's any play or it pops up even slightly, stop and re-seat.
 
-[Weight distribution hitch](/sway-control-hitch-rv/)es deserve their own conversation. If your trailer's tongue weight is over roughly 10-12% of your tow vehicle's weight, you need one. Most people with travel trailers over 6,000 lbs loaded weight should have one. Setup matters enormously: the bars need to be tensioned so the front of the tow vehicle lifts back to ride height, not just partially. I've seen weight distribution hitches installed but not tensioned correctly on probably a third of the rigs I've helped at campgrounds. It's not doing much for you if it's not set right.
+[Weight distribution hitch](/sway-control-hitch-rv/)es deserve their own conversation. If your trailer's tongue weight is over roughly 10-12% of your tow vehicle's weight, you need one. Most people with travel trailers over 6,000 lbs loaded weight should have one. Setup matters enormously: the bars need to be tensioned so the front of the tow vehicle lifts back to ride height, not just partially. Weight distribution hitches are often installed but not tensioned correctly. It's not doing much for you if it's not set right.
 
-Anti-sway bars are worth it if you're on interstates regularly. The Equal-i-zer 4-Point Sway Control hitch (runs about $700-$900) does weight distribution and sway control in one unit and in my experience it's one of the better investments for trailer towing in the 6,000-10,000 lb range.
+Anti-sway bars are worth it if you're on interstates regularly. The Equal-i-zer 4-Point Sway Control hitch (runs about $700-$900) does weight distribution and sway control in one unit and is a solid option for trailer towing in the 6,000-10,000 lb range.
 
 ---
 
@@ -70,7 +68,7 @@ Anti-sway bars are worth it if you're on interstates regularly. The Equal-i-zer 
 | Anti-Sway Bar Hitch (Equal-i-zer 4-Point) | $700-$900 | Combined weight distribution and sway control for 6,000-10,000 lb trailers |
 | CAT Scale Weighing | ~$13 per session | Verifies actual loaded weight vs. GVWR/GCWR limits |
 
-Here's a thing I thought for years: if the trailer brakes engage when I press the brake pedal, they must be working properly. That's wrong, and it cost me a nervous experience descending US-550 into Ouray, Colorado.
+A common misconception is that trailer brakes are working properly if they engage when you press the brake pedal. That's wrong.
 
 Trailer brake controllers need to be calibrated to your specific trailer's weight. An electric brake controller set for a 5,000-lb trailer running a 9,000-lb trailer is providing maybe 60% of the braking force it should. The trailer will push. On flat ground you'll barely notice. On a 7% grade with switchbacks, you'll notice.
 
@@ -115,7 +113,6 @@ Look under the trailer for anything dripping that shouldn't be. Check that your 
 - RV Industry Association (RVIA): Annual RV Owner Demographic and Usage Report (current edition), including towing safety incident trends
 
 ---
-
 
 *Photo: [Quintin Gellar](https://www.pexels.com/@quintingellar) via Pexels*
 

@@ -33,7 +33,7 @@ What I've learned is that winterizing for full-time living isn't one event. It's
 
 ## The Plumbing Question (and Why Blowing It Out Isn't Enough for Full-Timers)
 
-Here's the thing most guides miss: if you're living in your rig, you can't fully winterize your plumbing the way a seasonal camper can. You need running water. You need your toilet. You need your shower. So the standard "blow it out with compressed air and dump pink antifreeze everywhere" method only works if you're going away for an extended stretch or bringing in fresh water daily from jugs.
+If you're living in your rig year-round, you can't fully winterize your plumbing the way a seasonal camper can. You need running water. You need your toilet. You need your shower. So the standard "blow it out with compressed air and dump pink antifreeze everywhere" method only works if you're going away for an extended stretch or bringing in fresh water daily from jugs.
 
 For full-time winter living, the real strategy is heat. Keeping your water lines warm enough that they never freeze in the first place.
 
@@ -74,7 +74,7 @@ Your RV furnace is designed to bring a cold space up to temperature, not run con
 
 What I actually run is a layered system. Primary heat is a Mr. Heater Little Buddy (the 3,800 BTU indoor-safe version, about $90) for daytime when I'm actively in the space and can keep an eye on it. Secondary is a 1,500-watt ceramic space heater for overnight if I'm on shore power. The propane furnace acts as backup and kicks on via thermostat only when inside temps would otherwise drop below 60°F.
 
-A few things I've learned with propane heat: ventilate a little, even in cold weather. Just cracking a window slightly prevents moisture buildup, which is serious in winter. I've seen rig interiors with actual mold growth on the walls from sealed winter living. Also, CO detectors should be tested monthly and replaced every 5-7 years regardless of what the sticker says. Mine are Kidde brand, under $25.
+With propane heat, ventilate a little, even in cold weather. Just cracking a window slightly prevents moisture buildup, which is serious in winter. Sealed winter living without ventilation can lead to mold growth on walls. CO detectors should be tested monthly and replaced every 5-7 years regardless of what the sticker says; good options start under $25.
 
 The ceiling fan running on low in reverse (pushing warm air down from the ceiling) makes a noticeable difference. Seriously, try it.
 
@@ -93,7 +93,6 @@ Door seals deserve attention too. My slide-out seals get treated with rubber con
 - [Thirdman](https://www.pexels.com/@thirdman)
 - here is honestly mixed on how well lithium batteries perform in extreme cold
 
-
 If you're wintering in a campground with 30 or 50 amp hookups, the electric side of winter is relatively forgiving. Shore power runs your space heater, your tank heaters, your heated hose.
 
 But if you're boondocking in winter, or even in a campground where shore power is unreliable or limited, your battery bank and solar situation becomes critical.
@@ -104,6 +103,6 @@ Solar in winter also requires recalibration. If you're parked with snow potentia
 
 A battery monitor is non-negotiable if you're off-grid. The Victron SmartShunt ($100-130) gives you accurate state-of-charge, voltage, and current draw. Flying blind on battery state in winter is a bad position.
 
-Eight years in, I still do a pre-winter checklist every September. Not because it's become automatic, but because the specific failure points change every year as my rig ages and as I end up in different places. The goal isn't to make winter feel like summer. It's to make it feel like home, on your terms, with no unexpected $800 surprises in February.
+A pre-winter checklist in September is worth doing every year. The specific failure points change every year as a rig ages and as you end up in different places. The goal isn't to make winter feel like summer. It's to make it feel like home, on your terms, with no unexpected $800 surprises in February.
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*

@@ -48,13 +48,13 @@ That spread is huge. And it's almost entirely behavior, not expensive gear. Thou
 
 ## The Navy Shower, and Why Most People Do It Wrong
 
-A navy shower is simple in theory: wet down, water off, lather, water back on to rinse. Takes about 45 seconds of actual water flow. At a standard RV showerhead flow rate of 2.5 gallons per minute, that's about 1.9 gallons per shower. With a low-flow showerhead rated at 1.5 GPM (the Oxygenics 26836 BodySpa is one I've used for three years, runs about $28 on Amazon), you're down to roughly 1.1 gallons if you're disciplined.
+A navy shower is simple in theory: wet down, water off, lather, water back on to rinse. Takes about 45 seconds of actual water flow. At a standard RV showerhead flow rate of 2.5 gallons per minute, that's about 1.9 gallons per shower. With a low-flow showerhead rated at 1.5 GPM (like the Oxygenics 26836 BodySpa, around $28 on Amazon), you're down to roughly 1.1 gallons if you're disciplined.
 
 Here's what I got wrong the first year: I installed the low-flow head but didn't actually turn the water off mid-shower. Old habits. I was still using 4-5 gallons because I stood there rinsing. The head is half the battle. The behavior is the other half, and honestly the harder one.
 
 One thing that actually sticks as a habit: put a small digital kitchen timer on the shower wall. Set it for 90 seconds total water-on time. When it beeps, you're done rinsing. Sounds silly. Works.
 
-Scenario 1: A couple boondocking in a 50-gallon tank rig with no behavior changes uses roughly 40 gallons/day between them. Tank runs out in about 30 hours. Same couple switches to navy showers and low-flow head, optimizes dish routine. Usage drops to 10-12 gallons/day. Same 50-gallon tank now lasts 4+ days. That's not an incremental improvement; that's the difference between a frustrating trip and a comfortable one.
+Scenario 1: A couple boondocking in a 50-gallon tank rig with no behavior changes uses roughly 40 gallons/day between them. Tank runs out in about 30 hours. Same couple switches to navy showers and low-flow head, optimizes dish routine. Usage drops to 10-12 gallons/day. Same 50-gallon tank now lasts 4+ days.
 
 ## Dishes and Food Prep (The Underestimated Drain)
 

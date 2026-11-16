@@ -31,9 +31,7 @@ I made exactly this mistake myself. When I went full-time in early 2018, I kept 
 
 What most people don't realize is that the "big three" domicile states for RVers aren't interchangeable. Texas, South Dakota, and Florida each have genuinely different strengths and genuine drawbacks that will matter differently depending on whether you're retired, self-employed, [working remotely](/working-remotely-from-rv/) for a company, or running a business. Let me walk you through what I've actually found over eight years on the road.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">South Dakota, Texas, and Florida are the top three domicile states for full-time RVers; all three have no state income tax.</li><li style="margin:5px 0">South Dakota requires the shortest in-person visit (as little as one overnight) to establish domicile.</li><li style="margin:5px 0">Texas vehicle registration costs vary by county and weight class but typically run $150-$225/year for a Class A.</li><li style="margin:5px 0">Florida's no-fault insurance requirements can significantly raise auto insurance premiums compared to SD or TX.</li><li style="margin:5px 0">Mail forwarding services in each state (like America's Mailbox in SD or Escapees in TX) handle the paperwork for roughly $200-$300/year.</li></ul></div>
-
 
 ## Why Domicile Matters More Than You Think
 
@@ -45,9 +43,7 @@ The IRS and state revenue departments do occasionally audit full-timers who clai
 
 Here's where I'll cut straight to the comparison you came for, because the details matter and they change often enough that you want current numbers. As of July 2026, this is how the three states stack up on the metrics that actually affect your daily life.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Annual Domicile Cost (Class A, Solo Full-Timer)</div><div class="sc-row"><span class="sc-label">South Dakota</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$780</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">$1,240</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,560</span></div><div class="sc-src">Source: Compiled from SD DOR, TX DMV, FL DHSMV, and member-reported data from Escapees RV Club (2026)</div></div>
-
 
 | Factor | South Dakota | Texas | Florida |
 |---|---|---|---|
@@ -81,7 +77,7 @@ Texas has one significant thing South Dakota doesn't: Escapees RV Club is headqu
 
 The scenario that makes Texas particularly attractive: retired full-timer with a good pension or investment income, decent health needs, and already an Escapees member. No state income tax on that pension, strong ACA options, and the Escapees community in Livingston is genuinely useful for everything from mail to technical RV questions.
 
-Texas vehicle registration is a little more complicated than South Dakota's. Registration costs depend on county and vehicle weight class, and some Texas counties have emissions inspection requirements. Polk County (where Livingston sits) does not require emissions inspection, which is why Escapees uses that address. Scenario: a reader named Marcus, who drives a 2017 Tiffin Allegro Bus, told me his Polk County registration runs him $187/year. He set up his domicile through Escapees in a single two-day trip from his previous Arizona domicile.
+Texas vehicle registration is a little more complicated than South Dakota's. Registration costs depend on county and vehicle weight class, and some Texas counties have emissions inspection requirements. Polk County (where Livingston sits) does not require emissions inspection, which is why Escapees uses that address.
 
 Texas also makes driver's license renewal a bit more involved than South Dakota over the long term. Texas requires in-person renewal every eight years, where South Dakota allows renewals by mail. That matters when you're traveling full-time and trying to minimize mandatory return trips.
 
@@ -89,9 +85,9 @@ Texas also makes driver's license renewal a bit more involved than South Dakota 
 
 Florida is genuinely good for one particular group: RVers who spend significant time in Florida anyway, especially snowbirds or people with family there. The domicile establishment isn't hard, the no-income-tax benefit is real, and if you're already physically in the state a couple months a year, it makes legal sense to have your domicile match your reality.
 
-The auto insurance premium issue is real and worth budgeting for. Florida's PIP requirement and the overall insurance cost climate there mean you'll likely pay more for comparable coverage than you would in South Dakota. I've seen estimates ranging from $200 to $600 more annually depending on your rig size and driving record, though those figures are self-reported from forums and I'd treat them as directional, not precise.
+The auto insurance premium issue is real and worth budgeting for. Florida's PIP requirement and the overall insurance cost climate there mean you'll likely pay more for comparable coverage than you would in South Dakota. Estimates ranging from $200 to $600 more annually have been reported depending on your rig size and driving record, though those figures are self-reported from forums and should be treated as directional, not precise.
 
-Florida's DMV is also, in my experience and in stories I've heard, more variable in terms of how easy the domicile process goes. Unlike South Dakota, where the DMV seems accustomed to this, some Florida DMV offices have required additional documentation or seemed unfamiliar with the full-timer situation. Bring everything: mail forwarding service confirmation, campground receipt showing a Florida overnight stay, and your existing vehicle title.
+Florida's DMV can be more variable than South Dakota's in how the domicile process goes. Unlike South Dakota, where the DMV seems accustomed to this, some Florida DMV offices have required additional documentation or seemed unfamiliar with the full-timer situation. Bring everything: mail forwarding service confirmation, campground receipt showing a Florida overnight stay, and your existing vehicle title.
 
 ## Making the Switch: What the Process Actually Looks Like
 
@@ -118,7 +114,6 @@ The whole process took me about three days including travel, and the SD DMV part
 - IRS Publication 555 / state residency audit guidelines: Documentation standards for establishing legal domicile in a state different from a taxpayer's prior residence.
 
 ---
-
 
 ---
 

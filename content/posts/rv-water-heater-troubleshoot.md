@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 My water heater stopped working outside Moab in late October, and I'll be honest: I panicked a little. Not because cold showers are the end of the world, but because I'd been on the road for three years at that point and genuinely had no idea what I was looking at when I opened that exterior access panel. Eight years later, I could diagnose most RV water heater problems in my sleep. The gap between then and now is just experience and a willingness to actually understand the system instead of immediately calling a mobile tech.
 
-Most people assume water heater issues are complicated. They're usually not. The majority of failures I've seen (and had) come down to four or five causes, and most of them you can fix yourself for under $30.
+Most people assume water heater issues are complicated. They're usually not. Most failures come down to four or five causes, and most can be fixed for under $30.
 
 ## Understanding What You're Actually Working With
 
@@ -67,7 +67,7 @@ If you've got a combination unit and propane works fine but the electric mode do
 
 The element is submerged in the tank and screws in just like a residential water heater element. They fail. It's not dramatic, it just happens after a few years. You can test continuity with a basic multimeter. A failed element reads open (infinite resistance) instead of the expected low resistance (around 10-16 ohms for most RV elements). A replacement element for most units runs $20-40. The Atwood/Dometic 91602 is a common one I've replaced personally.
 
-Before you pull the element, though: turn off the water heater, relieve pressure at the pressure relief valve, open a hot water faucet inside to break the vacuum, then drain the tank from the exterior drain plug. Don't skip draining it. I've seen people try to swap elements with water in the tank and it's exactly as messy as you'd expect.
+Before you pull the element, though: turn off the water heater, relieve pressure at the pressure relief valve, open a hot water faucet inside to break the vacuum, then drain the tank from the exterior drain plug. Don't skip draining it. Swapping elements with water in the tank is messy.
 
 The thermostat (sometimes called the high-limit switch on the electric circuit) is another failure point. If it's tripped or failed, the element gets no power. On most units it's clipped directly to the tank near the element and held by a bracket. Test it for continuity with your multimeter. If it's reading open, you've found your problem.
 
@@ -75,7 +75,7 @@ One thing I'll be honest about: if you're not comfortable with multimeter work o
 
 ## Why Your Hot Water Smells Like Rotten Eggs
 
-This surprised me when I first learned it. So many people I've met are living with sulfur smell in their hot water for months, assuming it's the water supply. It usually isn't. It's the anode rod reacting with bacteria in the tank.
+A common assumption is that sulfur smell in hot water comes from the water supply. Usually it doesn't. It's the anode rod reacting with bacteria in the tank.
 
 This happens most often in Suburban units after the rig sits unused for a while, especially if you're using well water or water with higher sulfur content. The fix is replacing the anode rod (see above) and then shocking the tank with a diluted bleach solution. I use about 1/4 cup of household bleach mixed into a gallon of water, pour it into the tank through the anode rod port, fill the rest of the way, let it sit for several hours, then fully drain and flush.
 
@@ -98,8 +98,7 @@ If pressure is fine and the valve still drips, replace the valve. Don't try to c
 - [water pressure regulator](https://amzn.to/3example)
 - [Juan Hernandez Jr](https://www.pexels.com/@r7shutter)
 
-
-The bypass valve. When you winterize an RV, you (or someone) engages the water heater bypass to keep antifreeze out of the tank. If spring rolls around and you forget to switch it back, you'll get hot water at some fixtures but not others, or dramatically reduced flow, or the heater will cycle constantly trying to heat water that isn't really in the tank properly. I've seen this trip up experienced RVers. It's embarrassing but extremely common. Check your bypass valve configuration before you diagnose anything else in spring.
+The bypass valve. When you winterize an RV, you (or someone) engages the water heater bypass to keep antifreeze out of the tank. If spring rolls around and you forget to switch it back, you'll get hot water at some fixtures but not others, or dramatically reduced flow, or the heater will cycle constantly trying to heat water that isn't really in the tank properly. This oversight is extremely common. Check your bypass valve configuration before you diagnose anything else in spring.
 
 Also: if your water heater is taking forever to produce hot water or you're constantly running out, the problem might not be the heater at all. Check for a cross-connection between your hot and cold lines. This happens sometimes after plumbing work or fitting failures, and cold water bleeds back into the hot side. A quick test is simple. Turn off cold water supply and open a hot tap. If water keeps flowing, you've got a cross-connection somewhere.
 

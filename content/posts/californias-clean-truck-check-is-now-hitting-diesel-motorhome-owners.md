@@ -37,7 +37,7 @@ The testing method depends on your engine year. If you've got a 2013 or newer di
 
 ## Out-of-State Owners: Yes, This Means You
 
-I've watched a lot of regulations come and go. The ones that catch people hardest are always the ones with extraterritorial reach. This one has it. California isn't just regulating coaches registered in the state. Drive your rig on California roads, and you're on the hook. That's the whole story.
+Regulations with extraterritorial reach tend to catch people hardest. This one has it. California isn't just regulating coaches registered in the state. Drive your rig on California roads, and you're on the hook. That's the whole story.
 
 Most people don't realize the California DMV is actively placing registration holds on non-compliant vehicles. Sure, if you're registered in Nevada or Texas, your home state DMV won't care about a California compliance flag. But California can still flag your vehicle in their system. Get pulled over or inspected in the state, and you could be looking at fines or an order to stop operating the coach until you comply. That's miserable when you're on a two-week trip with your family.
 

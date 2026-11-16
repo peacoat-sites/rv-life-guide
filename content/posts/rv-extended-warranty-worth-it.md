@@ -72,7 +72,7 @@ You're buying from a manufacturer with a spotty reliability record. I'm not goin
 
 You're buying a newer rig (under three years old) still under factory warranty. You're doubling up coverage. You bought a simpler setup: a travel trailer or cargo van conversion with minimal systems. Less to break. The warranty math rarely works in your favor.
 
-You have $10,000+ in a dedicated repair fund. Honestly, self-insuring is the right move for mechanically literate owners who aren't scared of repair bills. I kept a $7,500 emergency fund for my first three years and came out ahead. The moment I bought a diesel pusher with a 340-horsepower Cummins, I reconsidered.
+You have $10,000+ in a dedicated repair fund. Self-insuring is the right move for mechanically literate owners who aren't scared of repair bills.
 
 ## The Contract Is the Product (Read Every Word)
 
@@ -82,7 +82,7 @@ Extended warranties vary enormously in what they actually cover. The marketing s
 
 Watch for these specific exclusions: cosmetic damage, "normal wear" items (which can include seals, gaskets, brake pads, belts), pre-existing conditions (vague and weaponized by adjusters), and anything related to "improper maintenance" if you can't produce receipts.
 
-I tested this firsthand when my 2016 Newmar Dutch Star developed a slide seal leak. My warranty company (Good Sam at the time) initially denied the repair as "wear and tear." I escalated, produced my maintenance log, and got it covered after a two-week argument. That process is exhausting on the road. Go in knowing it'll happen.
+Warranty disputes often center on wear-and-tear exclusions. A maintenance log can help you challenge a denial, though the process may take weeks to resolve.
 
 Companies worth considering, as of mid-2026: Wholesale Warranties has strong reviews from full-timers and a repair network that doesn't require pre-authorization at every shop. America's RV Warranty and Fidelity Warranty Services also show up consistently in full-timer forums. Avoid anything sold aggressively at the dealership F&I office without an independent quote first. Dealer-sold warranties carry a significant markup, often 30 to 40%.
 
@@ -103,6 +103,5 @@ Where it falls apart: if you're financing the RV and a $6,000 repair could genui
 - National RV Training Academy (nrvta.com): Technician training resource with published labor rate data and component failure frequencies.
 
 ---
-
 
 *Photo: [Othmane Ettalbi](https://www.pexels.com/@othmane-ettalbi-2148497459) via Pexels*
