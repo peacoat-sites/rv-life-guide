@@ -31,9 +31,7 @@ I didn't know this my first year on the road. I was blissfully hooking up at ful
 
 There is. It costs about $12.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Campground water pressure regularly exceeds 80 PSI; most RV plumbing is rated for 40-60 PSI max.</li><li style="margin:5px 0">A quality adjustable regulator (Valterra, Watts, or Camco) runs $12-$55 and can prevent hundreds in plumbing repairs.</li><li style="margin:5px 0">Set your regulator to 45-55 PSI ,  low enough to protect fittings but high enough for a real shower.</li><li style="margin:5px 0">Flow-through (inline) regulators degrade; replace them every 2-3 seasons or if you notice pressure fluctuations.</li><li style="margin:5px 0">A pressure gauge on your regulator is worth the extra $8-$15. You need to know your actual PSI, not guess.</li></ul></div>
-
 
 ## Why the Pressure Problem Is Worse Than You Think
 
@@ -46,10 +44,6 @@ The math on repair costs makes this embarrassingly obvious. A blown water heater
 ## Choosing the Right Regulator
 
 Here's where people either overthink it or don't think about it enough. There are two basic types: fixed-pressure flow-through regulators and adjustable regulators with gauges. They're not interchangeable in terms of use case.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical RV Water Pressure Regulator Price vs. Protection Level</div><div class="sc-row"><span class="sc-label">Camco Flow-Through (fixed)</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">$13</span></div><div class="sc-row"><span class="sc-label">Valterra Brass (fixed)</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">$22</span></div><div class="sc-row"><span class="sc-label">Watts Adjustable (no gauge)</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">$34</span></div><div class="sc-row"><span class="sc-label">Camco Adjustable w/ Gauge</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">$45</span></div><div class="sc-row"><span class="sc-label">Renator Adjustable w/ Gauge</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$55</span></div><div class="sc-src">Source: Retailer pricing survey, July 2026</div></div>
-
 
 The fixed flow-through types (Camco, Valterra's basic model) set pressure to roughly 40-50 PSI and that's that. They're fine for occasional camping or for people on a strict budget, but I'll be honest: they wear out. The diaphragm inside fatigues, especially if you're full-timing and connecting to city water every few days. I've had two fail in a way where they actually restricted flow well below 40 PSI, which I didn't catch for almost two weeks because my shower pressure "felt normal." Not ideal.
 
@@ -89,6 +83,5 @@ I keep my regulator in a small zip-lock bag inside my "hookup kit" bin, right ne
 - Woodall's Campground Directory (current as of July 2026): Field data on campground hookup infrastructure variability across U.S. parks.
 
 ---
-
 
 *Photo: [Colin Christie](https://www.pexels.com/@colin-christie-1108918809) via Pexels*

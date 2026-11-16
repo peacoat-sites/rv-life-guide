@@ -37,10 +37,6 @@ What surprised me was how small the margin is. A tire that's 20% underinflated (
 
 That's the physics piece. The age piece is where I see even experienced RVers get it wrong.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">RV Tire Blowout Causes (% of incidents)</div><div class="sc-row"><span class="sc-label">Underinflation</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">38%</span></div><div class="sc-row"><span class="sc-label">Age/UV degradation</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">27%</span></div><div class="sc-row"><span class="sc-label">Overloading</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Road hazard</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">11%</span></div><div class="sc-row"><span class="sc-label">Manufacturing defect</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">6%</span></div><div class="sc-src">Source: RV Safety &amp; Education Foundation / TIA industry data</div></div>
-
-
 ## Age Is Not a Suggestion
 
 I thought for years that tire age only mattered for tires that looked cracked or dried out. The visible sidewall cracking is the late-stage symptom, not the early warning sign. What the industry knows, and what Michelin, Goodyear, and Continental all formally state in their RV tire guidance, is that most RV tires should be replaced at 5-6 years regardless of tread depth and regardless of mileage. Some manufacturers say 7 years as an absolute ceiling. This is not conservative marketing to sell more tires. The rubber compound degrades from UV exposure and oxidation at the molecular level long before you can see it.
@@ -97,6 +93,5 @@ This takes about twelve minutes for a six-tire setup (four duals, one tag, one s
 - Federal Motor Carrier Safety Administration (FMCSA): Large vehicle tire maintenance and inspection standards, applicable to Class A motorcoach operation
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

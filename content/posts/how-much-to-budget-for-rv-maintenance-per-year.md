@@ -31,19 +31,13 @@ Here's what I know now after eight years of this: [maintenance costs](/rv-mainte
 
 So let's actually talk numbers.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Budget $1,500-$3,000/year for a newer Class A or C; $3,000-$6,000+ for older or high-mileage rigs.</li><li style="margin:5px 0">Tires alone can run $1,200-$2,400 for a Class A every 5-7 years, but don't wait on this one.</li><li style="margin:5px 0">Full-timers spend roughly 2-3x what weekend warriors spend, per year of ownership.</li><li style="margin:5px 0">A dedicated emergency fund of $5,000-$8,000 separate from your maintenance budget is not optional.</li><li style="margin:5px 0">Diesel pushers and fifth wheels have different cost profiles; don't copy someone else's budget blindly.</li></ul></div>
-
 
 ## The Honest Baseline Numbers
 
 Most RV blogs throw out "$1,000-$2,000 a year" and call it done. That's not wrong for a newer rig used recreationally a few weeks a year. It's wildly optimistic for anyone living in their unit full-time or driving it across the country every season.
 
 Here's what I've tracked across my own ownership and from conversations with long-timers in the community:
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated average annual RV maintenance cost by rig type (full-time use)</div><div class="sc-row"><span class="sc-label">Class B Van</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Class C (gas)</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$2,800</span></div><div class="sc-row"><span class="sc-label">Class A (gas)</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$3,900</span></div><div class="sc-row"><span class="sc-label">Class A (diesel)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,200</span></div><div class="sc-row"><span class="sc-label">Fifth Wheel</span><span class="sc-track"><span class="sc-bar" style="width:65%"></span></span><span class="sc-val">$3,400</span></div><div class="sc-row"><span class="sc-label">Travel Trailer</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-src">Source: Greg Hoffman, 8-year full-time RVer, aggregated from owner communities 2024-2026</div></div>
-
 
 These are full-time-use figures, not weekend-warrior numbers. Cut them roughly in half if you're using your rig 60 days a year or fewer, and add 20-30% if your unit is more than 10 years old.
 
@@ -104,6 +98,5 @@ As of August 2026, labor rates at RV repair shops run $120-$175/hour in most mar
 - Progressive Industries EMS Product Testing Data (2026): Documented surge and voltage event protection for RV electrical systems
 
 ---
-
 
 *Photo: [Sergey  Meshkov](https://www.pexels.com/@19x14) via Pexels*

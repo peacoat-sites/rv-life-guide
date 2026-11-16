@@ -31,17 +31,11 @@ Here's what most pool campground coverage gets wrong: it treats the pool as a bo
 
 This article is about finding the ones worth your time and money, knowing what to pay, and avoiding the traps that keep showing up across booking platforms.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Campgrounds with pools charge $12-$47 more per night on average than non-pool comparables in the same market.</li><li style="margin:5px 0">Pool quality varies wildly; filter reviews for "pool" specifically rather than relying on overall star ratings.</li><li style="margin:5px 0">Heated pools and extended hours (open until 10pm or later) narrow your search by 60-70% but are worth the filter.</li><li style="margin:5px 0">KOA Holiday properties and Jellystone Parks consistently score highest on pool maintenance in RVIA camper feedback.</li><li style="margin:5px 0">Booking 3+ weeks out for summer weekends near resort-style campgrounds cuts your rate by 8-22% on average.</li></ul></div>
-
 
 ## What You're Actually Paying For
 
 The rate spread is real. Here's how pool campgrounds stack up against each other and against dry sites, based on current booking data from Campspot and The Dyrt as of July 2026.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average nightly rate with pool by campground type (2026)</div><div class="sc-row"><span class="sc-label">Basic w/ pool</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">$52</span></div><div class="sc-row"><span class="sc-label">Mid-tier w/ pool</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">$74</span></div><div class="sc-row"><span class="sc-label">Resort-style w/ pool</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$118</span></div><div class="sc-row"><span class="sc-label">Non-pool comparable</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">$47</span></div><div class="sc-src">Source: The Dyrt / Campspot aggregated data, July 2026</div></div>
-
 
 Resort-style campgrounds, think [Thousand Trails](/is-thousand-trails-membership-worth-it-for-full-timers/), Sun Outdoors, and the bigger Jellystone locations, average around $118 a night in peak season, but many require memberships that bring per-night costs down considerably for frequent visitors. A Thousand Trails Connect membership runs roughly $599 annually and gives you access to 190+ parks, most of which have pools. If you're using it 30+ nights a year, the math lands at under $20/night in access fees before hookup charges.
 
@@ -104,6 +98,5 @@ Worked example: Reader emailed me last spring about her family's full-time setup
 - [Good Sam Club Membership Benefits Overview (2026)]: Current membership pricing and campground discount terms from Good Sam Enterprises.
 
 ---
-
 
 *Photo: [Aditya Oberai](https://www.pexels.com/@oberai) via Pexels*

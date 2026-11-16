@@ -104,10 +104,6 @@ If you've checked all the basics and you're looking at a board replacement, paus
 
 The one situation where I'd tell you to call a certified tech rather than DIY: if you've confirmed a gas valve failure and you're not comfortable with LP systems. A leaking gas valve isn't a "learn as you go" repair. Everything else on this list is reasonable for anyone comfortable with basic hand tools and a multimeter.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Most common RV furnace no-ignition causes (field reports)</div><div class="sc-row"><span class="sc-label">Sail switch</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">28 % of cas</span></div><div class="sc-row"><span class="sc-label">LP supply/regulator</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">22 % of cas</span></div><div class="sc-row"><span class="sc-label">Dirty flame sensor</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">18 % of cas</span></div><div class="sc-row"><span class="sc-label">Igniter/electrode</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">15 % of cas</span></div><div class="sc-row"><span class="sc-label">Control board</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">10 % of cas</span></div><div class="sc-row"><span class="sc-label">Blower motor</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">7 % of cas</span></div><div class="sc-src">Source: Estimated from RVTalk.net forum data and field reports, 2024-2026</div></div>
-
-
 ## Sources
 
 - [Suburban Manufacturing Service Manual, SF-Series Furnaces](https://www.suburbansw.com): Official sequence-of-operations and component wiring diagrams for Suburban furnace models
@@ -117,6 +113,5 @@ The one situation where I'd tell you to call a certified tech rather than DIY: i
 - [iRV2 Forums, Heating/Plumbing/Appliances Section](https://www.irv2.com): Extensive real-world diagnostic threads with verified resolutions, referenced for failure frequency estimates
 
 ---
-
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*

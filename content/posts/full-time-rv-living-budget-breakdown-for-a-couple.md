@@ -31,9 +31,7 @@ I've been full-timing with my husband since 2018. We started in a 32-foot [fifth
 
 Here's what I tell people who are serious about doing this: the [monthly cost](/average-monthly-cost-of-full-time-rv-living/) for two people living full-time in an RV runs, realistically, between $2,800 and $5,500 depending on your camping style, how new your rig is, and whether you're driving hard or mostly stationary. The wide range isn't a cop-out. It reflects genuinely different lifestyles that all count as "full-timing."
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Full-time RV couples typically spend $2,800 to $5,500/month, not the $1,500 many blogs claim.</li><li style="margin:5px 0">Campground costs alone often run $600–$1,800/month depending on membership clubs and boondocking habits.</li><li style="margin:5px 0">Maintenance and repairs average $150–$300/month but can spike hard ,  budget for a $2,000–$4,000 emergency fund separately.</li><li style="margin:5px 0">Health insurance is usually the single largest unexpected expense for full-timers who leave employer coverage.</li><li style="margin:5px 0">Fuel averages $300–$600/month for couples who move every 1–2 weeks at current diesel prices.</li></ul></div>
-
 
 ## The Real Monthly Numbers
 
@@ -54,10 +52,6 @@ Let me break this down the way I wish someone had broken it down for me.
 | **Monthly Total** | **~$2,430** | **~$4,120** | **~$6,540** |
 
 A few things worth noting here: the utilities line actually goes *down* at the high end because full hookups mean you're running your rig's electric instead of burning propane for heat. And yes, the high end is higher than $5,500 once you add dining and personal spending. That's real life.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average monthly spend by full-timing style (couple, 2026)</div><div class="sc-row"><span class="sc-label">Boondocking-heavy</span><span class="sc-track"><span class="sc-bar" style="width:37%"></span></span><span class="sc-val">$2,430</span></div><div class="sc-row"><span class="sc-label">Mixed camping</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">$4,120</span></div><div class="sc-row"><span class="sc-label">Full hookups/urban</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$6,540</span></div><div class="sc-src">Source: Author estimate from 8 years full-time experience and community surveys</div></div>
-
 
 ## Campground Costs: Where Most Estimates Go Wrong
 
@@ -106,6 +100,5 @@ A surge protector is non-negotiable at campground hookups. The Progressive Indus
 - [Passport America](https://www.passportamerica.com): Discount camping club membership pricing and participating park network.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

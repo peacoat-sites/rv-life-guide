@@ -31,9 +31,7 @@ Here's the number that genuinely surprised me when I dug into this: [Harvest Hos
 
 I'll be honest: I was skeptical of both when I first heard about them back when I was still full-timing in my 2017 Thor Chateau. Free overnight parking sounded like the kind of thing that's "technically free" until you factor in all the wine you feel obligated to buy. But I've now used Harvest Hosts well over 60 times and Boondockers Welcome a dozen or so, and I have actual opinions here.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Harvest Hosts costs $99/year (or $149 for Plus) and has 5,000+ locations; Boondockers Welcome is $45/year with ~2,100 hosts.</li><li style="margin:5px 0">Harvest Hosts works best for self-contained rigs; Boondockers Welcome sometimes offers hookups, which is rare and genuinely valuable.</li><li style="margin:5px 0">Neither program allows multi-night stays by default, most Harvest Hosts are one night, and Boondockers Welcome hosts set their own limits.</li><li style="margin:5px 0">The "free" in both programs is real, but Harvest Hosts has an unwritten expectation to spend $20-$30 at the venue.</li><li style="margin:5px 0">For solo travelers or couples who like human connection, Boondockers Welcome often wins on experience despite the smaller network.</li></ul></div>
-
 
 ## What You're Actually Paying For
 
@@ -88,10 +86,6 @@ Scenario: 42-foot diesel pusher, slideouts fully extended.
 Found that Harvest Hosts had better filtering for large-rig-friendly spots, but still called ahead every time after one bad experience trying to fit into a spot listed as "large rig OK" that absolutely was not.
 Result: Success rate improved to about 90% once calling ahead became standard practice.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Annual membership value: free nights needed to break even vs. $40/night campground</div><div class="sc-row"><span class="sc-label">Harvest Hosts Standard</span><span class="sc-track"><span class="sc-bar" style="width:66%"></span></span><span class="sc-val">2.5 nights</span></div><div class="sc-row"><span class="sc-label">Harvest Hosts Plus</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">3.8 nights</span></div><div class="sc-row"><span class="sc-label">Boondockers Welcome</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">1.2 nights</span></div><div class="sc-row"><span class="sc-label">Both memberships combined</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">3.6 nights</span></div><div class="sc-src">Source: Tony Reeves calculation based on 2026 membership fees and average U.S. campground rates</div></div>
-
-
 To read this plainly: if you use Boondockers Welcome just once or twice a year at a campground that would've cost $40 a night, the membership pays for itself. Harvest Hosts takes a little more use to justify, but it's still absurdly easy to break even.
 
 ## Which One Should You Actually Get?
@@ -111,6 +105,5 @@ Honestly, at $99 + $45 = $144 combined for both programs, and given that a singl
 - [Workamper News Full-Timer Cost Survey 2025](https://workampernews.com): Monthly site fee averages cited for full-time RV budgeting benchmarks.
 
 ---
-
 
 *Photo: [Tom Fisk](https://www.pexels.com/@tomfisk) via Pexels*

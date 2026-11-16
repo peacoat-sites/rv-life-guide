@@ -31,9 +31,7 @@ I'll be honest: I figured it out the hard way. My first three months on the road
 
 What surprised me was how many van lifers I met who had given up on laundromats entirely, either from bad experiences or budget pressure, and gone fully off-grid with their laundry. Some of that is genuinely viable. Some of it is wishful thinking dressed up as minimalism. I tested both ends of the spectrum over eight years, and here's what I actually know.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Laundromats average $3-5 per load including wash and dry; budgeting $30-60/month is realistic for solo van lifers.</li><li style="margin:5px 0">Hand-washing with a portable washer (Scrubba or bucket) works for clothes, but not bulky items like jeans or sleeping bags.</li><li style="margin:5px 0">Merino wool and synthetic fabrics genuinely reduce laundry frequency, plan your wardrobe before you move in.</li><li style="margin:5px 0">24-hour laundromats near truck stops are consistently the cleanest and cheapest; avoid tourist-area laundromats.</li><li style="margin:5px 0">Campground laundry facilities cost 30-50% more per load on average than standalone laundromats.</li></ul></div>
-
 
 ## The Laundromat Reality (and How to Stop Wasting Money at Them)
 
@@ -49,10 +47,6 @@ Let me give you the real picture on cost, because most [van life](/full-time-rv-
 | Laundry service (drop-off) | $1.00-$2.00/lb | Drop off + pick up next day | Yes | Underused; good in cities |
 
 The insight most people miss: truck stop laundromats (Love's, Pilot Flying J, TA Travel Centers) are consistently underpriced and, in my experience, better maintained than standalone laundromats in tourist towns. I've paid $2.75 per wash at a Pilot in Oklahoma versus $5.50 at a laundromat two blocks from a [national park](/national-park-rv-camping/) in Utah. Same quality wash. The truck stop also had free wifi, a Subway, and showers if I needed one. That's not a coincidence, they're designed to serve people living on the road.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average cost per laundry load by location type</div><div class="sc-row"><span class="sc-label">Truck stop</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$3.5</span></div><div class="sc-row"><span class="sc-label">Standalone laundromat</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">$4.8</span></div><div class="sc-row"><span class="sc-label">Campground facility</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5.8</span></div><div class="sc-row"><span class="sc-label">Drop-off service (per lb)</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$1.5</span></div><div class="sc-row"><span class="sc-label">Hand-wash (soap only)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0.2</span></div><div class="sc-src">Source: Author field research, July 2026</div></div>
-
 
 One more thing about laundromats that nobody tells you: the best time to go is Tuesday or Wednesday mid-morning. I don't have a study to back that up, just eight years of walking into empty laundromats mid-week and packed ones on Saturday afternoons. Go on a weekday. Bring exact change because half the coin changers are broken. And check whether your laundromat app (Speed Queen, Coin Laundry Association's locator) takes mobile payment before you drive there.
 
@@ -97,6 +91,5 @@ Apps like Rinse and Poplin (formerly Laundry Care) can connect you to pickup ser
 - American Cleaning Institute: Detergent concentration and water usage guidelines for hand-washing garments.
 
 ---
-
 
 *Photo: [Gyldo .](https://www.pexels.com/@gyldo-2149853862) via Pexels*

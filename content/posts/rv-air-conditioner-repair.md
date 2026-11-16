@@ -31,9 +31,7 @@ The [first time](/first-time-rv-trip-checklist/) my Dometic Penguin died on me, 
 
 Here's what I want to save you from: the pattern where an unfamiliar noise or a weak airflow sends you straight to a dealership, where you'll wait two weeks for an appointment and pay $150/hr in labor for a repair you could have done yourself in ninety minutes with a screwdriver and a multimeter.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">70%+ of RV AC failures trace to just four causes: capacitor failure, dirty coils, refrigerant leaks, or a failed compressor.</li><li style="margin:5px 0">A replacement run capacitor costs $12-$22; the same repair at a shop runs $180-$350 in most markets as of 2026.</li><li style="margin:5px 0">Never run your AC without checking amp draw first, a unit pulling 2+ amps over spec is cooking itself alive.</li><li style="margin:5px 0">Dometic and Coleman-Mach units have different failure signatures; knowing which you have changes the diagnostic order.</li><li style="margin:5px 0">Most "the AC runs but doesn't cool" calls are dirty condenser coils, fixable in 45 minutes with a coil cleaner and a garden hose.</li></ul></div>
-
 
 ## What Actually Breaks (and What It Sounds Like)
 
@@ -68,10 +66,6 @@ A scenario that plays out constantly: reader in a Phoenix Walmart [parking lot](
 ## Repair vs. Replace: The Real Numbers
 
 This is where I want to be straight with you, because the math matters and it changes depending on what broke.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average RV AC repair cost by failure type (2026)</div><div class="sc-row"><span class="sc-label">Capacitor replacement</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$185</span></div><div class="sc-row"><span class="sc-label">Coil cleaning (shop)</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$145</span></div><div class="sc-row"><span class="sc-label">Fan motor replacement</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">$310</span></div><div class="sc-row"><span class="sc-label">Refrigerant recharge</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">$275</span></div><div class="sc-row"><span class="sc-label">Compressor replacement</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$850</span></div><div class="sc-src">Source: RV Tech industry survey &amp; Greg Hoffman field data</div></div>
-
 
 | Failure Type | DIY Cost | Shop Cost (2026) | New Unit Cost | Verdict |
 |---|---|---|---|---|
@@ -111,6 +105,5 @@ What most people skip: after winter storage, before running the AC hard, pull th
 - [Nu-Calgon product technical data](https://www.nucalgon.com): Application data for evaporator and condenser coil cleaning compounds
 
 ---
-
 
 *Photo: [Tom Fisk](https://www.pexels.com/@tomfisk) via Pexels*

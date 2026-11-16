@@ -35,10 +35,6 @@ Eight years later, I have a much clearer picture of what full-time RV living act
 
 I'll be honest: there isn't a single answer, and anyone who gives you one without context is guessing. That said, based on my own eight years of expense tracking and conversations with dozens of full-timers in communities like Escapees RV Club and the Workamper Network, here's a realistic range broken down by lifestyle:
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average monthly full-time RV cost by lifestyle tier</div><div class="sc-row"><span class="sc-label">Budget (boondocking-focused)</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">$1,650</span></div><div class="sc-row"><span class="sc-label">Mid-range (mix of campgrounds)</span><span class="sc-track"><span class="sc-bar" style="width:48%"></span></span><span class="sc-val">$2,900</span></div><div class="sc-row"><span class="sc-label">Comfortable (mostly full hookups)</span><span class="sc-track"><span class="sc-bar" style="width:69%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">Premium (resorts, newer rig)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$6,100</span></div><div class="sc-src">Source: Julia Davidson ,  8 years of expense tracking and Escapees RV community surveys, 2026</div></div>
-
-
 Those figures assume you've already bought your rig and your monthly payment (if any) is folded in. They also assume one to two adults, no kids. Kids change everything.
 
 ## What's Actually In the Budget
@@ -115,7 +111,6 @@ That scenario is a tight but workable budget. The couple I know who actually did
 - Workamper News expense database: Crowdsourced repair and maintenance cost data from full-time workamping community.
 
 ---
-
 
 *Photo: [Magda Ehlers](https://www.pexels.com/@magda-ehlers-pexels) via Pexels*
 

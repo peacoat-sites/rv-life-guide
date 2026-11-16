@@ -29,9 +29,7 @@ Most guides on Walmart overnight parking read like they were written by someone 
 
 I've been doing this for eight years. Walmart lots have been a regular part of my rotation, not because I can't afford campgrounds, but because sometimes you're between stops, you hit a town after dark, and a free flat parking spot with a 24-hour bathroom inside is genuinely useful. Here's what actually works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Roughly 60-70% of U.S. Walmart locations currently allow overnight RV parking, but that number varies by region and is shrinking in urban areas.</li><li style="margin:5px 0">Always get permission from the store manager on duty, not the greeter, not a random employee.</li><li style="margin:5px 0">Arrive after 7 PM, leave by 7 AM, stay a maximum of one night. These unwritten rules keep the privilege open for everyone.</li><li style="margin:5px 0">Avoid slide-outs, generators after 10 PM, and parking near cart corrals or fire lanes.</li><li style="margin:5px 0">Call ahead using the store's direct number, not the corporate line. Decisions are made at the store level.</li></ul></div>
-
 
 ## How to Find Out If a Location Allows It
 
@@ -46,10 +44,6 @@ One thing that surprised me early on: corporate Walmart policy technically doesn
 Urban stores and stores in states with aggressive anti-camping ordinances are your biggest risk. California, Oregon, and parts of Colorado have passed municipal regulations that prohibit sleeping in vehicles in commercial lots, and individual Walmart managers in those areas have essentially no choice but to say no. I ran into this in Sacramento a couple of years back. Manager was apologetic, said she'd personally be fine with it but the city had cited the store twice.
 
 The safest bets, in my experience: rural and suburban stores in the South and Midwest. Texas, Tennessee, Arkansas, Missouri, and Kansas are consistently welcoming. The lot is usually huge, it's flat, and the store staff tends to appreciate the customer traffic that comes with it, because overnighters almost always shop.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Walmart overnight approval rate by region (estimated, 2026)</div><div class="sc-row"><span class="sc-label">South</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">78%</span></div><div class="sc-row"><span class="sc-label">Midwest</span><span class="sc-track"><span class="sc-bar" style="width:92%"></span></span><span class="sc-val">72%</span></div><div class="sc-row"><span class="sc-label">Mountain West</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">55%</span></div><div class="sc-row"><span class="sc-label">Pacific Coast</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">31%</span></div><div class="sc-row"><span class="sc-label">Northeast</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">44%</span></div><div class="sc-src">Source: Freecampsites.net user reports and Campendium community data, aggregated 2026</div></div>
-
 
 These figures are ballpark estimates from community-sourced data, not a formal survey. I don't have a clean dataset on this, so treat them as directional.
 
@@ -92,6 +86,5 @@ Here's a comparison of what Walmart overnight offers versus a few common alterna
 - National Conference of State Legislatures (NCSL): Tracking of state and municipal vehicle habitation and anti-camping ordinances, relevant to overnight parking eligibility
 
 ---
-
 
 *Photo: [Ali Kazal](https://www.pexels.com/@lureofadventure) via Pexels*

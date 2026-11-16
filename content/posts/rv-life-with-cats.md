@@ -31,9 +31,7 @@ I've been living in RVs full-time since 2018, and for almost all of that time I'
 
 Here's the number that surprised me most when I dug into it: according to the American Pet Products Association's 2025-2026 National Pet Owners Survey, roughly 46% of U.S. households own cats, and a growing slice of those owners are full-time or extended travelers. Among the RV-specific communities tracked by the RV Industry Association, cat owners now make up an estimated 28% of the full-[time living](/how-to-start-full-time-rv-living-for-beginners/) segment, up from around 19% just five years ago. That's not a niche. That's nearly one in three rigs with a cat somewhere inside, probably sitting on the dash.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cats adapt to RV life faster than most people expect, usually within 2-4 weeks of consistent routine.</li><li style="margin:5px 0">A 20-gallon fresh water tank is not enough buffer for cats in summer heat; 40+ gallons is the real minimum.</li><li style="margin:5px 0">Escape-proofing screen doors costs under $60 and prevents the single most common disaster in cat-owning RVs.</li><li style="margin:5px 0">Most vets recommend a 4-hour maximum for cats in carriers during transit; plan stops accordingly.</li><li style="margin:5px 0">Litter box placement (not size) is the #1 complaint among RVers traveling with cats, and it has a real fix.</li></ul></div>
-
 
 ## Why Cats Actually Do Well on the Road
 
@@ -46,10 +44,6 @@ What most people don't realize is that the stress isn't the moving. It's the tra
 ## The Real Costs (Because Nobody Talks About This Honestly)
 
 Cat ownership in an RV costs more than in a house, not dramatically, but consistently. Here's a real breakdown based on what I've actually spent, compared to what a stationary cat owner typically runs.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual cat care cost: RV vs. stationary household</div><div class="sc-row"><span class="sc-label">Vet care (RV)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$890</span></div><div class="sc-row"><span class="sc-label">Vet care (stationary)</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">$620</span></div><div class="sc-row"><span class="sc-label">Litter &amp; supplies (RV)</span><span class="sc-track"><span class="sc-bar" style="width:61%"></span></span><span class="sc-val">$540</span></div><div class="sc-row"><span class="sc-label">Litter &amp; supplies (stationary)</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">$380</span></div><div class="sc-row"><span class="sc-label">Food (RV)</span><span class="sc-track"><span class="sc-bar" style="width:81%"></span></span><span class="sc-val">$720</span></div><div class="sc-row"><span class="sc-label">Food (stationary)</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$680</span></div><div class="sc-src">Source: APPA 2025-2026 Pet Owners Survey + author's 3-year expense log</div></div>
-
 
 The vet cost gap is real and it comes from one specific thing: you can't build a relationship with a single vet when you're moving. You're constantly paying new-patient exam fees, which run $55-$85 depending on the clinic, and you don't have a vet who knows your cat's history watching for patterns. I've started using a combination of a telehealth vet service (I use PetDesk, about $29 a month currently) for minor questions, plus one "home base" vet in Denver I schedule annual checkups with when I pass through.
 
@@ -108,7 +102,6 @@ I also keep photocopies of each cat's vaccination records in both physical form 
 - [ASPCA Animal Behavior Center, Feline Environmental Enrichment](https://www.aspca.org/pet-care/cat-care/cat-enrichment): Research-backed guidance on cat adaptation to novel environments
 
 ---
-
 
 ---
 

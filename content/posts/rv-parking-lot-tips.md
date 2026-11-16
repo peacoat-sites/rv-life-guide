@@ -76,10 +76,6 @@ Not all free parking is created equal. Here's a realistic breakdown of what diff
 
 The casino column is underrated. Many casino properties, especially in the Southwest and along I-10, actively welcome RVers because they know you'll wander inside. Free Wi-Fi, good lighting, security cameras, and sometimes even a dump station. I've had genuinely comfortable nights at casino lots in Tucson, Biloxi, and up near Reno.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical nightly cost by lot type (USD, 2026)</div><div class="sc-row"><span class="sc-label">Walmart</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Cracker Barrel</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Casino</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Truck Stop</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$8</span></div><div class="sc-row"><span class="sc-label">RV Park (budget)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$42</span></div><div class="sc-row"><span class="sc-label">State Park electric</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$28</span></div><div class="sc-src">Source: Author experience + Freecampsites.net user reports</div></div>
-
-
 ## What Can Actually Go Wrong
 
 Let me skip past the generic safety talk and be specific about what I've actually encountered.
@@ -107,6 +103,5 @@ Worked examples from actual nights:
 - RVIA (Recreation Vehicle Industry Association): Industry research on full-time RV living demographics and travel patterns.
 
 ---
-
 
 *Photo: [Anton Massalov](https://www.pexels.com/@antonhansenphotography) via Pexels*

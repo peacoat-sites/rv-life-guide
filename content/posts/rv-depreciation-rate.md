@@ -31,9 +31,7 @@ RV depreciation is brutal in the early years and most buyers walk into a purchas
 
 I've been living in a 2018 Keystone Montana [fifth wheel](/fifth-wheel-vs-travel-trailer/) for about five of my eight years on the road, and before that I had a Class A that I bought new off the lot. That was one of the more expensive lessons of my life. Let me break down what I actually know about how this works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">New RVs lose 20-30% of value in the first year, similar to new cars but often steeper.</li><li style="margin:5px 0">Class A motorhomes depreciate fastest; well-kept travel trailers hold value better long-term.</li><li style="margin:5px 0">Buying two to four years used captures most of the initial depreciation hit without sacrificing reliability.</li><li style="margin:5px 0">Diesel pushers and fifth wheels tend to hold value better than gas Class A coaches.</li><li style="margin:5px 0">Mileage, condition, and brand reputation matter more than age after year five.</li></ul></div>
-
 
 ## The First Year Will Wreck You
 
@@ -58,10 +56,6 @@ Not [all RVs](/new-shore-power-safety-rule-is-coming-for-all-new-rvs/) fall off 
 | Toy Hauler | $30,000-$90,000 | 18-25% | 58-65% | 48-55% |
 
 The Class B ([camper van](/how-to-insulate-a-camper-van-for-winter-living/)) category has done something interesting over the past several years: resale values have stayed stronger than almost any other RV type. Partly that's the van life cultural moment, partly it's that they're easier to use as daily drivers, and partly it's that quality builders like Airstream and Winnebago have limited production on the most popular models. A used Airstream Interstate from 2021 is still pulling close to 70% of original MSRP in many markets right now. That's genuinely unusual.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">RV Value Remaining After 5 Years (% of new price)</div><div class="sc-row"><span class="sc-label">Class A Gas</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">42%</span></div><div class="sc-row"><span class="sc-label">Class A Diesel</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">52%</span></div><div class="sc-row"><span class="sc-label">Class B Van</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">58%</span></div><div class="sc-row"><span class="sc-label">Class C</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">49%</span></div><div class="sc-row"><span class="sc-label">Fifth Wheel</span><span class="sc-track"><span class="sc-bar" style="width:93%"></span></span><span class="sc-val">54%</span></div><div class="sc-row"><span class="sc-label">Travel Trailer</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">56%</span></div><div class="sc-src">Source: NADA RV Valuations / industry averages 2026</div></div>
-
 
 ## What Actually Accelerates Depreciation
 
@@ -102,6 +96,5 @@ Brand choice at purchase matters for resale. Thor, Coachmen, and Forest River mi
 - Black Book RV Value Report (Q2 2026): Wholesale and retail used RV pricing trends by class and model year.
 
 ---
-
 
 *Photo: [James Collington](https://www.pexels.com/@james-collington-2147687246) via Pexels*

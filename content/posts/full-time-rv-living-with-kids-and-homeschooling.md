@@ -31,9 +31,7 @@ Full-time RV living with kids is genuinely one of the most rewarding ways I've s
 
 What most people don't realize before they launch is that homeschooling on the road is a completely different beast than homeschooling in a house. The flexibility is real and it's wonderful. So is the chaos, the wifi scramble at 8 a.m., and the argument about who has to sit next to the slide mechanism during math.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Road schooling works best with 15-20 hours of structured instruction weekly, not mimicking a full school day</li><li style="margin:5px 0">Budget at least $1,200-$2,000 annually per child for curriculum, supplies, and activity fees</li><li style="margin:5px 0">Socialization is solvable, but requires active planning ,  it won't happen automatically</li><li style="margin:5px 0">Some states (FL, TX, SD) have minimal homeschool reporting requirements, making them popular domicile choices</li><li style="margin:5px 0">Campground wifi is unreliable for live video lessons; a dedicated hotspot or Starlink is non-negotiable</li></ul></div>
-
 
 ## The Schooling Question Everyone Overthinks
 
@@ -103,10 +101,6 @@ What actually works: finding your people deliberately. The Harvest Hosts network
 
 Slow down near cities when you can. A month near Austin or near Asheville, North Carolina gives you access to established homeschool co-ops that often let traveling families participate short-term for a drop-in fee, usually $10-$20 per session. This is worth every dollar.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual homeschool costs per child (road schooling)</div><div class="sc-row"><span class="sc-label">Curriculum (mid-range)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$850</span></div><div class="sc-row"><span class="sc-label">Supplies &amp; printing</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$220</span></div><div class="sc-row"><span class="sc-label">Activity fees &amp; co-ops</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$480</span></div><div class="sc-row"><span class="sc-label">Testing &amp; assessments</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">$150</span></div><div class="sc-row"><span class="sc-label">Enrichment classes (Outschool etc.)</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$600</span></div><div class="sc-src">Source: Barbara Mitchell, compiled from 8 years of RV family travel contacts and personal experience, 2026</div></div>
-
-
 ## Sources
 
 - [Home School Legal Defense Association (HSLDA)](https://hslda.org): State-by-state homeschool law database, updated regularly; essential for determining filing requirements by domicile state.
@@ -116,6 +110,5 @@ Slow down near cities when you can. A month near Austin or near Asheville, North
 - Khan Academy (khanacademy.org): Free K-12 curriculum platform with offline download capability; referenced for low-connectivity schooling approaches.
 
 ---
-
 
 *Photo: [Annushka  Ahuja](https://www.pexels.com/@annushka-ahuja) via Pexels*

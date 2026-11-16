@@ -63,10 +63,6 @@ As of July 2026, here's the realistic market for a full-timer or serious weekend
 
 I've personally used the Equal-i-zer and the Andersen. The Equal-i-zer is the better long-term buy for most full-timers: tougher brackets, no cam wear, and it doesn't require loosening anything to back up. The Andersen is genuinely easier to set up and lighter, which matters if you're hooking up alone in the rain in a dark campground. Both work well. The Hensley is in a different category and the price shows it. If you're towing a $120,000 fifth wheel full-time across I-80 in January, consider it. Otherwise, probably not necessary.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average hitch system price by category (July 2026)</div><div class="sc-row"><span class="sc-label">Budget WD only</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$255</span></div><div class="sc-row"><span class="sc-label">Mid-range WD+sway</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">$415</span></div><div class="sc-row"><span class="sc-label">Premium active sway</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">$520</span></div><div class="sc-row"><span class="sc-label">Geometry-based (Hensley)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,475</span></div><div class="sc-src">Source: Retailer pricing survey, July 2026</div></div>
-
-
 ## How to Set One Up Correctly
 
 This is where most people actually go wrong. The hitch works as advertised only if it's set up to spec. The setup process isn't complicated, but it has one step that defeats nearly everyone the first time.
@@ -100,6 +96,5 @@ Also: if your setup requires more than 3.5 turns of adjustment screw to get prop
 - Reese Products Strait-Line HP Owner's Manual: Active sway control geometry and setup specifications
 
 ---
-
 
 *Photo: [Rockwell branding agency](https://www.pexels.com/@rockwell-branding-agency-85164430) via Pexels*

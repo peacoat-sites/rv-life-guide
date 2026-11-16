@@ -46,10 +46,6 @@ Here's what a typical unaware boondocker uses per day, compared to what's actual
 
 That spread is huge. And it's almost entirely behavior, not expensive gear. Though gear helps, and we'll get to that.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Daily water use per person: unmanaged vs. optimized boondocking (gallons)</div><div class="sc-row"><span class="sc-label">Unmanaged shower</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">9 gal</span></div><div class="sc-row"><span class="sc-label">Optimized shower</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">1 gal</span></div><div class="sc-row"><span class="sc-label">Unmanaged dishes</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">4 gal</span></div><div class="sc-row"><span class="sc-label">Optimized dishes</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">1 gal</span></div><div class="sc-row"><span class="sc-label">Unmanaged toilet</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">4 gal</span></div><div class="sc-row"><span class="sc-label">Optimized toilet</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">0.8 gal</span></div><div class="sc-src">Source: American Camping Association resource use data / field estimates</div></div>
-
-
 ## The Navy Shower, and Why Most People Do It Wrong
 
 A navy shower is simple in theory: wet down, water off, lather, water back on to rinse. Takes about 45 seconds of actual water flow. At a standard RV showerhead flow rate of 2.5 gallons per minute, that's about 1.9 gallons per shower. With a low-flow showerhead rated at 1.5 GPM (the Oxygenics 26836 BodySpa is one I've used for three years, runs about $28 on Amazon), you're down to roughly 1.1 gallons if you're disciplined.
@@ -103,6 +99,5 @@ Scenario 3: A family of three on a 7-day BLM stay, 40-gallon fresh tank, 25-gall
 - [Sea to Summit USA Product Line](https://www.seatosummit.com): Collapsible dish basin product specifications referenced in the dishwashing section.
 
 ---
-
 
 *Photo: [Erik Schereder](https://www.pexels.com/@erik-schereder-3173655) via Pexels*

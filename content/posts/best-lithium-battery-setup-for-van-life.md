@@ -31,9 +31,7 @@ Here's what I've learned after eight years of living this life and three complet
 
 Let me walk you through what a real, functional lithium setup looks like, what it actually costs (not the optimistic version manufacturers advertise), and where most people make decisions they later regret.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">200Ah of lithium (LiFePO4) is the practical minimum for full-time van life; 300Ah is more comfortable</li><li style="margin:5px 0">Lithium batteries cost roughly $0.40-0.60 per Wh upfront but last 8-12x longer than AGM per dollar</li><li style="margin:5px 0">A 200-400W solar array covers most daily needs; pair it with a DC-DC charger from your alternator as backup</li><li style="margin:5px 0">Always match your battery bank to a proper Battery Management System (BMS) -- most quality lithium banks include one</li><li style="margin:5px 0">Budget $3,000-5,000 total for a complete 200Ah lithium system done right, including solar and inverter</li></ul></div>
-
 
 ## Why LiFePO4 Specifically
 
@@ -50,10 +48,6 @@ This is where most first-timers underestimate, and I was no exception. I started
 The rule I use now: add up your daily watt-hour consumption, double it, then size your battery bank to hold that figure at a 50% depth of discharge. That buffer sounds excessive until the second day of overcast skies in the Pacific Northwest in November.
 
 A realistic daily load for a full-timer with a 12V compressor fridge (ARB or Iceco, pulling about 30-40Ah/day), a laptop setup, phone charging, LED lighting, a fan or Maxxair vent, and occasional inverter use for small appliances lands somewhere around 80-120Ah per day. That means a 200Ah bank gets uncomfortable fast. 300Ah is the sweet spot most experienced van lifers land on.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Daily Ah draw by load type (typical full-time van)</div><div class="sc-row"><span class="sc-label">Compressor fridge (12V)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">38 Ah</span></div><div class="sc-row"><span class="sc-label">Laptop + monitor</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">30 Ah</span></div><div class="sc-row"><span class="sc-label">Lighting (LED)</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">8 Ah</span></div><div class="sc-row"><span class="sc-label">Phone/tablet charging</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">6 Ah</span></div><div class="sc-row"><span class="sc-label">Fan/ventilation</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">15 Ah</span></div><div class="sc-row"><span class="sc-label">Misc inverter use</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">20 Ah</span></div><div class="sc-src">Source: Estimated from 8 years of personal monitoring + van life community data</div></div>
-
 
 ## Building the System: What Actually Goes Into It
 
@@ -107,6 +101,5 @@ What surprised me the first winter I spent in Colorado was how often my solar ch
 - Bloomfield, J. et al., "Cycle Performance of LiFePO4 Cells Under Partial State of Charge" (Journal of Power Sources, 2021): Empirical cycle data for LFP chemistry under real-world partial charge conditions
 
 ---
-
 
 *Photo: [PNW Production](https://www.pexels.com/@pnw-prod) via Pexels*
