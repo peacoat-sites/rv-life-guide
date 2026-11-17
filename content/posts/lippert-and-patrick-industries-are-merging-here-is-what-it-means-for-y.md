@@ -70,9 +70,9 @@ The deal isn't closed yet, and the regulatory path is genuinely uncertain given 
 ## Sources
 
 - [Patrick Industries & LCI Industries Merger Press Release (SEC Form 8-K)](https://www.sec.gov/Archives/edgar/data/0000076605/000007660526000059/patrickindustriespressre.htm) (June 30, 2026)
-- [Lippert/Patrick Merger Back On: Could Create Nearly Unavoidable RV Super-Supplier ,  RV Miles](https://rvmiles.com/patrick-lippert-merger-rv-supply-chain/) (July 1, 2026)
-- [Two of the Biggest RV Parts Suppliers Are Merging ,  Camper FAQs](https://camperfaqs.com/two-of-the-biggest-rv-parts-suppliers-are-merging-and-it-could-reshape-the-rv-industry) (July 1, 2026)
-- [Patrick Industries, Lippert to Combine in All-Stock Merger ,  RV Business](https://rvbusiness.com/patrick-industries-lci-industries-to-combine-in-all-stock-merger/) (June 30, 2026)
-- [RV News Roundup: June 26 ,  Camper Report](https://camperreport.com/rv-news-roundup-june-26/) (June 26, 2026)
+- [Lippert/Patrick Merger Back On: Could Create Nearly Unavoidable RV Super-Supplier, RV Miles](https://rvmiles.com/patrick-lippert-merger-rv-supply-chain/) (July 1, 2026)
+- [Two of the Biggest RV Parts Suppliers Are Merging, Camper FAQs](https://camperfaqs.com/two-of-the-biggest-rv-parts-suppliers-are-merging-and-it-could-reshape-the-rv-industry) (July 1, 2026)
+- [Patrick Industries, Lippert to Combine in All-Stock Merger, RV Business](https://rvbusiness.com/patrick-industries-lci-industries-to-combine-in-all-stock-merger/) (June 30, 2026)
+- [RV News Roundup: June 26, Camper Report](https://camperreport.com/rv-news-roundup-june-26/) (June 26, 2026)
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

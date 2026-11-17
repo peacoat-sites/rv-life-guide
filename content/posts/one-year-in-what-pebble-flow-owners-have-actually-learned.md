@@ -62,10 +62,10 @@ One year and 100-plus deliveries is proof of concept, not proof of category. The
 The broader industry is contracting while Pebble is growing its delivery count. That's the right direction. But the gap between "working for early adopters with deep pockets" and "reshaping how Americans camp" is still measured in years and price cuts, not press releases. The 250,000 miles are a promising start. The next 2.5 million will be the actual verdict.
 
 ## Sources
-- [Futurride ,  Pebble reaches milestones with Flow electric travel trailer](https://futurride.com/2026/07/28/pebble-reaches-milestones-with-flow-electric-travel-trailer/) (July 28, 2026)
-- [Men's Journal ,  The $109,500 Electric Camper Turning First-Time RV Owners Into Road Trippers](https://www.mensjournal.com/news/the-109500-electric-camper-turning-first-time-rv-owners-into-road-trippers) (July 29, 2026)
-- [Camper Report ,  RV News Roundup: Shipments Slide, Safety Tech Expands, and Summer Travel](https://camperreport.com/rv-news-pebble-tiffin-connect-stowpro/) (August 7, 2026)
-- [Inside EVs ,  Pebble Flow EV Camper Review: The Future Of Camping](https://insideevs.com/reviews/796924/pebble-flow-electric-rv-review/) (May 26, 2026)
-- [Pebble ,  Official Pebble Flow Product Page](https://pebblelife.com/pebble-flow) (2026)
+- [Futurride, Pebble reaches milestones with Flow electric travel trailer](https://futurride.com/2026/07/28/pebble-reaches-milestones-with-flow-electric-travel-trailer/) (July 28, 2026)
+- [Men's Journal, The $109,500 Electric Camper Turning First-Time RV Owners Into Road Trippers](https://www.mensjournal.com/news/the-109500-electric-camper-turning-first-time-rv-owners-into-road-trippers) (July 29, 2026)
+- [Camper Report, RV News Roundup: Shipments Slide, Safety Tech Expands, and Summer Travel](https://camperreport.com/rv-news-pebble-tiffin-connect-stowpro/) (August 7, 2026)
+- [Inside EVs, Pebble Flow EV Camper Review: The Future Of Camping](https://insideevs.com/reviews/796924/pebble-flow-electric-rv-review/) (May 26, 2026)
+- [Pebble, Official Pebble Flow Product Page](https://pebblelife.com/pebble-flow) (2026)
 
 *Photo: [Bade](https://www.pexels.com/@bade-727240084) via Pexels*

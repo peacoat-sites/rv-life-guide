@@ -65,9 +65,9 @@ The PG5 is genuinely exciting. The funding is real, the architecture makes sense
 ## Sources
 
 - [Evotrex Raises $30 Million Series A](https://www.globenewswire.com/news-release/2026/06/09/3308682/0/en/Evotrex-Raises-30-Million-Series-A-to-Accelerate-Production-of-the-Evotrex-PG5-Electric-RV-Trailer.html) (June 9, 2026)
-- [Evotrex Raises $30 Million for Electric RV Trailer ,  The EV Report](https://theevreport.com/evotrex-30-million-series-a-electric-rv-trailer) (June 10, 2026)
-- [Evotrex PG5 Preorder Page ,  Evotrex.com](https://www.evotrex.com/products/preorder) (Ongoing, 2026)
-- [Evotrex Debuts Power-Generating RV Trailer at CES 2026 ,  RV PRO](https://rv-pro.com/news/evotrex-debuts-power-generating-rv-trailer-at-ces-2026/) (January 7, 2026)
-- [Top 10 RV News Stories July 2026 ,  Go RV Rentals](https://gorvrentals.com/blog/latest-rv-news-july-2026) (July 6, 2026)
+- [Evotrex Raises $30 Million for Electric RV Trailer, The EV Report](https://theevreport.com/evotrex-30-million-series-a-electric-rv-trailer) (June 10, 2026)
+- [Evotrex PG5 Preorder Page, Evotrex.com](https://www.evotrex.com/products/preorder) (Ongoing, 2026)
+- [Evotrex Debuts Power-Generating RV Trailer at CES 2026, RV PRO](https://rv-pro.com/news/evotrex-debuts-power-generating-rv-trailer-at-ces-2026/) (January 7, 2026)
+- [Top 10 RV News Stories July 2026, Go RV Rentals](https://gorvrentals.com/blog/latest-rv-news-july-2026) (July 6, 2026)
 
 *Photo: [Yakup  Polat](https://www.pexels.com/@yakup-polat-420882786) via Pexels*

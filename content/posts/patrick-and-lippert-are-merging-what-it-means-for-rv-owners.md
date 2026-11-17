@@ -70,10 +70,10 @@ The RV industry has been through boom-and-bust cycles before, and full-timers ha
 
 ## Sources
 
-- [Lippert/Patrick Merger Back On: Could Create Nearly Unavoidable RV Super-Supplier ,  RV Miles](https://rvmiles.com/patrick-lippert-merger-rv-supply-chain/) (June 30, 2026)
-- [Two of the Biggest RV Parts Suppliers Are Merging ,  Camper FAQs](https://camperfaqs.com/two-of-the-biggest-rv-parts-suppliers-are-merging-and-it-could-reshape-the-rv-industry) (July 2026)
-- [Patrick Industries & LCI Industries Announce All-Stock Merger ,  RV PRO](https://rv-pro.com/news/patrick-industries-lci-industries-announce-all-stock-merger/) (June 30, 2026)
-- [Potential Patrick & Lippert Merger is Huge News for RV Industry ,  RVBusiness](https://rvbusiness.com/potential-patrick-lippert-merger-is-huge-news-for-rv-industry/) (June 30, 2026)
-- [RV News – RV Industry in Peril? – July 2026 ,  John Marucci On The Road](https://johnmarucci.com/2026/07/02/rv-news-rv-industry-in-peril-july-2026/) (July 2, 2026)
+- [Lippert/Patrick Merger Back On: Could Create Nearly Unavoidable RV Super-Supplier, RV Miles](https://rvmiles.com/patrick-lippert-merger-rv-supply-chain/) (June 30, 2026)
+- [Two of the Biggest RV Parts Suppliers Are Merging, Camper FAQs](https://camperfaqs.com/two-of-the-biggest-rv-parts-suppliers-are-merging-and-it-could-reshape-the-rv-industry) (July 2026)
+- [Patrick Industries & LCI Industries Announce All-Stock Merger, RV PRO](https://rv-pro.com/news/patrick-industries-lci-industries-announce-all-stock-merger/) (June 30, 2026)
+- [Potential Patrick & Lippert Merger is Huge News for RV Industry, RVBusiness](https://rvbusiness.com/potential-patrick-lippert-merger-is-huge-news-for-rv-industry/) (June 30, 2026)
+- [RV News – RV Industry in Peril? – July 2026, John Marucci On The Road](https://johnmarucci.com/2026/07/02/rv-news-rv-industry-in-peril-july-2026/) (July 2, 2026)
 
 *Photo: [Tiger Lily](https://www.pexels.com/@tiger-lily) via Pexels*

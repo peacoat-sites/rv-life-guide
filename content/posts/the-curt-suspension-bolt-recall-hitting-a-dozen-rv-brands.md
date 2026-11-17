@@ -66,11 +66,11 @@ The RV industry has a long history of supplier-level defects spreading faster th
 
 ## Sources
 
-- [Men's Journal ,  Towing a Grand Design RV This Summer? You May Want to Check This Recall First](https://www.mensjournal.com/news/towing-a-grand-design-rv-this-summer-you-may-want-to-check-this-recall-first) (July 8, 2026)
-- [Camping World Blog ,  NHTSA RV Recall Updates June 11, 2026](https://blog.campingworld.com/news/rv-recalls-june-11-2026/) (June 12, 2026)
-- [Camping World Blog ,  RV Recall Updates June 30, 2026](https://blog.campingworld.com/news/rv-recalls-june-30-2026/) (June 30, 2026)
-- [Camper Report ,  NHTSA RV Recalls for June 2026: Is Your RV on the List?](https://camperreport.com/nhtsa-rv-recalls-for-june-2026-is-your-rv-on-the-list/) (Late June 2026)
-- [RV PRO ,  NHTSA Lists Weekly Recalls](https://rv-pro.com/news/nhtsa-lists-weekly-recalls-122/) (June 8, 2026)
-- [Trucks, Parts, Service ,  NHTSA Commercial Vehicle Recalls for the Week of June 1, 2026](https://www.truckpartsandservice.com/regulations/equipment/article/15826460/nhtsa-commercial-vehicle-recalls-for-the-week-of-june-1-2026) (June 1, 2026)
+- [Men's Journal, Towing a Grand Design RV This Summer? You May Want to Check This Recall First](https://www.mensjournal.com/news/towing-a-grand-design-rv-this-summer-you-may-want-to-check-this-recall-first) (July 8, 2026)
+- [Camping World Blog, NHTSA RV Recall Updates June 11, 2026](https://blog.campingworld.com/news/rv-recalls-june-11-2026/) (June 12, 2026)
+- [Camping World Blog, RV Recall Updates June 30, 2026](https://blog.campingworld.com/news/rv-recalls-june-30-2026/) (June 30, 2026)
+- [Camper Report, NHTSA RV Recalls for June 2026: Is Your RV on the List?](https://camperreport.com/nhtsa-rv-recalls-for-june-2026-is-your-rv-on-the-list/) (Late June 2026)
+- [RV PRO, NHTSA Lists Weekly Recalls](https://rv-pro.com/news/nhtsa-lists-weekly-recalls-122/) (June 8, 2026)
+- [Trucks, Parts, Service, NHTSA Commercial Vehicle Recalls for the Week of June 1, 2026](https://www.truckpartsandservice.com/regulations/equipment/article/15826460/nhtsa-commercial-vehicle-recalls-for-the-week-of-june-1-2026) (June 1, 2026)
 
 *Photo: [Robert So](https://www.pexels.com/@robertkso) via Pexels*

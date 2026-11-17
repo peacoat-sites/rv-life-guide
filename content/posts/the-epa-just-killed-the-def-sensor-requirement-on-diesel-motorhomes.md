@@ -57,10 +57,10 @@ Keep an eye on the formal rulemaking when it drops later in 2026. That's when th
 
 ## Sources
 
-- [Trump Administration Announces Latest Action to Address DEF System Complaints ,  US EPA](https://www.epa.gov/newsreleases/trump-administration-announces-latest-action-address-diesel-exhaust-fluid-def-system) (March 27, 2026)
-- [EPA's New Guidance Removes Requirement for DEF Sensors ,  US EPA Official Release](https://www.epa.gov/newsreleases/icymi-epas-new-guidance-removes-requirement-diesel-exhaust-fluid-def-sensors-saves) (March 31, 2026)
-- [EPA Issues New Guidance Removing Requirement for Diesel Exhaust Fluid Sensors ,  RVIA](https://www.rvia.org/news-insights/epa-issues-new-guidance-removing-requirement-diesel-exhaust-fluid-def-sensors) (April 14, 2026)
-- [EPA Eliminates DEF Sensor Requirement on Diesels ,  Camper Report](https://camperreport.com/epa-eliminates-def-sensor-requirement-on-diesels/) (April 14, 2026)
-- [News & Notes: May-June 2026 ,  Family RVing Magazine](https://magazine.frva.com/2026/05/01/news-notes-may-june-2026/) (May 1, 2026)
+- [Trump Administration Announces Latest Action to Address DEF System Complaints, US EPA](https://www.epa.gov/newsreleases/trump-administration-announces-latest-action-address-diesel-exhaust-fluid-def-system) (March 27, 2026)
+- [EPA's New Guidance Removes Requirement for DEF Sensors, US EPA Official Release](https://www.epa.gov/newsreleases/icymi-epas-new-guidance-removes-requirement-diesel-exhaust-fluid-def-sensors-saves) (March 31, 2026)
+- [EPA Issues New Guidance Removing Requirement for Diesel Exhaust Fluid Sensors, RVIA](https://www.rvia.org/news-insights/epa-issues-new-guidance-removing-requirement-diesel-exhaust-fluid-def-sensors) (April 14, 2026)
+- [EPA Eliminates DEF Sensor Requirement on Diesels, Camper Report](https://camperreport.com/epa-eliminates-def-sensor-requirement-on-diesels/) (April 14, 2026)
+- [News & Notes: May-June 2026, Family RVing Magazine](https://magazine.frva.com/2026/05/01/news-notes-may-june-2026/) (May 1, 2026)
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

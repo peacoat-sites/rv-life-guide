@@ -66,10 +66,10 @@ If you're full-timing or planning to, the most honest advice I can give right no
 
 ## Sources
 
-- [2026 RV Regulations: What's New for RV Owners and Renters ,  RVShare](https://rvshare.com/blog/new-rv-regulations/) (April 8, 2026)
-- [Latest On CARB's Advanced Clean Truck Rule And Impact In Other States ,  RVIA](https://www.rvia.org/news-insights/latest-carbs-advanced-clean-truck-rule-and-impact-other-states) (April 8, 2025, updated 2026)
-- [Top 10 RV News Stories July 2026 ,  Go RV Rentals](https://gorvrentals.com/blog/latest-rv-news-july-2026) (July 2026)
-- [Banning RV Sales in California: What You Need to Know ,  Sunland RV Resorts](https://www.sunlandrvresorts.com/blog/california-and-other-states-are-banning-rv-sales/) (2024, figures current to 2026)
-- [Everything You Need to Know About California's So-Called 'RV Ban' ,  RV.com](https://www.rv.com/rv/everything-you-need-to-know-about-the-california-rv-ban/) (Updated December 12, 2025)
+- [2026 RV Regulations: What's New for RV Owners and Renters, RVShare](https://rvshare.com/blog/new-rv-regulations/) (April 8, 2026)
+- [Latest On CARB's Advanced Clean Truck Rule And Impact In Other States, RVIA](https://www.rvia.org/news-insights/latest-carbs-advanced-clean-truck-rule-and-impact-other-states) (April 8, 2025, updated 2026)
+- [Top 10 RV News Stories July 2026, Go RV Rentals](https://gorvrentals.com/blog/latest-rv-news-july-2026) (July 2026)
+- [Banning RV Sales in California: What You Need to Know, Sunland RV Resorts](https://www.sunlandrvresorts.com/blog/california-and-other-states-are-banning-rv-sales/) (2024, figures current to 2026)
+- [Everything You Need to Know About California's So-Called 'RV Ban', RV.com](https://www.rv.com/rv/everything-you-need-to-know-about-the-california-rv-ban/) (Updated December 12, 2025)
 
 *Photo: [David Brown](https://www.pexels.com/@ninobur) via Pexels*
