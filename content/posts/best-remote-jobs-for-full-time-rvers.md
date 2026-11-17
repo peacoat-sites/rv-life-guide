@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and honestly that income level is not even the ceiling. Technical writers, developers, UX designers, and consultants all routinely earn well above that. The harder question is whether you can get there quickly. For most people making a career transition onto the road, it takes 12 to 24 months to reach income stability. Going in with three to six months of savings as a cushion is not overcautious; it's realistic."
  - q: "What's the biggest mistake people make with remote work on the road?"
    a: "Underestimating their data and connectivity needs, then taking on a job that exposes that gap. The second biggest is taking a role with rigid Eastern time zone hours while planning to travel the Western US. Both are fixable problems, but they'll stress you out badly if you don't address them upfront."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most [remote work](/working-from-rv-income/) advice for RVers is written by people who've never actually tried to get reliable WiFi at a campground in rural Montana. I have. It's a different world.
 

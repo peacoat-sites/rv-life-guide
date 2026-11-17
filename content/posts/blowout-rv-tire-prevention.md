@@ -1,6 +1,7 @@
 ---
 title: "RV Tire Blowouts: Why 104°F Heat Causes Failures"
 date: 2026-07-13T20:07:25.016828+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why RV tire blowouts happen and how proper inflation at 65 PSI prevents dangerous failures on the road."
 image: "/img/heroes/7967365.jpg"

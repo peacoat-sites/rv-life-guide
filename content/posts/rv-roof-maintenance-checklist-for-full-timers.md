@@ -23,7 +23,7 @@ faqs:
    a: "Start at the highest and most upwind penetration above the interior stain, not directly above it. Water enters at one point and tracks along rafters or decking before dripping down. With a helper inside watching the ceiling, run a garden hose methodically from the back of the roof forward, pausing two to three minutes at each vent and seam. This is tedious but usually locates the source within an hour."
  - q: "Is it worth paying a shop to do roof maintenance or can I do it myself?"
    a: "You can absolutely do this yourself, and honestly, you'll catch problems faster because you're up there more often than any shop would put eyes on it. The skills required are minimal. The materials for a full inspection, clean, and reseal run $60 to $150. The only time I'd recommend a shop is for a full membrane replacement or significant decking repair, because those jobs require equipment and temporary structural support that's impractical on the road."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your roof is the one part of your RV you almost never see, which is exactly why it destroys more rigs than engine problems, bad tires, and [slide-room failures](/rv-slide-room-maintenance/) combined. Water intrusion is slow, invisible, and merciless. By the time you notice a soft spot in your floor or a brown stain on your ceiling, the rot has usually been working for months.
 

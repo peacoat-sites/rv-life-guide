@@ -1,6 +1,7 @@
 ---
 title: "RV Mail Service Comparison: 5 Options for Full-Time Travelers"
 date: 2026-07-30T20:09:25.752399+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare mail forwarding services designed for RV owners. Find the best option for receiving packages and documents while traveling full-time."
 image: "/img/heroes/30131065.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Why Right Now Is a Rare Buyer's Market for RVs"
 date: 2026-07-23T20:07:33.001215+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Now is an exceptional time to purchase an RV with unprecedented buyer advantages. Discover why current market conditions favor buyers and how to capitalize on t"
 image: "/img/heroes/12700837.jpg"

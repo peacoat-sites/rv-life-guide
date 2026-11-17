@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most RV owners I've met inspect their roof exactly once: right after they buy the rig. Then they forget about it until water is dripping onto their mattress at 2 a.m. somewhere in rural New Mexico.
 

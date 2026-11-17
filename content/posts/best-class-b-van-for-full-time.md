@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Choosing the *right* van makes or breaks [full-time living in ways](/full-time-rv-living-guide/) no YouTube walkthrough will fully prepare you for. Many who transition to full-time RV life underestimate how critical the build quality is until they face issues like electrical failures or mechanical breakdowns on the road.
 

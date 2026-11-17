@@ -1,6 +1,7 @@
 ---
 title: "Full Time RV Registration: $800 to $187 Cost Guide"
 date: 2026-07-22T20:11:59.167463+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn full time RV registration costs, requirements, and how to register your RV as a permanent residence across different states."
 image: "/img/heroes/11718102.jpg"

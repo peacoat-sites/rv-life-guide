@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Full-time RV life comes with moments nobody posts on Instagram: sleeping in a parking lot while arguing about the propane shutoff as temperatures drop, or discovering systems you didn't know existed. But this lifestyle can be one of the best decisions you make, and also one of the hardest. Both things are completely true at the same time.
 

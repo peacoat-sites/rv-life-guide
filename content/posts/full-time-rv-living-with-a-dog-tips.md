@@ -23,7 +23,7 @@ faqs:
    a: "Realistically, I budget $150-200 per month for Biscuit, which covers the Banfield wellness plan, monthly flea/tick/heartworm prevention (essential because you're in so many different environments), occasional telehealth visits, and a food budget for her Purina Pro Plan. That doesn't include emergency vet visits, which I keep a $1,500 dedicated emergency fund for. She's had two significant vet visits in eight years that cost $800 and $1,100 respectively."
  - q: "Can a large dog actually live comfortably in an RV?"
    a: "Biscuit is 65 pounds, which is solidly 'large dog' territory, and she's genuinely happy. What matters far more than rig size is how much time you spend outside. If you're a screen-and-campfire person who stays parked for days at a time, a big dog will go stir-crazy regardless of how spacious your rig is. If you're active and moving, a dog that size adjusts fine, I've met Great Dane owners doing this life who would argue the same."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Dogs can rack up serious road miles in an RV. A custom platform bed wedged into a corner makes a good travel spot. Many people assume finding pet-friendly campgrounds will be the hardest part of full-timing with a dog, but other issues often prove more challenging.
 

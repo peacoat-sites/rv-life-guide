@@ -1,6 +1,7 @@
 ---
 title: "Full-Time RV Living Budget: Monthly Costs for Couples"
 date: 2026-08-05T20:19:52.212165+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Break down the real expenses couples face living full-time in an RV, from fuel and insurance to food and campgrounds. Plan your budget."
 image: "/img/heroes/7967398.jpg"

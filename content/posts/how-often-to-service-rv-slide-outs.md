@@ -23,7 +23,7 @@ faqs:
    a: "Electric systems focus on rail lubrication and motor health. Hydraulic systems require fluid level checks, fluid condition monitoring, and periodic seal inspections at the cylinders. Hydraulic systems fail more catastrophically when neglected but give more warning signs (slow operation, fluid leaks, uneven extension) before full failure."
  - q: "How much does a slide-out repair typically cost in 2026?"
    a: "Range is wide. A seal replacement runs $150-400 depending on seal length and labor rates. Rail roller replacement averages $200-350. A failed electric motor runs $400-700 installed. Full hydraulic slide rebuild or cylinder replacement can reach $1,500-3,000. Catching problems early makes an enormous financial difference."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Slide-outs are a common source of problems for full-time RV dwellers. They generate more troubleshooting questions than tire blowouts, generator failures, and most other mechanical issues combined.

@@ -1,6 +1,7 @@
 ---
 title: "Cheapest States for Full-Time RV Living: Tax Guide"
 date: 2026-07-20T20:15:29.156998+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which states offer the lowest taxes for full-time RV residents. Compare income tax, sales tax, and property tax to maximize your travel budget."
 image: "/img/heroes/32366362.jpg"

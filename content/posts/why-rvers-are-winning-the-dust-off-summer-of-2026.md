@@ -12,7 +12,7 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "why-rvers-are-winning-the-dust-off-summer-of-2026"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Something shifted this spring, and if you've been watching campground booking patterns the way I have, you felt it before anyone put numbers to it. Campspot just put numbers to it. Their "Dust-Off Summer" trend report, released May 19, 2026, surveyed 1,453 campers and turned up data that frankly stopped me mid-scroll. Seventy-nine percent of respondents said they're actively reducing air travel. Sixty percent are avoiding flights altogether when they can. That's not a trend. That's a rerouting.

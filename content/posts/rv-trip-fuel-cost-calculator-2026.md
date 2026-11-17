@@ -7,7 +7,7 @@ author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
 date: 2026-06-28
-lastmod: 2026-07-09
+lastmod: 2026-11-16T16:00:00Z
 faqs:
  - q: "Why does my Class A get worse MPG than advertised?"
    a: "Advertised specs assume highway cruising at optimal RPM. Reality: loaded tanks, air conditioning, headwinds, and hills all reduce economy 20-40%. I averaged 6.5 MPG on my previous Class A; the brochure claimed 8 MPG."

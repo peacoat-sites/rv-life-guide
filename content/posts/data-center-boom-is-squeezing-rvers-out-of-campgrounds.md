@@ -12,7 +12,7 @@ author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
 slug: "data-center-boom-is-squeezing-rvers-out-of-campgrounds"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 You pull into a campground outside Cedar Rapids on a Wednesday afternoon in June, no holiday weekend in sight, expecting the usual mid-week availability. The host tells you they're full. Not just tonight. Full for the foreseeable future, with a waiting list. You ask who's taking up all the sites, and the answer surprises you: construction workers. Not campers. Not RVers. People building a data center who need somewhere cheap to sleep for the next two years.

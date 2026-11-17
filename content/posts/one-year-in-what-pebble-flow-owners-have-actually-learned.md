@@ -1,6 +1,7 @@
 ---
 title: "One Year In: What Pebble Flow Owners Have Actually Learned"
 date: 2026-08-12T19:54:14.778420+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "One Year In: What Pebble Flow Owners Have Actually Learned - discover real user insights, practical tips, and honest experiences from owners after 12 months."
 image: "/img/heroes/19177378.jpg"

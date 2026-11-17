@@ -1,6 +1,7 @@
 ---
 title: "RV Black Tank Sensor Not Working: Fixes and Replacements"
 date: 2026-08-11T19:51:53.539392+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn why your RV black tank sensor fails and discover practical solutions to get accurate readings again without costly repairs."
 image: "/img/heroes/38308085.jpg"

@@ -12,7 +12,7 @@ author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
 slug: "dometics-new-electric-only-rv-water-heater-ditches-propane-for-good"
 affiliate_disclosure: false
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most RVers still think of propane as a permanent fixture, something you'll always need to fill, maintain, and occasionally troubleshoot at 6 a.m. when the pilot won't light. Dometic just made a concrete move toward proving that assumption wrong.

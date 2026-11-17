@@ -1,6 +1,7 @@
 ---
 title: "RV Tire Pressure Guide: Why 80 PSI Matters for Safety"
 date: 2026-08-04T20:16:22.894482+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn proper RV tire pressure settings, how to check PSI safely, and why incorrect pressure causes blowouts and uneven wear."
 image: "/img/heroes/5712703.jpg"

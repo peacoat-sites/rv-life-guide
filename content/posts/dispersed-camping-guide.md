@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you've spent three nights wedged between two diesel pushers at a packed campground, paying $65 a night to hear someone else's generator at 10 PM, you already know why dispersed camping exists. Free land. Wide open. Nobody telling you to quiet down by 9.
 

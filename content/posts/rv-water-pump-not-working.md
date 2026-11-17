@@ -23,7 +23,7 @@ faqs:
     a: "A quality diaphragm pump like the Shurflo 2088 realistically lasts 3-7 years under regular full-time use, longer with good filtration and regular diaphragm kit replacement. Neglected systems, hard water, and running the pump dry dramatically shorten that lifespan."
   - q: "Can I replace my RV water pump myself?"
     a: "Yes, and it's one of the more approachable RV repairs. The pump connects to water lines via push-in fittings or hose clamps and to power via two wires. Most swaps take under an hour with basic tools. Match the inlet/outlet size and voltage rating and you're generally good to go."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Patrick and Lippert Are Merging: What It Means for RV Owners"
 date: 2026-07-14T20:04:49.723714+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Patrick and Lippert are merging. Learn what this acquisition means for RV owners, including potential impacts on parts availability, pricing, and customer servi"
 image: "/img/heroes/4483775.jpg"

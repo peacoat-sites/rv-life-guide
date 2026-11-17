@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, it varies by kid temperament more than anything else. Extroverted kids who make friends fast tend to do well. Kids who need long-term, stable friendships struggle. Joining Fulltime Families or attending RV rallies helps create a community of kids in the same situation. Extended stays of four to eight weeks in one spot allow real friendships to form. Don't pretend this isn't a real sacrifice, but it's a manageable one for most kids."
  - q: "What size RV do you actually need for a family of four?"
    a: "30 to 38 feet gives you enough space without becoming a handling nightmare. The sweet spot for a two-kid family is right around 34 to 36 feet with a bunkhouse or second bedroom. Below 28 feet and you're in each other's space constantly in ways that wear on everyone. Above 40 feet and you're dealing with restricted campsite access and significantly harder maneuvering."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most articles about RV life with kids show you smiling families at Yellowstone and leave out the part where your seven-year-old has a full meltdown in a Walmart parking lot in Amarillo because she hasn't had a real bedroom in four months. That gap between the Instagram version and the actual experience is where I'm going to spend this article.

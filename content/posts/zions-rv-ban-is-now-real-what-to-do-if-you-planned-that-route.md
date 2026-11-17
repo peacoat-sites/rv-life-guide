@@ -1,6 +1,7 @@
 ---
 title: "Zion's RV Ban Is Now Real: What to Do If You Planned That Route"
 date: 2026-08-07T00:35:26.871876+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Zion's RV ban is official. Learn what it means for your trip, alternative routes, and how to plan your visit to this iconic national park."
 image: "/img/heroes/18979864.jpg"

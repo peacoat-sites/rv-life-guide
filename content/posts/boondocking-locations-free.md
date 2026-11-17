@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think free camping means roughing it in some dusty lot behind a Walmart. I thought that too, until I spent three weeks in southern Utah on Bureau of Land Management land and realized I was waking up to red rock formations that resort campers were paying $400 a night to see from a lodge window. That's the thing nobody tells you when you're just getting started: the free stuff is often the best stuff. Not always, not everywhere, but often enough that once you find your first legitimate boondocking spot, you'll wonder why you ever paid for a full-hookup site at a noisy commercial campground.
 

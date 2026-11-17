@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 My neighbor at a Flagstaff KOA once told me she'd tried both, four years in a converted Sprinter, then switched to a 28-foot travel trailer, and her exact words were, "Van life looks better on Instagram. RV life feels better on a Tuesday." I've thought about that a lot over eight years out here.
 

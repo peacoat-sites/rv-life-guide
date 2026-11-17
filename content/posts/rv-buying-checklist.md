@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 I watched a couple at a dealership in Phoenix sign papers on a 32-foot [Class A motorhome](/class-a-vs-class-b-vs-class-c-rv/) in about 45 minutes flat. They were giddy. They hadn't checked the roof, hadn't run the generator, hadn't filled the fresh water tank to test for leaks. Three weeks later I crossed paths with them at a campground in New Mexico, and that rig was already sitting broken at a mobile RV repair shop with a blown-out slide room seal and a dead inverter. The repair bill was north of $4,000. The honeymoon was over before the end of the first month.
 

@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Before I signed the papers on my first RV, I stood in a dealership lot in Phoenix staring at 47 different units and felt absolutely paralyzed. A [Class A diesel pusher](/class-a-vs-class-b-vs-class-c-rv/) sat next to a tiny teardrop trailer. A toy hauler loomed over a pop-up camper. The salesman used terms like "fifth wheel" and "Class B+" and "toy hauler slide-out" like I was supposed to already know what any of that meant. I didn't. I almost bought the wrong rig entirely. Six years and 90,000 miles later, I want to give you the breakdown I wish someone had handed me that afternoon.
 

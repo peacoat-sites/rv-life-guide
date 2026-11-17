@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people shopping for RV solar panels start by asking "how many watts do I need?" That's the wrong first question. The question that actually matters is: what does your battery bank look like? Because you can bolt 800 watts of panels to your roof and still run out of power by 9pm if your battery storage isn't matched to your generation. Many RVers spend significant money on panels only to find their system underperforms. The battery bank is the foundation. Everything else is built on top of it.
 

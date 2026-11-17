@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 If you're sitting in a campground right now with a full black tank and zero idea what happens next, take a breath. Many people find themselves uncertain at a dump station for the first time. It's a common experience, even for experienced campers. The dump station is one of those things nobody really explains before you drive away from the RV dealership, and yet you'll deal with it every single week of full-time life.
 

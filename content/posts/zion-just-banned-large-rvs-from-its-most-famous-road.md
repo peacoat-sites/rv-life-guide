@@ -1,6 +1,7 @@
 ---
 title: "Zion Just Banned Large RVs from Its Most Famous Road"
 date: 2026-07-25T20:03:00.828914+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Zion National Park restricts large RVs on popular roads to reduce congestion and protect the environment. Learn about new vehicle size limits and alternatives."
 image: "/img/heroes/29344876.jpg"

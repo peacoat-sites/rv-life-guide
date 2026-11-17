@@ -23,7 +23,7 @@ author: "Julia Davidson"
 author_slug: "julia-davidson"
 author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You sold your house, stuffed everything into a 36-foot motorhome, and you're ready to go. Then someone asks: "So where do you *live*?" That question stops most new full-timers cold. The answer matters way more than you'd think. Your domicile state determines your income tax burden, vehicle registration costs, [health insurance options](/how-to-get-health-insurance-as-a-full-time-rver/), and even your jury duty obligations. Pick wrong and you could owe thousands in unexpected taxes. Pick right and you might save $4,000 to $8,000 a year or more, depending on your income.
 

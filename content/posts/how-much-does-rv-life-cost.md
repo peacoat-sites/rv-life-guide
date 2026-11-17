@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 My first month on the road, I spent $6,800. My best month ever cost $1,340. Both were real, both were full-time RV life, and neither number tells the whole story. If you've been Googling "how much does RV life cost" and getting answers that range from $1,500 to $5,000 a month with no real explanation of why, you're not crazy for being confused. The range is that wide because the variables are enormous, and most people writing about this have a vested interest in making it sound either thrillingly affordable or comfortably manageable.
 

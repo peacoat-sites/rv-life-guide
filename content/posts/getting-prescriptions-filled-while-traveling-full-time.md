@@ -23,7 +23,7 @@ faqs:
    a: "Most insurance plans offer a 'vacation override' that lets you get a 90-day supply before extended travel. Call the pharmacy benefits line on your insurance card and ask specifically for this. Mail-order pharmacy enrollment is the more permanent solution, typically at lower copays and with automatic refills."
  - q: "Is it legal to carry a 90-day supply of a controlled substance across state lines?"
    a: "Generally yes, as long as the prescription is valid, in its original labeled container, and issued by a licensed prescriber. Some states have additional rules for specific drugs. Carrying more than a 30-day supply of a Schedule II medication can attract scrutiny, so keeping your prescription documentation accessible is smart, especially at state borders or if you're stopped."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Three years into full-timing, I ran out of a blood pressure medication in Albuquerque on a Sunday afternoon. The pharmacy I'd been using back in Ohio had no location within 400 miles. My doctor's office was closed. I stood in a Walgreens parking lot genuinely unsure what to do next. That experience cost me two days of stress, one urgent care visit, and about $140 out of pocket. It didn't have to.

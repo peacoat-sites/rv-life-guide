@@ -1,6 +1,7 @@
 ---
 title: "California AB 618: What the New Campsite No-Show Law Means for RVers"
 date: 2026-07-17T19:57:20.443857+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "California AB 618 requires campground reservations to be cancelled 14 days in advance or face penalties. Learn how this new no-show law affects RV travelers and"
 image: "/img/heroes/30345982.jpg"

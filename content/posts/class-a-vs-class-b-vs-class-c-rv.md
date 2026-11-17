@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people walk into an RV dealership, see a gleaming 40-foot diesel pusher in one bay and a Sprinter van conversion in the next, and immediately freeze. The salesperson is already walking over. You haven't done nearly enough research. And the price difference between those two rigs? It could be $300,000. That moment of sticker shock is exactly where bad decisions get made.
 

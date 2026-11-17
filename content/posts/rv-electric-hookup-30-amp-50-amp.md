@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think upgrading from 30 amp to 50 amp service is just "more power, problem solved." I believed that too, until I blew a pedestal breaker at a campground in the Texas Hill Country because I didn't understand what was actually happening inside those two very different electrical systems. Here's what I wish someone had explained before I spent three summers just plugging in and hoping.
 

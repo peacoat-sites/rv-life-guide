@@ -1,6 +1,7 @@
 ---
 title: "Full Hookup vs Partial: $240 Monthly Difference Explained"
 date: 2026-08-16T19:11:44.127624+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare full hookup vs partial hookup RV sites. Learn the 38% cost difference, amenities included, and which option saves you money."
 image: "/img/heroes/3927311.jpg"

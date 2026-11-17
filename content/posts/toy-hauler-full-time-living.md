@@ -1,6 +1,7 @@
 ---
 title: "Full-Time Toy Hauler Living: 34% Choose This RV Lifestyle"
 date: 2026-07-18T19:57:19.593981+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why 34% of RV enthusiasts are choosing toy hauler full-time living. Real costs, setup tips, and what you need to know."
 image: "/img/heroes/9137675.jpg"

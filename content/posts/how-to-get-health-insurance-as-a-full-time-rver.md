@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The first year I lived in my RV full-time, I paid $847 a month for a COBRA plan I didn't even use because I was terrified of being without coverage and had no idea what my actual options were. That's nearly $10,000 I handed over to my former employer's insurance company while parked in state parks and BLM land, perfectly healthy, because nobody told me there was a better way. If you're about to make that same mistake, or you're already paying it, this is the article I wish I'd had.
 

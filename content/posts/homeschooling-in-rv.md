@@ -23,7 +23,7 @@ faqs:
    a: "It depends on the country. Mexico, most of Central America, and many parts of Europe have no practical enforcement for short-to-medium stays. A few countries (Germany being the most famous example) actively prohibit homeschooling. For extended international travel, research the specific country before you go and factor residency length into your plans."
  - q: "How do we handle kids who push back on schoolwork while traveling?"
    a: "Honestly, this is mostly a first-year problem. The novelty of the road competes with sitting down to do math, and it's a real friction point. A few things help: keeping school sessions short and focused, connecting curriculum to wherever you are physically (if you're near a Civil War battlefield, that's history class today), and giving kids more agency in what they study and how. The kids who struggle most tend to be the ones with a very rigid schedule imposed on them. Some flexibility in the how tends to increase buy-in on the what."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 My son was "behind" in math for exactly three weeks before his grandmother, a retired teacher, panicked and told my wife we were ruining his education. That was in our first year on the road. He's 14 now, reads at a college level, and recently spent two days absorbed in calculating the fuel-to-distance ratios of different diesel engines because we were shopping rigs. The math caught up.
 

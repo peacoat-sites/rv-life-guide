@@ -1,6 +1,7 @@
 ---
 title: "Full-Time RV Living With Kids: Homeschooling On The Road"
 date: 2026-07-23T20:05:19.664010+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how families manage homeschooling while living full-time in an RV, including practical strategies for education, space, and daily routines."
 image: "/img/heroes/8054837.jpg"

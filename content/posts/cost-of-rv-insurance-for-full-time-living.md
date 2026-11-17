@@ -1,6 +1,7 @@
 ---
 title: "RV Insurance for Full-Time Living: $1,500-$3,000 Yearly"
 date: 2026-08-10T19:46:03.188785+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Full-time RV insurance costs $1,500-$3,000 annually. Learn what affects premiums, coverage options, and how to find affordable rates for permanent RV living."
 image: "/img/heroes/34287636.jpg"

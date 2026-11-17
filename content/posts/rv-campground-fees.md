@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The $12-a-night campground I found outside Moab in 2021 felt like winning the lottery. Flat desert site, no hookups, dead quiet, and a sky so full of stars it looked fake. Two years later, I drove the same route and that spot was $34 a night, booked three weeks out, and had a 72-hour cancellation policy. That's not an anomaly. Campground fees across North America have fundamentally shifted since 2020, and if you're planning an RV trip, or trying to live full-time on the road like I do, understanding what you're actually paying for, and why, can save you hundreds of dollars per month.
 

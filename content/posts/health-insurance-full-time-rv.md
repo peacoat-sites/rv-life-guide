@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've handed in your notice, sold most of your furniture, and signed the title on a used Class A motorhome. The excitement is real. Then someone at the going-away party asks, "So what are you doing for health insurance?" and the room gets quiet. It's one of the most overlooked logistical hurdles in full-time RV life, and it can genuinely derail your plans if you don't sort it out before you pull out of the driveway for the last time.
 

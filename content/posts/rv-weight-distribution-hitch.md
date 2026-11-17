@@ -1,6 +1,7 @@
 ---
 title: "RV Weight Distribution Hitches: 15% Tongue Weight Reduction"
 date: 2026-07-12T19:58:02.104997+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how weight distribution hitches reduce tongue weight by 15% and improve RV towing stability. Essential setup guide for safer travel."
 image: "/img/heroes/9137675.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Van Laundry on $40 a Month: Your Complete Guide"
 date: 2026-07-19T20:02:04.306800+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn practical strategies for doing laundry full-time in a van, including budget-friendly methods and space-saving solutions for nomadic living."
 image: "/img/heroes/31266418.jpg"

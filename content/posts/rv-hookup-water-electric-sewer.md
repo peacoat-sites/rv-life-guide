@@ -23,7 +23,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've just pulled into a full-hookup site after a 400-mile drive. Your back hurts, the dog needs out, and your partner's already asking when dinner is happening. You spot the pedestal with the water spigot, the 30-amp outlet, and the sewer cleanout cap, and you think: *I've got this*. A common mistake is hooking up water before leveling, which means redoing the whole process. Another frequent mishap is improper sewer connections that can lead to spills on the campsite.
 

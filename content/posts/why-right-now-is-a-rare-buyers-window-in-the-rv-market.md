@@ -1,6 +1,7 @@
 ---
 title: "Why Right Now Is a Rare Buyer's Window in the RV Market"
 date: 2026-07-11T19:59:35.707430+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why current RV market conditions create a rare buying opportunity. Lower prices, motivated sellers, and strong inventory make this the ideal time to bu"
 image: "/img/heroes/34287642.jpg"

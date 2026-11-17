@@ -1,6 +1,7 @@
 ---
 title: "Best States for RV Domicile: Where to Register Your Home on Wheels"
 date: 2026-07-17T19:55:26.783208+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare the top states for RV domicile and registration. Learn about residency requirements, taxes, and registration costs to find your ideal base."
 image: "/img/heroes/13601011.jpg"

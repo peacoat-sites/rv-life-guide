@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're parked at a dry-camp site in the Arizona desert in July, it's 104 degrees outside, and your shore power hookup just failed. Your slide-outs are extended, your refrigerator is running, and two kids are melting into the back seat of the tow vehicle because the RV's AC hasn't kicked on. You either have a generator that works, or you have a very bad afternoon. The difference between "inconvenience" and "dangerous" often comes down to whether you actually understand your generator setup before you need it. Most people don't think seriously about their generator until they're already in a jam. This guide is for people who want to think about it before that moment arrives.
 

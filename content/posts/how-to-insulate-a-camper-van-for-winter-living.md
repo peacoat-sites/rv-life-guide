@@ -23,7 +23,7 @@ faqs:
    a: "Custom-fit window covers made from Reflectix or foam board, installed at night, are the single best solution. They keep the glass surface warmer and dramatically reduce condensation. Maintaining interior humidity below 55% with ventilation helps too. Some people add a thin film of Rain-X to interior glass surfaces, which at least makes the condensation bead instead of pooling."
  - q: "Do I really need spray foam or can I just use rigid board everywhere?"
    a: "You can build a functional van with rigid board alone if you're careful about gaps. But the corrugated ribs need something that conforms to their shape, and rigid board doesn't. If you skip the ribs, you leave significant thermal bridging in place and you'll feel it on cold nights. Even a few cans of Great Stuff foam in the structural members makes a noticeable difference."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people discover the hard truth about van insulation in October, when the temperature drops faster than expected and they're lying awake at 2 a.m. listening to condensation drip off their ceiling panels. I did exactly that during my first winter in a Ford Transit, back when I thought a layer of Reflectix and a good sleeping bag was a real insulation strategy. It isn't. Let me save you the miserable nights.

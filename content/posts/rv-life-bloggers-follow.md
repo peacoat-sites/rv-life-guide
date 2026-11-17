@@ -23,7 +23,7 @@ faqs:
    a: "For infrastructure-type content (campground costs, solar pricing, cellular plans), anything older than 12 to 18 months should be treated as a starting point only, not current fact. Lifestyle and philosophical content ages better. Pricing and gear recommendations don't."
  - q: "Is there a good RV blogger for people who aren't retired or wealthy?"
    a: "Marc and Julie cover budget realities more honestly than most. Also look for bloggers who list actual monthly expenses rather than vague 'you can do it for less than you think' encouragement. If a blogger won't publish a real number, move on."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most "best RV bloggers" lists are basically just SEO bait. They rank by Instagram follower counts, not by whether anyone actually learned something useful. The blogs that actually help people are rarely the ones winning "top 10" roundups.

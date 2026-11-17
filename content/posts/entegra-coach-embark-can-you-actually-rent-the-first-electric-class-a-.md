@@ -1,6 +1,7 @@
 ---
 title: "Entegra Coach Embark: Can You Actually Rent the First Electric Class A RV?"
 date: 2026-08-03T20:20:06.505068+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover if you can rent the Entegra Coach Embark, the first electric Class A RV. Learn about availability, pricing, features, and eco-friendly travel options."
 image: "/img/heroes/17273587.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "The Patrick-Lippert Merger Could Change How You Fix Your RV"
 date: 2026-07-08T20:17:55.940923+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how the Patrick-Lippert merger could reshape the RV parts and repair industry, affecting prices, availability, and service options for RV owners nation"
 image: "/img/heroes/7018662.jpg"

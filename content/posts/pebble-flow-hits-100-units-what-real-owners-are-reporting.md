@@ -1,6 +1,7 @@
 ---
 title: "Pebble Flow Hits 100 Units: What Real Owners Are Reporting"
 date: 2026-08-15T19:12:05.836147+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover what real Pebble Flow owners are saying after hitting 100 units sold. Read genuine user reports, performance insights, and feedback on this popular dev"
 image: "/img/heroes/3019714.jpg"

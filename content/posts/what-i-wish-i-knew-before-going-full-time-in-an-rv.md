@@ -23,7 +23,7 @@ faqs:
     a: "As of July 2026, the most common working setup among full-timers I talk to is a Starlink RV plan combined with a cellular backup using a Pepwave router and SIM cards from T-Mobile and Verizon. Starlink runs about $150/month for the mobile-priority tier; it works nearly everywhere except deep canyons and dense forest. Cellular alone works fine in most of the country and is cheaper, but you'll hit dead zones."
   - q: "Is it safe to stay at Walmart parking lots and truck stops?"
     a: "Generally yes, though more Walmarts are restricting overnight parking than five years ago, so always confirm via the store manager before assuming. Truck stops are reliably safe and often more comfortable than sketchy campgrounds. I did it regularly early on; I'd just park near other RVs rather than at the edge of the lot, keep everything locked, and not run the generator past 10pm."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common mistake for new full-timers is plugging an AC unit rated for 30-amp service into a 15-amp extension cord. This won't supply enough power, and the AC won't run properly, leaving you sweltering in your rig while you figure out what went wrong.

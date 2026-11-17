@@ -1,6 +1,7 @@
 ---
 title: "100 Gallons a Week: Smart Water Conservation While Boondocking"
 date: 2026-07-10T20:13:00.967606+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Boondocking means managing every drop. Learn how to stretch your water supply with proven tips that keep you off-grid longer without sacrificing comfort."
 image: "/img/heroes/14743280.jpg"

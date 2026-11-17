@@ -23,7 +23,7 @@ author: "Tony Reeves"
 author_slug: "tony-reeves"
 author_title: "RV Mechanic"
 author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Free camping on BLM land changed my financial picture in a way I didn't fully anticipate when I first hit the road. My first full year out west, I spent maybe $340 total on campground fees. That's not a typo. The rest of the time I was on Bureau of Land Management land, mostly for free, mostly alone, mostly in places that looked like screensavers.
 

@@ -23,7 +23,7 @@ author: "Greg Hoffman"
 author_slug: "greg-hoffman"
 author_title: "RV Finance Specialist"
 author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 The day we signed the title on our 38-foot fifth wheel, I was convinced we'd made the perfect choice. Eighteen months later, we sold it at a $14,000 loss and bought something completely different. If someone had told me the truth about full-time RV selection before we started, I would have saved that money, avoided a blown tire on I-40 outside Amarillo, and skipped approximately 200 arguments about slide-room maintenance. So let me be that person for you.
 

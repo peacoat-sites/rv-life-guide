@@ -12,7 +12,7 @@ author_title: "Boondocking Expert"
 author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
 slug: "the-lippert-patrick-merger-could-change-how-your-rv-gets-built"
 affiliate_disclosure: false
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Picture this: you're 600 miles from home, your Lippert slide-out refuses to retract, and you're on the phone with a parts supplier who tells you the replacement motor is backordered six weeks. Now imagine that scenario in a world where Lippert and Patrick Industries are the same company, controlling everything from your frame and axles to your interior cabinetry and exterior siding. That future got a lot more plausible on June 30, 2026, when the two largest RV component suppliers in North America announced an all-stock merger that would create an $8.1 billion supply-chain giant. If you live in your rig or are about to buy one, this deal deserves your attention.

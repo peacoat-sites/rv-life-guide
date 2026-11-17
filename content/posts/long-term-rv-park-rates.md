@@ -23,7 +23,7 @@ author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
 author_title: "Full-Time RVer"
 author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You pull into a decent-looking RV park. Ask about long-term rates. The manager says $1,400 a month. Your jaw drops. That's more than some apartments. Then a neighbor two sites over leans out of his rig: "You should've asked about the monthly special. I'm paying $650." Same park. Same amenities. Completely different rate. That's the game right there, and if you don't know how to work it, you'll absolutely overpay.
 

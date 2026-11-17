@@ -1,6 +1,7 @@
 ---
 title: "RV Furnace Not Igniting: Troubleshooting Steps That Work"
 date: 2026-07-14T20:02:43.723468+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why your RV furnace won't start and learn the most effective fixes to get heat running again before your next trip."
 image: "/img/heroes/220990.jpg"

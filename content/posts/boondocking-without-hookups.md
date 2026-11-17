@@ -21,7 +21,7 @@ author: "Sandra Park"
 author_slug: "sandra-park"
 author_title: "Trip Planner"
 author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation.
 

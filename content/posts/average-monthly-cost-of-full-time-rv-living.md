@@ -23,7 +23,7 @@ faqs:
    a: "Most use the ACA marketplace and choose their domicile state partly based on what exchange plans are available. South Dakota is popular for its low registration costs but has limited plan options. Florida and Texas have more competition on the marketplace. Some full-timers use health share ministries to keep costs down, but those aren't insurance and have real limitations you need to understand before committing."
  - q: "Can you full-time on Social Security or a fixed income?"
    a: "Some people do it on $1,800 to $2,200 a month by boondocking aggressively, owning their rig outright, and keeping a tight budget. It's harder now than it was a few years ago given fuel and campground cost increases, but it's not impossible. Rig choice matters enormously here: a paid-off, reliable, fuel-efficient setup changes everything."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A commonly cited figure for full-time RV living is $1,800 a month, but that number leaves out half the real expenses. In practice, year-one costs often run closer to $3,400 a month, not because of careless or lavish living, but because the $1,800 estimate omits several major categories.
