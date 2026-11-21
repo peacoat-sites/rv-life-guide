@@ -60,7 +60,7 @@ The research phase matters. Here's how I do it:
 
 **Start with the land management agency's website.** BLM field offices publish motor vehicle use maps (MVUMs) for free. These show which roads are open to which vehicle types. If your road isn't on the MVUM, you shouldn't be driving it.
 
-**Cross-reference with satellite imagery.** Google Earth is still one of the best tools here. Zoom into a pull-off and see whether there's an established fire ring, how flat the ground is, whether the access road looks passable for your rig. I've turned around on plenty of roads that looked fine on a map but were clearly rutted out in the satellite view.
+**Cross-reference with satellite imagery.** Google Earth is still one of the best tools here. Zoom into a pull-off and see whether there's an established fire ring, how flat the ground is, whether the access road looks passable for your rig. Many roads look fine on a map but are clearly rutted out in the satellite view, making it worth zooming in before committing to a route.
 
 **Call the local field office if you're unsure.** BLM and Forest Service rangers are generally helpful. They'll tell you straight if a road works for a 30-foot trailer or if the area has current closures.
 
@@ -76,15 +76,15 @@ For most full-timers, here's what matters:
 
 **Water.** You're off-grid. A 40-gallon fresh tank for one person with conservative habits might get 3 to 4 days. A couple using water normally might get 2. Know your tank size and your actual usage, not optimistic usage.
 
-**Power.** Shore power is gone. Without solar or a generator, you're living on house batteries, which in stock RVs means 1 to 2 days before things start failing. I run a 400-watt solar setup with a 200Ah lithium battery bank and can stay out indefinitely in sunny weather. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is not optional. You need to see your actual state of charge, not just a vague indicator light. *(Note: this site may earn a commission on purchases.)*
+**Power.** Shore power is gone. Without solar or a generator, you're living on house batteries, which in stock RVs means 1 to 2 days before things start failing. A 400-watt solar setup with a 200Ah lithium battery bank can support indefinite stays in sunny weather. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) is not optional. You need to see your actual state of charge, not just a vague indicator light. *(Note: this site may earn a commission on purchases.)*
 
 **Leveling.** Most dispersed sites aren't level. Bring quality leveling blocks like [Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20), which are durable enough to last for years of use. *(This site may earn a commission on purchases.)*
 
-**Waste.** Your black and gray tanks will fill. Know your capacity. Solo I can stretch 5 to 7 days before needing a dump station. Plan your route around one when you break camp.
+**Waste.** Your black and gray tanks will fill. Know your capacity. A solo camper can often stretch 5 to 7 days before needing a dump station. Plan your route around one when you break camp.
 
 **Surge protection.** A [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) matters once you've seen what a bad campground pedestal does to an RV's electrical system. *(This site may earn a commission on purchases.)*
 
-**Drinking water filtration.** Some dispersed campers carry a portable water filter or treatment tablets for emergencies. I use a [gravity-fed water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) in my bay and drink confidently from campgrounds and water stations. *(This site may earn a commission on purchases.)*
+**Drinking water filtration.** Some dispersed campers carry a portable water filter or treatment tablets for emergencies. A gravity-fed water filter installed in an RV bay allows confident drinking from campgrounds and water stations. *(This site may earn a commission on purchases.)*
 
 ## Leave No Trace: The Rules That Keep Public Land Open
 
@@ -114,13 +114,13 @@ One rule specific to motorized camping: don't drive off existing tracks to make 
 - [gravity-fed water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
 - phase matters
 
-This is the section I wish someone had walked me through seriously in my first year. Being 40 miles from cell signal with a blown tire or a propane leak is different from being 40 miles from signal in a well-stocked, capable camp.
+This is the section that deserves serious attention before heading out for the first time. Being 40 miles from cell signal with a blown tire or a propane leak is different from being 40 miles from signal in a well-stocked, capable camp.
 
-Here's what my off-grid safety kit includes after 8 years of refining it:
+A well-developed off-grid safety kit typically includes the following:
 
-**Communication.** I carry a Garmin inReach Mini. It costs around $350 plus a $15/month subscription, but it works anywhere on the planet via satellite. You can send SOS messages and two-way texts. This isn't a luxury for solo campers. It's insurance.
+**Communication.** A Garmin inReach Mini is a reliable choice for off-grid communication. It costs around $350 plus a $15/month subscription, but it works anywhere on the planet via satellite. You can send SOS messages and two-way texts. This isn't a luxury for solo campers. It's insurance.
 
-**Medical.** A Wilderness First Aid course changed how I think about injuries in remote areas. At minimum, carry a trauma kit beyond band-aids: Israeli bandages, a tourniquet, QuikClot gauze, and a splint. Pre-assembled kits run around $50 to $80 on Amazon.
+**Medical.** A Wilderness First Aid course can significantly improve how you handle injuries in remote areas. At minimum, carry a trauma kit beyond band-aids: Israeli bandages, a tourniquet, QuikClot gauze, and a splint. Pre-assembled kits run around $50 to $80 on Amazon.
 
 **Vehicle recovery.** For van and truck camper folks, a traction board set like MAXTRAX and a high-lift jack are worth their weight. For larger rigs, know your limits and don't push roads that look marginal.
 

@@ -16,13 +16,11 @@ affiliate_disclosure: false
 
 If you towed your [travel trailer](/fifth-wheel-vs-travel-trailer/) to a summer campsite this year feeling good about your rig, you might be wondering why a recall notice just showed up, or why your neighbor at the next site is suddenly making dealer appointments. Here's what's going on: a single supplier defect in CURT Touring Coil Suspensions has triggered simultaneous NHTSA recall campaigns across more than a dozen RV brands, all filed between May and June 2026. The problem is shock retaining bolts that were incorrectly tightened during manufacturing. If a bolt head fractures while you're moving at highway speed, the head and retaining washer can break free and become road debris, which raises the crash risk for everyone behind you. No warning rattle. No shimmy you'd notice. Just a part that's either fine or it isn't.
 
-This is the most widespread coordinated RV recall I can remember heading into a peak travel season. According to [Camping World's recall roundup from June 30](https://blog.campingworld.com/news/rv-recalls-june-30-2026/), the affected list runs well past a dozen separate NHTSA campaigns and includes names that cover a huge slice of the fifth-wheel and travel trailer market: Grand Design Reflection, Brinkley Model Z, Alliance Paradigm, Forest River Riverstone and Cedar Creek, Keystone Cougar, Alpine and Montana, KZ Durango, Ember Touring Edition, and more. If you bought a 2025 or 2026 model year fifth wheel with a coil suspension setup, there's a real chance your unit is on one of these lists.
+This is one of the most widespread coordinated RV recalls heading into a peak travel season in recent memory. According to [Camping World's recall roundup from June 30](https://blog.campingworld.com/news/rv-recalls-june-30-2026/), the affected list runs well past a dozen separate NHTSA campaigns and includes names that cover a huge slice of the fifth-wheel and travel trailer market: Grand Design Reflection, Brinkley Model Z, Alliance Paradigm, Forest River Riverstone and Cedar Creek, Keystone Cougar, Alpine and Montana, KZ Durango, Ember Touring Edition, and more. If you bought a 2025 or 2026 model year fifth wheel with a coil suspension setup, there's a real chance your unit is on one of these lists.
 
 [Men's Journal reported on July 8](https://www.mensjournal.com/news/towing-a-grand-design-rv-this-summer-you-may-want-to-check-this-recall-first) that NHTSA estimates only about 3% of Grand Design's 1,111 recalled Reflection units actually contain the defect. That sounds reassuring. It isn't, entirely. Three percent still means roughly 33 trailers out there with bolts that could shed hardware at 65 mph, and there's no symptom to tip you off before it happens.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Shock retaining bolts can fracture at highway speed with zero warning, shedding metal road debris.</li><li style="margin:5px 0">Over a dozen RV brands are affected across MY 2025–2027 units; check your VIN now at NHTSA.gov.</li><li style="margin:5px 0">The fix is free at any authorized dealer: Grade 8 bolts, Blue Loctite, torqued to 20–30 lb-ft.</li><li style="margin:5px 0">Grand Design owner letters mailed June 26–29; Brinkley letters mailed June 2; some brands still pending.</li><li style="margin:5px 0">Key recall IDs: 910062 (Grand Design), REC-2602 (Brinkley), 26V337 (Alliance), KZ-2026-01 (KZ/Durango), 26V339 (Ember).</li></ul></div>
-
 
 ## Which Brands and How Many Units Are We Talking About
 
@@ -42,11 +40,11 @@ Brinkley's Model Z alone accounts for more than 6,000 units, which tells you som
 
 ## What the Fix Actually Looks Like
 
-This is one of those recalls where the repair itself is straightforward and the concern is mostly just getting owners through the door. Dealers replace the existing shock bolts with Grade 8 fasteners, apply Blue Loctite thread-locking compound, and torque them to 20 to 30 lb-ft. That's a spec I'd trust. Grade 8 fasteners are significantly stronger than the standard hardware that came off the line, and thread-locking compound means they stay put under vibration. The whole job shouldn't take long at a competent dealership.
+This is one of those recalls where the repair itself is straightforward and the concern is mostly just getting owners through the door. Dealers replace the existing shock bolts with Grade 8 fasteners, apply Blue Loctite thread-locking compound, and torque them to 20 to 30 lb-ft. That is a reliable specification. Grade 8 fasteners are significantly stronger than the standard hardware that came off the line, and thread-locking compound means they stay put under vibration. The whole job shouldn't take long at a competent dealership.
 
 Cost to you: nothing. This is a free repair under the recall. [Grand Design](/grand-design-lineage-series-e-a-new-class-c-built-differently/) started using the corrected fasteners in production back in April 2026, so if you've ordered a new Reflection since then, you're likely already fine. But if your unit was built before that changeover, don't assume.
 
-Here's what I tell people in this situation: call your dealer now, before the summer appointment crunch gets worse. Dealerships are already slammed. The repair is quick, but getting a slot is the bottleneck.
+The practical move is to call your dealer now, before the summer appointment crunch gets worse. Dealerships are already slammed. The repair is quick, but getting a slot is the bottleneck.
 
 ## How to Know If Your Rig Is Actually Affected
 
@@ -58,7 +56,7 @@ A few things to have ready when you call your dealer: your VIN, your purchase da
 
 ## What This Means for the Road Right Now
 
-I've seen a lot of recalls in eight years out here. Most of them are low-stakes paperwork. This one isn't. A fracturing bolt head becoming road debris at interstate speeds is a genuine hazard, not just to you but to the cars behind you. The fact that only 3% of Grand Design's affected units may carry the actual defect doesn't change the calculus much, because you have no way to know which side of that 3% you're on without having a dealer inspect the torque on those fasteners.
+Recalls are a regular part of the RV ownership experience. Most of them are low-stakes paperwork. This one isn't. A fracturing bolt head becoming road debris at interstate speeds is a genuine hazard, not just to you but to the cars behind you. The fact that only 3% of Grand Design's affected units may carry the actual defect doesn't change the calculus much, because you have no way to know which side of that 3% you're on without having a dealer inspect the torque on those fasteners.
 
 If your unit is on the list and your trip is this weekend, I'd call the dealer before you hitch up. The appointment might take a few days to get, and you'd rather know where you stand. If you're not affected, this is still a good reminder that suspension hardware is worth a look during your pre-trip walkthrough, especially on newer rigs where everything feels tight and you assume it's fine.
 

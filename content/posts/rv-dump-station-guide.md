@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 If you're sitting in a campground right now with a full black tank and zero idea what happens next, take a breath. Many people find themselves uncertain at a dump station for the first time. It's a common experience, even for experienced campers. The dump station is one of those things nobody really explains before you drive away from the RV dealership, and yet you'll deal with it every single week of full-time life.
 
-Here's what I tell people new to this: the dump station is not complicated, but it has a right way and a wrong way. The wrong way involves smell, regret, and a hose you'll want to throw directly into the sun.
+The dump station is not complicated, but it has a right way and a wrong way. The wrong way involves smell, regret, and a hose you'll want to throw directly into the sun.
 
 ---
 
@@ -52,7 +52,7 @@ A dump station is a designated disposal point for your RV's waste tanks: your bl
 - Some rest areas along interstates, particularly in western states
 - KOA and other private campground chains almost always have them
 
-Apps like Campendium, iOverlander, and Sanidumps are worth having on your phone. Sanidumps is what I actually use. It's got user reviews, GPS coordinates, and notes about whether you need to pay or show a membership card. Dump stations cost anywhere from free to about $15 for non-guests, though $5 to $8 is typical at commercial spots.
+Apps like Campendium, iOverlander, and Sanidumps are worth having on your phone. Sanidumps is a strong choice. It's got user reviews, GPS coordinates, and notes about whether you need to pay or show a membership card. Dump stations cost anywhere from free to about $15 for non-guests, though $5 to $8 is typical at commercial spots.
 
 You'll also encounter dump stations at your site if you're in a [full-hookup spot](/rv-hookup-water-electric-sewer/). That's the easy version. Plenty of people dry camp or stay at partial-hookup sites, though, so knowing how to use a central dump station is non-negotiable if you're living in an RV.
 
@@ -116,7 +116,7 @@ How you manage your tanks between dump stops matters as much as the actual dumpi
 
 **Use the right chemicals.** Enzyme-based tank treatments work significantly better than formaldehyde products. Happy Campers and Unique RV Digest-It are both solid. Drop them in after each dump with a couple gallons of water.
 
-**Don't leave your black tank valve open at full hookup sites.** I see this constantly. It dries out the tank and creates what's known as a "poop pyramid," which is exactly as bad as it sounds. Open the valve to dump, then close it again.
+**Avoid leaving your black tank valve open at full hookup sites.** I see this constantly. It dries out the tank and creates what's known as a "poop pyramid," which is exactly as bad as it sounds. Open the valve to dump, then close it again.
 
 **Dump when your black tank is around two-thirds to three-quarters full.** You want enough liquid volume to flush everything out effectively. Dumping a nearly empty black tank leaves solids behind.
 

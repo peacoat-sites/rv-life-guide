@@ -28,7 +28,7 @@ faqs:
 
 Laundry often becomes an unexpected source of daily friction in van life. The American Cleaning Institute's 2024 consumer habits report found that the average American household does about 8.5 loads of laundry per week. Van dwellers typically reduce this to around 1.5 loads a week, not by design but because the logistical friction of laundry naturally pushes people toward more strategic choices.
 
-I'll be honest: I figured it out the hard way. My first three months on the road I was driving out of my way to find laundromats, spending $40-50 a month more than I needed to, and occasionally wearing a shirt one too many days because I'd run out of everything at once. There's a better system. A few of them, actually, depending on how you live and where you park.
+I'll be honest: I figured it out the hard way. Many new van dwellers spend their first months driving out of their way to find laundromats, spending $40-50 a month more than necessary, and occasionally wearing clothes longer than ideal because everything runs out at once. There's a better system. A few of them, actually, depending on how you live and where you park.
 
 Some van dwellers abandon laundromats entirely, either from bad experiences or budget pressure, and attempt fully off-grid laundry solutions. Some approaches are genuinely viable; others are wishful thinking dressed up as minimalism.
 
@@ -47,15 +47,15 @@ Let me give you the real picture on cost, because most [van life](/full-time-rv-
 | Bucket + plunger method | $0.05-$0.15 (soap) | 30-50 min + dry time | Barely | Cheapest DIY option |
 | Laundry service (drop-off) | $1.00-$2.00/lb | Drop off + pick up next day | Yes | Underused; good in cities |
 
-The insight most people miss: truck stop laundromats (Love's, Pilot Flying J, TA Travel Centers) are consistently underpriced and, in my experience, better maintained than standalone laundromats in tourist towns. I've paid $2.75 per wash at a Pilot in Oklahoma versus $5.50 at a laundromat two blocks from a [national park](/national-park-rv-camping/) in Utah. Same quality wash. The truck stop also had free wifi, a Subway, and showers if I needed one. That's not a coincidence, they're designed to serve people living on the road.
+The insight most people miss: truck stop laundromats (Love's, Pilot Flying J, TA Travel Centers) are consistently underpriced and, by most accounts, better maintained than standalone laundromats in tourist towns. It is common to pay $2.75 per wash at a Pilot versus $5.50 at a laundromat two blocks from a [national park](/national-park-rv-camping/). Same quality wash. Truck stops typically also offer free wifi, food options, and showers. That's not a coincidence, they're designed to serve people living on the road.
 
-One more thing about laundromats that nobody tells you: the best time to go is Tuesday or Wednesday mid-morning. I don't have a study to back that up, just eight years of walking into empty laundromats mid-week and packed ones on Saturday afternoons. Go on a weekday. Bring exact change because half the coin changers are broken. And check whether your laundromat app (Speed Queen, Coin Laundry Association's locator) takes mobile payment before you drive there.
+One more thing about laundromats that nobody tells you: the best time to go is Tuesday or Wednesday mid-morning. Consistently, mid-week visits mean empty laundromats while Saturday afternoons tend to be packed. Go on a weekday. Bring exact change because half the coin changers are broken. And check whether your laundromat app (Speed Queen, Coin Laundry Association's locator) takes mobile payment before you drive there.
 
 ## Building a Wardrobe That Actually Reduces Your Load
 
 This is the part that sounds like a gear ad but is actually foundational. Your wardrobe choice is a laundry strategy.
 
-When I rebuilt my van wardrobe in my second year, I went heavy on merino wool. Not because some YouTube van lifer told me to, but because I'd read that merino's natural antimicrobial properties (lanolin and the fiber's structure itself) genuinely inhibit the bacteria that cause odor. A 2019 study published in the journal *Fibers* found that merino wool garments showed significantly lower bacterial growth compared to polyester and cotton after equivalent wear periods. That translates to real life: my merino t-shirts can go 3-4 days between washes. My cotton shirts? One, maybe two days in summer.
+Many experienced van dwellers rebuild their wardrobe around merino wool after time on the road. Merino's natural antimicrobial properties (lanolin and the fiber's structure itself) genuinely inhibit the bacteria that cause odor. A 2019 study published in the journal *Fibers* found that merino wool garments showed significantly lower bacterial growth compared to polyester and cotton after equivalent wear periods. That translates to real life: merino t-shirts can typically go 3-4 days between washes. Cotton shirts typically last one, maybe two days in summer.
 
 The practical wardrobe I'd actually recommend for full-time van living, built around laundry math: 5-6 merino or wool-blend shirts, 3 pairs of quick-dry synthetic pants or shorts, 7-10 days of synthetic underwear (ExOfficio or Smartwool), 2 pairs of merino socks per day of typical wear, and one set of dedicated work/dirty clothes that stay in a separate bag. That's it. You don't need more. Every extra item is more weight, more storage, and more laundry volume.
 
@@ -65,21 +65,21 @@ For example, switching to a merino-heavy wardrobe and using a [Scrubba wash bag]
 
 I want to be straight with you: hand-washing in a van is not a complete laundry solution. It's a supplement.
 
-The Scrubba Wash Bag is legitimately good for what it does. You add clothes, a small amount of soap, some water (about 4-6 liters is enough for a light load), and you roll/squeeze the bag for 3-6 minutes. The internal nodules act like a washboard. Shirts and underwear come out genuinely clean. I've used mine for years and still keep it in my van as of July 2026.
+The Scrubba Wash Bag is legitimately good for what it does. You add clothes, a small amount of soap, some water (about 4-6 liters is enough for a light load), and you roll/squeeze the bag for 3-6 minutes. The internal nodules act like a washboard. Shirts and underwear come out genuinely clean. Many van dwellers keep one in their van as a long-term part of their laundry routine.
 
 What it can't do: jeans, fleece, sleeping bags, heavy hoodies. These things hold too much water to wring out properly in a small space, they take two days to air-dry, and they never quite feel fully washed. For those items, you need a machine.
 
 The bucket-and-plunger method costs almost nothing. A 5-gallon bucket ($5 at Home Depot) and a drill-hole plunger ($8-12) gives you a hand-powered agitator. It works, especially for moderately dirty clothes, but it's physically tiring and uses more water than the Scrubba. Fine for stationary van living on a homestead or boondocking spot with water hookup; less practical if you're constantly moving and managing water weight.
 
-Drying is always the real constraint. I've tried every indoor drying approach: a collapsible rack, a telescoping rod across my van interior, bungee-cord lines across the back. In summer, shirts dry in 3-4 hours with the windows cracked. In winter in the Pacific Northwest (where I spent one miserable November), cotton clothes could take 36 hours to dry indoors, which meant either a laundromat dryer or damp laundry hanging in my face. Merino and synthetics genuinely dry faster, I clocked a merino shirt at about 4 hours in 50-degree weather versus 14 hours for a cotton equivalent, same conditions.
+Drying is always the real constraint. I've tried every indoor drying approach: a collapsible rack, a telescoping rod across my van interior, bungee-cord lines across the back. In summer, shirts dry in 3-4 hours with the windows cracked. In winter in the Pacific Northwest, cotton clothes can take 36 hours to dry indoors, which means either a laundromat dryer or damp laundry hanging in a small space. Merino and synthetics genuinely dry faster, with merino shirts drying in roughly 4 hours in 50-degree weather versus around 14 hours for a cotton equivalent under the same conditions.
 
 ## Drop-Off Laundry: The Underrated Option
 
-I didn't try drop-off laundry service until my fourth year on the road, and I'm annoyed I waited that long.
+Drop-off laundry service is an option many van dwellers overlook for far too long.
 
 Most cities have wash-and-fold services that charge by the pound, typically $1.00-$2.25/lb as of this year. You drop off a bag, they wash, dry, and fold everything, and you pick it up the next day. For a solo van lifer, a typical "big laundry day" load runs about 8-12 lbs of clothing. At $1.50/lb, that's $12-18 for completely clean, folded laundry, which is often cheaper than a full laundromat session once you factor in your time.
 
-Scenario: I spent a week in Albuquerque in early spring doing some maintenance work on my van. I dropped off two weeks' worth of clothes at a wash-and-fold near downtown ($1.35/lb, came out to $16.20), picked them up the next morning perfectly folded, and spent the time I'd have used at a laundromat doing an oil change instead. Net result: I came out ahead on time and roughly broke even on cost.
+For example, someone spending a week in a city for van maintenance could drop off two weeks' worth of clothes at a wash-and-fold. At around $1.35/lb on a typical 12 lb load, the total comes to around $16.20 for perfectly folded laundry, freeing up the time that would have been spent at a laundromat. The net result is coming out ahead on time and roughly breaking even on cost.
 
 Apps like Rinse and Poplin (formerly Laundry Care) can connect you to pickup services in larger metros, though coverage is spotty in rural areas. Worth checking if you're passing through a city.
 

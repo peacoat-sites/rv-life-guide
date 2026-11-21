@@ -30,7 +30,7 @@ A $45,000 Class C sitting in a driveway for three years can lose roughly $18,000
 
 RV depreciation is brutal in the early years and most buyers walk into a purchase completely unprepared for how fast it hits. What most people don't realize is that depreciation isn't uniform across RV types, and the difference between buying a two-year-old unit versus brand new can mean recovering $12,000-$15,000 of losses that you didn't have to absorb yourself.
 
-I've been living in a 2018 Keystone Montana [fifth wheel](/fifth-wheel-vs-travel-trailer/) for about five of my eight years on the road, and before that I had a Class A that I bought new off the lot. That was one of the more expensive lessons of my life. Let me break down what I actually know about how this works.
+Many long-term RVers have made exactly this mistake, buying a Class A new off the lot before understanding how steep the early depreciation curve is. It tends to be one of the more expensive lessons in RV ownership. Here is a breakdown of how RV depreciation actually works.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">New RVs lose 20-30% of value in the first year, similar to new cars but often steeper.</li><li style="margin:5px 0">Class A motorhomes depreciate fastest; well-kept travel trailers hold value better long-term.</li><li style="margin:5px 0">Buying two to four years used captures most of the initial depreciation hit without sacrificing reliability.</li><li style="margin:5px 0">Diesel pushers and fifth wheels tend to hold value better than gas Class A coaches.</li><li style="margin:5px 0">Mileage, condition, and brand reputation matter more than age after year five.</li></ul></div>
 
@@ -40,7 +40,7 @@ New RVs depreciate approximately 20-30% the moment you drive off the lot, and so
 
 The reason is partly structural. RVs are discretionary purchases. Nobody "needs" one the way they need a reliable car for work. So the resale market is highly sensitive to economic wobbles, fuel prices, and even interest rates, all of which have been making life interesting as of 2026. When buyers get squeamish, dealers drop offers fast.
 
-I bought my Class A new in 2017 for $89,000. By the time I went to trade it in 2021, I was offered $54,000 on a good day. That's $35,000 gone in four years, and I kept it in genuinely good condition. That number still stings a little if I think about it too long.
+For example, a Class A purchased new in 2017 for $89,000 might fetch only around $54,000 at trade-in by 2021 in good condition.  That is $35,000 gone in four years, even with genuinely good upkeep. 
 
 ## Depreciation by RV Type
 
@@ -64,25 +64,25 @@ Condition kills value faster than anything else. Water damage, deferred roof mai
 
 Brand reputation matters more than most buyers expect. A Tiffin Allegro or a Newmar pulls higher resale than a similarly-aged Forest River or Coachmen from the same class, even at the same mileage and condition. The market has learned which units have fewer chronic issues, making quality brands a safer investment.
 
-One detail that surprises people: storage type. An RV that's been stored outside for three years under Texas sun will fetch several thousand less than one that's been garage-stored or covered, even if mechanically they're identical. UV damage to the roof and delamination of the sidewalls reads immediately to any experienced inspector. I store mine under a $340/year carport canopy at a covered storage facility outside Tucson and I can see the difference in my sidewall condition compared to rigs parked next to me that aren't covered.
+One detail that surprises people: storage type. An RV that's been stored outside for three years under Texas sun will fetch several thousand less than one that's been garage-stored or covered, even if mechanically they're identical. UV damage to the roof and delamination of the sidewalls reads immediately to any experienced inspector. Covered storage at around $340 per year at a facility is a straightforward way to protect sidewall condition, and the difference is visible compared to rigs stored uncovered nearby.
 
 Mileage matters for motorhomes but barely registers for travel trailers and fifth wheels. A travel trailer with 40,000 tow miles behind it doesn't depreciate meaningfully for that reason alone. But a Class A gas coach with 85,000 miles is a very different conversation than the same rig with 32,000.
 
 ## The Sweet Spot for Buyers
 
-Two to four years old is where I'd put my money every time. The original owner absorbed the savage first-year drop, a decent chunk of year two, and the rig has usually had its warranty issues sorted out, because those tend to show up in year one. You get a unit that's been tested without inheriting the maximum depreciation hit.
+Two to four years old is generally the sweet spot for buyers. The original owner absorbed the savage first-year drop, a decent chunk of year two, and the rig has usually had its warranty issues sorted out, because those tend to show up in year one. You get a unit that's been tested without inheriting the maximum depreciation hit.
 
-Scenario: Full-timer looking at a 2022 Tiffin Allegro Red 33AA (originally $112,000 new) in 2026 with 28,000 miles. Current asking price in private party market: approximately $74,000-$78,000. That buyer captured roughly $34,000-$38,000 of depreciation they didn't have to pay. Bought new, that buyer would be at $78,000 or so by now anyway. The used buyer comes out about $34,000 ahead on day one.
+For example, consider a buyer looking at a 2022 Tiffin Allegro Red 33AA (originally $112,000 new) in 2026 with 28,000 miles. Current asking price in private party market: approximately $74,000-$78,000. That buyer captured roughly $34,000-$38,000 of depreciation they didn't have to pay. Bought new, that buyer would be at $78,000 or so by now anyway. The used buyer comes out about $34,000 ahead on day one.
 
 Compare that to: Buyer who bought the same rig new in 2022 for $112,000, now selling in 2026 at $76,000. That's $36,000 in depreciation absorbed over four years, roughly $9,000 per year, not counting financing interest.
 
-That said, buying four years used doesn't mean buying blind. A pre-purchase inspection from a certified RV technician (budget $250-$450 depending on rig size and region) is non-negotiable. I've known two people personally who skipped the inspection to save $300 and ended up with roof delamination that cost $4,700 and $6,200 respectively to repair. The inspection pays for itself in almost every transaction.
+That said, buying a used rig does not mean buying blind. A pre-purchase inspection from a certified RV technician (budget $250-$450 depending on rig size and region) is non-negotiable. Skipping the inspection to save $300 can easily result in discovering roof delamination that costs $4,700 to $6,200 to repair. The inspection pays for itself in almost every transaction.
 
 ## Slowing Your Own Depreciation
 
-You can't stop it, but you can manage it. A few things that have genuinely made a difference in my experience:
+You can't stop it, but you can manage it. A few things make a genuine difference:
 
-Regular roof maintenance is the single highest-ROI maintenance task on a towable or Class C. A tube of Dicor lap sealant ($8-$12) applied at every seam inspection twice a year has kept water out of my Montana since I bought it. Water intrusion is the number-one value killer, and it's largely preventable. The trick most people miss: you need to inspect in a light rain, not just visually. Lap sealant that looks fine dry can gap when it's wet and flexing.
+Regular roof maintenance is the single highest-ROI maintenance task on a towable or Class C. A tube of Dicor lap sealant ($8-$12) applied at every seam inspection twice a year is widely credited by experienced owners with keeping water out of towables and Class C units. Water intrusion is the number-one value killer, and it's largely preventable. The trick most people miss: you need to inspect in a light rain, not just visually. Lap sealant that looks fine dry can gap when it's wet and flexing.
 
 Keeping records of every repair, every tire change, and every oil service matters at resale. Buyers pay more for documented maintenance than the same rig with spotty records. Maintain a folder with photos, receipts, and service notes to include with your listing.
 

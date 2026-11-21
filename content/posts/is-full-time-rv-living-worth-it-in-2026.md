@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most coverage of full-time RV living either reads like a tourism brochure or a trauma memoir. Neither is accurate. Eight years in, I can tell you it's neither a permanent vacation nor a daily crisis. It's a lifestyle with a specific financial and logistical profile, and whether it works for you depends almost entirely on numbers and temperament, not vibes.
+Most coverage of full-time RV living either reads like a tourism brochure or a trauma memoir. Neither is accurate. It's neither a permanent vacation nor a daily crisis. It's a lifestyle with a specific financial and logistical profile, and whether it works for you depends almost entirely on numbers and temperament, not vibes.
 
 Let's get into it honestly.
 
@@ -45,19 +45,19 @@ Let's get into it honestly.
 | **Total (single person)** | **$2,200-3,500** | Realistic all-in monthly budget |
 | **Total (couple)** | **$2,800-4,200** | Realistic all-in monthly budget |
 
-The most common mistake I see from people researching this: they compare RV living costs to their current rent or mortgage and assume the difference is pure savings. That's wrong, and it burned me in my first year.
+The most common mistake people make when researching this: they compare RV living costs to their current rent or mortgage and assume the difference is pure savings. That's wrong, and it catches many first-year full-timers off guard.
 
-Here's what the real budget looks like in 2026, based on my own spending and conversations with a few dozen full-timers I've met across campgrounds from Montana to Florida:
+Here's what the real budget looks like in 2026, based on reported spending from full-timers across campgrounds from Montana to Florida:
 
-Campground fees are the wildcard. A good membership combination (Thousand Trails plus Passport America) runs around $800-1,000 per year upfront and can get you sites at $0-15/night for a significant chunk of your calendar. But you won't always be near those parks, and when you're not, expect $35-75/night at state parks and $50-90/night at private RVs. I averaged $28/night last year, which comes to roughly $850/month just in site fees. That's not unusual for someone who moves regularly.
+Campground fees are the wildcard. A good membership combination (Thousand Trails plus Passport America) runs around $800-1,000 per year upfront and can get you sites at $0-15/night for a significant chunk of your calendar. But you won't always be near those parks, and when you're not, expect $35-75/night at state parks and $50-90/night at private campgrounds. Many full-timers average around $28/night, which comes to roughly $850/month just in site fees. That's not unusual for someone who moves regularly.
 
-Fuel depends entirely on your rig. My 36-foot diesel pusher gets about 8 mpg. At current diesel prices (around $3.60-4.10/gallon in most of the country as of July 2026), a 300-mile travel day costs me $135-155 in fuel alone. Some months I barely move. Others I burn $400-600. Budget $150-300/month if you're averaging 500-800 miles of travel.
+Fuel cost depends entirely on the rig. A 36-foot diesel pusher gets about 8 mpg. At current diesel prices (around $3.60-4.10/gallon in most of the country as of July 2026), a 300-mile travel day costs $135-155 in fuel alone. Some months a rig barely moves. Other months fuel runs $400-600. Budget $150-300/month if you're averaging 500-800 miles of travel.
 
 Then there's maintenance, which is the budget line that humbles everyone. RVs are houses on wheels driving down interstates at 65 mph. Everything vibrates, everything loosens, everything wears. A practical budget is 2-3% of the rig's purchase price annually for maintenance and repairs, which on a $120,000 coach comes to $2,400-3,600 per year. That's the floor. Major failures like a slide motor and AC unit in the same year can easily double these costs.
 
 Realistic all-in monthly cost for a single person: $2,200-3,500. For a couple: $2,800-4,200. That includes campground fees, fuel, insurance, maintenance reserve, groceries, and a reasonable cell/internet budget. You can do it cheaper. You can also blow well past the top end without trying.
 
-Worked example: Reader Jake from Tucson, who converted from a $2,400/month apartment to full-timing in a used 2018 Class A, expected to cut his housing costs in half. First year actual: $2,150/month average once he factored in a $3,800 roof repair, higher fuel costs than projected, and a campground membership he bought but underused. Savings: roughly $250/month, not $1,200. → He adjusted year two by choosing a campground-heavy itinerary near Thousand Trails parks and joined a [full-timer Facebook group](/full-time-rv-living-guide/) for maintenance tips. Year two average: $1,780/month. That's the learning curve.
+For example, consider someone converting from a $2,400/month apartment to full-timing in a used 2018 Class A, expecting to cut housing costs in half. A realistic first-year outcome might be a $2,150/month average once a $3,800 roof repair, higher fuel costs than projected, and an underused campground membership are factored in. Savings: roughly $250/month, not $1,200. Adjusting in year two by choosing a campground-heavy itinerary near Thousand Trails parks and joining a [full-timer Facebook group](/full-time-rv-living-guide/) for maintenance tips can bring costs down significantly. A year-two average closer to $1,780/month is achievable with that approach. That's the learning curve.
 
 ---
 
@@ -69,7 +69,7 @@ Mail and residency are a real administrative headache. You need a domicile state
 
 Healthcare is a serious consideration that glosses over in most "is RV life worth it" articles. If you're not covered by a spouse's employer plan or aren't yet 65 (hello, Medicare), you're buying your own coverage. ACA marketplace plans in your domicile state can range wildly. A 45-year-old in South Dakota might pay $480-780/month for a mid-tier plan depending on income. Add in the practical reality that you're rarely near your "in-network" providers, and healthcare becomes complicated fast. Telehealth has helped enormously, but it doesn't cover everything.
 
-Relationships. I'm not going to pretend this is irrelevant. Full-timing strains relationships with people who don't do it, and it's isolating in ways that sneeze up on you. The full-timer community is genuinely warm, but it's also transient. You make good friends at a campground in Moab, then you both drive different directions. The loneliness isn't constant, but it's real, and it arrives in odd moments.
+Relationships are worth addressing honestly. Full-timing can strain relationships with people who don't do it, and it's isolating in ways that sneak up on you. The full-timer community is genuinely warm, but it's also transient. You make good friends at a campground in Moab, then you both drive different directions. The loneliness isn't constant, but it's real, and it tends to arrive in odd moments.
 
 ---
 
@@ -77,7 +77,7 @@ Relationships. I'm not going to pretend this is irrelevant. Full-timing strains 
 
 I don't want to undersell this side, because the benefits are legitimate.
 
-The geographic flexibility is genuinely transformative if you have remote income. I worked a December in Tucson (75 degrees, sunny, hiking distance from Saguaro National Park) and a July in northern Michigan (Lake Superior cold water swimming every morning, zero humidity). There is no apartment lease that does that.
+The geographic flexibility is genuinely transformative if you have remote income. Full-timers regularly work a December in Tucson (75 degrees, sunny, hiking distance from Saguaro National Park) and a July in northern Michigan (Lake Superior cold water swimming every morning, zero humidity). There is no apartment lease that does that.
 
 The forced simplicity is real too. When everything you own fits in 400 square feet, your relationship with consumption changes. I haven't bought anything I regret in six years because there's nowhere to put it. Storage units are the enemy.
 

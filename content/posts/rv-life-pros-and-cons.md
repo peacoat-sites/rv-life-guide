@@ -29,9 +29,9 @@ Full-time RV life comes with moments nobody posts on Instagram: sleeping in a pa
 
 ## What You Actually Gain: The Real Pros of RV Living
 
-Freedom isn't a cliche. When we woke up on a Monday in Moab, Utah, with no checkout time and nowhere to be until we felt like leaving, I cried a little. That sounds dramatic, but after 17 years of mortgage payments, HOA meetings, and two-week vacation windows, the absence of a ticking clock was almost physically overwhelming. You can chase weather. You can follow wildflower blooms north in spring. You can leave a bad campsite neighbor in the rearview mirror and never think about them again.
+Freedom isn't a cliche. Waking up on a Monday in Moab, Utah, with no checkout time and nowhere to be until you feel like leaving is a genuinely disorienting kind of freedom. For people coming from decades of mortgage payments, HOA meetings, and two-week vacation windows, the absence of a ticking clock can feel almost physically overwhelming. You can chase weather. You can follow wildflower blooms north in spring. You can leave a bad campsite neighbor in the rearview mirror and never think about them again.
 
-The money part can actually work. We sold our suburban Columbus house for $312,000. After paying off the mortgage and buying our fifth wheel outright, we had roughly $95,000 sitting in savings that had previously been locked in equity. Year one averaged $3,200 monthly for fuel, campground fees, food, insurance, maintenance, and a $400/month repair budget. Our old household expenses, including the mortgage, utilities, and lawn care, had been running about $4,100 per month. We weren't getting rich, but we weren't going broke either.
+The money part can actually work. For example, selling a suburban house for around $312,000 is a common starting point for new full-timers. After paying off the mortgage and buying a fifth wheel outright, it is possible to free up roughly $95,000 that had previously been locked in equity. Year one on the road can average around $3,200 monthly for fuel, campground fees, food, insurance, maintenance, and a $400/month repair budget. Comparable suburban household expenses, including the mortgage, utilities, and lawn care, often run about $4,100 per month. We weren't getting rich, but we weren't going broke either.
 
 The scenery is genuinely one of the best parts. You can watch the Milky Way from dispersed campsites in national forests, park at remote locations like Acadia without crowds or flight confirmations, and encounter wildlife up close. That part of the lifestyle is as good as it sounds.
 
@@ -41,15 +41,15 @@ You simplify by necessity. Going from a 2,400 square foot house to about 400 squ
 
 The cons are underrepresented in most RV content. Let me spend real time on them.
 
-**Maintenance will cost more than you budgeted.** I don't care what spreadsheet you built. In our first year, we had a slideout motor fail ($1,100), an LP regulator go bad ($280 plus a miserable cold night), and a roof delamination issue that cost $3,400 to repair properly. These aren't unusual. They're the normal cost of living in a vehicle that flexes, vibrates, and takes weather from every direction. Most financial planners suggest a maintenance reserve of $3,000 to $5,000 per year. From my experience, that's the floor, not the ceiling.
+**Maintenance will cost more than you budgeted.** I don't care what spreadsheet you built. In a typical first year, it is common to encounter a slideout motor failure ($1,100), an LP regulator going bad ($280 plus a miserable cold night), and a roof delamination issue that can cost $3,400 to repair properly. These aren't unusual. They're the normal cost of living in a vehicle that flexes, vibrates, and takes weather from every direction. Most financial planners suggest a maintenance reserve of $3,000 to $5,000 per year. Among experienced full-timers, that figure is generally considered the floor, not the ceiling.
 
-Connectivity is a genuine problem. People say "you can work from anywhere!" and technically yes, but in practice you're constantly problem-solving internet. We've had Verizon, AT&T, and T-Mobile simultaneously on different devices and still found ourselves parked outside a McDonald's in rural Idaho trying to submit a work file. Starlink has genuinely changed this. But it adds $150/month to your costs, requires a dish that takes up cargo space, and still has limitations in forested or mountainous terrain.
+Connectivity is a genuine problem. People say "you can work from anywhere!" and technically yes, but in practice you're constantly problem-solving internet. It is common to run Verizon, AT&T, and T-Mobile simultaneously on different devices and still end up parked outside a McDonald's in rural Idaho trying to submit a work file. Starlink has genuinely changed this. But it adds $150/month to your costs, requires a dish that takes up cargo space, and still has limitations in forested or mountainous terrain.
 
-The relationship stress is real. Four hundred square feet with another person 24 hours a day is not inherently romantic. You need direct, boring conversations about chores, driving habits, navigation disagreements, and where you want to go next. We went through a rough patch around month four. We were not the only couple to do so. Solo full-timers face isolation instead: you can go days in remote areas without meaningful human contact, and that wears on people more than they expect.
+The relationship stress is real. Four hundred square feet with another person 24 hours a day is not inherently romantic. You need direct, boring conversations about chores, driving habits, navigation disagreements, and where you want to go next. Many couples go through a rough patch around month four.  Solo full-timers face isolation instead: you can go days in remote areas without meaningful human contact, and that wears on people more than they expect.
 
 Your address situation is genuinely complicated. You'll need a mail forwarding service (we use one based in South Dakota, which is also where we established domicile for licensing and taxes). That takes weeks to set up. Banking, insurance, voting registration, medical care continuity, all of these require deliberate solutions that take time and occasionally money to maintain.
 
-Healthcare is the biggest wildcard. If you're under 65 and not covered through an employer, health insurance on the open market is expensive and often geographically restricted. We spent $1,100 per month on a high-deductible plan for two people for three years before I turned 55 and found a better option. This isn't a dealbreaker for everyone, but it needs to be a line item in your actual budget before you sell the house.
+Healthcare is the biggest wildcard. If you're under 65 and not covered through an employer, health insurance on the open market is expensive and often geographically restricted. Budgeting $1,100 per month or more for a high-deductible plan for two people is realistic until better options become available with age. This isn't a dealbreaker for everyone, but it needs to be a line item in your actual budget before you sell the house.
 
 ## RV Life Costs: A Realistic Monthly Comparison
 
@@ -65,7 +65,7 @@ Healthcare is the biggest wildcard. If you're under 65 and not covered through a
 | Groceries/dining | $600 - $900 | $600 - $900 |
 | **Estimated Monthly Total** | **$3,380 - $5,370** | **$2,900 - $5,400** |
 
-Here's a rough comparison based on our actual numbers and what I've seen from dozens of full-timers over the years.
+Here is a rough comparison based on typical numbers reported by full-timers across a range of travel styles.
 
 | Expense Category | Suburban Homeowner (Avg) | Full-Time RVer (Avg) |
 |---|---|---|
@@ -83,11 +83,11 @@ RV life isn't dramatically cheaper. The cost structures are just different. RVer
 
 ## The Gear That Actually Matters
 
-After six years, I know what's essential and what's marketing fluff.
+After several years of full-time RV living, it becomes clear what is essential and what is marketing fluff.
 
 **Get a serious surge protector before you plug into a single campground pedestal.** Bad power is everywhere, and it will fry your converter or air conditioner without warning. A Progressive Industries EMS unit hardwired into your rig works well for this. It's around $300 and has paid for itself several times over. You can find a [portable version on Amazon](https://www.amazon.com/s?k=rv+surge+protector) if you don't want to hardwire. (Disclosure: this site may earn a commission on purchases.)
 
-**Filter your water.** Campground water quality varies wildly. We run everything through an inline [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter) and have never had an issue. Without one, we had a noticeable taste and smell problem at several sites in the Southwest.
+**Filter your water.** Campground water quality varies wildly. Running water through an inline [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter) addresses taste and odor problems common at many campgrounds. Without one, noticeable taste and smell problems are common at several sites in the Southwest.
 
 **Level your rig properly.** A rig that's not level causes your refrigerator to work harder and your sleep to be worse. A set of [Camco leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks) costs about $25 and solves 90% of unlevel site problems.
 
@@ -115,6 +115,6 @@ Many people sell their houses, buy an expensive rig, and move back into traditio
 
 ---
 
-Six years in, I still wake up some mornings genuinely amazed that this is my life. I also still have weeks where a leak appears, the truck needs $1,200 in tires, and the nearest campsite with cell signal is 40 miles away. The lifestyle is not a solution to life's complications. It just trades one set of complications for a completely different set, many of which involve better views. That tradeoff is absolutely worth it for me. Whether it's worth it for you depends entirely on what you actually need to feel at home.
+For many full-timers, even years in, there are mornings of genuine amazement that this is their life. There are also weeks where a leak appears, the truck needs $1,200 in tires, and the nearest campsite with cell signal is 40 miles away. The lifestyle is not a solution to life's complications. It just trades one set of complications for a completely different set, many of which involve better views. For many people, that tradeoff is absolutely worth it. Whether it's worth it for you depends entirely on what you actually need to feel at home.
 
 *Photo: [Viktoria B.](https://www.pexels.com/@viktoriab) via Pexels*

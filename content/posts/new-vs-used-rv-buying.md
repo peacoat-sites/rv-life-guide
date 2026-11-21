@@ -25,7 +25,7 @@ author_title: "RV Costs"
 author_bio: "Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-A brand-new Class A motorhome rolled out of a dealership in Phoenix last spring. Sticker price: $187,000. By the time the buyer drove it 400 miles to their first campsite in Sedona, three things had already stopped working: the slide-out motor was grinding, the bathroom exhaust fan was dead, and a cabinet door had popped off its track. The dealer fixed it all under warranty, sure. But that buyer spent their first week of "freedom" on the phone with a service department instead of hiking red rocks. I've heard this story, or some version of it, more times than I can count.
+A brand-new Class A motorhome rolled out of a dealership in Phoenix last spring. Sticker price: $187,000. By the time the buyer drove it 400 miles to their first campsite in Sedona, three things had already stopped working: the slide-out motor was grinding, the bathroom exhaust fan was dead, and a cabinet door had popped off its track. The dealer fixed it all under warranty, sure. But that buyer spent their first week of "freedom" on the phone with a service department instead of hiking red rocks. Stories like this are common among first-time RV buyers.
 
 This isn't an argument against buying new. Sometimes new is the right call. But the new-versus-used decision deserves a lot more honesty than the average RV sales floor is going to give you.
 
@@ -39,7 +39,7 @@ So when you buy new, you're paying a significant premium for factory warranty co
 
 The factory warranty is genuinely useful for those first-year gremlins. Most new RVs come with a one-year bumper-to-bumper warranty, with coach components sometimes covered for two years and the chassis (on motorhomes) often covered for three years or more. Warranty work can add up fast. A single slide-out repair, outside of warranty, runs $800 to $2,500 depending on the mechanism. A new roof membrane replacement is $3,000 to $7,000 or more. If you're buying new and those repairs hit in year one, warranty coverage pays for itself quickly.
 
-Here's the part dealers won't emphasize: new RVs come with bugs. The RV manufacturing industry doesn't have the same quality control standards as the automotive industry. Assembly lines move fast. Appliances and electrical systems are sourced from multiple suppliers and integrated with varying degrees of care. I've talked to [full-timers who bought brand-new coaches](/full-time-rv-living-guide/) and spent the better part of their first six months getting warranty items sorted. That's time, and sometimes a lot of driving out of your way to find an authorized service center.
+Here's the part dealers won't emphasize: new RVs come with bugs. The RV manufacturing industry doesn't have the same quality control standards as the automotive industry. Assembly lines move fast. Appliances and electrical systems are sourced from multiple suppliers and integrated with varying degrees of care. Full-timers who bought brand-new coaches have reported spending the better part of their first six months getting warranty items sorted. That's time, and sometimes a lot of driving out of your way to find an authorized service center.
 
 ## The Real Case for Buying Used
 

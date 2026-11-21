@@ -27,7 +27,7 @@ faqs:
 
 Seventy-three percent of full-[time RVers](/best-mail-forwarding-service-for-full-time-rvers/) say access to a pool is one of their top five campground amenities, according to the 2025 RV Industry Association Camper Sentiment Survey. That number surprises people until they spend a week in August in Phoenix or Amarillo without one.
 
-Here's what most pool campground coverage gets wrong: it treats the pool as a bonus. For families, couples doing long stretches in hot climates, and anyone trying to keep kids sane during a travel day hangover, a good pool isn't a luxury. It's a scheduling and sanity tool. A bad pool, on the other hand, is genuinely worse than no pool. Murky water, cracked decks, no shade, posted hours that cut off at 6pm when it's still 98 degrees outside. I've pulled into plenty of those.
+Here's what most pool campground coverage gets wrong: it treats the pool as a bonus. For families, couples doing long stretches in hot climates, and anyone trying to keep kids sane during a travel day hangover, a good pool isn't a luxury. It's a scheduling and sanity tool. A bad pool, on the other hand, is genuinely worse than no pool. Murky water, cracked decks, no shade, posted hours that cut off at 6pm when it's still 98 degrees outside. Plenty of campgrounds fit that description.
 
 This article is about finding the ones worth your time and money, knowing what to pay, and avoiding the traps that keep showing up across booking platforms.
 
@@ -39,7 +39,7 @@ The rate spread is real. Here's how pool campgrounds stack up against each other
 
 Resort-style campgrounds, think [Thousand Trails](/is-thousand-trails-membership-worth-it-for-full-timers/), Sun Outdoors, and the bigger Jellystone locations, average around $118 a night in peak season, but many require memberships that bring per-night costs down considerably for frequent visitors. A Thousand Trails Connect membership runs roughly $599 annually and gives you access to 190+ parks, most of which have pools. If you're using it 30+ nights a year, the math lands at under $20/night in access fees before hookup charges.
 
-The mid-tier bracket ($65-85/night) is where I spend most of my time. These are usually KOA Holiday and KOA Journey properties, Good Sam-affiliated parks, and regional chains like Encore Resort parks. Pool quality at this level is mostly reliable; you're likely to find a 30-by-60-foot rectangular pool, some lounge chairs, and a posted pump-maintenance schedule.
+The mid-tier bracket ($65-85/night) covers a wide range of options. These are usually KOA Holiday and KOA Journey properties, Good Sam-affiliated parks, and regional chains like Encore Resort parks. Pool quality at this level is mostly reliable; you're likely to find a 30-by-60-foot rectangular pool, some lounge chairs, and a posted pump-maintenance schedule.
 
 What you don't get at mid-tier: waterslides, lazy rivers, splash pads, or extended night swim hours. Those amenities live at the $100+ resorts, and honestly, if you have kids under 12, it might be worth the extra $30/night for a three-day stop versus a week of "when can we go swimmmmming."
 
@@ -53,7 +53,7 @@ What you don't get at mid-tier: waterslides, lazy rivers, splash pads, or extend
 
 ## How to Actually Find a Good One (Not Just a Pool)
 
-Biggest mistake I made early on: booking anywhere with a pool icon on the listing. Some of those pools are the size of a backyard hot tub. One outside Gatlinburg had a pool that was visibly green, roped off, with a handwritten sign that said "opening next week" in June. I didn't get a refund.
+A common early mistake is booking anywhere with a pool icon on the listing. Some of those pools are the size of a backyard hot tub. For example, a campground outside Gatlinburg might have a pool that is visibly green, roped off, with a handwritten sign that says "opening next week" in June. Refunds in that situation are rarely offered.
 
 What actually works:
 
@@ -61,21 +61,21 @@ Search specifically for reviews that mention "pool" in the text, not the star ra
 
 Look for "pool maintenance" as a specific comment. Experienced campers mention it. "Pool was clean and clear" is a five-second phrase that saves you from a cloudy nightmare.
 
-Call the park for a two-week window stay or longer. I do this anyway, but specifically ask: what's the pool depth, what are the current hours, and is it heated. Any park that hesitates on those three questions is telling you something.
+Call the park for a two-week window stay or longer, and specifically ask: what's the pool depth, what are the current hours, and is it heated. Any park that hesitates on those three questions is telling you something.
 
 The Dyrt's 2025 annual report found that campgrounds with 50+ reviews and a 4.3+ rating are 3.1 times more likely to have pool conditions matching their listing photos than newer listings with fewer reviews. That's not a guarantee, but it's a reasonable filter to apply before committing.
 
-Worked example: Planning a two-week run from Nashville to Pensacola in July 2025, I filtered for rated 4.3+, pool mentioned in 10+ reviews, and within 15 miles of the Gulf. Found Sun Outdoors Gulf Shores at $109/night, booked 23 days ahead, got an early-bird rate of $91. Pool was open 8am-10pm, heated to 82 degrees, full-size, zero issues. Would have paid $127 at the gate.
+For example, planning a two-week run from Nashville to Pensacola in July, filtering for rated 4.3+, pool mentioned in 10+ reviews, and within 15 miles of the Gulf is a solid approach. Sun Outdoors Gulf Shores, for instance, has listed at $109/night, with early bookings made 23 days ahead coming in around $91. The pool there has been reported as open 8am-10pm, heated to 82 degrees, full-size, with no major issues noted. Walk-up rates at comparable properties have run as high as $127.
 
 ## The Hidden Variables Nobody Tells You About
 
 Pool hours are the thing that bites people most. Most campground websites list hours but don't tell you when "adult swim" blocks off the pool from kids (usually 8-10pm), whether there's a cap on simultaneous users, or whether the pool gets closed for private events. Some resorts allow birthday parties and gatherings that rope off the pool for three hours on a Saturday afternoon. Read the fine print, or ask.
 
-Heated pool vs. unheated is a bigger deal than you'd think outside of Florida and the Southwest. A September pool in coastal Maine that isn't heated is basically decorative. Most campgrounds in northern states and at elevation only heat to 78-80 degrees if they heat at all, and even that drops fast after a cool night. I don't have exact numbers on what percentage keep consistent temperature, but in my experience, maybe half the "heated pool" listings I've encountered actually maintain a consistent temperature once outside temps drop below 65.
+Heated pool vs. unheated is a bigger deal than you'd think outside of Florida and the Southwest. A September pool in coastal Maine that isn't heated is basically decorative. Most campgrounds in northern states and at elevation only heat to 78-80 degrees if they heat at all, and even that drops fast after a cool night. Exact figures are hard to pin down, but reports from campers suggest that perhaps half of "heated pool" listings actually maintain a consistent temperature once outside temps drop below 65.
 
-Proximity of your site to the pool matters, and it cuts both ways. Sites within 50 feet of the pool are loud until closing time and often later. I've been burned by this at a Jellystone outside Pigeon Forge where the pool was between us and the bathrooms. Great pool. Zero sleep before midnight.
+Proximity of your site to the pool matters, and it cuts both ways. Sites within 50 feet of the pool are loud until closing time and often later. For example, a site at a Jellystone outside Pigeon Forge might have the pool positioned between your spot and the bathrooms. Great pool. Zero sleep before midnight.
 
-Worked example: Family of four, three nights at a KOA Holiday in Mesa, Arizona, spring break. Booked a site specifically marked "quiet zone" on the map, which turned out to be a 200-foot walk to the pool vs. 40 feet from the pool-adjacent sites. Kids swam every afternoon and evening. Adults slept fine. Rate was identical.
+For example, consider a family of four booking three nights at a KOA Holiday in Mesa, Arizona, over spring break. Booking a site specifically marked "quiet zone" on the map could mean a 200-foot walk to the pool versus 40 feet from the pool-adjacent sites. In that scenario, kids could swim every afternoon and evening. Adults would sleep fine. The rate would be identical.
 
 ## The Resort Membership Math
 
@@ -87,7 +87,7 @@ Jellystone doesn't do a chain-wide membership, but individual parks sometimes of
 
 Good Sam membership ($35/year) gets you 10% off at 2,000+ campgrounds, many of which have pools. That 10% sounds small until you're paying $80/night for 60 nights and suddenly you've saved $480.
 
-Worked example: Reader emailed me last spring about her family's full-time setup. They were spending about $2,400/month on [campground fees](/rv-campground-fees/), heavy on summer resort stays. Switched to Thousand Trails Connect + one Zone upgrade, rerouted their summer itinerary to zone parks. Monthly campground cost dropped to $1,340 without meaningfully changing their route. That's $12,720 back in the year.
+For example, consider a family in a full-time setup spending about $2,400/month on campground fees, heavy on summer resort stays.  Switching to Thousand Trails Connect plus one Zone upgrade and rerouting a summer itinerary to zone parks is one way to cut those costs. Monthly campground cost dropped to $1,340 without meaningfully changing their route. That's $12,720 back in the year.
 
 ## Sources
 
