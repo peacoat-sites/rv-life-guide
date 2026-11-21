@@ -116,7 +116,7 @@ How you manage your tanks between dump stops matters as much as the actual dumpi
 
 **Use the right chemicals.** Enzyme-based tank treatments work significantly better than formaldehyde products. Happy Campers and Unique RV Digest-It are both solid. Drop them in after each dump with a couple gallons of water.
 
-**Avoid leaving your black tank valve open at full hookup sites.** I see this constantly. It dries out the tank and creates what's known as a "poop pyramid," which is exactly as bad as it sounds. Open the valve to dump, then close it again.
+**Avoid leaving your black tank valve open at full hookup sites.** Many full-timers make this mistake. It dries out the tank and creates what's known as a "poop pyramid," which is exactly as bad as it sounds. Open the valve to dump, then close it again.
 
 **Dump when your black tank is around two-thirds to three-quarters full.** You want enough liquid volume to flush everything out effectively. Dumping a nearly empty black tank leaves solids behind.
 

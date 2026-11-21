@@ -79,11 +79,11 @@ I don't want to undersell this side, because the benefits are legitimate.
 
 The geographic flexibility is genuinely transformative if you have remote income. Full-timers regularly work a December in Tucson (75 degrees, sunny, hiking distance from Saguaro National Park) and a July in northern Michigan (Lake Superior cold water swimming every morning, zero humidity). There is no apartment lease that does that.
 
-The forced simplicity is real too. When everything you own fits in 400 square feet, your relationship with consumption changes. I haven't bought anything I regret in six years because there's nowhere to put it. Storage units are the enemy.
+The forced simplicity is real too. When everything you own fits in 400 square feet, your relationship with consumption changes. Many full-timers find they stop buying things they regret because there is simply nowhere to put them. Storage units are the enemy.
 
-Worked example: Couple Mara and Dev, full-timing since early 2023 in a [fifth wheel](/best-fifth-wheels-full-time/), both working remotely. Their combined housing cost (apartment in Austin) before: $2,600/month. Current average: $2,050/month. They're not saving dramatically, but they've visited 31 states, paid off $18,000 in credit card debt using the marginal savings, and both independently describe their stress levels as "dramatically lower." → The financial win was modest; the life quality shift was not.
+For example, consider a couple who have been full-timing since early 2023 in a [fifth wheel](/best-fifth-wheels-full-time/), both working remotely. Their combined housing cost before full-timing, say an apartment in Austin, might have been $2,600/month. A realistic current average might be $2,050/month. The savings are not dramatic, but a couple in this situation might visit 31 states, pay off significant credit card debt using the marginal savings, and find their stress levels dramatically lower. → The financial win was modest; the life quality shift was not.
 
-And honestly? The mechanical knowledge you pick up is useful forever. I can diagnose a 12-volt DC system issue, reseal a roof, replace a water pump, and bleed hydraulic leveling jacks. I had zero of those skills eight years ago. A good [battery monitor like the Victron BMV-712](https://amzn.to/3ZGvGdT) (around $100, and worth every cent for solar setups) taught me more about power management than any class I could have taken. *(Note: that's an affiliate link, and this site may earn a small commission.)*
+And honestly? The mechanical knowledge you pick up is useful forever. Full-timers commonly develop the ability to diagnose a 12-volt DC system issue, reseal a roof, replace a water pump, and bleed hydraulic leveling jacks. Most people start with zero of those skills. A good [battery monitor like the Victron BMV-712](https://amzn.to/3ZGvGdT) (around $100, and worth every cent for solar setups) taught me more about power management than any class I could have taken. *(Note: that's an affiliate link, and this site may earn a small commission.)*
 
 ---
 
@@ -91,15 +91,15 @@ And honestly? The mechanical knowledge you pick up is useful forever. I can diag
 
 [Class A](/class-a-vs-class-b-vs-class-c-rv/), Class C, fifth wheel, van, truck camper. Everyone has opinions and most of them are too attached to their choice.
 
-The honest ranking for full-time livability, in my experience:
+A practical ranking for full-time livability looks like this:
 
-Fifth wheel with a heavy-duty truck: best balance of living space, towing stability, and the ability to detach and drive the truck independently. I'd start here if I were starting over.
+Fifth wheel with a heavy-duty truck: best balance of living space, towing stability, and the ability to detach and drive the truck independently. For most new full-timers, this is the recommended starting point.
 
 Class A diesel pusher: the most comfortable daily living space, but you're driving your house everywhere. Harder to explore tight areas.
 
 Class C: underrated for couples, overrated for solo travelers who want space.
 
-Van/Sprinter builds: the aesthetic is everywhere right now, and for good reason (fuel, stealth, agility), but don't let Instagram fool you about what 70 square feet actually feels like for daily life. I know van-lifers who love it and I know people who lasted four months before renting an apartment in a panic.
+Van/Sprinter builds: the aesthetic is everywhere right now, and for good reason (fuel, stealth, agility), but don't let Instagram fool you about what 70 square feet actually feels like for daily life. Some van-lifers love it, and others last four months before renting an apartment in a panic.
 
 ---
 
