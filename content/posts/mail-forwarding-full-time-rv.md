@@ -21,8 +21,8 @@ faqs:
    a: "It can, significantly. ACA marketplace plans are state-specific, so changing your domicile state means you'll shop on a different state's exchange. Some states have much better plan options than others. South Dakota's ACA marketplace has limited insurer participation, so many full-timers who use SD as their domicile state opt for short-term health plans, health sharing ministries, or nationwide plans designed for travelers. Review your options carefully before finalizing your domicile choice."
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You just signed the lease on your apartment for the last time, sold most of your furniture on Facebook Marketplace, and your RV is parked out front ready to go. Then your phone buzzes. It's your bank, flagging a suspicious address change. Your insurance renewal is sitting in a mailbox you no longer own. And your new driver's license? It needs a physical address. Welcome to one of the most overlooked logistics problems in full-time RV living: mail forwarding.

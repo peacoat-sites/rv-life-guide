@@ -21,8 +21,8 @@ faqs:
     a: "Yes, it can. Your listed state of residence affects which health insurance plans are available to you and at what rates. Some full-time RVers choose South Dakota specifically because plans available there offer nationwide network coverage rather than limiting you to in-network providers in a specific region. If you're shopping for health insurance, compare plans available to South Dakota residents on the federal marketplace and factor that into your domicile decision. South Dakota domicile isn't magic, and it's not right for everyone. If you have strong ties to your home state, own real estate"
 author: "Julia Davidson"
 author_slug: "julia-davidson"
-author_title: "Boondocking Expert"
-author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+author_title: "Boondocking"
+author_bio: "Julia Davidson is the byline used at RV Life Guide for articles on boondocking and off-grid camping: solar, water and power management. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Every year, thousands of full-time RVers establish legal residency in South Dakota without spending more than a day there. It's completely legal. And if you're coming from California, Oregon, or New York, you're probably looking at saving hundreds of dollars per month. South Dakota has no state income tax, vehicle registrations under $60 a year, and possibly the easiest domicile process in the country. If you haven't looked into this yet, you're leaving real money on the table.

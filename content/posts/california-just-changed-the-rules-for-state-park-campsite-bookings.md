@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["california", "just", "changed", "rules", "state"]
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "RV Finance Specialist"
-author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
+author_title: "RV Costs"
+author_bio: "Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "california-just-changed-the-rules-for-state-park-campsite-bookings"
 affiliate_disclosure: false
 ---

@@ -21,8 +21,8 @@ faqs:
    a: "Call the campground directly and ask for their maximum length, not just the listed site length on their website. Many state park sites were built decades ago for pop-ups and small trailers. A 40-foot fifth wheel with a 25-foot truck can't physically enter some sites even if the reservation system lets you book them. Also ask about slide-out clearance, low-hanging branches, and whether pull-through sites are available. I've shown up to beautiful campgrounds that couldn't fit my rig at all. That phone call is worth five minutes."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Before I signed the papers on my first RV, I stood in a dealership lot in Phoenix staring at 47 different units and felt absolutely paralyzed. A [Class A diesel pusher](/class-a-vs-class-b-vs-class-c-rv/) sat next to a tiny teardrop trailer. A toy hauler loomed over a pop-up camper. The salesman used terms like "fifth wheel" and "Class B+" and "toy hauler slide-out" like I was supposed to already know what any of that meant. I didn't. I almost bought the wrong rig entirely. Six years and 90,000 miles later, I want to give you the breakdown I wish someone had handed me that afternoon.

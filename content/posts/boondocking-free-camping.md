@@ -21,8 +21,8 @@ faqs:
    a: "The realistic risk of boondocking is much lower than most people assume. Millions of people do it every year without incident. Basic precautions include telling someone your planned location and a check-in schedule, keeping a satellite communicator like a Garmin inReach for emergencies, and using good judgment about obviously sketchy areas. BLM parking areas near cities do attract occasional nuisance activity, but remote dispersed sites on public land are generally very safe."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "RV Finance Specialist"
-author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
+author_title: "RV Costs"
+author_bio: "Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You pull up to a wide, flat mesa in southern Utah. Cut the engine. The only sound left is wind. No host. No fee envelope. No neighbor with a generator running at 11 p.m. Your spot costs zero dollars, and you can stay 14 days. That's boondocking. Once you've done it, paying $60 a night for a packed campground starts to feel almost criminal.

@@ -21,8 +21,8 @@ faqs:
    a: "Honestly, it depends on how you camp. If you're always at full-hookup sites, AGM works fine and lithium is probably overkill. If you dry camp even occasionally, or if you want solar to be genuinely useful, lithium makes that experience dramatically better. For full-timers and frequent boondockers, it's one of the best investments you can make. For someone camping 15 days a year at campgrounds, maybe spend that money on a good water filter instead."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're parked at a beautiful dispersed site in the Sonoran Desert, three days from the nearest hookup, and by 2 PM your inverter is screaming low-voltage warnings. Your generator is loud, your neighbors are close enough to hear it, and you're rationing whether to run the coffee maker or charge your laptop. If you've been there, you already know why people obsess over lithium batteries. If you haven't been there yet, trust me, you will think about this moment when you're shopping for your next upgrade.

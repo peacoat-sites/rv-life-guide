@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes, especially if you're driving a hard bargain or the park is motivated to fill a site. Some parks offer an 'all-inclusive' monthly rate that bundles electric at a flat add-on, say $75 or $100, regardless of actual usage. If you run electric heat in winter or heavy AC in summer, an all-inclusive deal is often worth paying a bit more for the rate. If you're a light user with good solar and propane, you'll probably save money on metered electric. Long-term RV living absolutely can be affordable, sometimes dramatically more affordable than stick-and-brick housing, but only if you understa"
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You pull into a decent-looking RV park. Ask about long-term rates. The manager says $1,400 a month. Your jaw drops. That's more than some apartments. Then a neighbor two sites over leans out of his rig: "You should've asked about the monthly special. I'm paying $650." Same park. Same amenities. Completely different rate. That's the game right there, and if you don't know how to work it, you'll absolutely overpay.

@@ -21,8 +21,8 @@ faqs:
    a: "Almost never, honestly. Shared campground Wi-Fi on a network supporting 50 rigs is not a working solution for video calls or large file transfers. Budget for a dedicated cell plan, a mobile hotspot, or a signal booster. Weboost and Cel-Fi make the most respected boosters in the full-timer community. Treat campground Wi-Fi as a backup for light browsing, not your primary connection."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most campground listicles rank parks by star ratings and photo appeal. That's useful for a weekend camper who wants a pretty backdrop. For someone living in their rig full-time, it's almost useless. What you actually need to know: Is the cell signal strong enough to work? Does the park allow extended stays? What's the real monthly rate, not the nightly one multiplied by 30? Are the hookups reliable, or will you be chasing down a voltage problem at 9pm on a Tuesday? This guide covers parks and regions that hold up under full-timer scrutiny, not just a long weekend.

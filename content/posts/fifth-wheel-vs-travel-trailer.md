@@ -21,8 +21,8 @@ faqs:
    a: "Fifth wheels from name brands like Grand Design, Airstream, and Montana tend to hold value better than entry-level travel trailers, mostly because they started at a higher price point and attract more serious buyers. That said, both depreciate significantly in the first two to three years, often 20% to 35%. Airstream aluminum travel trailers are the exception and hold value remarkably well, sometimes appreciating on used markets. For everyone else, the RV market moves with fuel prices, interest rates, and pandemic-era demand swings, all of which we saw dramatically between 2020 and 2023."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "RV Finance Specialist"
-author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
+author_title: "RV Costs"
+author_bio: "Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You're standing on a dealer lot, coffee going cold in your hand, staring at two rigs that look roughly the same size but cost anywhere from $5,000 to $30,000 apart in price. The salesperson is throwing around words like "pin weight" and "gooseneck adapter" and you're nodding like you understand. You don't. Six years ago I was exactly there, and I picked wrong the first time. Here's what I wish someone had told me before I signed anything.

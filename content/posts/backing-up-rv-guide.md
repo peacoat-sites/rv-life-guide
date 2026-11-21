@@ -21,8 +21,8 @@ faqs:
    a: "Significantly. A flat-towed vehicle behind a motorhome behaves similarly to a trailer, but with less control because it's connected with a tow bar, not a fifth wheel or ball hitch. Most experienced tower simply disconnect the toad before attempting a back-in. It takes five minutes and eliminates an enormous amount of complexity. Don't try to back a motorhome with a toad attached unless you've specifically practiced it and have someone spotting the toad."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most RV accidents happen at under 5 mph. That stat sounds almost funny until it's your rear corner wrapped around a concrete bollard you never saw. Backing up a rig, whether it's a 40-foot Class A or a 24-foot travel trailer, is where confidence gets built or destroyed fast. Most guides online treat it like a parallel parking tutorial for sedans. It isn't. The physics are different, the consequences are more expensive, and the stakes include other people's campsites, sewer hookups, and occasionally their lawn chairs.

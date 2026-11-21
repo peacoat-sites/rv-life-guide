@@ -21,8 +21,8 @@ faqs:
    a: "Most use ACA marketplace plans through their domicile state, short-term health plans, health-sharing ministries (which have significant limitations), or they're covered through a spouse's employer. If you're over 65, Medicare solves most of this. If you're not, it's genuinely one of the hardest parts of this lifestyle and one of the most important things to have figured out before you leave."
 author: "Julia Davidson"
 author_slug: "julia-davidson"
-author_title: "Boondocking Expert"
-author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+author_title: "Boondocking"
+author_bio: "Julia Davidson is the byline used at RV Life Guide for articles on boondocking and off-grid camping: solar, water and power management. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The month I sold my house in suburban Columbus, Ohio, my mortgage payment was $1,847. My first full month on the road cost me $2,340. I remember staring at my bank statement thinking I had made a catastrophic mistake. Eighteen months later, I had that monthly number down to $1,650, and two years after that I was averaging $1,400 a month with a paid-off rig and a legitimate emergency fund. The point isn't that full-time RV living is automatically cheap. It isn't. The point is that the budget is learnable, and most people walk into this lifestyle with completely wrong assumptions about where the money actually goes.

@@ -8,8 +8,8 @@ categories: ["maintenance"]
 tags: ["slide", "room", "maintenance"]
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 slug: "rv-slide-room-maintenance"
 affiliate_disclosure: false
 faqs:

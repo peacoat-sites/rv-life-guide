@@ -21,8 +21,8 @@ faqs:
    a: "In most U.S. states, no. Standard Class D (regular car) licenses cover motorhomes under a certain weight threshold, typically 26,000 pounds GVWR. Most Class A gas coaches fall under this limit. Diesel pushers above a certain size can get closer to that threshold, so it's worth checking your specific coach's GVWR against your state's DMV requirements before you buy. Canada has different rules province to province, so check locally if you're Canadian or planning extended travel there."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people walk into an RV dealership, see a gleaming 40-foot diesel pusher in one bay and a Sprinter van conversion in the next, and immediately freeze. The salesperson is already walking over. You haven't done nearly enough research. And the price difference between those two rigs? It could be $300,000. That moment of sticker shock is exactly where bad decisions get made.

@@ -21,8 +21,8 @@ faqs:
    a: "You'll need to establish a legal domicile in a state, and the three most popular choices among full-timers are South Dakota, Texas, and Florida. All three have no state income tax, and all three have established systems for non-resident vehicle registration and mail forwarding. Services like America's Mailbox (South Dakota) or Escapees Mail Service (Texas) give you a physical street address, accept packages, and forward mail on a schedule you set. Most full-timers get their domicile set up before they hit the road."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "RV Finance Specialist"
-author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
+author_title: "RV Costs"
+author_bio: "Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The day we signed the title on our 38-foot fifth wheel, I was convinced we'd made the perfect choice. Eighteen months later, we sold it at a $14,000 loss and bought something completely different. If someone had told me the truth about full-time RV selection before we started, I would have saved that money, avoided a blown tire on I-40 outside Amarillo, and skipped approximately 200 arguments about slide-room maintenance. So let me be that person for you.

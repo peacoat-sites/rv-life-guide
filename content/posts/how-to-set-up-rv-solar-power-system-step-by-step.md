@@ -21,8 +21,8 @@ faqs:
    a: "Your battery monitor is your primary diagnostic tool. After a full charge, your bank should be sitting at or near your charge controller's float voltage. On a clear day, panels should produce within 15-20% of their rated output during peak sun hours. If you're seeing significantly less, check for shade, check your connections with a multimeter, and verify your charge controller's settings. The Victron app logs historical production data, which makes spotting a problem much easier than guessing."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most solar guides for RVers start with wattage calculators and end with a parts list. That's backwards. The thing that kills most DIY solar installs isn't undersizing the panels or picking the wrong wire gauge. It's installing components in the wrong order and discovering mid-project that your battery bank doesn't fit where you planned, or that your charge controller needs to be within three feet of your batteries and you've already bolted your panels to the roof.

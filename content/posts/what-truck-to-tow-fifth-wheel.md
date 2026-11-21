@@ -23,8 +23,8 @@ faqs:
    a: "Plan on $800-$1,500 for a quality hitch from B&W, PullRite, or Lippert. Fifth wheel hitches are not a place to cut corners. A B&W Companion hitch is widely considered the benchmark for fit and durability. Installation typically adds $150-$300 at a shop if you're not doing it yourself. (This site may earn a commission on purchases.)"
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most people shopping for a fifth wheel spend weeks obsessing over floor plans, slide-outs, and kitchen layouts. Then they're standing in a dealership parking lot realizing the truck they drove there can't actually tow the rig they just fell in love with. It's one of the most common and expensive mistakes in the RV world. Buy the wrong truck, or buy a fifth wheel that outguns your existing one, and you're looking at a dangerous rig on the highway, a voided warranty, or a very uncomfortable conversation with your insurance company after something goes wrong.

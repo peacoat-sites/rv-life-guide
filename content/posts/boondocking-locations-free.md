@@ -21,8 +21,8 @@ faqs:
    a: "It depends entirely on the state. Arizona, Montana, Nevada, New Mexico, and Wyoming have state land programs that allow dispersed camping, usually with an inexpensive annual recreational permit. Other states are far more restrictive and most of their state land is closed to camping. Look up your specific state's State Land Department or equivalent agency and look for recreational use policies."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think free camping means roughing it in some dusty lot behind a Walmart. I thought that too, until I spent three weeks in southern Utah on Bureau of Land Management land and realized I was waking up to red rock formations that resort campers were paying $400 a night to see from a lodge window. That's the thing nobody tells you when you're just getting started: the free stuff is often the best stuff. Not always, not everywhere, but often enough that once you find your first legitimate boondocking spot, you'll wonder why you ever paid for a full-hookup site at a noisy commercial campground.

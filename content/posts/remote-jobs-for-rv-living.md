@@ -21,8 +21,8 @@ faqs:
    a: "Both happen. People who struggle usually underestimate how much self-discipline async work requires without an office structure, or they pick jobs with too much real-time availability pressure. People who thrive tend to have clearly defined work hours, reliable internet infrastructure, and jobs that genuinely flex around travel. Eight years in, I'm still doing it, but I've also made every mistake I described above at least once."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think finding remote work is the hard part. It's not. The hard part is finding remote work that actually holds up when you're parked at a campground outside Moab with spotty Verizon signal, a 30-amp power limit, and a Zoom call in 40 minutes.

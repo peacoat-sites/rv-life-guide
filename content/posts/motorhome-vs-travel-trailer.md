@@ -21,8 +21,8 @@ faqs:
     a: "Per unit, travel trailers are cheaper to insure because they have no engine and no collision risk while parked. But remember, you also need to insure your tow vehicle. Full-timer insurance on a motorhome, through companies like National General or Progressive's RV program, typically runs $1,200 to $2,500 per year depending on value and coverage. Trailer insurance might run $400 to $800 for the trailer alone, with your truck insurance on top. Run actual quotes before you assume one is dramatically cheaper."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're standing in a dealership lot on a Saturday morning, coffee going cold in your hand, staring at two very different machines. The salesperson is hovering. Your partner is already climbing into a Class A motorhome the size of a city bus. And you have absolutely no idea which direction to walk. This decision shapes almost every single day of your life on the road. Most people get it wrong because they fall in love with floor plans instead of thinking about how they actually live.

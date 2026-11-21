@@ -21,8 +21,8 @@ faqs:
    a: "The roof. Every time. A bad roof means water damage, and water damage compounds every year it goes untreated. I've seen rigs with beautiful interiors and shiny exteriors that were essentially totaled because the roof sealant hadn't been maintained and the structure was rotted from the top down. If the roof checks out, you have a solid starting point. If it doesn't, factor in substantial repair costs or walk away."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A couple in Tennessee bought a used [Class A motorhome](/class-a-vs-class-b-vs-class-c-rv/) for $68,000 in 2021. They did a walkthrough, kicked the tires, ran the generator for ten minutes, and handed over a cashier's check. Three weeks later they were parked in a Walmart lot in Georgia with a blown aqua-hot system, delaminating sidewalls, and a slide room that wouldn't retract. The repair estimate came in at just over $19,000. I've heard variations of this story more times than I can count, and the heartbreaking part is that a thorough pre-purchase inspection would have caught every single one of those problems.

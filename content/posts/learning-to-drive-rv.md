@@ -21,8 +21,8 @@ faqs:
    a: "Start in an empty parking lot with cones. The key insight: when backing a trailer, you steer in the opposite direction you want the trailer to go. Turn the wheel right and the trailer goes left. Practice in short sessions, 20 minutes at a time, so frustration doesn't set in. Once you have the concept, move to longer practice runs. A backup camera helps enormously here too."
 author: "Julia Davidson"
 author_slug: "julia-davidson"
-author_title: "Boondocking Expert"
-author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+author_title: "Boondocking"
+author_bio: "Julia Davidson is the byline used at RV Life Guide for articles on boondocking and off-grid camping: solar, water and power management. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people freeze the first time they climb into the driver's seat of a 35-foot Class A motorhome. The mirrors look enormous. The steering wheel feels wrong. The parking lot suddenly feels impossibly small. That's completely normal. The good news: driving an RV is learnable, and thousands of people master it every year without any commercial driving experience. The real secret is knowing what to practice, in what order, and where to fail safely.

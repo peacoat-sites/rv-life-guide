@@ -21,8 +21,8 @@ faqs:
    a: "Moving too fast and buying too much rig. Almost universally, the people I've met who burned out in year one were driving rigs over 36 feet that they felt obligated to keep moving to justify the fuel cost. They never stayed anywhere long enough to settle. Full-time RV life is not a permanent vacation. It's a lifestyle that requires the same patience and routine-building as any other. The destinations are better than an apartment. The daily reality is still just daily life, with more maintenance."
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 The day we handed over our house keys in October 2019, I had $847 in our checking account, a 28-foot travel trailer hitched to a Ford F-250 I barely knew how to drive, and absolutely no idea what I was walking into. Six years and 90,000 miles later, I can tell you this: almost everything the internet told me about full-time RV life was either optimistic to the point of dishonesty or so surface-level it was useless. This guide is neither of those things.

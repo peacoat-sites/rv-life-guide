@@ -3,39 +3,36 @@ title: "About RV Life Guide"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About RV Life Guide,  meet Barbara Mitchell, full-time RVers writing about life on the road."
+description: "What RV Life Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "barbara-mitchell"
-author_name: "RV Life Guide"
-person_name: "Barbara Mitchell"
 ---
 
 ## About RV Life Guide
 
-RV Life Guide is a resource for anyone thinking about,  or already living,  the full-time RV lifestyle. We write from experience, not theory.
+RV Life Guide covers RV ownership and travel: buying and running costs, towing, maintenance, campgrounds, boondocking and full-time living.
 
-## Meet the Editor
+## Who writes here
 
-**Barbara Mitchell** is the editor behind RV Life Guide.
+Articles are published under pen names, each covering one part of the site:
 
-Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips.
+- **[Barbara Mitchell](/barbara-mitchell/)**: full-time RV living and long-distance travel
+- **[Greg Hoffman](/greg-hoffman/)**: RV financing, insurance and budgeting
+- **[Julia Davidson](/julia-davidson/)**: boondocking and off-grid camping: solar, water and power management
+- **[Sandra Park](/sandra-park/)**: route planning and campground reservations
+- **[Tony Reeves](/tony-reeves/)**: RV maintenance and DIY repairs
 
-## What We Cover
+## How we work
 
-RV Life Guide covers every aspect of the full-time RV lifestyle,  rig selection and buying advice, campground types and costs, route planning, maintenance basics, full-time budgeting, remote work while traveling, and the honest trade-offs of life on the road.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## Our Approach
+## Important limits
 
-We write from personal experience first and research second. When we cover something we haven't done ourselves, we say so. We'd rather give you one honest answer than five hedged ones.
+Weight and towing figures in our articles and calculators are estimates. Always go by the ratings on your vehicle and hitch (GVWR, GCWR, tongue weight and hitch class) and your owner's manual, and check the towing and length rules in each state you drive through. Propane, electrical and structural repairs carry real risk; when in doubt, use a qualified RV technician.
 
-## Disclaimer
+## Affiliate disclosure
 
-RV Life Guide shares personal experience and general research. Campground policies, road weight limits, towing requirements, and costs vary by location, rig, and season. Always verify specifics for your route and vehicle before heading out.
-
-## Affiliate Disclosure
-
-Some links on this site, particularly for gear and equipment, are Amazon affiliate links. If you purchase through our links, we may earn a small commission at no extra cost to you.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
 ## Contact
 
-Questions about the RV life? [We'd love to hear from you](/contact/).
+Questions, corrections or topic requests: use the [contact page](/contact/).

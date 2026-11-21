@@ -5,8 +5,10 @@ layout: "author-page"
 hide_title: true
 author_name: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "RV Finance Specialist"
-author_specialty: "RV Financing, Insurance & Budgeting"
+author_title: "RV Costs"
+author_specialty: "RV Costs"
 ---
 
-Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting.
+Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards.
+
+[How RV Life Guide articles are written and checked](/editorial-standards/)

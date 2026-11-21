@@ -21,8 +21,8 @@ faqs:
    a: "If you're doing it yourself properly, budget 2 to 3 hours minimum. A professional inspector will take 3 to 5 hours on a larger unit. Anyone who tells you that you can evaluate an RV in 30 minutes is either selling you something or has no idea what they're doing. Take the time."
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I watched a couple at a dealership in Phoenix sign papers on a 32-foot [Class A motorhome](/class-a-vs-class-b-vs-class-c-rv/) in about 45 minutes flat. They were giddy. They hadn't checked the roof, hadn't run the generator, hadn't filled the fresh water tank to test for leaks. Three weeks later I crossed paths with them at a campground in New Mexico, and that rig was already sitting broken at a mobile RV repair shop with a blown-out slide room seal and a dead inverter. The repair bill was north of $4,000. The honeymoon was over before the end of the first month.

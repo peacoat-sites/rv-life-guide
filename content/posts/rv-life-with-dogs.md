@@ -21,8 +21,8 @@ faqs:
    a: "Honestly, it depends more on your lifestyle than your square footage. A dog in a 22-foot Class C who gets two hours of outdoor time daily is living better than a dog alone in a 2,000-square-foot house all day. The size of the rig matters a lot less than how much time you spend outside it."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 My dogs have been in this rig longer than some people have owned cars. Eight years, two dogs (one passed, one current), four different rigs, and more campgrounds than I can count. Most advice you'll find about full-timing with dogs is written by people who took one camping trip. It shows.

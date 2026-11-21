@@ -21,8 +21,8 @@ faqs:
    a: "It complicates them more than it simplifies them. You'll need to maintain a legal domicile state (South Dakota, Texas, and Florida are the three most popular among full-timers for their lack of state income tax and relatively easy domicile requirements). That's separate from where you actually sleep on any given night. Talk to a tax professional who has actual experience with full-time travelers, not just any CPA."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who ask me about van life income are asking the wrong question. They want to know *what* jobs work. What they should be asking is: what kind of worker are you, and can you actually perform under conditions nobody talks about?

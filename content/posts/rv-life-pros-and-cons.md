@@ -21,8 +21,8 @@ faqs:
    a: "There is no single right answer, but the general consensus among experienced full-timers is: go for quality over size, prioritize residential-style features (a real bed, real shower, real storage), and be wary of rigs marketed as luxury travel units that weren't designed for daily habitation. Fifth wheels and Class A motorhomes tend to offer the most livable layouts. Class B vans are ideal for solo travelers or minimalist couples. Class C motorhomes sit in the middle. Whatever you buy, have it inspected by an independent RV technician before signing anything."
 author: "Greg Hoffman"
 author_slug: "greg-hoffman"
-author_title: "RV Finance Specialist"
-author_bio: "Greg Hoffman has worked through the real costs of RV ownership for years, from financing and insurance to the budget surprises that hit full-timers hardest. He writes candidly about what RV life actually costs. At RV Life Guide he covers RV financing, insurance, and full-time budgeting."
+author_title: "RV Costs"
+author_bio: "Greg Hoffman is the byline used at RV Life Guide for articles on RV financing, insurance and budgeting. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Full-time RV life comes with moments nobody posts on Instagram: sleeping in a parking lot while arguing about the propane shutoff as temperatures drop, or discovering systems you didn't know existed. But this lifestyle can be one of the best decisions you make, and also one of the hardest. Both things are completely true at the same time.

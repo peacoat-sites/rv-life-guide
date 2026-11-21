@@ -21,8 +21,8 @@ faqs:
    a: "Yes. BLM land generally allows pets, with no restrictions on numbers or breeds, which is a real advantage over many state parks and campgrounds. Dogs must be under control, and in some areas leash rules apply. Rattlesnakes, cactus, and extreme heat are the actual hazards. Keep pets out of dry washes and arroyos, especially during monsoon season in the Southwest, and check paws after walks on rocky terrain."
 author: "Julia Davidson"
 author_slug: "julia-davidson"
-author_title: "Boondocking Expert"
-author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+author_title: "Boondocking"
+author_bio: "Julia Davidson is the byline used at RV Life Guide for articles on boondocking and off-grid camping: solar, water and power management. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most RV coverage about BLM camping reads like a brochure written by someone who spent one weekend at a developed campground and called it "dispersed." They'll tell you it's free, it's beautiful, and you just need to "check the rules." What they skip: the road conditions that will destroy your rig if you pick the wrong site, the 14-day clock that catches beginners off guard, and the fact that "free" camping still carries real costs if you're not set up for it. Here's what actually matters.

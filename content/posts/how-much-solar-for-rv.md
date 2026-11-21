@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but it's expensive to do right. A rooftop RV AC unit draws 1,300-1,800 watts while running and cycles frequently. Running it for 8 hours could consume 7,000-10,000+ Wh in a day. To support that on solar alone, you'd need 4,000+ watts of panels and a substantial battery bank, plus you'd need peak sun hours to align with peak cooling demand. Some full-timers make it work with large lithium banks and 3,000-4,000 watts of solar. Most use solar to offset the generator load rather than eliminate it entirely. It's a system design question, not a simple yes or no. The honest bottom line: most peo"
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people Google "how much solar do I need for my RV" and land on some manufacturer's page claiming 200 watts is a great starter system. Then they buy it, spend their first dry-camping weekend watching their battery voltage drop while their coffee maker sits unplugged and useless, and wonder what went wrong.

@@ -9,8 +9,8 @@ categories: ["towing"]
 tags: ["weight", "distribution", "hitch"]
 author: "Julia Davidson"
 author_slug: "julia-davidson"
-author_title: "Boondocking Expert"
-author_bio: "Julia Davidson has spent most of her last four years dry camping on BLM land, national forests, and dispersed sites with no hookups. She has iterated her solar setup, water management system, and power storage through real-world use. At RV Life Guide, she covers boondocking, off-grid living, and making the most of remote camping."
+author_title: "Boondocking"
+author_bio: "Julia Davidson is the byline used at RV Life Guide for articles on boondocking and off-grid camping: solar, water and power management. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "rv-weight-distribution-hitch"
 affiliate_disclosure: false
 faqs:

@@ -21,8 +21,8 @@ faqs:
    a: "The honest answer is that small leaks become large structural problems faster than most people expect. Water in an RV doesn't drain the way it might in a house. It saturates the wood framing, the lauan underlayment, the subflooring. Once rot sets in, you're not fixing a leak anymore, you're doing a partial deconstruction and rebuild. A $15 tube of sealant applied at the right moment can genuinely save you several thousand dollars. This isn't an exaggeration."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you've noticed a soft spot near your slide-out, a brown water stain creeping across your ceiling, or a smell somewhere between wet cardboard and mildew, something's wrong. What you might not know yet is how far the damage has actually gone. Roof leaks in RVs are sneaky. By the time you see evidence inside, water's often been sitting in your walls or subflooring for weeks, sometimes months. I've pulled back ceiling panels on rigs that looked totally fine from outside and found rot that went six inches in every direction from a pinhole-sized crack in the sealant. That's the bad news. The good news is that sealing an RV roof is genuinely a DIY job, and catching it early makes an enormous difference.

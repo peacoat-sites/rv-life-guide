@@ -21,8 +21,8 @@ faqs:
    a: "Choosing based on aesthetics instead of their actual daily life. If you work a demanding remote job, cook real food, live in a climate with weather extremes, or have any chronic health stuff that requires space and comfort, the van is going to fight you. If you're young, healthy, flexible, and genuinely love minimalism as a practice and not just a concept, the van experience is legitimately rewarding. Be honest about which person you actually are, not which person you want to be."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 My neighbor at a Flagstaff KOA once told me she'd tried both, four years in a converted Sprinter, then switched to a 28-foot travel trailer, and her exact words were, "Van life looks better on Instagram. RV life feels better on a Tuesday." I've thought about that a lot over eight years out here.

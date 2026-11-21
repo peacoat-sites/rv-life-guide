@@ -21,8 +21,8 @@ faqs:
    a: "Most established parks in the main snowbird corridors can handle a 40-foot rig. Always call ahead and confirm site length and pull-through versus back-in availability. Some of the older parks along the Gulf were built for smaller rigs and have genuinely tight turns. A few will cap rig age at 10 years regardless of size, so ask about both."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Florida pulls about 800,000 RVers every winter season. That number sounds abstract until you're sitting in a line of 47 rigs waiting to check in at a park in Fort Myers in early November, wondering if you should have made that reservation back in March. You probably should have.

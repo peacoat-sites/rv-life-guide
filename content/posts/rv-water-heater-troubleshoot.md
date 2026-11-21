@@ -21,8 +21,8 @@ faqs:
     a: "The propane and electric heating systems in a combination unit are almost entirely independent. They share a tank but have separate controls, thermostats, and heating components. If one mode works and the other doesn't, the failure is isolated to that side. For electric-only failure, check the element, the high-limit switch, and your shore power connection. For propane-only failure, work through the ignition sequence: gas supply, electrode, burner tube, sail switch, control board."
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 My water heater stopped working outside Moab in late October, and I'll be honest: I panicked a little. Not because cold showers are the end of the world, but because I'd been on the road for three years at that point and genuinely had no idea what I was looking at when I opened that exterior access panel. Eight years later, I could diagnose most RV water heater problems in my sleep. The gap between then and now is just experience and a willingness to actually understand the system instead of immediately calling a mobile tech.

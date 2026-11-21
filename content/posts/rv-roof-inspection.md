@@ -21,8 +21,8 @@ faqs:
     a: "It varies by region and shop, but expect $100 to $250 for a dedicated inspection at an RV service center. Some dealers offer it as part of a seasonal service package. If you're buying a used RV, paying for an independent inspection from an NRVIA-certified inspector is money very well spent. I've seen inspectors catch $15,000 in roof damage on a rig that was priced as if it were clean."
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most RV owners I've met inspect their roof exactly once: right after they buy the rig. Then they forget about it until water is dripping onto their mattress at 2 a.m. somewhere in rural New Mexico.

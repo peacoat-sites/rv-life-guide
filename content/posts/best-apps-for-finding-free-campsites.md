@@ -21,8 +21,8 @@ faqs:
    a: "iOverlander is the strongest option internationally. It has active data in Mexico, Central America, Europe, and parts of South America. Freecampsites.net is almost entirely US-focused. The Dyrt is US and some Canada. If you're headed into Baja or beyond, iOverlander plus some offline mapping in Gaia or Maps.me is the combination I'd use."
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 I've downloaded at least forty apps chasing free camps over eight years. Most are garbage. A few changed how I travel entirely.

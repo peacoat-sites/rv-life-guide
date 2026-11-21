@@ -21,8 +21,8 @@ faqs:
    a: "Whatever filter you're using for your own water is fine for your pets too. I use an inline RV water filter on the city water hookup and a countertop Berkey for drinking water. Both are good for pets. The main thing to watch for on the road is avoiding hose water that's been sitting in a non-food-safe hose in the heat, which can leach plasticizers. Drink-safe white or blue hoses only. (Heads up: this site may earn a commission on purchases through Amazon links.)"
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
-author_bio: "Sandra Park is the person her whole RV community comes to when they need help booking a national park trip six months out. She has developed a system for navigating the competitive campground reservation landscape, from Recreation.gov releases to private campground alternatives. At RV Life Guide, she covers trip planning, reservation strategy, and route optimization for RV travel."
+author_title: "Trip Planning"
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Dogs often adjust to travel faster than their owners do.

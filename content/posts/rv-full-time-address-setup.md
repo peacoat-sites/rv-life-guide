@@ -21,8 +21,8 @@ faqs:
    a: "Once you're registered to vote in your domicile state, you can be called for jury duty there. Most full-timers handle this by requesting a postponement (standard practice) and then, if called again, explaining their situation in writing. Some states have provisions for hardship exemptions for people who live full time outside the area. It rarely becomes a serious problem, but don't ignore summons hoping they'll disappear."
 author: "Tony Reeves"
 author_slug: "tony-reeves"
-author_title: "RV Mechanic"
-author_bio: "Tony Reeves spent 15 years as an auto mechanic before transitioning to full-time RV work, and the skills transferred more than he expected. He has repaired everything from slide-out motor failures to water damage remediation, and believes every RV owner should understand the basics of their rig. At RV Life Guide, he covers preventive maintenance, DIY repair guides, and knowing when to call a professional."
+author_title: "RV Maintenance"
+author_bio: "Tony Reeves is the byline used at RV Life Guide for articles on RV maintenance and DIY repairs. It is a pen name, not a certified RV technician; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You just found the perfect rig, mapped out your first few destinations, and then someone asks: "So what's your address?" The excitement stalls. It's a deceptively simple question with surprisingly complicated answers. Your address affects your driver's license, vehicle registration, voting rights, taxes, insurance rates, and your ability to open a bank account. Getting this wrong costs people hundreds or thousands of dollars every year. Getting it right is one of the most important logistical moves you'll make before hitting the road full time.

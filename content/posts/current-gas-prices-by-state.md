@@ -9,7 +9,7 @@ categories: ["costs"]
 tags: ["fuel", "gas prices", "budget", "trip planning", "data"]
 author: "Sandra Park"
 author_slug: "sandra-park"
-author_title: "Trip Planner"
+author_title: "Trip Planning"
 slug: "current-gas-prices-by-state"
 featured_depth: true
 faqs:
@@ -23,6 +23,7 @@ faqs:
     a: "Divide the current price per gallon by your rig's real miles per gallon. At 8 MPG and 3.83 a gallon, that is about 48 cents per mile in fuel alone."
   - q: "Is it worth crossing a state line for cheaper gas?"
     a: "If you are near a region border and the spread is large, top off on the cheaper side before crossing. On a 40-gallon tank a one-dollar difference is 40 dollars, which adds up over a multi-fill trip."
+author_bio: "Sandra Park is the byline used at RV Life Guide for articles on route planning and campground reservations. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 
 If you travel by RV, fuel is not a line item you can ignore. It is usually the single biggest cost of any trip, and unlike campground fees or groceries, it swings by a dollar a gallon or more depending on which state you happen to be driving through. The table below pulls current national and state-level prices straight from the U.S. Energy Information Administration and refreshes every week, so you can plan fill-ups around where fuel is actually cheap instead of guessing.

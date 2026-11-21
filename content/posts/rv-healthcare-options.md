@@ -21,8 +21,8 @@ faqs:
    a: "If you still maintain a home base and spend more than six months in one state, that state is likely still your legal domicile. The domicile question becomes critical when you sell your home and go fully mobile. At that point, you need to formally establish residency somewhere. Skipping this step creates real problems with insurance enrollment, voting, driver's license renewal, and taxes."
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
-author_title: "Full-Time RVer"
-author_bio: "Barbara Mitchell sold her house and went full-time in a fifth wheel 12 years ago and has not looked back. She has driven over 180,000 miles across 48 states, camped in every type of site from Walmart parking lots to national park dispersed areas, and figured out the hard way what works and what does not. At RV Life Guide, her writing comes from genuine experience rather than weekend trips."
+author_title: "Full-Time RV Living"
+author_bio: "Barbara Mitchell is the byline used at RV Life Guide for articles on full-time RV living and long-distance travel. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You wake up at a campground outside Sedona, Arizona, with what feels like a kidney stone. The pain is real. The nearest urgent care is 12 miles away. Your insurance card lists a primary care physician back in Ohio you haven't seen in three years. This moment catches most new full-timers completely off guard, more than almost anything else about life on the road. Healthcare is the single most complicated logistical puzzle in the full-time RV world. But it's absolutely solvable if you understand your options before the emergency happens.
