@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think finding remote work is the hard part. It's not. The hard part is finding remote work that actually holds up when you're parked at a campground outside Moab with spotty Verizon signal, a 30-amp power limit, and a Zoom call in 40 minutes.
 
-I've been doing this for eight years. I've watched a lot of people sell their houses, buy an RV, and then scramble to figure out income once they're already on the road. I've also watched people research [remote work for two years](/best-remote-jobs-for-full-time-rvers/) before they ever take a single trip. Neither extreme works great. What does work is knowing the honest landscape of what's available, what actually pays, and what the RV life will ask of whatever job you choose.
+I've been doing this for eight years. I've watched a lot of people sell their houses, buy an RV, and then scramble to figure out income once they're already on the road. I've also watched people research remote work for two years before they ever take a single trip. Neither extreme works great. What does work is knowing the honest landscape of what's available, what actually pays, and what the RV life will ask of whatever job you choose.
 
 So let's get into it.
 

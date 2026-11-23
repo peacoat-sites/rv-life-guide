@@ -65,7 +65,7 @@ Everyone wants someone to just tell them which type is best. Fine. Here's my hon
 
 Length affects three things: where you can park, how you drive, and how much you pay.
 
-**Parking.** National Park campgrounds frequently cap sites at 30 feet or under 35 feet. [Hipcamp and Harvest Hosts sites](/backing-into-rv-campsite/) often have access road restrictions that make 40-foot rigs impractical or impossible. If your full-time plan involves boondocking or non-traditional sites, going over 32 feet closes doors you'll regret. I gave up a 38-foot fifth wheel partly because I kept arriving at places I wanted to be and having to leave or squeeze into sites clearly not built for that rig.
+**Parking.** National Park campgrounds frequently cap sites at 30 feet or under 35 feet. [Hipcamp and Harvest Hosts sites](/backing-up-rv-guide/) often have access road restrictions that make 40-foot rigs impractical or impossible. If your full-time plan involves boondocking or non-traditional sites, going over 32 feet closes doors you'll regret. I gave up a 38-foot fifth wheel partly because I kept arriving at places I wanted to be and having to leave or squeeze into sites clearly not built for that rig.
 
 **Driving.** A 35-foot rig feels normal after a few months. A 42-foot rig with a 6-foot slide overhang never fully becomes normal, especially in gas stations, urban areas, or anywhere that assumes 65-foot turning radii don't apply to you. If you're new to towing or driving a motorhome, start shorter than you think you need and upgrade later. Almost every experienced full-timer will tell you this.
 

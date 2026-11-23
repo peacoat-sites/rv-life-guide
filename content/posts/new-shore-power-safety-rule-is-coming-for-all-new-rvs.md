@@ -57,7 +57,7 @@ One thing that won't change: if you already own an RV, you're not required to re
 
 The next 18 months are going to be telling. Watch for campground rating systems and apps to start incorporating pedestal grounding status. Watch for GMI-compatible to become a marketing term that parks use to attract the coming wave of compliant rigs. And watch for the first wave of 2028 model year rigs to hit the road and surface any real-world friction between GMI systems and the actual condition of campground infrastructure across the country.
 
-The underlying goal here is one that anyone who's spent time in campgrounds should appreciate. Bad campground power is a real problem, and the industry has been working around it with [surge protectors and EMS devices](/dometics-new-electric-only-rv-water-heater-ditches-propane-for-good/) for years. A GMI baked into every new rig is a more permanent answer. It puts the compliance pressure where it belongs: on the infrastructure, not on individual owners buying aftermarket protection.
+The underlying goal here is one that anyone who's spent time in campgrounds should appreciate. Bad campground power is a real problem, and the industry has been working around it with [surge protectors and EMS devices](/dometics-propane-free-water-heater-and-what-it-means-for-rvers/) for years. A GMI baked into every new rig is a more permanent answer. It puts the compliance pressure where it belongs: on the infrastructure, not on individual owners buying aftermarket protection.
 
 Six years of development, two editions of the National Electrical Code, a missed 2026 deadline, and now a firm 2028 line in the sand. This one's actually happening. If you're buying new or running a park, now is when to start paying attention.
 

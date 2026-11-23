@@ -58,7 +58,7 @@ The July 24 comment deadline is real. CBP is accepting public comments on the pr
 
 Beyond commenting, the practical move is to buy ahead on small components you know you'll need. I'm not suggesting panic-buying. But if you're running a solar system and you know you'll need a replacement charge controller in the next year, or if your fantastic fan is getting noisy and you've been putting off ordering a replacement motor kit, now is a cheaper time than later. The suspension is already in effect, but retail prices tend to lag policy changes and then catch up in waves.
 
-Also worth building relationships with domestic suppliers you trust. Brands like Victron, Progressive Industries, and [Lippert manufacture or source domestic](/lippert-and-patrick-industries-are-merging-here-is-what-it-means-for-y/)ally for some product lines, and their pricing, while higher upfront, won't be as volatile as import-dependent alternatives. Sometimes the $60 part is actually the more predictable long-term buy.
+Also worth building relationships with domestic suppliers you trust. Brands like Victron, Progressive Industries, and [Lippert manufacture or source domestic](/the-lippert-patrick-merger-could-change-how-your-rv-gets-built/)ally for some product lines, and their pricing, while higher upfront, won't be as volatile as import-dependent alternatives. Sometimes the $60 part is actually the more predictable long-term buy.
 
 ## The Longer View
 

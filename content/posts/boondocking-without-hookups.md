@@ -25,7 +25,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Your battery monitor is reading 47% at 9 PM, the wind has been picking up for three hours, and you've got two more nights before you planned to move. You're rationing phone charging, the coffee maker is off-limits, and you're doing mental math on whether that little solar panel on the roof is actually going to save you or just make you feel better about your situation.
 
-Boondocking, camping without electrical, water, or sewer hookups, is either the best thing about RV life or a source of constant low-grade anxiety, depending entirely on how well-prepared you are. Eight years in, I've done hundreds of nights off-grid, from desert flats to mountain forest roads to city-adjacent "[dispersed camping](/dispersed-camping-guide/)" spots that felt like a secret. What separates people who love it from people who dread it isn't the rig. It's the systems.
+Boondocking, camping without electrical, water, or sewer hookups, is either the best thing about RV life or a source of constant low-grade anxiety, depending entirely on how well-prepared you are. Eight years in, I've done hundreds of nights off-grid, from desert flats to mountain forest roads to city-adjacent "[dispersed camping](/boondocking-free-camping/)" spots that felt like a secret. What separates people who love it from people who dread it isn't the rig. It's the systems.
 
 ## Power: The System That Makes or Breaks Everything
 

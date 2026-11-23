@@ -33,7 +33,7 @@ The Flow's LFP battery pack holds 45 kWh. Pebble says that supports up to seven 
 
 The 12 kW export capability is the spec that tends to catch people off guard. For reference, a Tesla Powerwall 3 delivers about 11.5 kW continuous. The Flow can run your campsite like a serious power station, and in a grid-down situation, a parked Flow is genuinely useful infrastructure. That's a different value proposition than "no propane smell."
 
-The tow vehicle math still needs honest attention, though. The Flow requires a capable truck or SUV, and your tow vehicle's range drops significantly pulling a trailer at highway speeds. The all-electric trailer doesn't solve the fueling equation for the truck. That's not a dealbreaker, but it's the gap between "propane-[free camping](/best-free-camping-apps/)" and "truly electric camping."
+The tow vehicle math still needs honest attention, though. The Flow requires a capable truck or SUV, and your tow vehicle's range drops significantly pulling a trailer at highway speeds. The all-electric trailer doesn't solve the fueling equation for the truck. That's not a dealbreaker, but it's the gap between "propane-[free camping](/best-apps-for-finding-free-campsites/)" and "truly electric camping."
 
 ## The Price Conversation Nobody Wants to Have
 

@@ -60,7 +60,7 @@ The real test is warranty service. Grand Design's towable dealer network is exte
 
 ## What's Missing: No Price, No Track Record
 
-No MSRP has been announced. For a rig with a FOX suspension, Lithionics lithium, a residential refrigerator, and a Ford E-450 chassis, a reasonable guess is somewhere north of $120,000, possibly well north. The market will tell us soon enough, but walking into a dealership [right now](/why-right-now-is-a-rare-buyers-window-in-the-rv-market/) means you're negotiating without a baseline, which is a weak position to be in. Wait a few weeks for transaction prices to surface in owner forums before you sit down with a salesperson.
+No MSRP has been announced. For a rig with a FOX suspension, Lithionics lithium, a residential refrigerator, and a Ford E-450 chassis, a reasonable guess is somewhere north of $120,000, possibly well north. The market will tell us soon enough, but walking into a dealership [right now](/why-right-now-is-a-rare-buyers-market-for-rvs/) means you're negotiating without a baseline, which is a weak position to be in. Wait a few weeks for transaction prices to surface in owner forums before you sit down with a salesperson.
 
 There's also no track record. Grand Design built excellent towables and earned a loyal following in that space. Motorhomes are manufactured differently, serviced differently, and used differently. The FOX suspension and Lithionics batteries suggest they hired people who understand motorized RVs, not just people who understand Grand Design towables. But that's an inference, not a guarantee. The first production year of any new-to-motorized brand will reveal things no spec sheet predicts. Buy in 2027 and you'll know a lot more.
 

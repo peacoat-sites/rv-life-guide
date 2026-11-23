@@ -49,7 +49,7 @@ For the practical setup: a solid mobile hotspot is non-negotiable. I've used the
 
 ## Content Creation: The Long Game That Actually Works
 
-[Content creation](/full-time-rv-income-ideas/) is often oversold as a van life income strategy. YouTube, Instagram, TikTok, and Substack can generate real money, but channels starting now face more saturation than earlier platforms. Success typically requires a specific angle or audience rather than generic travel content.
+[Content creation](/working-from-rv-income/) is often oversold as a van life income strategy. YouTube, Instagram, TikTok, and Substack can generate real money, but channels starting now face more saturation than earlier platforms. Success typically requires a specific angle or audience rather than generic travel content.
 
 The channels growing right now aren't "Van Life with Jake and Sarah." They're the mechanic who does hands-on Sprinter conversion tutorials. The woman who documents solo female van life in national forests with actual campsite coordinates and safety assessments. The guy who does brutally honest budget breakdowns with receipts. Specificity wins.
 

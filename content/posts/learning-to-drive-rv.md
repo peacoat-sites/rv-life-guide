@@ -49,7 +49,7 @@ Here's the step-by-step progression that actually works:
 
 2. **Add turns and obstacles.** Set up cones (or use empty plastic bottles) to simulate a parking space. Practice turning into it from both directions. The right turn is almost always harder because you must swing wide before cutting back.
 
-3. **Back into a simulated campsite.** Backing is the skill most new RVers dread. Set up two parallel lines of cones about 14 feet apart (standard campsite width) and [practice backing between them](/backing-into-rv-campsite/). You'll need 30 or 40 attempts before it clicks. Use a spotter until you have the geometry down.
+3. **Back into a simulated campsite.** Backing is the skill most new RVers dread. Set up two parallel lines of cones about 14 feet apart (standard campsite width) and [practice backing between them](/backing-up-rv-guide/). You'll need 30 or 40 attempts before it clicks. Use a spotter until you have the geometry down.
 
 4. **Move to low-traffic roads.** Find roads with minimal traffic. Practice lane changes, stopping at intersections, and pulling into a gas station. Pay attention to how the mirrors need adjustment on straight roads versus in turns.
 

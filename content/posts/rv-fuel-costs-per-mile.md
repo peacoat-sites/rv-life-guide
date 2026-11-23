@@ -70,7 +70,7 @@ Fill your tank completely at your starting point. Note the odometer. Drive your 
 
 Do the math: miles driven divided by gallons used equals your actual mpg. Then divide your fuel price per gallon by your mpg. That's your cost per mile. Repeat this over at least 3 fill-ups before trusting the number. One tank can be an outlier based on terrain or wind.
 
-In my first year [full-timing, I tracked every fill-up](/rv-full-time-living-budget/) in a simple Google Sheet: date, location, gallons, price per gallon, odometer. Tedious? Yeah. But after six months I had a real picture of what my rig cost to move. My Thor Ace averaged 9.1 mpg over about 18,000 miles. At an average fuel price of $3.43/gallon, that was 37.7 cents per mile just in diesel. Fuel alone ran me about $6,786 that year. People who hadn't done this math had guessed "maybe $3,000 or $4,000."
+In my first year [full-timing, I tracked every fill-up](/how-much-does-rv-life-cost/) in a simple Google Sheet: date, location, gallons, price per gallon, odometer. Tedious? Yeah. But after six months I had a real picture of what my rig cost to move. My Thor Ace averaged 9.1 mpg over about 18,000 miles. At an average fuel price of $3.43/gallon, that was 37.7 cents per mile just in diesel. Fuel alone ran me about $6,786 that year. People who hadn't done this math had guessed "maybe $3,000 or $4,000."
 
 ## The Hidden Multiplier: Annual Miles Driven
 

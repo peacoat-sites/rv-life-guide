@@ -51,7 +51,7 @@ Used also means you can get significantly more rig for your money. A five-year-o
 
 The risks are real, though. Roof damage and water intrusion are the biggest killers of used RVs. A roof that's been leaking slowly for two seasons can mean rotted sidewalls, damaged subfloor, and mold, and you might not see any of it without a professional inspection. Delamination (when the fiberglass sidewall separates from the underlying structure) is another one to watch for. Run your hand along the exterior sides and look for bubbles or soft spots.
 
-Before you buy any used RV, spend $300 to $600 on an [independent RV inspection](/rv-inspection-what-to-check/) from a certified inspector. Find one through NRVIA (National RV Inspectors Association). This step matters: skipping it can lead to discovering slow roof leaks or other hidden damage months after purchase.
+Before you buy any used RV, spend $300 to $600 on an [independent RV inspection](/rv-buying-checklist/) from a certified inspector. Find one through NRVIA (National RV Inspectors Association). This step matters: skipping it can lead to discovering slow roof leaks or other hidden damage months after purchase.
 
 ## A Side-by-Side Comparison
 

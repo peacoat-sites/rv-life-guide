@@ -26,7 +26,7 @@ Here's what I tell people when they ask if this is just another startup that'll 
 
 ## What's Actually Inside This Thing
 
-The PG5's power architecture is the core story. Most solar trailers on the market [right now](/why-right-now-is-a-rare-buyers-window-in-the-rv-market/) pair a modest battery pack with roof panels and call it "off-grid capable," which in practice means you're rationing power by day two if you're running air conditioning in August. Evotrex built the PG5 around a roughly 43 kWh LFP (lithium iron phosphate) battery, about 1.5 kW of roof solar, and an onboard fuel-fed generator they call Horizon.
+The PG5's power architecture is the core story. Most solar trailers on the market [right now](/why-right-now-is-a-rare-buyers-market-for-rvs/) pair a modest battery pack with roof panels and call it "off-grid capable," which in practice means you're rationing power by day two if you're running air conditioning in August. Evotrex built the PG5 around a roughly 43 kWh LFP (lithium iron phosphate) battery, about 1.5 kW of roof solar, and an onboard fuel-fed generator they call Horizon.
 
 LFP chemistry is the right call here. It handles deep cycles better than NMC, tolerates heat more gracefully, and doesn't carry the same thermal runaway risk. For a trailer that's supposed to sit in the sun and power a family for a week, that matters more than raw energy density.
 
@@ -52,7 +52,7 @@ $159,990 is a lot of money. Let's not pretend otherwise. But let's also look at 
 
 If you're already operating an EV truck that cost $80,000 to $100,000 and you're serious about long-term boondocking, the gap between the PG5 and a solar-focused competitor starts to look more manageable. You're paying for the battery capacity, the generator integration, and the V2V capability in one package instead of retrofitting pieces.
 
-The campsite hookup scarcity angle is real, by the way. Evotrex's own data says fewer than 25% of U.S. campsites offer electric hookups, and anyone who's tried to book an electric site at a popular [state park](/california-just-banned-repeat-no-shows-from-state-park-campsites/) in summer 2026 knows those numbers aren't exaggerated. The boondocking market isn't a niche anymore.
+The campsite hookup scarcity angle is real, by the way. Evotrex's own data says fewer than 25% of U.S. campsites offer electric hookups, and anyone who's tried to book an electric site at a popular [state park](/california-just-banned-ghost-campers-here-is-what-rvers-need-to-know/) in summer 2026 knows those numbers aren't exaggerated. The boondocking market isn't a niche anymore.
 
 ## What to Watch Before You Commit
 

@@ -1,6 +1,5 @@
 keyword,category,priority
 full time rv living guide,basics,high
-how to start rv life,basics,high
 rv life pros and cons,basics,high
 rv living for beginners,basics,high
 types of RVs explained,basics,high
@@ -14,7 +13,6 @@ best fifth wheels full time,basics,high
 toy hauler full time living,basics,medium
 new vs used RV buying,basics,high
 rv buying checklist,basics,high
-rv inspection what to check,basics,high
 rv loan financing options,basics,medium
 rv insurance costs,basics,high
 rv extended warranty worth it,basics,medium
@@ -23,8 +21,6 @@ best rv brands reliability,basics,high
 worst rv brands avoid,basics,medium
 rv lemon law,basics,low
 how much does rv life cost,costs,high
-rv full time living budget,costs,high
-rv monthly expenses breakdown,costs,high
 rv campground fees,costs,high
 boondocking free camping,costs,high
 rv fuel costs per mile,costs,high
@@ -38,7 +34,6 @@ Texas rv domicile,logistics,medium
 Florida rv domicile,logistics,medium
 rv mail service comparison,logistics,medium
 health insurance full time rv,logistics,high
-rv healthcare options,logistics,high
 telemedicine for rv travelers,logistics,medium
 rv full time address setup,logistics,high
 rv voter registration,logistics,low
@@ -55,7 +50,6 @@ rv towing safety tips,towing,medium
 learning to drive rv,basics,high
 backing up rv guide,basics,high
 rv parking lot tips,basics,medium
-backing into rv campsite,basics,medium
 leveling rv guide,setup,high
 rv leveling blocks,setup,medium
 auto level systems rv,setup,medium
@@ -67,7 +61,6 @@ rv water pressure regulator,setup,medium
 rv sewer connection tips,setup,high
 rv dump station guide,setup,high
 boondocking without hookups,boondocking,high
-rv solar panel setup,boondocking,high
 how much solar for rv,boondocking,high
 rv lithium battery upgrade,boondocking,high
 rv generator guide,boondocking,high
@@ -75,20 +68,16 @@ inverter for rv,boondocking,medium
 rv water tank management,boondocking,medium
 composting toilet rv,boondocking,medium
 rv grey water disposal,boondocking,medium
-boondocking locations free,boondocking,high
 BLM land camping rv,boondocking,high
-dispersed camping guide,boondocking,high
 casino rv parking free,boondocking,medium
 Walmart overnight rv parking,boondocking,medium
 Cracker Barrel rv parking,boondocking,medium
 national forest rv camping,boondocking,medium
-best free camping apps,apps,high
 Campendium vs Freecampsites,apps,medium
 The Dyrt app review,apps,medium
 iOverlander app,apps,low
 park4night app,apps,low
 Harvest Hosts membership,memberships,high
-Thousand Trails membership,memberships,medium
 Passport America rv,memberships,medium
 Good Sam membership,memberships,medium
 KOA rewards membership,memberships,low
@@ -104,7 +93,6 @@ rv park near beaches,campgrounds,medium
 pet friendly rv parks,campgrounds,medium
 rv park with pickleball,campgrounds,low
 working remotely from rv,lifestyle,high
-rv life with kids,lifestyle,high
 homeschooling in rv,lifestyle,high
 rv life with pets,lifestyle,high
 rv life with dogs,lifestyle,high
@@ -116,14 +104,12 @@ rv rally events,lifestyle,low
 rv life YouTube channels,inspiration,medium
 rv life bloggers follow,inspiration,medium
 rv life Instagram accounts,inspiration,low
-full time rv income ideas,income,high
 working from rv income,income,high
 remote jobs for rv living,income,high
 rv life as freelancer,income,medium
 rv park work camping,income,medium
 Amazon CamperForce program,income,medium
 rv maintenance diy,maintenance,high
-rv roof inspection,maintenance,high
 rv roof repair sealing,maintenance,high
 rv slide room maintenance,maintenance,medium
 rv water heater troubleshoot,maintenance,high
@@ -132,40 +118,29 @@ rv refrigerator not cooling,maintenance,high
 rv air conditioner repair,maintenance,medium
 rv electrical problems,maintenance,medium
 rv furnace troubleshooting,maintenance,medium
-how to start full-time rv living for beginners,basics,high
 full-time rv living vs van life pros and cons,basics,high
-is full-time rv living worth it in 2026,basics,medium
 what size rv is best for full-time living,basics,high
 class a vs class c rv for full-time living,basics,medium
 how to get a domicile address for full-time rvers,basics,medium
-average monthly cost of full-time rv living,costs,high
 how much does van life cost per month,costs,high
 full-time rv living budget breakdown for a couple,costs,medium
 cost of rv insurance for full-time living,costs,medium
 how much to budget for rv maintenance per year,costs,medium
 cheapest states for full-time rv living taxes,costs,medium
 hidden costs of van life nobody tells you,costs,low
-best mail forwarding service for full-time rvers,logistics,high
-how to get health insurance as a full-time rver,logistics,high
-best states for rv domicile and registration,logistics,medium
 how to vote as a full-time rver,logistics,low
 getting prescriptions filled while traveling full-time,logistics,medium
 how to receive packages while living in an rv,logistics,medium
-best truck for towing a fifth wheel full-time,towing,high
-how to calculate rv towing capacity correctly,towing,high
 fifth wheel vs travel trailer for full-time living,towing,medium
 weight distribution hitch setup for travel trailer,towing,medium
 safe towing speed for a travel trailer on highway,towing,low
 how to back up a fifth wheel for beginners,towing,medium
 how to set up rv solar power system step by step,setup,high
-how many watts of solar for full-time rv living,setup,high
 best lithium battery setup for van life,setup,medium
 how to insulate a camper van for winter living,setup,high
 diy van conversion electrical wiring diagram,setup,medium
 best composting toilet for full-time van life,setup,medium
 how to set up rv internet for working remotely,setup,high
-best boondocking spots on blm land out west,boondocking,high
-how to find free boondocking sites near me,boondocking,high
 how long can you boondock on blm land,boondocking,medium
 how to conserve water while boondocking in an rv,boondocking,medium
 boondocking safety tips for solo female travelers,boondocking,medium
@@ -189,7 +164,6 @@ best national parks campgrounds for big rigs,campgrounds,medium
 how to get rv campground reservations in summer,campgrounds,low
 snowbird rv parks in arizona for the winter,campgrounds,medium
 how to deal with loneliness living in an rv full-time,lifestyle,medium
-full-time rv living with a dog tips,lifestyle,high
 meal planning and cooking in a small rv kitchen,lifestyle,medium
 how to do laundry while living in a van full-time,lifestyle,medium
 staying healthy and exercising while rving full-time,lifestyle,low
@@ -198,11 +172,9 @@ realistic van life vs instagram expectations,inspiration,medium
 reasons to try full-time rv living before retirement,inspiration,low
 best scenic routes for full-time rv road trips,inspiration,medium
 what i wish i knew before going full-time in an rv,inspiration,medium
-best remote jobs for full-time rvers,income,high
 how to make money while living in a van full-time,income,high
 workamping jobs for full-time rvers explained,income,medium
 how much can you earn from an rv travel blog,income,low
-rv roof maintenance checklist for full-timers,maintenance,high
 how often to service rv slide-outs,maintenance,medium
 how to winterize an rv for full-time living,maintenance,high
 common rv water pump problems and fixes,maintenance,medium
@@ -211,8 +183,6 @@ rv water pump not working,RV Troubleshooting,high
 rv slide out wont come in,RV Troubleshooting,medium
 rv furnace not igniting,RV Troubleshooting,medium
 rv black tank sensor not working,RV Troubleshooting,medium
-rv for beginners where to start,RV Beginners,high
 first time rv trip checklist,RV Beginners,high
 how to back up a travel trailer,RV Beginners,medium
-how much does full time rv living cost per month,RV Living Costs,high
 can you live in an rv year round,RV Living Costs,medium

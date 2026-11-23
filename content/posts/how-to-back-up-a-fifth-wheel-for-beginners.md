@@ -25,7 +25,7 @@ faqs:
     a: "Almost always over-correcting. The trailer responds faster than your instincts expect, especially a fifth wheel, so you correct past center and have to chase it back. Consciously limit yourself to quarter-turn steering inputs and give the trailer time to respond before adding more correction. That lag between input and trailer response is about 1-2 seconds at idle speed."
 ---
 
-Most articles about backing up a [fifth wheel](/best-truck-for-towing-a-fifth-wheel-full-time/) start with "take it slow and use your mirrors." That's not wrong, it's just not enough to stop you from jackknifing your rig in a campground full of witnesses at 6 p.m. on a Friday. Let me fill in what those articles skip.
+Most articles about backing up a [fifth wheel](/what-truck-to-tow-fifth-wheel/) start with "take it slow and use your mirrors." That's not wrong, it's just not enough to stop you from jackknifing your rig in a campground full of witnesses at 6 p.m. on a Friday. Let me fill in what those articles skip.
 
 Backing a fifth wheel is different from backing a [travel trailer](/motorhome-vs-travel-trailer/). The hitch sits over the rear axle of your truck, which means the trailer turns more predictably and with less lag. That's good news. The bad news: fifth wheels are long, tall, and they will absolutely destroy your rear bumper or slide-out if you misjudge the arc. The geometry forgives beginners more than a travel trailer would, but the consequences of a mistake are bigger.
 

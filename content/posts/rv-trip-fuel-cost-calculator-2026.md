@@ -90,7 +90,7 @@ Here's what first-hand experience with three different RVs taught me:
 
 ## The Speed Penalty: Why 60 MPH Beats 70 MPH
 
-I learned this the hard way on my second full-time year. I was running behind schedule [towing a trailer](/best-truck-for-towing-a-fifth-wheel-full-time/), pushed to 70 mph most of the day, and my fuel log showed 7 MPG. Same trailer, same truck, same route, but two months earlier at 60 mph I'd averaged 11 MPG.
+I learned this the hard way on my second full-time year. I was running behind schedule [towing a trailer](/what-truck-to-tow-fifth-wheel/), pushed to 70 mph most of the day, and my fuel log showed 7 MPG. Same trailer, same truck, same route, but two months earlier at 60 mph I'd averaged 11 MPG.
 
 **The math:** Speed creates exponential aerodynamic drag. The difference between 60 and 70 mph is only 17% faster, but you lose 35-40% of your fuel economy.
 
@@ -184,7 +184,7 @@ This guide synthesizes:
 - [AAA Fuel Prices by State](https://gasprices.aaa.com/)
 - [RV Consumer Group Fuel Efficiency Data](https://rv.org/)
 - [RVShare Trip Cost Analysis](https://rvshare.com/blog/rv-gas/)
-- Personal fuel logs from 8 years [full-time RV living](/average-monthly-cost-of-full-time-rv-living/) across all 50 states
+- Personal fuel logs from 8 years [full-time RV living](/how-much-does-rv-life-cost/) across all 50 states
 
 **Current as of June 2026.** Fuel prices update weekly; use the calculator to plug in current prices from [EIA.gov](https://www.eia.gov/petroleum/gasdiesel/) or [GasBuddy.com](https://www.gasbuddy.com/).
 

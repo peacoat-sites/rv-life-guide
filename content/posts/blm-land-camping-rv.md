@@ -29,7 +29,7 @@ Most RV coverage about BLM camping reads like a brochure written by someone who 
 
 ## What BLM Land Is (and What People Get Wrong About It)
 
-Bureau of Land Management land covers roughly 245 million acres across the American West. That's more than any other federal agency manages, and the overwhelming majority of it allows [dispersed camping](/dispersed-camping-guide/) at no charge, no reservation, no ranger checking your paperwork at a gate.
+Bureau of Land Management land covers roughly 245 million acres across the American West. That's more than any other federal agency manages, and the overwhelming majority of it allows [dispersed camping](/boondocking-free-camping/) at no charge, no reservation, no ranger checking your paperwork at a gate.
 
 The freedom is real. But people confuse "open" with "easy."
 

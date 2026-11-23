@@ -38,7 +38,7 @@ Your tow vehicle's brakes alone were not engineered to stop your truck plus a lo
 
 A brake controller sends a signal from your truck to the electric brakes on your trailer's axles, activating them in sync (or near-sync) with your truck's brakes. Your trailer helps stop itself instead of working against you.
 
-Legally, most states require a brake controller if your trailer's gross weight exceeds 3,000 pounds, and some states set that threshold at 1,500 pounds. If you're [towing a mid-size travel trailer](/how-to-calculate-rv-towing-capacity-correctly/), you're almost certainly over either limit. As of July 2026, NHTSA hasn't created a single federal mandate that preempts state law here, so check your specific state, but assume you need one. You probably do.
+Legally, most states require a brake controller if your trailer's gross weight exceeds 3,000 pounds, and some states set that threshold at 1,500 pounds. If you're [towing a mid-size travel trailer](/towing-capacity-calculator/), you're almost certainly over either limit. As of July 2026, NHTSA hasn't created a single federal mandate that preempts state law here, so check your specific state, but assume you need one. You probably do.
 
 ---
 

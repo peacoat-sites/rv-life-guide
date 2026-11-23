@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Dogs often adjust to travel faster than their owners do.
 
-I'll be honest: I went into [full-time RV life](/full-time-rv-living-with-a-dog-tips/) assuming pets would be the hard part. I'd read all the forums. Anxious dogs, motion sickness, campgrounds that don't allow certain breeds, veterinary access in the middle of nowhere. The warnings stacked up. What surprised me was that most of the real challenges weren't the ones people warned me about. The pet stuff that actually broke my rhythm was mundane and avoidable, and the pet stuff I dreaded mostly didn't happen.
+I'll be honest: I went into [full-time RV life](/rv-life-with-dogs/) assuming pets would be the hard part. I'd read all the forums. Anxious dogs, motion sickness, campgrounds that don't allow certain breeds, veterinary access in the middle of nowhere. The warnings stacked up. What surprised me was that most of the real challenges weren't the ones people warned me about. The pet stuff that actually broke my rhythm was mundane and avoidable, and the pet stuff I dreaded mostly didn't happen.
 
 This is the real rundown. Not the "RVing with pets is magical!" content, not the fear-mongering either. Just what eight years with a 65-pound mixed breed and, later, a second dog and a cat have actually taught me.
 

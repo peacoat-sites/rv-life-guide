@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 My son was "behind" in math for exactly three weeks before his grandmother, a retired teacher, panicked and told my wife we were ruining his education. That was in our first year on the road. He's 14 now, reads at a college level, and recently spent two days absorbed in calculating the fuel-to-distance ratios of different diesel engines because we were shopping rigs. The math caught up.
 
-I'm not saying that to brag. I'm saying it because the fear that your kid will fall through the cracks is real, and it's the first thing that holds people back from combining [full-time RV life with homeschooling](/rv-life-with-kids/). What most people don't realize is that the logistical challenges of RV homeschooling are actually pretty manageable. The emotional challenge of trusting the process? That's the harder thing, and no curriculum solves it.
+I'm not saying that to brag. I'm saying it because the fear that your kid will fall through the cracks is real, and it's the first thing that holds people back from combining [full-time RV life with homeschooling](/full-time-rv-living-with-kids-and-homeschooling/). What most people don't realize is that the logistical challenges of RV homeschooling are actually pretty manageable. The emotional challenge of trusting the process? That's the harder thing, and no curriculum solves it.
 
 <div class="value-module">
  <div class="vm-head">Homeschool Law Comparison: Top RV Domicile States</div>

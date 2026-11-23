@@ -40,7 +40,7 @@ What you don't yet have is a confirmed MSRP for the Limited Edition specifically
 | Production Allocation | Split of 84 total units | Split of 84 total units |
 | Target Buyer | Campgrounds with length limits | Full-timers wanting max space |
 
-The 44 RTH gives you more living space and storage, which full-timers typically want. But 44 feet creates real campground access problems. Many [state park](/california-just-changed-the-rules-for-state-park-campsite-bookings/) loops cap at 35 or 40 feet. If you're serious about boondocking or mixing in state parks with private RV resorts, the 40 RTH is worth the smaller footprint. The 44 RTH makes more sense if you're mostly staying in full-hookup Class A-friendly resorts where site length is rarely a constraint.
+The 44 RTH gives you more living space and storage, which full-timers typically want. But 44 feet creates real campground access problems. Many [state park](/california-just-banned-ghost-campers-here-is-what-rvers-need-to-know/) loops cap at 35 or 40 feet. If you're serious about boondocking or mixing in state parks with private RV resorts, the 40 RTH is worth the smaller footprint. The 44 RTH makes more sense if you're mostly staying in full-hookup Class A-friendly resorts where site length is rarely a constraint.
 
 ## Collectibility: Real or Hype?
 

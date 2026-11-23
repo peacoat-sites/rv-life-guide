@@ -70,7 +70,7 @@ Being honest here matters more than being diplomatic.
 
 **Fleetwood** once meant something in this industry. Today, as a Thor brand, the name carries less assurance than it did 20 years ago. Their Bounder and Discovery lines have die-hard fans, and some units are great. But quality control varies wildly by production run and model year. A 2021 Bounder from one quarter might be notably better built than one from the next quarter.
 
-I don't say any of this to doom-scroll. I say it because knowing which brands to scrutinize harder during a [pre-purchase inspection](/rv-inspection-what-to-check/), and which ones deserve more trust, is genuinely useful information.
+I don't say any of this to doom-scroll. I say it because knowing which brands to scrutinize harder during a [pre-purchase inspection](/rv-buying-checklist/), and which ones deserve more trust, is genuinely useful information.
 
 ## How to Evaluate Any RV's Reliability Before You Buy
 

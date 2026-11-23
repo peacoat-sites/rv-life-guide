@@ -66,7 +66,7 @@ This is where most buyers fail. Here's a methodical walkthrough you can actually
 
 Check every cabinet hinge and latch. Cheap hardware fails constantly. Open the wet bay and look at the water heater for rust around the base. Look at the ceiling in every room. Water stains are red flags even if they look old and dry. Smell matters. Musty odors in a closed-up RV usually mean mold somewhere.
 
-For used RVs especially, I'd strongly recommend hiring a [professional RV inspector through NRVIA](/rv-inspection-what-to-check/) (National Recreational Vehicle Inspectors Association). Expect to pay $300 to $600 for a thorough inspection. It's cheap compared to what you might miss.
+For used RVs especially, I'd strongly recommend hiring a professional RV inspector through NRVIA (National Recreational Vehicle Inspectors Association). Expect to pay $300 to $600 for a thorough inspection. It's cheap compared to what you might miss.
 
 ## New vs. Used: A Straight Comparison
 

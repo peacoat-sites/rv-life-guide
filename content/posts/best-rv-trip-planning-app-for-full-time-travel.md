@@ -70,7 +70,7 @@ What really changed my planning, though, was treating **Gaia GPS** as a core too
 
 You might be wondering how to avoid ending up with seven apps that you never actually open. Here's the workflow I've settled into after years of trial and more error than I'd like to admit.
 
-Start with Roadtrippers when you're in the dreaming phase, looking at a general region. Once you have a rough corridor, move to RV LIFE Trip Wizard to build the actual driving route and verify it's safe for your rig. Then cross-reference campgrounds in The Dyrt and Campendium to decide where you're stopping and whether you need reservations. If you're planning any boondocking legs, check Campendium's [free camping filter](/best-free-camping-apps/) and iOverlander. And if you're on Harvest Hosts, set up your route stops 2-3 weeks out because the popular spots fill fast.
+Start with Roadtrippers when you're in the dreaming phase, looking at a general region. Once you have a rough corridor, move to RV LIFE Trip Wizard to build the actual driving route and verify it's safe for your rig. Then cross-reference campgrounds in The Dyrt and Campendium to decide where you're stopping and whether you need reservations. If you're planning any boondocking legs, check Campendium's [free camping filter](/best-apps-for-finding-free-campsites/) and iOverlander. And if you're on Harvest Hosts, set up your route stops 2-3 weeks out because the popular spots fill fast.
 
 What I don't do anymore: use any single app exclusively, rely on in-app maps for actual driving navigation (Apple Maps or Waze for in-motion navigation, after RV LIFE generates the safe route), or skip the offline download step before leaving cell range.
 

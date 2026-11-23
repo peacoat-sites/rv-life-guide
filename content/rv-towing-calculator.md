@@ -34,6 +34,6 @@ Pull out your tow vehicle's door-jamb sticker and owner's manual. Weigh your loa
 
 If the calculator shows a DANGER flag, don't shrug it off. For overloaded payload, the fix is usually removing gear from the cab and repositioning cargo. For a trailer that exceeds your tow rating, the honest answer is that you need a different tow vehicle, or a smaller trailer. For tongue weight issues, redistribute the load inside the trailer before your next trip.
 
-Consider a weight distribution hitch (WDH) if you're pulling anything over 5,000 lbs. A WDH transfers some tongue weight forward to the front axle of the tow vehicle and rear axle of the trailer, dramatically improving handling. Many RVers combine a WDH with an integrated sway control bar for a complete solution. Our [RV equipment guide](/posts/rv-essential-equipment-guide/) covers the top-rated options across different trailer weight classes.
+Consider a weight distribution hitch (WDH) if you're pulling anything over 5,000 lbs. A WDH transfers some tongue weight forward to the front axle of the tow vehicle and rear axle of the trailer, dramatically improving handling. Many RVers combine a WDH with an integrated sway control bar for a complete solution. Our RV equipment guide covers the top-rated options across different trailer weight classes.
 
 Always get your loaded rig weighed at a certified scale at least once a season, weights change as your gear accumulates, and most RVers are carrying more than they think.

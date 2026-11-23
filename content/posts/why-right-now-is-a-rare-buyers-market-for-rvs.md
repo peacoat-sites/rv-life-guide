@@ -15,7 +15,7 @@ slug: "why-right-now-is-a-rare-buyers-market-for-rvs"
 affiliate_disclosure: false
 ---
 
-Most people assume that when an industry is struggling, the smart move is to wait it out. Watch from the sidelines. See what happens. But with RVs [right now](/why-right-now-is-a-rare-buyers-window-in-the-rv-market/), that instinct is exactly backwards. The window for buyers isn't coming. It's already open, and it's been cracking wider since January.
+Most people assume that when an industry is struggling, the smart move is to wait it out. Watch from the sidelines. See what happens. But with RVs right now, that instinct is exactly backwards. The window for buyers isn't coming. It's already open, and it's been cracking wider since January.
 
 Here's what's actually happening: May 2026 wholesale RV shipments came in at just 22,900 units, the lowest single production month in over a decade, according to RVIA data published June 25, 2026. Year-to-date through May, total shipments sit at 138,160 units, down 14.4% compared to the same stretch in 2025. That's 23,213 fewer units rolling off manufacturer lots. Retail sales are tracking similarly ugly, off roughly 14 to 15% year-over-year, with Class A motorhomes taking the steepest hit. Meanwhile, 2027 model-year units are already showing up at dealerships. That means every 2026 model on a lot right now just became aging inventory overnight, and dealers know it.
 

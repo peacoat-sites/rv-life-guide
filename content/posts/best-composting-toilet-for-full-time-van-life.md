@@ -71,7 +71,7 @@ This is where I'd tell you to think carefully before you buy. Mounting a compost
 
 The fan pulls roughly 0.2-0.4 amps continuously. Over 24 hours that's about 5-10 amp-hours per day. Not nothing, but manageable on any van solar system with even 100W of panels and a 100Ah battery. Wire it directly to your battery with an inline fuse (a 1-amp fuse is fine) rather than through a switch. You want it running all the time, including when you're away from the van.
 
-Scenario with outcome: a couple I met at a Desert Southwest [dispersed camping](/dispersed-camping-guide/) spot had installed their Nature's Head without running the vent fan continuously. They were switching it on and off to save power. They reported persistent odor and assumed the toilet was the problem. They rewired to run the fan 24/7 and the odor issue resolved within two days.
+Scenario with outcome: a couple I met at a Desert Southwest [dispersed camping](/boondocking-free-camping/) spot had installed their Nature's Head without running the vent fan continuously. They were switching it on and off to save power. They reported persistent odor and assumed the toilet was the problem. They rewired to run the fan 24/7 and the odor issue resolved within two days.
 
 If space is the binding constraint, the OGO or the Air Head are the two I'd look at hardest. The Cuddy's smaller footprint is appealing on paper but I'd want more long-term data before recommending it for full-time use.
 

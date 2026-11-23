@@ -36,7 +36,7 @@ Here's what most people get wrong: they sketch a diagram based on what they *wis
 
 Before you touch a single wire, answer these questions in writing. I'm not exaggerating about "in writing." Open a notebook or a Google Doc right now.
 
-What's your [power budget](/how-many-watts-of-solar-for-full-time-rv-living/)? Not the theoretical maximum of your battery bank. The real budget: how many days do you want to run between charges, and what are you actually running (fridge, laptop, phone, heater, water pump)? Add it up in watt-hours per day. If you're vague here, everything else fails.
+What's your [power budget](/how-much-solar-for-rv/)? Not the theoretical maximum of your battery bank. The real budget: how many days do you want to run between charges, and what are you actually running (fridge, laptop, phone, heater, water pump)? Add it up in watt-hours per day. If you're vague here, everything else fails.
 
 How will you charge? Solar, alternator, shore power, all three? Sketch where that charge source connects. If you don't know yet, that's fine, but write "TBD" and come back to it.
 

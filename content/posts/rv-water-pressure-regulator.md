@@ -67,7 +67,7 @@ Connect your pressure regulator directly to the campground spigot, before your h
 
 Real scenario: A reader named Greta emailed me earlier this year from a park in Quartzsite (peak season, notoriously high-pressure municipal supply there). She'd been getting micro-leaks at three different connection points and couldn't figure out why. She tested her campground pressure with a simple [water pressure gauge](https://www.amazon.com/s?k=water+pressure+gauge+garden+hose&tag=contentportfo-20) and got 94 PSI. Ninety-four. She added a Watts LF263A set to 50 PSI. Leaks stopped within the week as fittings re-seated at appropriate pressure. That's not magic, that's just physics.
 
-Another scenario: My neighbor at a [state park](/california-just-banned-repeat-no-shows-from-state-park-campsites/) in Missouri had a flow-through Camco that was two seasons old. He was getting about 28 PSI at his shower. He assumed the park had low pressure. The park measured 72 PSI at his pedestal. His regulator diaphragm had worn and was restricting flow even in the "open" position. Replaced it with a new $13 unit. Pressure jumped to 48 PSI immediately.
+Another scenario: My neighbor at a [state park](/california-just-banned-ghost-campers-here-is-what-rvers-need-to-know/) in Missouri had a flow-through Camco that was two seasons old. He was getting about 28 PSI at his shower. He assumed the park had low pressure. The park measured 72 PSI at his pedestal. His regulator diaphragm had worn and was restricting flow even in the "open" position. Replaced it with a new $13 unit. Pressure jumped to 48 PSI immediately.
 
 ## What About Winterizing and Storage?
 

@@ -38,7 +38,7 @@ Everyone leads with income tax. No state income tax equals a win. Fine, but that
 
 The real money is often in your rig's annual registration and any personal property tax your state of domicile levies on vehicles. South Carolina charges a property tax on RVs that can run $1,200 to $2,400 a year depending on rig value, even though the state income tax rate is relatively low. Tennessee has no income tax on wages but does tax investment income, which matters if you're retired and living off a portfolio. Nevada looks clean on paper until you try to actually establish residency without a local mailing service, which is harder there than in [South Dakota](/south-dakota-rv-domicile/).
 
-A reader named Cliff, who'd been full-timing for four years out of Nevada, emailed me after reading an older version of this topic. He'd been paying a [mail forwarding service](/best-mail-forwarding-service-for-full-time-rvers/) $240 a year and still getting hassled every renewal cycle about proving residency. He switched to South Dakota. The whole process cost him one overnight stay at a Sioux Falls budget motel and a morning at the DMV.
+A reader named Cliff, who'd been full-timing for four years out of Nevada, emailed me after reading an older version of this topic. He'd been paying a [mail forwarding service](/mail-forwarding-full-time-rv/) $240 a year and still getting hassled every renewal cycle about proving residency. He switched to South Dakota. The whole process cost him one overnight stay at a Sioux Falls budget motel and a morning at the DMV.
 
 ## The Actual Rankings
 

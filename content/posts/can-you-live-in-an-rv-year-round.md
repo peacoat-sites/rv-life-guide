@@ -4,7 +4,7 @@ date: 2026-11-22T21:51:53.214395+00:00
 draft: false
 description: "Explore the realities of year-round RV living, including costs, challenges, legal considerations, and practical tips for making it work long-term."
 image: "/img/heroes/11437977.jpg"
-categories: ["RV Living Costs"]
+categories: ["costs"]
 tags: ["live", "year", "round"]
 author: "Barbara Mitchell"
 author_slug: "barbara-mitchell"
@@ -35,9 +35,9 @@ This isn't the life the Instagram reels show. It's also not the nightmare that s
 
 ## The Legal and Administrative Setup Nobody Talks About Enough
 
-Before you sell your couch, sort out your legal domicile. An RV is not legally recognized as a permanent address in most jurisdictions, and without a physical address you can't renew your driver's license, register your vehicle, or get [health insurance](/how-to-get-health-insurance-as-a-full-time-rver/) through certain providers. The three states full-timers almost always choose are South Dakota, Texas, and Florida, because all three have no state income tax, relatively straightforward domicile processes, and mail forwarding infrastructure built up around the full-timer community.
+Before you sell your couch, sort out your legal domicile. An RV is not legally recognized as a permanent address in most jurisdictions, and without a physical address you can't renew your driver's license, register your vehicle, or get [health insurance](/health-insurance-full-time-rv/) through certain providers. The three states full-timers almost always choose are South Dakota, Texas, and Florida, because all three have no state income tax, relatively straightforward domicile processes, and mail forwarding infrastructure built up around the full-timer community.
 
-South Dakota is probably the most popular. You can establish domicile there in a single day with an in-person visit, using a [mail forwarding service](/best-mail-forwarding-service-for-full-time-rvers/)'s address (companies like America's Mailbox in Box Elder specifically serve this need). You'll register your vehicles there, get your SD driver's license, and use that address on everything. Texas works similarly. Florida has more complexity around proving residency but works for people who spend chunks of the year there anyway.
+South Dakota is probably the most popular. You can establish domicile there in a single day with an in-person visit, using a [mail forwarding service](/mail-forwarding-full-time-rv/)'s address (companies like America's Mailbox in Box Elder specifically serve this need). You'll register your vehicles there, get your SD driver's license, and use that address on everything. Texas works similarly. Florida has more complexity around proving residency but works for people who spend chunks of the year there anyway.
 
 Don't skip this step and assume you'll figure it out later. Your vehicle registration, mail, banking, and medical coverage all hinge on having a real, legal address. Sort it out before you leave, not three months in when your license is expiring.
 

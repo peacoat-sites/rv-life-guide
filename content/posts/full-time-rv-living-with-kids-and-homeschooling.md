@@ -60,7 +60,7 @@ You need a legal [domicile state](/rv-domicile-state-options/). As of July 2026,
 
 I'm not a lawyer, and state laws change. Before you commit to a domicile, check with the Home School Legal Defense Association (HSLDA) or a CPA who works with full-timers. But those top two rows are why the majority of full-time families with kids I meet carry [South Dakota](/south-dakota-rv-domicile/) or Texas plates.
 
-One small thing that trips people up: some states require you to establish domicile before you can legally register as a homeschooler there. South Dakota is easy because they have [mail forwarding](/best-mail-forwarding-service-for-full-time-rvers/) services (America's Mailbox, My Dakota Address) that satisfy the residency requirement, and you can often get it all done in a single overnight stop in Sioux Falls.
+One small thing that trips people up: some states require you to establish domicile before you can legally register as a homeschooler there. South Dakota is easy because they have [mail forwarding](/mail-forwarding-full-time-rv/) services (America's Mailbox, My Dakota Address) that satisfy the residency requirement, and you can often get it all done in a single overnight stop in Sioux Falls.
 
 ## The Wifi Problem Is Not a Small Problem
 

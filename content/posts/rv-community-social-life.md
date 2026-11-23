@@ -60,7 +60,7 @@ You're probably thinking: "I'm trying to get *away* from staring at screens." I 
 
 The Escapees forums have been running since the early internet days and have tens of thousands of posts about specific campgrounds, specific mechanical problems, and specific regions. The level of detail is sometimes unreal, I once found a thread where someone described exactly which sites at a particular New Mexico BLM area had cell signal from Verizon versus AT&T, with compass bearings.
 
-Facebook groups have basically colonized the practical day-to-day conversation. "RVillage," a dedicated social platform for RVers, lets you see who else is camped nearby and send messages before you even arrive. It's not perfect, the app is a little clunky, but the concept is useful. I've used it to line up a happy hour meetup at a [state park](/california-just-changed-the-rules-for-state-park-campsite-bookings/) in Montana with four other people I'd never met in person.
+Facebook groups have basically colonized the practical day-to-day conversation. "RVillage," a dedicated social platform for RVers, lets you see who else is camped nearby and send messages before you even arrive. It's not perfect, the app is a little clunky, but the concept is useful. I've used it to line up a happy hour meetup at a [state park](/california-just-banned-ghost-campers-here-is-what-rvers-need-to-know/) in Montana with four other people I'd never met in person.
 
 What actually works:
 

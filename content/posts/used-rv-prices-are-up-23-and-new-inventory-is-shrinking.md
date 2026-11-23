@@ -34,7 +34,7 @@ If you're a buyer, the 6% softening is real but modest. Don't expect to find fir
 
 NPA's November report makes a point worth taking seriously. The gap between a November acquisition cost and a March retail price represents the clearest margin opportunity of the year. That framing is aimed at dealers buying at auction, but the same logic applies to any private buyer who understands seasonality. Sellers in November are not thinking about spring camping season yet. Dealers are trying to manage lot costs through winter. Private sellers with a rig sitting in a driveway are more likely to negotiate in November than they will be in April when the phones start ringing.
 
-If you're shopping for a used motorhome or towable [right now](/why-right-now-is-a-rare-buyers-window-in-the-rv-market/), the window between now and February is probably the best pricing environment you'll see until at least fall 2027. That's not speculation. That's what the data consistently shows, and this year the dynamics are amplified by the supply constraints.
+If you're shopping for a used motorhome or towable [right now](/why-right-now-is-a-rare-buyers-market-for-rvs/), the window between now and February is probably the best pricing environment you'll see until at least fall 2027. That's not speculation. That's what the data consistently shows, and this year the dynamics are amplified by the supply constraints.
 
 ## The Regulatory Picture Is About to Get More Complicated
 

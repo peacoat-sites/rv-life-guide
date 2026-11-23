@@ -45,7 +45,7 @@ Establish a "home base" vet if you can. A lot of full-timers use their mail forw
 
 ## How RV Life Actually Changes a Dog's Day
 
-For most dogs, [full-time RV life](/full-time-rv-living-with-a-dog-tips/) is better than a house with a backyard. I'll say it directly: after eight years, I believe it. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
+For most dogs, full-time RV life is better than a house with a backyard. I'll say it directly: after eight years, I believe it. They're with you constantly. No separation anxiety from 9-hour workdays. The stimulation of new places, new smells, new trails, new other-dogs-at-the-campground is something dogs seem to genuinely thrive on.
 
 But there are dogs who don't adapt well to this. You need to be honest about your dog's temperament before you commit. If your dog is reactive, anxious, or needs a very predictable physical territory to feel safe, life on the road will stress both of you. That's not a dealbreaker necessarily. It's a real consideration. A trainer I respect told me that anxious dogs often need 3-4 weeks in a new location before they settle, which doesn't work when you're moving every few days.
 

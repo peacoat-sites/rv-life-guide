@@ -38,7 +38,7 @@ So let me share what I've actually learned, including the stuff I got wrong befo
 
 This sounds basic, but I can't tell you how many people at campgrounds are towing rigs that exceed their truck's capacity. Not by a huge amount. Just a little. Just enough.
 
-Your truck has three numbers you need to know cold: GVWR (gross vehicle weight rating), [GCWR (gross combined weight rating)](/how-to-calculate-rv-towing-capacity-correctly/), and your tow rating. The tow rating is the one manufacturers advertise. It's also the one most commonly misunderstood. That big number in the brochure? It's almost always based on a base-model truck with no passengers, no cargo, no gear. The moment you load the truck, that number drops.
+Your truck has three numbers you need to know cold: GVWR (gross vehicle weight rating), [GCWR (gross combined weight rating)](/towing-capacity-calculator/), and your tow rating. The tow rating is the one manufacturers advertise. It's also the one most commonly misunderstood. That big number in the brochure? It's almost always based on a base-model truck with no passengers, no cargo, no gear. The moment you load the truck, that number drops.
 
 What most people don't realize is that the GCWR is often the limiting factor, not the [tow rating](/towing-capacity-calculator/). Your truck might be rated to tow 14,000 lbs, but if the GCWR is 20,000 lbs and your loaded truck weighs 7,500 lbs, you're already at 7,500 of your 20,000-lb ceiling before you hook anything up. Add a 13,000-lb trailer and you're technically within tow rating but 500 lbs over GCWR. That's an overloaded rig, and it affects braking distance, transmission heat, and tire load in ways you won't notice until something goes wrong.
 

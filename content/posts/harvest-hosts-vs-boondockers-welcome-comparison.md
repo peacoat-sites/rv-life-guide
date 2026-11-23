@@ -26,7 +26,7 @@ faqs:
     a: "Harvest Hosts is almost always a single night, that's part of the deal with business hosts. Boondockers Welcome is more flexible because hosts set their own terms, and some are happy to have you for two or three nights, especially in off-peak times. Don't assume though; ask when you message to request the stay."
 ---
 
-Most full-[time RVers](/best-remote-jobs-for-full-time-rvers/) join one of these two programs expecting to cut their overnight costs dramatically, then discover the reality is more complicated than the sales page suggests. I know because I burned through almost a full season figuring out which one actually worked for my travel style, and the answer wasn't what I thought it would be.
+Most full-[time RVers](/remote-jobs-for-rv-living/) join one of these two programs expecting to cut their overnight costs dramatically, then discover the reality is more complicated than the sales page suggests. I know because I burned through almost a full season figuring out which one actually worked for my travel style, and the answer wasn't what I thought it would be.
 
 Here's the number that genuinely surprised me when I dug into this: [Harvest Hosts](/harvest-hosts-membership/) currently lists over 5,000 member locations across the U.S. and Canada, while Boondockers Welcome sits closer to 2,100 active hosts. That's a 2:1 advantage in raw site count, but count alone tells you almost nothing about which membership will actually save you money or make your trips better. A lot depends on what kind of rig you're in, how social you want your stays to be, and whether you're more comfortable at a winery than in a stranger's driveway.
 

@@ -25,7 +25,7 @@ faqs:
     a: "Often, yes. Weekday mornings from opening until around 11am are consistently the quietest window at most parks. If you're a morning person and you're staying mid-week, a well-maintained pool at 8am is one of the quiet pleasures of this life that's genuinely hard to put a price on."
 ---
 
-Seventy-three percent of full-[time RVers](/best-mail-forwarding-service-for-full-time-rvers/) say access to a pool is one of their top five campground amenities, according to the 2025 RV Industry Association Camper Sentiment Survey. That number surprises people until they spend a week in August in Phoenix or Amarillo without one.
+Seventy-three percent of full-[time RVers](/mail-forwarding-full-time-rv/) say access to a pool is one of their top five campground amenities, according to the 2025 RV Industry Association Camper Sentiment Survey. That number surprises people until they spend a week in August in Phoenix or Amarillo without one.
 
 Here's what most pool campground coverage gets wrong: it treats the pool as a bonus. For families, couples doing long stretches in hot climates, and anyone trying to keep kids sane during a travel day hangover, a good pool isn't a luxury. It's a scheduling and sanity tool. A bad pool, on the other hand, is genuinely worse than no pool. Murky water, cracked decks, no shade, posted hours that cut off at 6pm when it's still 98 degrees outside. Plenty of campgrounds fit that description.
 
