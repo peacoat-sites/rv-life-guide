@@ -5,7 +5,7 @@ date: 2026-06-10
 slug: "rv-tank-duration-calculator"
 description: "Calculate how long your RV fresh water, gray tank, and black tank will last based on your rig's tank sizes, number of people, shower habits, and toilet type."
 categories: ["RV Boondocking"]
-author: "Cody & Brenna Pierce"
+author: "Barbara Mitchell"
 image: "https://images.pexels.com/photos/15422206/pexels-photo-15422206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
