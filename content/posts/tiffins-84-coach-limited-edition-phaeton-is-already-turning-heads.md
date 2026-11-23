@@ -28,7 +28,7 @@ According to RV Pro's coverage from November 10, 2026, the Limited Edition Phaet
 
 The Cummins L9 at 450 horsepower is a proven unit. Cummins has built L9-series engines for commercial and RV applications for years, and owner communities on forums like iRV2 have logged high mileage on them with proper maintenance intervals. The PowerGlide XC raised-rail chassis gives the coach a lower center of gravity and improved handling dynamics compared to standard rail setups, which matters on mountain roads, the same terrain that inspired the paint schemes. If you're planning western routes, that's not marketing fluff.
 
-What you don't yet have is a confirmed MSRP for the Limited Edition specifically. The standard 2026 Tiffin Phaeton 44 OH retails for $652,957 according to current pricing, and that's before you factor in the exclusivity premium, the engraved hardware, or the signature detailing. Budget conservatively north of that number. Dealers won't be discounting a production run of 42 coaches [per year](/how-much-to-budget-for-rv-maintenance-per-year/).
+What you don't yet have is a confirmed MSRP for the Limited Edition specifically. The standard 2026 Tiffin Phaeton 44 OH retails for $652,957 according to current pricing, and that's before you factor in the exclusivity premium, the engraved hardware, or the signature detailing. Budget conservatively north of that number. Dealers won't be discounting a production run of 42 coaches per year.
 
 ## The Floorplan Choice Matters More Than the Paint
 
@@ -40,7 +40,7 @@ What you don't yet have is a confirmed MSRP for the Limited Edition specifically
 | Production Allocation | Split of 84 total units | Split of 84 total units |
 | Target Buyer | Campgrounds with length limits | Full-timers wanting max space |
 
-The 44 RTH gives you more living space and storage, which full-timers typically want. But 44 feet creates real campground access problems. Many [state park](/california-just-banned-ghost-campers-here-is-what-rvers-need-to-know/) loops cap at 35 or 40 feet. If you're serious about boondocking or mixing in state parks with private RV resorts, the 40 RTH is worth the smaller footprint. The 44 RTH makes more sense if you're mostly staying in full-hookup Class A-friendly resorts where site length is rarely a constraint.
+The 44 RTH gives you more living space and storage, which full-timers typically want. But 44 feet creates real campground access problems. Many state park loops cap at 35 or 40 feet. If you're serious about boondocking or mixing in state parks with private RV resorts, the 40 RTH is worth the smaller footprint. The 44 RTH makes more sense if you're mostly staying in full-hookup Class A-friendly resorts where site length is rarely a constraint.
 
 ## Collectibility: Real or Hype?
 
@@ -52,7 +52,7 @@ The Camper Report's November 13, 2026, roundup noted the broader industry attent
 
 ## What Ownership Actually Costs
 
-Before writing the check or signing the financing paperwork, run the numbers on what this coach [costs per](/rv-fuel-costs-per-mile/) year beyond the purchase price. Diesel Class A coaches at this size and weight average somewhere between 7 and 10 miles per gallon depending on terrain, speed, and load. Cross-country full-timing at current diesel prices adds up fast. Insurance on a coach approaching or exceeding $700,000 MSRP will be significantly higher than a standard Class A policy. Storage, if you aren't a full-timer, is a real line item.
+Before writing the check or signing the financing paperwork, run the numbers on what this coach costs per year beyond the purchase price. Diesel Class A coaches at this size and weight average somewhere between 7 and 10 miles per gallon depending on terrain, speed, and load. Cross-country full-timing at current diesel prices adds up fast. Insurance on a coach approaching or exceeding $700,000 MSRP will be significantly higher than a standard Class A policy. Storage, if you aren't a full-timer, is a real line item.
 
 The [Cost Ownership Calc](/rv-cost-of-ownership-calculator/) can help you add up the true yearly cost of owning and running a coach at this price point before the payment shock hits. It's worth doing before you fall in love with the paint.
 

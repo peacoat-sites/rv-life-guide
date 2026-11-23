@@ -42,7 +42,7 @@ I'm not saying that to brag. I'm saying it because the fear that your kid will f
 
 Homeschool law in the U.S. is a state-by-state patchwork, and it genuinely matters where you're legally domiciled, not where you're physically parked on Tuesday.
 
-Most [full-time RV families](/working-remotely-from-rv/) establish legal domicile in one of three states: South Dakota, Texas, or Florida. These are popular precisely because they have no state income tax, relatively light vehicle registration requirements, and critically, workable homeschool laws. South Dakota only requires that you notify the local school district once a year. Florida requires you to either file an annual notice with your county school superintendent or use an umbrella school. Texas is the most relaxed option, essentially treating homeschool as a private school with minimal oversight.
+Most full-time RV families establish legal domicile in one of three states: South Dakota, Texas, or Florida. These are popular precisely because they have no state income tax, relatively light vehicle registration requirements, and critically, workable homeschool laws. South Dakota only requires that you notify the local school district once a year. Florida requires you to either file an annual notice with your county school superintendent or use an umbrella school. Texas is the most relaxed option, essentially treating homeschool as a private school with minimal oversight.
 
 You don't need to comply with the laws of every state you drive through. Your legal obligation is to the state where you're domiciled, period. Many families tie themselves in knots trying to track school requirements for every state on a road trip, but that's not necessary.
 

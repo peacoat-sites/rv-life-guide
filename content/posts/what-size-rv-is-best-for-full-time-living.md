@@ -51,7 +51,7 @@ The practical sweet spot for a solo full-timer is 22-28 feet with one or two sli
 
 Everyone wants someone to just tell them which type is best. Fine. Here's my honest ranking for full-time living.
 
-**Fifth wheels lead for couples and families.** The bi-level layout gives you genuine separation between sleeping and living. The hitch setup is more stable than a bumper-pull at highway speeds. Storage underneath is usually cavernous. But here's the real cost: [you need a pickup truck](/fifth-wheel-vs-travel-trailer/), and not just any truck. A 40-foot fifth wheel pushing 15,000 lbs loaded needs a dually, realistically a Ram 3500 or F-350, and that vehicle costs money to buy and fuel. Don't buy the fifth wheel first and the truck second. I've seen that mistake end trips.
+**Fifth wheels lead for couples and families.** The bi-level layout gives you genuine separation between sleeping and living. The hitch setup is more stable than a bumper-pull at highway speeds. Storage underneath is usually cavernous. But here's the real cost: you need a pickup truck, and not just any truck. A 40-foot fifth wheel pushing 15,000 lbs loaded needs a dually, realistically a Ram 3500 or F-350, and that vehicle costs money to buy and fuel. Don't buy the fifth wheel first and the truck second. I've seen that mistake end trips.
 
 **Class A motorhomes are the most livable but the most expensive to own.** A used 36-foot Tiffin Allegro or Entegra Coach gives you a layout that actually feels like an apartment. Washer/dryer combos, full-size refrigerators, residential bathrooms. Then something breaks. Anything under $80,000 used (2024 prices) probably has deferred maintenance that'll catch up fast. Diesel pushers tend to be more reliable long-term than gas Class A's, but repair bills when something fails can be steep. Budget $3,000-5,000 a year for maintenance on a diesel Class A, minimum.
 
@@ -65,7 +65,7 @@ Everyone wants someone to just tell them which type is best. Fine. Here's my hon
 
 Length affects three things: where you can park, how you drive, and how much you pay.
 
-**Parking.** National Park campgrounds frequently cap sites at 30 feet or under 35 feet. [Hipcamp and Harvest Hosts sites](/backing-up-rv-guide/) often have access road restrictions that make 40-foot rigs impractical or impossible. If your full-time plan involves boondocking or non-traditional sites, going over 32 feet closes doors you'll regret. I gave up a 38-foot fifth wheel partly because I kept arriving at places I wanted to be and having to leave or squeeze into sites clearly not built for that rig.
+**Parking.** National Park campgrounds frequently cap sites at 30 feet or under 35 feet. Hipcamp and Harvest Hosts sites often have access road restrictions that make 40-foot rigs impractical or impossible. If your full-time plan involves boondocking or non-traditional sites, going over 32 feet closes doors you'll regret. I gave up a 38-foot fifth wheel partly because I kept arriving at places I wanted to be and having to leave or squeeze into sites clearly not built for that rig.
 
 **Driving.** A 35-foot rig feels normal after a few months. A 42-foot rig with a 6-foot slide overhang never fully becomes normal, especially in gas stations, urban areas, or anywhere that assumes 65-foot turning radii don't apply to you. If you're new to towing or driving a motorhome, start shorter than you think you need and upgrade later. Almost every experienced full-timer will tell you this.
 

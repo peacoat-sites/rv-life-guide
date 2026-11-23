@@ -1,5 +1,5 @@
 ---
-title: "Van Laundry on $40 a Month: Your Complete Guide"
+title: "How to Do Laundry Living in a Van Full Time"
 date: 2026-07-19T20:02:04.306800+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
@@ -47,7 +47,7 @@ Let me give you the real picture on cost, because most [van life](/full-time-rv-
 | Bucket + plunger method | $0.05-$0.15 (soap) | 30-50 min + dry time | Barely | Cheapest DIY option |
 | Laundry service (drop-off) | $1.00-$2.00/lb | Drop off + pick up next day | Yes | Underused; good in cities |
 
-The insight most people miss: truck stop laundromats (Love's, Pilot Flying J, TA Travel Centers) are consistently underpriced and, by most accounts, better maintained than standalone laundromats in tourist towns. It is common to pay $2.75 per wash at a Pilot versus $5.50 at a laundromat two blocks from a [national park](/national-park-rv-camping/). Same quality wash. Truck stops typically also offer free wifi, food options, and showers. That's not a coincidence, they're designed to serve people living on the road.
+The insight most people miss: truck stop laundromats (Love's, Pilot Flying J, TA Travel Centers) are consistently underpriced and, by most accounts, better maintained than standalone laundromats in tourist towns. It is common to pay $2.75 per wash at a Pilot versus $5.50 at a laundromat two blocks from a national park. Same quality wash. Truck stops typically also offer free wifi, food options, and showers. That's not a coincidence, they're designed to serve people living on the road.
 
 One more thing about laundromats that nobody tells you: the best time to go is Tuesday or Wednesday mid-morning. Consistently, mid-week visits mean empty laundromats while Saturday afternoons tend to be packed. Go on a weekday. Bring exact change because half the coin changers are broken. And check whether your laundromat app (Speed Queen, Coin Laundry Association's locator) takes mobile payment before you drive there.
 

@@ -1,5 +1,5 @@
 ---
-title: "Van Life Income: 7 Realistic Ways To Earn Money Full-Time"
+title: "How to Make Money Living in a Van Full Time"
 date: 2026-06-12T21:00:36.472335+00:00
 draft: false
 description: "Discover practical ways to earn income while living the van life full-time, from remote work and freelancing to selling crafts and leveraging social media monet"
@@ -49,7 +49,7 @@ For the practical setup: a solid mobile hotspot is non-negotiable. I've used the
 
 ## Content Creation: The Long Game That Actually Works
 
-[Content creation](/working-from-rv-income/) is often oversold as a van life income strategy. YouTube, Instagram, TikTok, and Substack can generate real money, but channels starting now face more saturation than earlier platforms. Success typically requires a specific angle or audience rather than generic travel content.
+Content creation is often oversold as a van life income strategy. YouTube, Instagram, TikTok, and Substack can generate real money, but channels starting now face more saturation than earlier platforms. Success typically requires a specific angle or audience rather than generic travel content.
 
 The channels growing right now aren't "Van Life with Jake and Sarah." They're the mechanic who does hands-on Sprinter conversion tutorials. The woman who documents solo female van life in national forests with actual campsite coordinates and safety assessments. The guy who does brutally honest budget breakdowns with receipts. Specificity wins.
 

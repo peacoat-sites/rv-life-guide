@@ -40,7 +40,7 @@ If you're shopping for a used motorhome or towable [right now](/why-right-now-is
 
 The supply issue isn't just about production slowdowns. It's also about who can legally sell certain rigs to certain buyers. Vermont joined the Advanced Clean Trucks states in 2026, which means new motorhomes over 8,500 lbs GVWR can no longer be sold new in that state. Vermont joined California, Oregon, Washington, Massachusetts, New York, and New Jersey, all of which have adopted the same ACT sales restriction.
 
-That list is about to get longer. Colorado, Maryland, New Mexico, and Rhode Island are slated to adopt the same ACT sales restrictions in 2027. When those states come online, the affected market covers a substantial share of total U.S. RV sales. That's not a fringe regulatory issue. That is a structural supply constraint on new Class A and Class C [diesel motorhomes](/the-epa-just-killed-the-def-sensor-requirement-on-diesel-motorhomes/) that will keep pushing buyers toward the used market, further pressuring used prices upward.
+That list is about to get longer. Colorado, Maryland, New Mexico, and Rhode Island are slated to adopt the same ACT sales restrictions in 2027. When those states come online, the affected market covers a substantial share of total U.S. RV sales. That's not a fringe regulatory issue. That is a structural supply constraint on new Class A and Class C diesel motorhomes that will keep pushing buyers toward the used market, further pressuring used prices upward.
 
 | State | ACT Restriction Active |
 | --- | --- |

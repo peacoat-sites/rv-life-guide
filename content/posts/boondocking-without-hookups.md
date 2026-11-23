@@ -75,7 +75,7 @@ Your gray tank fills faster than your black tank. That surprises almost everyone
 
 The good news: gray water management has options. In most dispersed camping areas on public land, it's legal (and fine leave-no-trace practice) to dump strained gray water on the ground away from water sources. Check local regulations because they vary; generally, the BLM is more concerned about sewage than gray water.
 
-Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a [composting toilet](/rv-water-tank-management/) eliminates black tank use entirely, freeing tank capacity for gray water overflow.
+Black tank management is non-negotiable. You hold it until you can properly dump. Period. For longer boondocks, a composting toilet eliminates black tank use entirely, freeing tank capacity for gray water overflow.
 
 Dump stations are everywhere if you know where to look. Sanidumps.com is a better database than most campground apps for finding standalone dump stations. Many Flying J and Pilot truck stops have them, usually for $10 to $20.
 

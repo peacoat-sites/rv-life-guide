@@ -17,7 +17,7 @@ affiliate_disclosure: false
 
 Nobody warns you about the smell. That's the thing. You spend weeks researching vans, researching solar setups, researching mattress foam density, and then you're six months into full-time [van life](/how-much-does-van-life-cost-per-month/) and you're dealing with a situation under your bed that you were not emotionally prepared for.
 
-I've been living and sleeping in rigs for eight years now. I've used cassette toilets, a bucket with a trash bag (once, in desperation, never again), and four different composting toilets across two vans and one stint in a converted school bus. I don't have a sponsored opinion here. I have an opinion formed by cleaning out a urine diverter in a Walmart [parking lot](/rv-parking-lot-tips/) in Flagstaff in January.
+I've been living and sleeping in rigs for eight years now. I've used cassette toilets, a bucket with a trash bag (once, in desperation, never again), and four different composting toilets across two vans and one stint in a converted school bus. I don't have a sponsored opinion here. I have an opinion formed by cleaning out a urine diverter in a Walmart parking lot in Flagstaff in January.
 
 So if you're sitting there trying to figure out which composting toilet makes sense for van life specifically, not for an RV with a bathroom the size of a closet, but for a van where every inch is a negotiation, here's what I tell people.
 

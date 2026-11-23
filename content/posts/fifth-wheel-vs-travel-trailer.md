@@ -1,5 +1,5 @@
 ---
-title: "Which RV Setup Lets You Travel Longer?"
+title: "Fifth Wheel vs Travel Trailer: How to Decide"
 date: 2026-05-27T08:56:46.831610+00:00
 draft: false
 description: "Trying to choose between a fifth wheel and a travel trailer? Compare costs, towing requirements, space, and comfort to find the best RV option for you."
@@ -55,7 +55,7 @@ Travel trailer sway is real. It's scared plenty of new towers out of their minds
 
 Plenty of people tow heavy travel trailers without incident their entire RV lives. The key is staying within your tow vehicle's actual ratings, not the "with options" stretch numbers dealers like to quote. Look at the Gross Combined Weight Rating (GCWR) for your specific truck configuration, and don't let a salesperson wave that away.
 
-Before you buy anything, find your tow vehicle's [Tow Vehicle Buyers Guide](/rv-buying-checklist/) on the manufacturer's website. Ram, Ford, and Chevy all publish detailed towing guides by cab configuration, engine, axle ratio, and trim. It's a free PDF download and takes 20 minutes to read. Do it.
+Before you buy anything, find your tow vehicle's Tow Vehicle Buyers Guide on the manufacturer's website. Ram, Ford, and Chevy all publish detailed towing guides by cab configuration, engine, axle ratio, and trim. It's a free PDF download and takes 20 minutes to read. Do it.
 
 ## Floor Plans, Livability, and Full-Time Living
 

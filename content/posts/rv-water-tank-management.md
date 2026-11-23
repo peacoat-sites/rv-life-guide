@@ -70,7 +70,7 @@ A dry black tank is a problem tank. Solids accumulate, sensor probes get coated,
 
 The sensor issue deserves its own moment. I thought my sensors were broken for basically the first year I owned an RV. Gray always read "full" when it wasn't. Black read "2/3 full" when it was empty. This is nearly universal with the cheap resistive sensors most manufacturers install, and as of 2026, even mid-range rigs still use them. External sensor systems like the SeeLevel II ($90-$130) work on a different principle and actually give you accurate readings. I installed one myself in about two hours and haven't second-guessed a tank level since.
 
-**Scenario:** Full-timer in a 2019 Keystone Cougar getting false "full" gray sensor readings → installed SeeLevel II tank monitoring system ($115 installed) → eliminated 11 unexpected early gray dumps over six months, [extended boondocking stays](/boondocking-free-camping/) by average of one day per trip.
+**Scenario:** Full-timer in a 2019 Keystone Cougar getting false "full" gray sensor readings → installed SeeLevel II tank monitoring system ($115 installed) → eliminated 11 unexpected early gray dumps over six months, extended boondocking stays by average of one day per trip.
 
 ## Winterizing and Recommissioning: The Steps That Actually Matter
 

@@ -34,7 +34,7 @@ If you're here, you might be wondering whether you actually need one, which one 
 
 ## What a Brake Controller Does (and Why You Can't Skip It)
 
-Your tow vehicle's brakes alone were not engineered to stop your truck plus a loaded travel trailer or fifth wheel. The physics are blunt: more mass means more stopping distance, and the trailer's tendency to keep moving forward while your truck slows is what causes [trailer sway and jackknifing](/sway-control-hitch-rv/).
+Your tow vehicle's brakes alone were not engineered to stop your truck plus a loaded travel trailer or fifth wheel. The physics are blunt: more mass means more stopping distance, and the trailer's tendency to keep moving forward while your truck slows is what causes trailer sway and jackknifing.
 
 A brake controller sends a signal from your truck to the electric brakes on your trailer's axles, activating them in sync (or near-sync) with your truck's brakes. Your trailer helps stop itself instead of working against you.
 

@@ -33,9 +33,9 @@ For anyone doing their first Florida winter: the state will not disappoint you. 
 
 ## Why Florida Still Dominates the Snowbird Circuit
 
-Many snowbirds wonder every fall if Arizona or Texas is "better" now. It depends on what you want. The [Texas Hill Country](/snowbird-rv-parks-arizona/) is gorgeous and less crowded. Tucson in January is hard to beat for dry heat. But Florida has something neither of those states has: a density of affordable, amenity-rich RV parks within a few miles of actual ocean water that no other region has matched.
+Many snowbirds wonder every fall if Arizona or Texas is "better" now. It depends on what you want. The Texas Hill Country is gorgeous and less crowded. Tucson in January is hard to beat for dry heat. But Florida has something neither of those states has: a density of affordable, amenity-rich RV parks within a few miles of actual ocean water that no other region has matched.
 
-The west coast of Florida, Tampa down through Sarasota, Fort Myers, and into Naples, has the highest concentration of [long-term snowbird parks](/long-term-rv-park-rates/). The east coast (Vero Beach, the Space Coast, the Fort Lauderdale corridor) attracts plenty of people but tends to run pricier and more transient. The Panhandle? Underrated and overlooked, which means better availability and lower rates if you don't need subtropical heat.
+The west coast of Florida, Tampa down through Sarasota, Fort Myers, and into Naples, has the highest concentration of long-term snowbird parks. The east coast (Vero Beach, the Space Coast, the Fort Lauderdale corridor) attracts plenty of people but tends to run pricier and more transient. The Panhandle? Underrated and overlooked, which means better availability and lower rates if you don't need subtropical heat.
 
 Cost runs somewhere between $700 and $1,600 per month for a full-hookup site in a decent park. Location, amenities, and how early you booked all matter. Parks in Cape Coral or north Fort Myers typically land at $850 to $1,100 a month. Anything right on the water with resort-style pool and pickleball courts nudges toward $1,400. If someone quotes you $600 a month in a coastal area in November, ask a lot of questions first.
 

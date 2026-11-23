@@ -1,5 +1,5 @@
 ---
-title: "Plan Your Full-Time RV Life With The Right App"
+title: "Best RV Trip Planning App for Full-Time Travel"
 date: 2026-06-19T20:26:24.256562+00:00
 draft: false
 description: "Discover the best RV trip planning apps for full-time travelers. Compare top tools for routing, campsite finding, and life on the road."
@@ -52,7 +52,7 @@ The honest take on both: they work best together, and the combined cost is still
 
 ## The One App Most People Don't Think About Until Month Four
 
-**iOverlander** started as a tool for people doing overlanding and long-distance van travel internationally, but it's genuinely useful for finding free or low-cost dispersed camping spots in the U.S. and Canada too. It's free. The data skews toward smaller rigs, so filter for your rig type before you get excited about a spot, but for [boondocking research](/best-apps-for-finding-free-campsites/) it's a solid companion to Campendium.
+**iOverlander** started as a tool for people doing overlanding and long-distance van travel internationally, but it's genuinely useful for finding free or low-cost dispersed camping spots in the U.S. and Canada too. It's free. The data skews toward smaller rigs, so filter for your rig type before you get excited about a spot, but for boondocking research it's a solid companion to Campendium.
 
 What really changed my planning, though, was treating **Gaia GPS** as a core tool rather than an optional one. Gaia is traditionally a hiking app, but for full-timers who spend time on BLM land or Forest Service roads, having downloadable topo maps with land ownership layers is legitimately useful. You can see where BLM land starts, where private property ends, whether that road you're considering is Forest Service or county-maintained. I pay $39.99 a year for it and would miss it significantly if it disappeared.
 
@@ -70,7 +70,7 @@ What really changed my planning, though, was treating **Gaia GPS** as a core too
 
 You might be wondering how to avoid ending up with seven apps that you never actually open. Here's the workflow I've settled into after years of trial and more error than I'd like to admit.
 
-Start with Roadtrippers when you're in the dreaming phase, looking at a general region. Once you have a rough corridor, move to RV LIFE Trip Wizard to build the actual driving route and verify it's safe for your rig. Then cross-reference campgrounds in The Dyrt and Campendium to decide where you're stopping and whether you need reservations. If you're planning any boondocking legs, check Campendium's [free camping filter](/best-apps-for-finding-free-campsites/) and iOverlander. And if you're on Harvest Hosts, set up your route stops 2-3 weeks out because the popular spots fill fast.
+Start with Roadtrippers when you're in the dreaming phase, looking at a general region. Once you have a rough corridor, move to RV LIFE Trip Wizard to build the actual driving route and verify it's safe for your rig. Then cross-reference campgrounds in The Dyrt and Campendium to decide where you're stopping and whether you need reservations. If you're planning any boondocking legs, check Campendium's free camping filter and iOverlander. And if you're on Harvest Hosts, set up your route stops 2-3 weeks out because the popular spots fill fast.
 
 What I don't do anymore: use any single app exclusively, rely on in-app maps for actual driving navigation (Apple Maps or Waze for in-motion navigation, after RV LIFE generates the safe route), or skip the offline download step before leaving cell range.
 

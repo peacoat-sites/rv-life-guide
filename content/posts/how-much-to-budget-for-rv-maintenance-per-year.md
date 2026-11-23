@@ -42,7 +42,7 @@ Here's what I've tracked across my own ownership and from conversations with lon
 
 These are full-time-use figures, not weekend-warrior numbers. Cut them roughly in half if you're using your rig 60 days a year or fewer, and add 20-30% if your unit is more than 10 years old.
 
-What most people don't realize is that rig type matters less than age and usage intensity. A well-maintained 2021 Class A used part-time might cost you less than a 2019 [travel trailer](/fifth-wheel-vs-travel-trailer/) that's been dragged to the coast every other weekend by someone who skips the roof seal inspection.
+What most people don't realize is that rig type matters less than age and usage intensity. A well-maintained 2021 Class A used part-time might cost you less than a 2019 travel trailer that's been dragged to the coast every other weekend by someone who skips the roof seal inspection.
 
 ## Breaking Down Where the Money Goes
 

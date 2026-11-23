@@ -15,7 +15,7 @@ slug: "zions-rv-ban-is-now-real-what-to-do-if-you-planned-that-route"
 affiliate_disclosure: false
 ---
 
-You're halfway through planning your fall Southwest loop, Zion is on the route, and you just found out the tunnel permit you were counting on doesn't exist anymore. Not delayed, not modified. Gone. That's the situation thousands of [RVers are](/why-rvers-are-winning-the-dust-off-summer-of-2026/) waking up to right now, and if your rig is on the larger side, the route you built your trip around just got erased.
+You're halfway through planning your fall Southwest loop, Zion is on the route, and you just found out the tunnel permit you were counting on doesn't exist anymore. Not delayed, not modified. Gone. That's the situation thousands of RVers are waking up to right now, and if your rig is on the larger side, the route you built your trip around just got erased.
 
 Effective June 7, 2026, Zion [National Park](/national-park-rv-camping/) began enforcing a hard prohibition on oversized vehicles along the entire Zion-Mt. Carmel Highway between Canyon Junction and the East Entrance. We're not talking about the tunnel specifically anymore. The whole corridor is off-limits if your rig exceeds 11'4" tall, 7'10" wide, 35'9" long, or 50,000 lbs. The old paid-escort system through the tunnel, the one you might remember from past trips or saw mentioned in older trip reports, has been permanently discontinued. As RV LIFE reported on June 8, 2026, this affects most Class A and Class C motorhomes, fifth wheels, dually trucks, and trailers with more than 26 feet from hitch to rear axle. That's most of us.
 

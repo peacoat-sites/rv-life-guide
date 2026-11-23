@@ -72,7 +72,7 @@ A motion-activated light mounted near your door does two things: it startles any
 
 Here's where the advice gets blunt. The most common boondocking security incident isn't violent crime; it's opportunistic theft when you're away from your rig. Lock your rig when you hike. Use a hitch lock. Don't leave a laptop visible through the window.
 
-For people who choose to carry a firearm, that's a legal, personal decision that varies by state and land jurisdiction. BLM land generally follows state law on carry. [National Park](/national-park-rv-camping/) rules are different. Research your specific corridor on the ATF and NPS websites before assuming.
+For people who choose to carry a firearm, that's a legal, personal decision that varies by state and land jurisdiction. BLM land generally follows state law on carry. National Park rules are different. Research your specific corridor on the ATF and NPS websites before assuming.
 
 If you don't carry a firearm, a few things actually help. A steel door reinforcement bar (the Door Armor brand is well-reviewed in full-timer communities) matters more than most other security products because it addresses the real failure point: doors can be kicked in even when locked. A dog is not a security system but it is a deterrent and a warning system, and most experienced solo travelers list having one as a genuine comfort. A "Beware of Dog" sticker costs nothing even if you don't have one.
 

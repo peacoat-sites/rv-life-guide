@@ -15,7 +15,7 @@ slug: "california-just-banned-ghost-campers-here-is-what-rvers-need-to-know"
 affiliate_disclosure: false
 ---
 
-You open ReserveCalifornia on your phone at 7:59 a.m., finger hovering, and the second that booking window flips open for Pfeiffer Big Sur you start hammering refresh. Gone in four seconds. Again. Meanwhile, you've driven past that same campground three times [this summer](/how-to-camp-by-rv-at-a-fifa-world-cup-host-city-this-summer/) and counted the empty sites. Not a fluke. Ghost bookings, where someone reserves a site with zero intention of showing up, or just casually holds six sites "to keep options open," have been eating California's campground system alive for years. That ends now.
+You open ReserveCalifornia on your phone at 7:59 a.m., finger hovering, and the second that booking window flips open for Pfeiffer Big Sur you start hammering refresh. Gone in four seconds. Again. Meanwhile, you've driven past that same campground three times this summer and counted the empty sites. Not a fluke. Ghost bookings, where someone reserves a site with zero intention of showing up, or just casually holds six sites "to keep options open," have been eating California's campground system alive for years. That ends now.
 
 As of July 1, 2026, Assembly Bill 618, authored by Assemblymember Rebecca Bauer-Kahan and signed by Governor Gavin Newsom, kicked in with real teeth. California State Parks has overhauled the ReserveCalifornia system with a tiered penalty structure and, for repeat offenders, a first-ever 365-day reservation ban. If you're living the RV life and California is part of your circuit, this affects how you plan, how you book, and what happens when life on the road throws you a curveball. And it will.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Ampere Time (LiTime) 100Ah cells, currently around $229-$269 each, offer the best value I've seen for someone building their first real system. The BMS is adequate, the cells perform well in moderate temperatures, and the savings over premium brands are substantial. If you're in a cold climate or want a longer warranty, step up to SOK or Battle Born."
 ---
 
-Most people [building out](/loves-is-building-out-the-biggest-rv-stop-network-on-the-road/) a van electrical system for the first time spend about $800 on AGM batteries, run them down to 20% twice, panic about sulfation damage, and then spend $2,400 replacing everything with lithium six months later anyway. I know because I did exactly that in a Sprinter 2500 back when I first hit the road, and it cost me a summer's worth of savings and a genuinely embarrassing amount of time on YouTube at 2am.
+Most people building out a van electrical system for the first time spend about $800 on AGM batteries, run them down to 20% twice, panic about sulfation damage, and then spend $2,400 replacing everything with lithium six months later anyway. I know because I did exactly that in a Sprinter 2500 back when I first hit the road, and it cost me a summer's worth of savings and a genuinely embarrassing amount of time on YouTube at 2am.
 
 Here's what I've learned after eight years of living this life and three complete electrical rebuilds across two different vans: lithium isn't always the right answer, but for full-time van dwellers, it almost always is. The upfront cost stings. The long-term math doesn't lie.
 

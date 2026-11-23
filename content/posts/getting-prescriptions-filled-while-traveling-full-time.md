@@ -1,5 +1,5 @@
 ---
-title: "Prescription Refills On The Road: Full-Time RV Guide"
+title: "Getting Prescriptions Filled While Traveling Full Time"
 date: 2026-07-02T20:12:44.546448+00:00
 draft: false
 description: "Learn how full-time travelers can get prescriptions filled on the road, including tips for mail-order pharmacies, early refills, and traveling internationally."
@@ -49,7 +49,7 @@ The practical lesson: know your drug schedule before you travel. The DEA's sched
 | GoodRx / Cost Plus Drugs | Uninsured or coverage gaps | Active internet access | No |
 | Local telehealth + local pharmacy | Controlled substances (Schedule II-IV) | New in-state prescription each fill | Yes (platform & state dependent) |
 
-**Mail-order pharmacy through your insurance.** Mail-order pharmacy through insurance is a reliable option for full-timers. Most major insurance plans (Cigna, Aetna, BCBS, UnitedHealthcare) have a mail-order pharmacy option that ships 90-day supplies. You need a consistent mailing address, which most full-timers solve with a [mail forwarding service like Escapees](/mail-forwarding-full-time-rv/) (based in Livingston, Texas) or America's Mailbox in South Dakota. The 90-day window gives you a massive buffer. You can request shipment to an address where you expect to be in the coming weeks. Timing can get tricky if you're moving fast, but mail-order is generally more reliable than hunting down a pharmacy in every new state.
+**Mail-order pharmacy through your insurance.** Mail-order pharmacy through insurance is a reliable option for full-timers. Most major insurance plans (Cigna, Aetna, BCBS, UnitedHealthcare) have a mail-order pharmacy option that ships 90-day supplies. You need a consistent mailing address, which most full-timers solve with a mail forwarding service like Escapees (based in Livingston, Texas) or America's Mailbox in South Dakota. The 90-day window gives you a massive buffer. You can request shipment to an address where you expect to be in the coming weeks. Timing can get tricky if you're moving fast, but mail-order is generally more reliable than hunting down a pharmacy in every new state.
 
 **Telehealth prescribers.** This one changed my situation more than anything else. Services like Teladoc, Hims/Hers, Done (for ADHD), and Cerebral have telehealth-licensed prescribers in all 50 states. The important thing to understand is that you need a prescriber licensed in the state you're *physically in* at the time of the visit, not your home state. Most of these platforms handle that automatically by routing you to an in-state provider. As of July 2026, Teladoc is still available in all 50 states and can prescribe most non-controlled medications after a virtual visit. Controlled substances via telehealth have been tighter since federal regulations tightened in 2023, though some platforms still offer them depending on your state and condition.
 

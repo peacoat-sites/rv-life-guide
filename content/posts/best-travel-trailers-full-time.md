@@ -69,7 +69,7 @@ Here's a direct comparison of four popular full-timer travel trailers. Prices ar
 | Airstream Classic 33FB | $120,000 | 10,000 lbs | R-8+ | 40 gal | 74/40 gal | Riveted aluminum |
 | Keystone Cougar 22RBS | $38,000 | 7,716 lbs | R-11 ceiling | 44 gal | 60/30 gal | Wood/aluminum |
 
-A few things stand out: fresh water tank size matters enormously if you dry camp frequently. The Airstream's 40-gallon tank is surprisingly small for a $120,000 unit. The Cougar's R-11 ceiling insulation number looks great until you realize the walls are thinner, so don't read that number in isolation. GVWR directly affects your [tow vehicle](/rv-buying-checklist/) requirements, and that's where people get blindsided.
+A few things stand out: fresh water tank size matters enormously if you dry camp frequently. The Airstream's 40-gallon tank is surprisingly small for a $120,000 unit. The Cougar's R-11 ceiling insulation number looks great until you realize the walls are thinner, so don't read that number in isolation. GVWR directly affects your tow vehicle requirements, and that's where people get blindsided.
 
 ## The Tow Vehicle Math Nobody Warns You About
 

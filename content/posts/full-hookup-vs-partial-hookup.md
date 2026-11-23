@@ -38,7 +38,7 @@ The short version: full hookup is water, electric, and sewer at your pad. Partia
 
 Full hookup means a [sewer connection](/rv-sewer-connection-tips/) at your site. That one pipe changes everything. You can run water freely, take longer showers, do dishes without guilt, and forget about black tank anxiety for the duration of your stay. For full-timers, this is the difference between living and camping.
 
-Partial hookup, most commonly electric and water only, means you're relying on your holding tanks for gray and black waste. Your 40-gallon gray tank fills faster than you think, two people cooking, showering even briefly, and doing minimal dishes will hit capacity in about three days. [Black tank](/rv-black-tank-treatment/) lasts longer if you're using campground bathrooms, which is a habit worth building when you're on partial.
+Partial hookup, most commonly electric and water only, means you're relying on your holding tanks for gray and black waste. Your 40-gallon gray tank fills faster than you think, two people cooking, showering even briefly, and doing minimal dishes will hit capacity in about three days. Black tank lasts longer if you're using campground bathrooms, which is a habit worth building when you're on partial.
 
 Here's what I got wrong for my first two years: I assumed full hookup was always worth the premium. Then I spent a month at a gorgeous state park in the Ozarks on electric-and-water only, with a [dump station](/rv-dump-station-guide/) 200 yards away, and paid $31/night instead of $54. I drove to the dump station every four days. Total inconvenience per month: maybe 90 minutes. Total savings: around $690. That math clarified my thinking fast.
 

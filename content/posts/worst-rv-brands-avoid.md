@@ -25,7 +25,7 @@ faqs:
     a: "The roof and all roof penetrations (vents, antenna mounts, air conditioner bases). Water that enters at the roof works its way down over months or years before you see it inside. A soft spot in the roof membrane or cracked sealant around any penetration is a red flag that the interior may already have hidden damage."
 ---
 
-Not every RV brand is worth your money, and some are genuinely worth avoiding. The short answer: Keystone, Thor, and Coachmen have the most widespread, documented quality complaints across owner forums and third-party surveys. That doesn't mean every unit they build is a lemon, but it does mean the odds are not in your favor, and the consequences of guessing wrong [while living](/how-to-make-money-while-living-in-a-van-full-time/) in your rig full-time are severe.
+Not every RV brand is worth your money, and some are genuinely worth avoiding. The short answer: Keystone, Thor, and Coachmen have the most widespread, documented quality complaints across owner forums and third-party surveys. That doesn't mean every unit they build is a lemon, but it does mean the odds are not in your favor, and the consequences of guessing wrong while living in your rig full-time are severe.
 
 The RV industry has a quality problem that predates any single manufacturer. Most brands use the same handful of suppliers for windows, slideouts, and electrical components, so defects ripple across nameplates that look like competitors but share common parts. What separates the worst brands from the mediocre ones isn't always the components, it's how they assemble them, what corners they cut on labor, and whether their warranty support is real or theater.
 
@@ -37,7 +37,7 @@ The RV industry has a quality problem that predates any single manufacturer. Mos
 
 Thor Industries is the largest RV manufacturer in the world by volume, and that scale is part of the problem. Thor owns a large collection of brands, including Keystone, Heartland, Dutchmen, and others, and they operate them as semi-independent divisions that compete for buyers at different price points. The result is a race-to-the-bottom on build cost at the entry and mid-range tiers. Staples aren't driven deep enough, delamination shows up within a year or two, and slideout seals fail on units that have barely been broken in.
 
-Coachmen is also Thor-owned and has a similar reputation. The specific issues that come up repeatedly: frameless window leaks that cause wall rot, roof membrane adhesion failures, and [electrical wiring](/diy-van-conversion-electrical-wiring-diagram/) that wasn't properly secured and chafes through in transit. These aren't exotic failures. They're basic build-quality problems that shouldn't exist on a new unit.
+Coachmen is also Thor-owned and has a similar reputation. The specific issues that come up repeatedly: frameless window leaks that cause wall rot, roof membrane adhesion failures, and electrical wiring that wasn't properly secured and chafes through in transit. These aren't exotic failures. They're basic build-quality problems that shouldn't exist on a new unit.
 
 Forest River, which is Berkshire Hathaway-owned, gets lumped in here too. Some Forest River lines are genuinely decent. The problem is the company operates many brands at wildly different quality levels, and buyers often can't tell which is which from the outside. Surveying owner groups on iRV2 and RV Talk consistently surfaces Forest River Surveyor and Salem brands as quality outliers on the low end.
 

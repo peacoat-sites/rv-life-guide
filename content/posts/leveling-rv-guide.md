@@ -82,7 +82,7 @@ This is the process I walk every new towable owner through. It works whether you
 
 **Step 4: Unhitch and adjust front-to-back.** Lower or raise the tongue jack until the trailer is level front-to-back. Check your countertop level again.
 
-**Step 5: Drop your [stabilizer jacks](/rv-hookup-water-electric-sewer/).** These aren't leveling jacks. They stabilize the trailer so it doesn't rock. Lower them until they're snug against the ground, not jacked up hard. Over-cranking them can damage the frame.
+**Step 5: Drop your stabilizer jacks.** These aren't leveling jacks. They stabilize the trailer so it doesn't rock. Lower them until they're snug against the ground, not jacked up hard. Over-cranking them can damage the frame.
 
 **Step 6: Verify and done.** Make one final level check. Open a slide if you have one, then recheck since slides shift the weight.
 

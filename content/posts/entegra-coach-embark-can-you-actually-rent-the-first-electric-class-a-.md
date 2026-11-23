@@ -15,7 +15,7 @@ slug: "entegra-coach-embark-can-you-actually-rent-the-first-electric-class-a-"
 affiliate_disclosure: false
 ---
 
-Most people assume the first mainstream electric Class A RV is still a few years out, something being promised at trade shows but not yet real enough to touch. That assumption is now wrong. The Entegra Coach Embark entered full commercial production in 2026, and [right now](/why-right-now-is-a-rare-buyers-market-for-rvs/), today, you can rent one through THL before it ever hits a dealer lot. That's not a soft launch or a press preview. That's a working rig in a rental fleet, available to actual RVers, while Entegra collects feedback before finalizing the product for public sale. The rental strategy signals something interesting about where the company's head is at.
+Most people assume the first mainstream electric Class A RV is still a few years out, something being promised at trade shows but not yet real enough to touch. That assumption is now wrong. The Entegra Coach Embark entered full commercial production in 2026, and right now, today, you can rent one through THL before it ever hits a dealer lot. That's not a soft launch or a press preview. That's a working rig in a rental fleet, available to actual RVers, while Entegra collects feedback before finalizing the product for public sale. The rental strategy signals something interesting about where the company's head is at.
 
 The Embark is built on an EV platform developed exclusively by Harbinger Motors, which is worth paying attention to because this isn't a converted diesel chassis with a battery pack bolted on. According to THOR Industries' September 2025 press release, this is a purpose-built electric architecture, and it shows in the specs. You get 105 miles of pure electric range, plus a gasoline range extender that brings total range up to 450 miles. That's a number that matters. Most existing EV RVs average around 125 miles total. The Embark's 450-mile combined figure puts it in a completely different conversation, one where you can actually plan a trip without spreadsheet anxiety.
 
@@ -25,13 +25,13 @@ GearJunkie's first-look review from September 2025 highlighted the 800-volt arch
 
 ## Why the Rental-First Strategy Isn't What It Looks Like
 
-At first glance, making a Class A available to rent before it's for sale sounds like a marketing play. I don't think that's the whole story. Entegra is using THL's rental fleet as a real-world test environment, collecting consumer data on how actual RVers use the rig, not how engineers imagine they will. Eight years of living in rigs has taught me that the gap between those two things is massive. How people manage charge stops, how they use [shore power](/new-shore-power-safety-rule-is-coming-for-all-new-rvs/) overnight, whether they're lean on the generator or heavy, all of that is genuinely different from lab assumptions. This rental period is smart engineering, not just clever PR.
+At first glance, making a Class A available to rent before it's for sale sounds like a marketing play. I don't think that's the whole story. Entegra is using THL's rental fleet as a real-world test environment, collecting consumer data on how actual RVers use the rig, not how engineers imagine they will. Eight years of living in rigs has taught me that the gap between those two things is massive. How people manage charge stops, how they use shore power overnight, whether they're lean on the generator or heavy, all of that is genuinely different from lab assumptions. This rental period is smart engineering, not just clever PR.
 
 What surprised me was how narrow the window is. Units are in rental now, retail is expected in late 2026 or early 2027, and pricing is projected between $300,000 and $400,000. That means the feedback loop is tight. Entegra isn't collecting two years of data. They're collecting months.
 
 ## The Range Question, Answered Honestly
 
-The number one objection to EV RVs has always been range anxiety, and it's legitimate. A 125-mile ceiling isn't workable for full-[time travel](/best-rv-trip-planning-app-for-full-time-travel/). Period. The Embark's range extender changes the math in a way that previous EV RVs couldn't. Here's how it compares to what's been available:
+The number one objection to EV RVs has always been range anxiety, and it's legitimate. A 125-mile ceiling isn't workable for full-time travel. Period. The Embark's range extender changes the math in a way that previous EV RVs couldn't. Here's how it compares to what's been available:
 
 | Vehicle | Electric-Only Range | Total Range | Architecture |
 | --- | --- | --- | --- |

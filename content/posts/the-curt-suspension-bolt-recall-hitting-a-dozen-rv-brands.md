@@ -60,7 +60,7 @@ Recalls are a regular part of the RV ownership experience. Most of them are low-
 
 If your unit is on the list and your trip is this weekend, I'd call the dealer before you hitch up. The appointment might take a few days to get, and you'd rather know where you stand. If you're not affected, this is still a good reminder that suspension hardware is worth a look during your pre-trip walkthrough, especially on newer rigs where everything feels tight and you assume it's fine.
 
-The RV industry has a long history of supplier-level defects spreading faster than recall systems can track them. [This summer](/how-to-camp-by-rv-at-a-fifa-world-cup-host-city-this-summer/) is a clear example. Stay current on your VIN, keep your dealer contact info handy, and don't let a free fix go unscheduled because summer felt too busy.
+The RV industry has a long history of supplier-level defects spreading faster than recall systems can track them. This summer is a clear example. Stay current on your VIN, keep your dealer contact info handy, and don't let a free fix go unscheduled because summer felt too busy.
 
 ## Sources
 

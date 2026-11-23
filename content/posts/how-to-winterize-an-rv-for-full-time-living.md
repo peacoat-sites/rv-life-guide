@@ -1,5 +1,5 @@
 ---
-title: "Keep Your RV Livable Through Winter: The Essential Steps"
+title: "How to Winterize an RV for Full-Time Living"
 date: 2026-06-06T20:05:28.667856+00:00
 draft: false
 description: "Stay comfortable and protected all winter long in your RV with our step-by-step guide covering insulation, pipe protection, heating systems, and essential cold-"
@@ -43,7 +43,7 @@ For rigs without a heated underbelly, or older builds where insulation has compr
 
 Pipe heating cables are the most reliable thing I've found. The Frost King 6-foot self-regulating cable (around $25 at Lowe's or Amazon) wraps around your water inlet and fresh water lines near the underbelly. Self-regulating is key. The cable draws more power when temperatures drop and backs off when it's warmer, so you're not running it full blast 24/7. I've also had good luck with the Camco TastePURE heated water hose (about $80-100), which stays flexible and unfrozen down to -20°F. Worth every dollar if you're on city water hookups.
 
-Your holding tanks are different. Gray and [black tanks will freeze](/rv-black-tank-treatment/) if temps stay below 20°F for more than a couple days. Tank heater pads like the Facon brand 12V pads (about $30 each) stick directly to the tank and pull from your 12V system. They work, but they also draw constant power, which matters if you're off-grid.
+Your holding tanks are different. Gray and black tanks will freeze if temps stay below 20°F for more than a couple days. Tank heater pads like the Facon brand 12V pads (about $30 each) stick directly to the tank and pull from your 12V system. They work, but they also draw constant power, which matters if you're off-grid.
 
 One more thing people overlook: your water pump. If you're dry camping and your fresh tank is inside or insulated, the pump itself is usually fine. But the lines from the pump to your fixtures can still freeze in the cabinet spaces. Leaving cabinet doors under sinks open overnight lets ambient cabin heat reach those lines.
 

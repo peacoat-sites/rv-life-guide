@@ -33,7 +33,7 @@ Bureau of Land Management land covers roughly 245 million acres across the Ameri
 
 The freedom is real. But people confuse "open" with "easy."
 
-BLM land is not a campground. There are no hookups, no [dump stations](/boondocking-without-hookups/), no camp hosts. Cell service is often nonexistent. Roads can shift from passable to genuinely dangerous after a single rainstorm. The land doesn't care about your timeline or your slide-out. The agency's general rule is 14 consecutive days in one area, after which you must move at least 25 miles before returning. Some field offices have tighter restrictions, and a few high-demand areas like southern Utah's BLM corridor near Moab run seasonal closures.
+BLM land is not a campground. There are no hookups, no dump stations, no camp hosts. Cell service is often nonexistent. Roads can shift from passable to genuinely dangerous after a single rainstorm. The land doesn't care about your timeline or your slide-out. The agency's general rule is 14 consecutive days in one area, after which you must move at least 25 miles before returning. Some field offices have tighter restrictions, and a few high-demand areas like southern Utah's BLM corridor near Moab run seasonal closures.
 
 Here's where most guides get it wrong: people assume "BLM land" is one uniform policy. It's not. Each BLM field office sets its own specific rules, and those rules can vary dramatically from county to county. Before you leave your driveway, you need the specific field office number for where you're headed, not just a generic BLM website search.
 

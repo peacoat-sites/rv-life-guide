@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You pull up to a wide, flat mesa in southern Utah. Cut the engine. The only sound left is wind. No host. No fee envelope. No neighbor with a generator running at 11 p.m. Your spot costs zero dollars, and you can stay 14 days. That's boondocking. Once you've done it, paying $60 a night for a packed campground starts to feel almost criminal.
 
-Boondocking (also called dispersed camping or dry camping) means setting up on public land with no hookups, no fees, and usually no one within miles. Millions of RVers do it yearly on Bureau of Land Management land, National Forest land, and scattered other public areas. When it works, you [slash your camping costs](/how-much-does-rv-life-cost/) while finding views no commercial campground can touch. When it doesn't, you wake up to dead batteries, empty tanks, and a full gray tank on day two.
+Boondocking (also called dispersed camping or dry camping) means setting up on public land with no hookups, no fees, and usually no one within miles. Millions of RVers do it yearly on Bureau of Land Management land, National Forest land, and scattered other public areas. When it works, you slash your camping costs while finding views no commercial campground can touch. When it doesn't, you wake up to dead batteries, empty tanks, and a full gray tank on day two.
 
 This guide covers the actual mechanics of making it work.
 

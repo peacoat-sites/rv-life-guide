@@ -48,11 +48,11 @@ Here is what full-time RVers who avoid catastrophic breakdowns have learned.
 | Coachmen | Leprechaun, Viking | Poor | Entry-level | Built to price; thin walls, early component failure |
 | Fleetwood | Bounder, Discovery | Inconsistent | Varies | Some loyal fans; highly variable quality control by run |
 
-**Airstream** sits at the top of most experienced RVers' lists, and there are legitimate reasons for that. Their aluminum shell construction is genuinely different from the fiberglass-over-wood-frame approach that most manufacturers use. Wood rots. Aluminum doesn't. The bones of a well-maintained 1980s Airstream are still solid today, which says something real about the design philosophy. Their travel trailers, particularly the Classic and International lines, hold up under [full-time use](/full-time-rv-living-guide/) better than almost anything else in the towable category.
+**Airstream** sits at the top of most experienced RVers' lists, and there are legitimate reasons for that. Their aluminum shell construction is genuinely different from the fiberglass-over-wood-frame approach that most manufacturers use. Wood rots. Aluminum doesn't. The bones of a well-maintained 1980s Airstream are still solid today, which says something real about the design philosophy. Their travel trailers, particularly the Classic and International lines, hold up under full-time use better than almost anything else in the towable category.
 
 The tradeoff is cost: a new 28-foot Airstream International runs around $90,000 to $110,000, and even used models stay expensive. You'll also sacrifice some interior square footage compared to competitors at the same price point.
 
-**Winnebago** has quietly rebuilt its reputation over the past decade after some rough years in the early 2000s. Their Travato and Revel van conversions get high marks from the [van-life community](/full-time-rv-living-vs-van-life-pros-and-cons/) for thoughtful design and build quality. The Adventurer and Sunstar Class A lines have improved consistency. Winnebago also owns Grand Design, which brings me to the next name worth knowing.
+**Winnebago** has quietly rebuilt its reputation over the past decade after some rough years in the early 2000s. Their Travato and Revel van conversions get high marks from the van-life community for thoughtful design and build quality. The Adventurer and Sunstar Class A lines have improved consistency. Winnebago also owns Grand Design, which brings me to the next name worth knowing.
 
 **Grand Design** is the most interesting reliability story in recent RV history. Founded in 2012 by former Jayco executives, they built a reputation almost entirely on customer service and build quality improvements. Their Solitude fifth wheel line and Reflection travel trailers consistently score high in owner satisfaction surveys. iRV2 forums and RV Talk community threads light up with Grand Design owners who are genuinely satisfied, which is rare enough to notice. They were acquired by Winnebago in 2016 but have remained largely operationally independent, and so far quality hasn't slipped the way it sometimes does post-acquisition.
 
@@ -70,7 +70,7 @@ Being honest here matters more than being diplomatic.
 
 **Fleetwood** once meant something in this industry. Today, as a Thor brand, the name carries less assurance than it did 20 years ago. Their Bounder and Discovery lines have die-hard fans, and some units are great. But quality control varies wildly by production run and model year. A 2021 Bounder from one quarter might be notably better built than one from the next quarter.
 
-I don't say any of this to doom-scroll. I say it because knowing which brands to scrutinize harder during a [pre-purchase inspection](/rv-buying-checklist/), and which ones deserve more trust, is genuinely useful information.
+I don't say any of this to doom-scroll. I say it because knowing which brands to scrutinize harder during a pre-purchase inspection, and which ones deserve more trust, is genuinely useful information.
 
 ## How to Evaluate Any RV's Reliability Before You Buy
 

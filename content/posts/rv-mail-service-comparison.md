@@ -70,7 +70,7 @@ The base monthly fee is not your real cost. Forwarding is where the math shifts.
 
 If you get mail forwarded once a month (a common pattern for full-timers), and you've got a mix of letters and a package or two, you're realistically looking at $15-25 per forwarding plus postage. Most services charge for the weight and the service fee separately. A box I had forwarded from Traveling Mailbox in April this year: 3.2 lbs, Priority Mail, cost me $21.40 including the $4 service fee. That's not unreasonable, but if you're forwarding twice a month, you're adding $400-500 a year in forwarding costs alone on top of the subscription.
 
-Scenario 1: Light mail user, one forward [per month](/how-much-does-rv-life-cost/), Escapees base plan.
+Scenario 1: Light mail user, one forward per month, Escapees base plan.
 Cost breakdown: $144/year subscription + ~$240 forwarding = roughly $384/year total.
 
 Scenario 2: Active mail user, two forwards per month, some packages, Traveling Mailbox.

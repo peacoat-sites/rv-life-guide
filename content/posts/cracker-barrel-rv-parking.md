@@ -48,7 +48,7 @@ Park away from the restaurant entrance. This matters more than anything else on 
 
 Buy something. Dinner, breakfast, or both. This isn't a toll, but it's the right move. Cracker Barrel feeds you reasonably well for the money, the coffee is solid at 6 AM, and you're maintaining an unwritten social contract that keeps this option available for the next person. Managers remember the rigs that didn't buy a cup of coffee and left trash in the lot.
 
-Don't run your generator past 10 PM. This is common sense everywhere, but especially here because you're in a commercial parking lot with families coming and going. If you need power, sort it before dark. A decent [lithium battery setup](/rv-lithium-battery-upgrade/) handles one night easily without any generator time. (My current setup runs on a 200Ah Battle Born bank that I monitor with a Victron BMV-712, and I haven't needed to run the generator overnight in over two years.)
+Don't run your generator past 10 PM. This is common sense everywhere, but especially here because you're in a commercial parking lot with families coming and going. If you need power, sort it before dark. A decent lithium battery setup handles one night easily without any generator time. (My current setup runs on a 200Ah Battle Born bank that I monitor with a Victron BMV-712, and I haven't needed to run the generator overnight in over two years.)
 
 Leave before 8 AM. The morning breakfast rush at Cracker Barrel is real and they need that parking. Clearing out by 7:30 keeps you invisible and welcome.
 

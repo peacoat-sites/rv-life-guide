@@ -36,7 +36,7 @@ There is. It costs about $12.
 
 ## Why the Pressure Problem Is Worse Than You Think
 
-The RV Industry Association reports that fresh water system failures are among the most common warranty and repair claims submitted in the first three years of RV ownership. Common failures include burst [water heater](/rv-water-heater-troubleshoot/) bypass valves, leaking quick-connect fittings, and cracked plastic manifolds. According to Watts Water Technologies, residential plumbing is typically rated to 80 PSI as a safe maximum, but RV-grade plastic fittings and push-in connectors are often only tested to 45-60 PSI. Municipal campground supplies frequently run between 60 and 120 PSI depending on the park's supply line and whether they bother to regulate at the pedestal (many do not).
+The RV Industry Association reports that fresh water system failures are among the most common warranty and repair claims submitted in the first three years of RV ownership. Common failures include burst water heater bypass valves, leaking quick-connect fittings, and cracked plastic manifolds. According to Watts Water Technologies, residential plumbing is typically rated to 80 PSI as a safe maximum, but RV-grade plastic fittings and push-in connectors are often only tested to 45-60 PSI. Municipal campground supplies frequently run between 60 and 120 PSI depending on the park's supply line and whether they bother to regulate at the pedestal (many do not).
 
 Campground pressure often varies significantly within the same park depending on time of day and how many sites are drawing water simultaneously. An RVIA technical bulletin on RV plumbing standards confirms that manufacturers build systems to a working pressure of 45 PSI with surge protection only to about 80 PSI. Anything above that is borrowed time.
 
@@ -67,7 +67,7 @@ Connect your pressure regulator directly to the campground spigot, before your h
 
 Real scenario: A reader named Greta emailed me earlier this year from a park in Quartzsite (peak season, notoriously high-pressure municipal supply there). She'd been getting micro-leaks at three different connection points and couldn't figure out why. She tested her campground pressure with a simple [water pressure gauge](https://www.amazon.com/s?k=water+pressure+gauge+garden+hose&tag=contentportfo-20) and got 94 PSI. Ninety-four. She added a Watts LF263A set to 50 PSI. Leaks stopped within the week as fittings re-seated at appropriate pressure. That's not magic, that's just physics.
 
-Another scenario: My neighbor at a [state park](/california-just-banned-ghost-campers-here-is-what-rvers-need-to-know/) in Missouri had a flow-through Camco that was two seasons old. He was getting about 28 PSI at his shower. He assumed the park had low pressure. The park measured 72 PSI at his pedestal. His regulator diaphragm had worn and was restricting flow even in the "open" position. Replaced it with a new $13 unit. Pressure jumped to 48 PSI immediately.
+Another scenario: My neighbor at a state park in Missouri had a flow-through Camco that was two seasons old. He was getting about 28 PSI at his shower. He assumed the park had low pressure. The park measured 72 PSI at his pedestal. His regulator diaphragm had worn and was restricting flow even in the "open" position. Replaced it with a new $13 unit. Pressure jumped to 48 PSI immediately.
 
 ## What About Winterizing and Storage?
 

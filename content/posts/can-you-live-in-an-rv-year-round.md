@@ -1,5 +1,5 @@
 ---
-title: "Living Full-Time in an RV: What You Need to Know"
+title: "Can You Live in an RV Year Round? What to Know"
 date: 2026-11-22T21:51:53.214395+00:00
 draft: false
 description: "Explore the realities of year-round RV living, including costs, challenges, legal considerations, and practical tips for making it work long-term."
@@ -25,7 +25,7 @@ faqs:
     a: "A common baseline recommendation from experienced full-timers is 400 watts of solar panels paired with 200 amp-hours of lithium (LiFePO4) battery storage. That'll handle lighting, phone charging, a laptop, and a 12V refrigerator in moderate sun. Running a residential fridge, air conditioning, or any high-draw appliance off-grid requires substantially more capacity."
 ---
 
-Yes, you can live in an RV year-round. Hundreds of thousands of people do it [right now](/why-right-now-is-a-rare-buyers-market-for-rvs/), full-time, across every climate and region of North America. The harder question is whether *you* should, and what it'll actually cost you, break down on you, and demand from you over the long haul.
+Yes, you can live in an RV year-round. Hundreds of thousands of people do it right now, full-time, across every climate and region of North America. The harder question is whether *you* should, and what it'll actually cost you, break down on you, and demand from you over the long haul.
 
 This isn't the life the Instagram reels show. It's also not the nightmare that skeptical family members predict. It's somewhere more complicated and, for the right person, genuinely good.
 

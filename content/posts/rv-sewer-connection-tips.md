@@ -1,5 +1,5 @@
 ---
-title: "Stop Making These RV Sewer Mistakes Today"
+title: "RV Sewer Connection Tips to Avoid Costly Mistakes"
 date: 2026-05-25T15:57:54.307162+00:00
 draft: false
 description: "Learn essential RV sewer connection tips to avoid leaks and odors. Discover the right hoses, fittings, and step-by-step techniques for a clean, hassle-free dump"
@@ -82,7 +82,7 @@ Step-by-step matters here because the sequence is not obvious, and doing it back
 
 **Step 9: Disconnect hose from pedestal end first.** Cap your rig-side fitting before removing it from your RV. Then drain any residual water out of the hose by raising the rig end while holding the pedestal end down.
 
-**Step 10: Rinse your hose.** Most campgrounds have a dedicated [hose for this](/rv-dump-station-guide/). Use it. Don't use your drinking water hose to rinse sewer equipment. Store the hose in a dedicated sealed compartment, never near food storage or water supply.
+**Step 10: Rinse your hose.** Most campgrounds have a dedicated hose for this. Use it. Don't use your drinking water hose to rinse sewer equipment. Store the hose in a dedicated sealed compartment, never near food storage or water supply.
 
 ---
 

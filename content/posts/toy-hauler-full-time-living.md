@@ -26,7 +26,7 @@ faqs:
     a: "Overloading. Every single time. Get your rig weighed at a CAT Scale within the first month of full-timing, all tanks full, all gear loaded. If you're over axle ratings, you need to know before you're on a mountain pass, not after."
 ---
 
-Most full-time RVers you talk to will warn you away from toy haulers. Too heavy, they say. Too much wasted space. You're paying for a garage you'll never use. I believed that for the first three years I lived on the road, hauling around a standard fifth wheel and feeling smug about my floor plan. Then a blown [water heater](/rv-water-heater-troubleshoot/) in Tucson, a month in a cramped repair bay with no workspace and no place to put my tools, changed my mind fast.
+Most full-time RVers you talk to will warn you away from toy haulers. Too heavy, they say. Too much wasted space. You're paying for a garage you'll never use. I believed that for the first three years I lived on the road, hauling around a standard fifth wheel and feeling smug about my floor plan. Then a blown water heater in Tucson, a month in a cramped repair bay with no workspace and no place to put my tools, changed my mind fast.
 
 according to the RV Industry Association's 2025 market report, toy hauler shipments have grown 34% over the past four years, with a disproportionate share of that growth coming from buyers who don't own ATVs, motorcycles, or any traditional "toy" at all. They're buying the garage for the square footage, the second door, the ramp that doubles as a deck. Full-timers figured out what weekend warriors knew all along, that a dedicated multi-use space changes how livable an RV actually is.
 

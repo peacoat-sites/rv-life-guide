@@ -44,7 +44,7 @@ For example, a Class A purchased new in 2017 for $89,000 might fetch only around
 
 ## Depreciation by RV Type
 
-Not [all RVs](/new-shore-power-safety-rule-is-coming-for-all-new-rvs/) fall off the cliff at the same rate. Here's a realistic picture based on current market data and NADA valuations as of August 2026:
+Not all RVs fall off the cliff at the same rate. Here's a realistic picture based on current market data and NADA valuations as of August 2026:
 
 | RV Type | Avg. New Price | Year 1 Loss | Year 3 Value (% of new) | Year 5 Value (% of new) |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ Not [all RVs](/new-shore-power-safety-rule-is-coming-for-all-new-rvs/) fall off 
 | Travel Trailer | $15,000-$65,000 | 15-22% | 62-68% | 52-60% |
 | Toy Hauler | $30,000-$90,000 | 18-25% | 58-65% | 48-55% |
 
-The Class B ([camper van](/how-to-insulate-a-camper-van-for-winter-living/)) category has done something interesting over the past several years: resale values have stayed stronger than almost any other RV type. Partly that's the van life cultural moment, partly it's that they're easier to use as daily drivers, and partly it's that quality builders like Airstream and Winnebago have limited production on the most popular models. A used Airstream Interstate from 2021 is still pulling close to 70% of original MSRP in many markets right now. That's genuinely unusual.
+The Class B (camper van) category has done something interesting over the past several years: resale values have stayed stronger than almost any other RV type. Partly that's the van life cultural moment, partly it's that they're easier to use as daily drivers, and partly it's that quality builders like Airstream and Winnebago have limited production on the most popular models. A used Airstream Interstate from 2021 is still pulling close to 70% of original MSRP in many markets right now. That's genuinely unusual.
 
 ## What Actually Accelerates Depreciation
 

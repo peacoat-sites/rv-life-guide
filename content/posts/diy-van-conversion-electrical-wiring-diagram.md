@@ -1,5 +1,5 @@
 ---
-title: "Wire Your Van Right: Complete Electrical Conversion Guide"
+title: "DIY Van Conversion Electrical Wiring Diagram Guide"
 date: 2026-07-03T20:09:12.430271+00:00
 draft: false
 description: "Learn how to wire a DIY van conversion with our comprehensive electrical diagram guide. Step-by-step instructions for safe, reliable 12V and 240V systems."
@@ -65,7 +65,7 @@ For example, if an inverter cable runs 40 feet with the breaker placed at the in
 
 This is where a lot of diagrams get messy. You don't want your alternator backfeeding into your [solar controller](/how-to-set-up-rv-solar-power-system-step-by-step/), and you don't want your shore power charger and your solar setup fighting each other at 2 AM.
 
-A battery isolator or split-charge relay solves this. It's a box that sits between your alternator and your battery bank. When the engine's running, it connects the two. When you're parked, it disconnects them. Same with a solar charger. The standard move is to run each charge source (alternator, solar, [shore power charger](/rv-electric-hookup-30-amp-50-amp/)) through its own controller or breaker, and they all feed into a common battery bank. The controllers talk to each other, more or less. The solar controller "knows" the battery is already charging from shore power and backs off. This is actually built into most modern charge controllers, but your diagram should show it explicitly.
+A battery isolator or split-charge relay solves this. It's a box that sits between your alternator and your battery bank. When the engine's running, it connects the two. When you're parked, it disconnects them. Same with a solar charger. The standard move is to run each charge source (alternator, solar, shore power charger) through its own controller or breaker, and they all feed into a common battery bank. The controllers talk to each other, more or less. The solar controller "knows" the battery is already charging from shore power and backs off. This is actually built into most modern charge controllers, but your diagram should show it explicitly.
 
 Here's where the diagram saves your life: if you don't sketch this out, you'll wire the alternator directly to the battery in one location, the solar to the battery in another, and the shore charger somewhere else entirely. Six months later, you have voltage spikes and a dead alternator. The diagram prevents this by forcing you to decide: one entry point for all charge sources, or individual entry points with proper isolation devices at each one?
 

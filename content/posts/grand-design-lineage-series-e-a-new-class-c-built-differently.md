@@ -46,7 +46,7 @@ What's in the 30DC is genuinely well-considered for people who actually live in 
 | Lithium battery | 310 Ah Lithionics |
 | Generator | 6KW NPS |
 
-The induction cooktop signals something. Propane-free cooking means no propane system to maintain and no propane safety concerns in enclosed spaces. Paired with 310 Ah of Lithionics lithium (a quality battery brand, not a generic cell pack), the electrical system is clearly designed for people who camp [without hookups](/boondocking-without-hookups/) regularly. The 6KW generator backs that up when solar or shore power isn't available.
+The induction cooktop signals something. Propane-free cooking means no propane system to maintain and no propane safety concerns in enclosed spaces. Paired with 310 Ah of Lithionics lithium (a quality battery brand, not a generic cell pack), the electrical system is clearly designed for people who camp without hookups regularly. The 6KW generator backs that up when solar or shore power isn't available.
 
 The 43-gallon gray tank is actually bigger than the fresh [water tank](/rv-water-tank-management/), which is the right call. Running out of gray capacity before fresh water is one of the more annoying constraints in everyday RV living, and most manufacturers get this backwards.
 
@@ -60,7 +60,7 @@ The real test is warranty service. Grand Design's towable dealer network is exte
 
 ## What's Missing: No Price, No Track Record
 
-No MSRP has been announced. For a rig with a FOX suspension, Lithionics lithium, a residential refrigerator, and a Ford E-450 chassis, a reasonable guess is somewhere north of $120,000, possibly well north. The market will tell us soon enough, but walking into a dealership [right now](/why-right-now-is-a-rare-buyers-market-for-rvs/) means you're negotiating without a baseline, which is a weak position to be in. Wait a few weeks for transaction prices to surface in owner forums before you sit down with a salesperson.
+No MSRP has been announced. For a rig with a FOX suspension, Lithionics lithium, a residential refrigerator, and a Ford E-450 chassis, a reasonable guess is somewhere north of $120,000, possibly well north. The market will tell us soon enough, but walking into a dealership right now means you're negotiating without a baseline, which is a weak position to be in. Wait a few weeks for transaction prices to surface in owner forums before you sit down with a salesperson.
 
 There's also no track record. Grand Design built excellent towables and earned a loyal following in that space. Motorhomes are manufactured differently, serviced differently, and used differently. The FOX suspension and Lithionics batteries suggest they hired people who understand motorized RVs, not just people who understand Grand Design towables. But that's an inference, not a guarantee. The first production year of any new-to-motorized brand will reveal things no spec sheet predicts. Buy in 2027 and you'll know a lot more.
 
