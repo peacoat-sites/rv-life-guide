@@ -46,7 +46,7 @@ Third, the Canadian Snowbird Visa Act. This legislation would extend the allowab
 
 ## What This Means for American Full-Timers
 
-I've been doing this eight years. The parks that used to be near-impossible to book by August, Bentley Village in Nokomis, Ringling area resorts, the big age-55-plus communities around Mesa and Chandler, those are showing availability. Not fire-sale availability, not yet. But the "sold out by Labor Day" reality that defined the last several winters is softening.
+The parks that used to be near-impossible to book by August, Bentley Village in Nokomis, Ringling area resorts, the big age-55-plus communities around Mesa and Chandler, are showing availability. Not fire-sale availability, not yet. But the "sold out by Labor Day" reality that defined recent winters is softening.
 
 If you've wanted to try a structured 55-plus resort, this is the year to make calls instead of waiting to get on waiting lists. The calculus has shifted from "who do I know to get a spot" to "what's your monthly rate." Park owners who were turning people away two years ago are now actively courting American full-timers. Some are quietly offering incentives they wouldn't have touched in 2023.
 
