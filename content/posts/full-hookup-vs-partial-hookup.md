@@ -79,7 +79,7 @@ The parks that offer partial-only are often the best parks. State parks, county 
 
 I've stayed at partial sites in the Smokies, the Columbia River Gorge, and northern Michigan where I wouldn't have traded the location for all the sewer connections in Texas. The dump station was on-site. Problem solved in ten minutes every few days.
 
-The practical management toolkit for partial: a quality water filter like the Camco TastePURE inline filter (around $28 on Amazon -- [the site may earn a commission on that link](https://www.amazon.com)), a tank treatment like Unique RV Digest-It instead of blue chemical maskers, and knowledge of your tank capacities. Know your numbers before you need them.
+The practical management toolkit for partial: a quality water filter like the Camco TastePURE inline filter (around $28 on Amazon, [the site may earn a commission on that link](https://www.amazon.com)), a tank treatment like Unique RV Digest-It instead of blue chemical maskers, and knowledge of your tank capacities. Know your numbers before you need them.
 
 Scenario: Solo full-timer, one year on partial water + 30-amp sites exclusively, 2024-2025 → Tracked every dump station visit → Averaged 2.3 dump station trips per week → Total time at dump stations for the year: roughly 48 hours → Total savings vs. equivalent full hookup sites: approximately $2,200. Her conclusion (she's a reader who sent me a spreadsheet, I love this community): the time cost was acceptable, the money was significant.
 

@@ -80,7 +80,7 @@ Some people genuinely thrive in that environment. I've met work campers who've b
 
 The couples dynamic is also real. If one partner is significantly more social or more mechanically inclined than the other, the work often drifts toward the person who handles it better, which creates friction. Worth talking about before you sign a contract.
 
-One practical note: if you're doing this long-term, a good surge protector is non-negotiable when you're plugged into a campground pedestal for months at a time. A quality surge protector like the Progressive Industries EMS-PT30C (around $270) can protect against voltage spikes from aging campground electrical systems. ([Check current pricing on Amazon](https://www.amazon.com/s?k=progressive+industries+ems+surge+protector+rv&tag=contentportfo-20) -- the site may earn a commission on purchases.) Same logic applies to a quality water filter if you're on hookups for an extended stay. Municipal water quality varies more than most people realize.
+One practical note: if you're doing this long-term, a good surge protector is non-negotiable when you're plugged into a campground pedestal for months at a time. A quality surge protector like the Progressive Industries EMS-PT30C (around $270) can protect against voltage spikes from aging campground electrical systems. ([Check current pricing on Amazon](https://www.amazon.com/s?k=progressive+industries+ems+surge+protector+rv&tag=contentportfo-20), the site may earn a commission on purchases.) Same logic applies to a quality water filter if you're on hookups for an extended stay. Municipal water quality varies more than most people realize.
 
 ---
 

@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Three years into full-timing, I nearly blew through a red light with 14,000 pounds of trailer pushing my truck from behind. I had a brake controller installed. It just wasn't set up right. That moment -- a long screech, white knuckles, a lot of adrenaline on a Colorado highway -- is why I talk about brake controllers the way some people talk about seatbelts.
+Three years into full-timing, I nearly blew through a red light with 14,000 pounds of trailer pushing my truck from behind. I had a brake controller installed. It just wasn't set up right. That moment, a long screech, white knuckles, a lot of adrenaline on a Colorado highway, is why I talk about brake controllers the way some people talk about seatbelts.
 
 If you're here, you might be wondering whether you actually need one, which one to buy, or why the one you have isn't doing what it's supposed to. All valid questions. Let me walk you through what I actually know.
 

@@ -94,7 +94,7 @@ My honest take after 6 years full-timing: I'd almost always buy a used unit that
 
 Even before you drive off the lot, there are a handful of items that aren't optional. Not comfort items. Safety items.
 
-A **surge protector** for shore power is non-negotiable. Campground pedestals can deliver low voltage, high voltage, or mis-wired power that will fry your converter, your appliances, and your air conditioner. A Progressive Industries EMS-PT30C or EMS-PT50C (depending on whether you have a 30-amp or 50-amp rig) monitors incoming power and cuts the connection if something's wrong. [Check current pricing on Amazon](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20) -- it'll run $200 to $350 but could easily save you $3,000 in electronics.
+A **surge protector** for shore power is non-negotiable. Campground pedestals can deliver low voltage, high voltage, or mis-wired power that will fry your converter, your appliances, and your air conditioner. A Progressive Industries EMS-PT30C or EMS-PT50C (depending on whether you have a 30-amp or 50-amp rig) monitors incoming power and cuts the connection if something's wrong. [Check current pricing on Amazon](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20), it'll run $200 to $350 but could easily save you $3,000 in electronics.
 
 **Leveling blocks** matter the moment you pull into a site that isn't flat, which is most sites. Camco makes a set of stackable plastic blocks that handle most situations. [Grab a set before you leave the driveway](https://www.amazon.com/s?k=rv+leveling+blocks+camco&tag=contentportfo-20).
 

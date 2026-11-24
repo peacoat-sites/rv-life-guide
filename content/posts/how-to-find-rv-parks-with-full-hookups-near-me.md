@@ -34,7 +34,7 @@ Finding parks with genuine full hookups (water, 30/50-amp electric, sewer at you
 
 ## What "Full Hookups" Actually Means (and Doesn't)
 
-I made this mistake early on. I thought "full hookups" was a standardized industry term. It's not. There's no federal or state definition that parks are legally required to follow. A park in the Florida panhandle told me they had "full hookups" -- what they had was 20-amp electric, water, and a sewer stub that required a 90-degree adapter I didn't own. My fault for not asking specifically, but also: the listing should have been clearer.
+I made this mistake early on. I thought "full hookups" was a standardized industry term. It's not. There's no federal or state definition that parks are legally required to follow. A park in the Florida panhandle told me they had "full hookups", what they had was 20-amp electric, water, and a sewer stub that required a 90-degree adapter I didn't own. My fault for not asking specifically, but also: the listing should have been clearer.
 
 The version you want is 50-amp electric (if you have dual A/C or a large rig), water at the pedestal, and a [sewer connection](/rv-sewer-connection-tips/) at your site. When you call or check a listing, ask those three questions separately. "Do you have full hookups?" will get you a yes every time. "Is there a sewer connection at each site?" sometimes gets you a pause.
 

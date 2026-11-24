@@ -32,7 +32,7 @@ RVShare's 2026 regulation roundup confirmed this dynamic clearly: the regulation
 
 ## What You Can Actually Do Right Now
 
-Here's what I tell people who come to me in affected states with real buying plans. Your options aren't gone. They're just different.
+Here's what to know if you're in an affected state with real buying plans. Your options aren't gone. They're just different.
 
 | Option | Available in Affected States? | Key Limitation |
 |---|---|---|

@@ -69,7 +69,7 @@ That global number is where iOverlander wins decisively. If you're planning anyt
 
 A few things in that table need a word of explanation. The offline maps situation is important if you camp where you lose signal before you reach the site, which is most of the good spots. iOverlander's offline capability is genuinely free, which is a meaningful advantage. iOverlander's offline maps work reliably even after several days without cell signal. Campendium's offline feature requires the premium subscription, but $35.99 a year is not exactly breaking the bank if you use the app regularly.
 
-The road condition notes gap is worth flagging for truck-camper and van people specifically. iOverlander's community is much more likely to leave detailed notes about "requires high clearance past the second wash" or "gate is locked November through April." Campendium reviews trend toward "beautiful spot, very quiet" -- more lifestyle, less logistics.
+The road condition notes gap is worth flagging for truck-camper and van people specifically. iOverlander's community is much more likely to leave detailed notes about "requires high clearance past the second wash" or "gate is locked November through April." Campendium reviews trend toward "beautiful spot, very quiet", more lifestyle, less logistics.
 
 ## How I actually use them together
 

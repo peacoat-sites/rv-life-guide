@@ -76,7 +76,7 @@ Trailers get registered differently than motorized RVs. In South Dakota, trailer
 
 ## What Can Go Wrong
 
-Here's a scenario worth thinking through: you establish South Dakota domicile, register everything, and then you spend six months parked in California because your kid lives there and you want to be close. California has an aggressive policy about vehicles "used predominantly in California" -- they consider 90+ days of continuous presence as establishing California residency for vehicle purposes, and they can come after you for back registration fees and taxes.
+Here's a scenario worth thinking through: you establish South Dakota domicile, register everything, and then you spend six months parked in California because your kid lives there and you want to be close. California has an aggressive policy about vehicles "used predominantly in California", they consider 90+ days of continuous presence as establishing California residency for vehicle purposes, and they can come after you for back registration fees and taxes.
 
 This isn't just theoretical. California has a non-resident vehicle use enforcement program, and they do audit. The practical answer is: keep moving, document your travel, and don't treat a single state as your de facto home base even if you love it. Full-time RVing means full-time moving, at least enough to maintain your domicile legally.
 

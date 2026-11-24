@@ -44,7 +44,7 @@ So let's get into it.
 
 You might be wondering whether you need a specific "digital nomad job" or whether your current career could translate. Start with what you already know. The fastest path to remote income is almost always a remote version of something you've done before.
 
-Not every remote job works equally well from an RV, though. The real filter isn't "can I do this remotely" -- it's "can I do this with variable internet, across time zones, and without a dedicated office." Some jobs that look great on paper fall apart in practice.
+Not every remote job works equally well from an RV, though. The real filter isn't "can I do this remotely", it's "can I do this with variable internet, across time zones, and without a dedicated office." Some jobs that look great on paper fall apart in practice.
 
 **Software development** is the gold standard. I'll be honest about why: it's largely asynchronous, it pays well enough to cover RV expenses without white-knuckling a budget, and most companies have been set up for distributed teams for years. A mid-level developer pulls $90,000-$130,000 depending on the stack. There's enough demand that you can be picky about companies that don't require you on video at specific hours.
 
@@ -54,7 +54,7 @@ Not every remote job works equally well from an RV, though. The real filter isn'
 
 **Bookkeeping and accounting** travel well. QuickBooks Online, Xero, and similar cloud platforms mean you genuinely need nothing but a laptop and decent internet. Intuit's QuickBooks ProAdvisor certification is free and can open doors faster than most credentials I've seen. Independent bookkeepers typically charge $30-$75/hour depending on specialization.
 
-**Customer success and support roles** -- I'd pump the brakes a little here. Many of them require you to be available during specific business hours, tied to a queue, on video, with low background noise. Some campgrounds are loud. Some are not. If you're going this route, look for support roles at smaller companies where there's more flexibility. Be honest in interviews about your setup. I've heard from several readers who got burned by accepting roles with rigid "camera on, no background noise" policies and then struggled all summer.
+**Customer success and support roles**, I'd pump the brakes a little here. Many of them require you to be available during specific business hours, tied to a queue, on video, with low background noise. Some campgrounds are loud. Some are not. If you're going this route, look for support roles at smaller companies where there's more flexibility. Be honest in interviews about your setup. I've heard from several readers who got burned by accepting roles with rigid "camera on, no background noise" policies and then struggled all summer.
 
 **Online teaching and tutoring** has exploded. VIPKid lost a lot of its appeal when China changed its tutoring laws in 2021, but platforms like Outschool, Wyzant, and Preply have picked up the slack. If you have a teaching background or strong subject knowledge, you can set your own schedule, which is exactly what you need. ESL teaching through iTalki or similar platforms pays $15-$40/hour depending on your credentials and student base.
 
