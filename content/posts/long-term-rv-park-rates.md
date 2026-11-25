@@ -106,15 +106,3 @@ Many people sign seasonal leases only to regret the decision within a month beca
 **Quiet hours and pet policies.** If you have dogs, confirm size and breed limits upfront. Many parks have breed restrictions and some cap pets at two. Find this out before you're in a lease.
 
 **Cell signal and WiFi.** Park-provided WiFi is usually terrible for working remotely. Check signal strength from the actual site for your carrier before you commit.
-
-## Sources
-
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-- [solar panel system](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
-- [water filtration system](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

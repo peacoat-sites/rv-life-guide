@@ -105,10 +105,7 @@ Medications are another challenge. If you get regular prescriptions, switch to a
 
 ## Sources
 
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector)
-- [water filter](https://www.amazon.com/s?k=rv+inline+water+filter)
 - [RDNE Stock project](https://www.pexels.com/@rdne)
-
 
 | Service | Best For | Price Range | State | Digital Scanning |
 |---|---|---|---|---|
@@ -121,8 +118,6 @@ Medications are another challenge. If you get regular prescriptions, switch to a
 The table doesn't capture one thing: the community aspect of services like Escapees. Forums, rallies, and a network of people who've solved every mail problem you're about to encounter. If you're new to the lifestyle, that social infrastructure matters. Pairing your mail setup with a solid overall plan is key. Our [full-time RV living guide](/full-time-rv-living-guide/) covers the financial, logistical, and lifestyle angles in depth.
 
 Also worth mentioning: when shopping for your rig, reliability matters as much as layout. You can read about [the most reliable RV brands](/best-rv-brands-reliability/) before you buy so you're not spending your forwarded mail budget on unexpected repairs.
-
-A good [surge protector](https://www.amazon.com/s?k=rv+surge+protector) and a quality [water filter](https://www.amazon.com/s?k=rv+inline+water+filter) are two of the first accessories most full-timers buy. The site may earn a small commission if you purchase through those links, at no extra cost to you.
 
 ---
 

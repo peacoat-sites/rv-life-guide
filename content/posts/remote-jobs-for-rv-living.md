@@ -94,9 +94,7 @@ If your new job classifies you as a W-2 employee, check whether your employer is
 
 ## Sources
 
-- [A battery monitor like the Renogy 500A Shunt Battery Monitor](https://www.amazon.com/s?k=renogy+battery+monitor&tag=contentportfo-20)
 - [Vitaly Gariev](https://www.pexels.com/@silverkblack)
-- remote work for two years before they ever take a single trip
 
 A lot of people doing remote work from an RV are trying to clear $4,000-$6,000/month after expenses and feel comfortable. That's achievable across most of the categories above, but it takes 6-18 months to build to in most cases, especially if you're going the freelance route.
 

@@ -31,9 +31,7 @@ Backing a fifth wheel is different from backing a travel trailer. The hitch sits
 
 I've been doing this since 2018. The [first time](/first-time-rv-trip-checklist/) I tried to back into a tight pull-through-that-actually-wasn't at a KOA outside Flagstaff, I put my rear truck bumper within four inches of my own slide-out. My spotter (a stranger, bless him) was yelling and I had no idea what his hand signals meant. We've all been there, or we will be.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Fifth wheels track more predictably than travel trailers, but mistakes happen faster due to sheer size.</li><li style="margin:5px 0">Always use a spotter with pre-agreed hand signals, not improvised gestures, before you move an inch.</li><li style="margin:5px 0">The "hand on bottom of steering wheel" trick lets you steer the trailer in the same direction you move your hand, trust this until it's instinct.</li><li style="margin:5px 0">Practice in an empty parking lot at least twice before attempting a real campsite.</li><li style="margin:5px 0">Most beginners fail not because of steering, but because they start their approach angle wrong.</li></ul></div>
-
 
 ## The Physics First
 
@@ -104,6 +102,5 @@ Leveling a fifth wheel for the night is its own topic, but for backing purposes:
 - Dometic/Lippert Component Engineering specs (2023-2026): Fifth-wheel hitch pivot geometry and kingpin placement data referenced for understanding hitch-over-axle turning dynamics.
 
 ---
-
 
 *Photo: [Matheus Bertelli](https://www.pexels.com/@bertellifotografia) via Pexels*

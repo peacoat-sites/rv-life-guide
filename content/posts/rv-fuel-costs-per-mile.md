@@ -110,11 +110,9 @@ The point isn't to discourage full-timing. Rather, many people run out of money 
 
 ## Sources
 
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-- [quality TPMS system](https://www.amazon.com/s?k=rv+tire+pressure+monitoring+system&tag=contentportfo-20)
 - [cottonbro studio](https://www.pexels.com/@cottonbro)
-- [Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)
-- [Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)
+
+## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

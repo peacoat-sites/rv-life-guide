@@ -103,19 +103,11 @@ Here's the honest setup I'd build if I were starting over, knowing what I know n
 
 ## Sources
 
-- [Renogy 200W solar panel](https://www.amazon.com/s?k=renogy+200w+solar+panel)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron)
-- [Progressive Industries EMS-PT30C](https://www.amazon.com/s?k=progressive+industries+ems+pt30c)
-- [inline water filter](https://www.amazon.com/s?k=inline+rv+water+filter)
-- [Andersen Camper Levelers](https://www.amazon.com/s?k=andersen+camper+levelers)
-
 You will feel small. Not metaphorically. Physically small. A Class B has somewhere between 65 and 100 square feet of living space. That's not a tiny house. That's a studio apartment without the "apartment" part. Some people adapt in two weeks. Others feel claustrophobic for months. There's no way to predict which camp you'll fall into without living it.
 
 Relationships get stress-tested. Couples living full-time in vans experience varying outcomes depending on how they manage the tight quarters. The van doesn't cause problems, but it removes every place you'd normally go to decompress. When you're angry at your partner, you can't go to another room. You can go outside, which helps, but it's raining in the Pacific Northwest six months a year.
 
 Maintenance will cost more than you expect and take longer than you expect. Sprinter repairs at a dealership run $180 to $250 per hour in labor. ProMaster work is cheaper and more widely available. Transit work is somewhere in the middle. Factor this in when choosing your platform.
-
-Internet is solvable but requires effort. Starlink now has an RV plan that runs around $150 a month and has genuinely changed the game for remote work. I pair it with a cellular backup through a [Netgear Nighthawk mobile hotspot](https://www.amazon.com/s?k=netgear+nighthawk+mobile+hotspot) for the dead zones where Starlink dishes take too long to acquire signal.
 
 ---
 

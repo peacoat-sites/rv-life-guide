@@ -121,19 +121,12 @@ But boondocking isn't entirely free. You'll use more propane (no electric hookup
 ## Sources
 
 - [Motor Vehicle Use Maps (MVUM)](https://www.fs.usda.gov/maps)
-- [100W flexible solar panel](https://www.amazon.com/s?k=rv+solar+panel+100w&tag=contentportfo-20)
-- [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
-- [quality inline water filter](https://www.amazon.com/s?k=camco+tastepure+water+filter+rv&tag=contentportfo-20)
-- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-
 
 Not all RVs boondock equally. A 45-foot diesel pusher with residential everything requires serious solar and battery investment. Smaller rigs have a natural advantage.
 
 Class B campervans are probably the best boondocking vehicles available. Compact. Easy to fit into dispersed sites. Small enough that power and water needs stay manageable. Our deep dive on [the best Class B vans for full-time living](/best-class-b-van-for-full-time/) covers top options in detail.
 
 A well-chosen travel trailer or Class C works excellently too. Look for large freshwater tanks (40+ gallons), decent solar prep, and battery compartment space for lithium upgrades. Our coverage of [the best travel trailers for full-time living](/best-travel-trailers-full-time/) highlights models actually built for extended off-grid use.
-
-Regardless of what you drive, a [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20) is essential when you hook to shore power. And if you're comparing options, our [Class A vs Class B vs Class C breakdown](/class-a-vs-class-b-vs-class-c-rv/) covers the trade-offs that matter for this lifestyle.
 
 ---
 

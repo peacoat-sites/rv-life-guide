@@ -111,20 +111,13 @@ If you're going solar, which I'd recommend evaluating for any serious RV use, fi
 
 ## Sources
 
-- [Camco leveling blocks](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20)
-- [on Amazon here](https://www.amazon.com/s?k=rv+surge+protector+progressive+industries&tag=contentportfo-20)
-- [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Ellie Burgin](https://www.pexels.com/@ellie-burgin-1661546)
-
 
 Stop looking at floor plans online and answer these three questions honestly.
 
 What do you already own or plan to buy as a tow vehicle? If you drive a Ford Expedition or a half-ton Ram 1500, you're probably in travel trailer territory unless you're budgeting for a new truck. If you already have a diesel F-250 or Ram 2500, a fifth wheel becomes financially reasonable.
 
 How long will you use it at a stretch? Weekend trips and two-week vacations work beautifully in a well-chosen travel trailer. Full-timing for months or years, especially with another person, makes the space separation and stability of a fifth wheel more valuable over time.
-
-What's your honest budget, all in? Add the rig, the hitch hardware, any tow vehicle upgrade, a surge protector, a water filter, leveling equipment, a [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) if you're going solar, *(affiliate link)* insurance, and a realistic breakdown fund of at least 10% of the rig's purchase price for year one. That total number is your real cost. It's almost always higher than the sticker on the lot.
 
 Nobody tells you before you buy that the first rig is often the learning rig. You figure out what you actually need after six months of living in something that's almost right. If there's any way to rent both a fifth wheel and a travel trailer for a few days each before committing, do it. A $400 rental can save you a $15,000 mistake. Take notes. Notice what annoys you at 6 a.m. That's the stuff that matters.
 

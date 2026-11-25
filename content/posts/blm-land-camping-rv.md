@@ -111,12 +111,6 @@ The practical takeaway: BLM developed areas like Cottonwood Cove in Nevada or th
 
 ## Sources
 
-- [quality inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-- [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=contentportfo-20)
-- easy. BLM
-
 "Free" BLM camping is real, but it's not cheap if you're not prepared.
 
 Fuel is the invisible cost. Moving every 14 days burns gas. A 35-foot Class A getting 8 mpg, driving 25 miles to a new site plus 60 miles round trip to town for water and supplies twice a week, burns $50 to $100 weekly on fuel alone. That's real money.
@@ -124,8 +118,6 @@ Fuel is the invisible cost. Moving every 14 days burns gas. A 35-foot Class A ge
 Repairs from rough roads are the other one nobody talks about. A corrugated dirt road at 20 mph will shake loose every cabinet latch, loosen connections, and stress your frame. I started doing a full walk-through inspection after every rough road drive: I check slide mechanisms, verify cabinet latches are intact, look under the rig at the frame and hitch, and check tire pressure. Alkaline desert roads are especially harsh on tires because of the sharp rock edges.
 
 Internet is a genuine challenge. If you work remotely, budget for a Starlink subscription or a solid cellular booster setup. T-Mobile Home Internet on an RV plan and Starlink RV cover most BLM areas I've camped in across Nevada, Arizona, and Oregon, but dead zones exist. Test your connection before you plan a workday around it.
-
-One more: [surge protectors](https://www.amazon.com/s?k=rv+surge-protector&tag=contentportfo-20) matter less in dispersed camping since there's no shore power, but if you're combining BLM nights with occasional campground hookups during your circuit, don't skip one. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

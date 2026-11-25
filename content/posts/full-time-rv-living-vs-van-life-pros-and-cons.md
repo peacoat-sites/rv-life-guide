@@ -100,10 +100,6 @@ If true off-grid capability matters to you, both setups require real investment.
 
 ## Sources
 
-- [leveling kit](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-- [gravity water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
-- [Victron SmartSolar MPPT controllers](https://www.amazon.com/s?k=victron+mppt+solar+controller&tag=contentportfo-20)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Charlie Seidowsky](https://www.pexels.com/@charlie-seidowsky-2154710744)
 
 Nobody in the comparison articles talks about this, and it matters.

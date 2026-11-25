@@ -127,10 +127,6 @@ The America the Beautiful Pass ($80/year as of 2024) is one of the best deals in
 
 ## Sources
 
-- [Progressive Industries EMS-PT30C or 50-amp equivalent](https://www.amazon.com/s?k=progressive+industries+rv+surge+protector&tag=contentportfo-20)
-- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20)
-- [Camco TastePURE water filter](https://www.amazon.com/s?k=camco+tastepure+rv+water+filter&tag=contentportfo-20)
-- [Lynx leveling blocks](https://www.amazon.com/s?k=lynx+leveling+blocks+rv&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
 
 The Instagram version skips the part where you're sitting in a Cracker Barrel parking lot at 8 a.m. trying to do a work call while the cats have knocked over a water glass onto your laptop. Real full-time RV living has texture.

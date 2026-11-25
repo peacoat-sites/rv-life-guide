@@ -95,5 +95,3 @@ Scenario: Before upgrading to lithium, I was running my Honda 4 to 5 hours per d
 ---
 
 *Photo: [Clément Proust](https://www.pexels.com/@clement-proust-363898785) via Pexels*
-
----

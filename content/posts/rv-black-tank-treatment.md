@@ -102,18 +102,11 @@ Where I'd push back on conventional wisdom: the obsessive focus on tissue type m
 ## Sources
 
 - [Camco's basic tank sensor cleaning solution](https://amzn.to/3fake)
-- [Valterra T1020-1 Swivel Stick](https://www.amazon.com/dp/B000EDPNQM)
-- [Thetford Aqua-Foam Toilet Treatment](https://www.amazon.com/dp/B000HHO7AC)
 - [Ana Benet](https://www.pexels.com/@ana-benet)
-- is somewhat mixed
 
 Don't use bleach in your black tank. I know it sounds like a good cleaner. It damages the seals, degrades sensors faster, and kills the biological activity you want if you're using enzyme treatments.
 
-Toilet bowl cleaners with bleach? Same problem. If you need to clean the bowl, use a product specifically rated as RV-safe. [Thetford Aqua-Foam Toilet Treatment](https://www.amazon.com/dp/B000HHO7AC) is the standard here, or plain white vinegar.
-
 Also, if you're in a humid, warm climate, odor rises through the toilet itself when the tank is sitting stagnant. This isn't a treatment failure, it's a venting issue. Make sure your roof vent cap is clear and functioning. Some people add a 360 Siphon vent cap (about $30 on Amazon) and report real improvement. I have one on my current rig and it made a noticeable difference during hot Texas summers.
-
----
 
 ---
 

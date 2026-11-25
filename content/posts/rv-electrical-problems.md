@@ -103,10 +103,6 @@ Scenario: Different situation, a full-time family in a 2020 Grand Design Solitud
 
 ---
 
----
-
-If you're shopping for some of the tools mentioned here, a few that I keep in my own bay: a [basic digital multimeter](https://www.amazon.com/), a [Progressive Industries surge protector](https://www.amazon.com/), and a [Victron BMV-712 battery monitor](https://www.amazon.com/) are the three things I'd buy before almost anything else. (The site may earn a small commission on purchases through these links, at no cost to you.)
-
 The electrical stuff will keep coming up. That's just RV life. But once you understand the logic of it, most problems stop being mysterious and start being just another thing you can handle yourself on a Tuesday afternoon at a campground in the middle of nowhere. Which, honestly, is a pretty good feeling.
 
 *Photo: [ranjeet .](https://www.pexels.com/@ranjeet-860714737) via Pexels*

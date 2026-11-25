@@ -95,8 +95,6 @@ One more thing: not everyone likes dogs. Even friendly, quiet dogs. Some campgro
 ## Sources
 
 - [Chewy's Connect With a Vet](https://www.chewy.com)
-- [This one from Tuff Mutt](https://www.amazon.com/s?k=hands+free+dog+leash)
-- [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter+camco)
 - [Oliver Wagenblatt](https://www.pexels.com/@oliver-wagenblatt-238537059)
 
 This is where I'll say something slightly unpopular: most full-timers don't properly restrain their dogs while driving. Including me for the first few years.

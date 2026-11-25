@@ -104,8 +104,4 @@ Keep photocopies of each cat's vaccination records in both physical form and in 
 
 ---
 
----
-
-*(This article contains Amazon affiliate links. As an Amazon Associate, the site may earn a small commission on purchases made through these links, at no extra cost to you.)*
-
 *Photo: [Sarah MP](https://www.pexels.com/@sarah-mp-21175108) via Pexels*

@@ -106,10 +106,6 @@ One thing that table can't capture: water and electrical systems are a major var
 
 ## Sources
 
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-- [Camco TastePURE inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [Progressive Industries surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
-- [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
 - [Bryan Mendez](https://www.pexels.com/@lightskiing)
 
 Don't start with the rig. Start with these questions.
@@ -119,8 +115,6 @@ Don't start with the rig. Start with these questions.
 **Step 2: Identify your camping style.** Do you stay in full-hookup RV resorts with pull-through sites, or do you want to boondock in the desert and hike in national forests? Class B opens up terrain that a 38-foot diesel pusher simply cannot reach.
 
 **Step 3: Be honest about driving anxiety.** Driving a large Class A through mountain switchbacks in Colorado is a real skill. If the idea of that genuinely scares you, don't buy a 40-footer to "get used to it." Get comfortable in something smaller first.
-
-**Step 4: Price out the full system.** A $120,000 Class A needs leveling blocks, a toad vehicle, tow bar equipment (budget $1,500 to $3,000 for a good setup), solar if you want boondocking capability, and almost certainly some immediate repairs on anything pre-owned. A $90,000 Class C on a newer Ford chassis might be a better financial picture when you run the full numbers. [Camco leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) are a $30 item you'll use every single day and should be in every rig.
 
 **Step 5: Spend a night in each class before you buy.** RVshare and Outdoorsy let you rent specific rigs. I'm serious about this. One night in a 24-foot Class C told me more than 40 hours of YouTube videos. Especially if you have a partner, you need to know if you can coexist in that space for more than a day.
 

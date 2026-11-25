@@ -128,8 +128,6 @@ Your gray tank can be dumped more frequently since it's less problematic, but do
 
 ## Sources
 
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
-- [water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
 - [Valeria Dominguez](https://www.pexels.com/@valeds79)
 
 The social rules around dump stations are real, and violating them will earn you dirty looks from people who've been RVing a lot longer than you.

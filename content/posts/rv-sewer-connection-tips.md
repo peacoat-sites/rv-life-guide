@@ -116,7 +116,6 @@ Backflow is less common but worth knowing about. If a heavy rainstorm fills the 
 
 ## Sources
 
-- [Check current prices on Amazon](https://www.amazon.com/s?k=camco+rhinoflex+sewer+hose&tag=contentportfo-20)
 - [Marta Wave](https://www.pexels.com/@marta-wave)
 
 | Factor | Dump Station | Full-Hookup Site |

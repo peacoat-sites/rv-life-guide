@@ -87,17 +87,11 @@ While you're thinking about the living-in-place setup: a [surge protector](https
 
 ## Sources
 
-- [compact laptop stand](https://www.amazon.com/s?k=portable+laptop+stand+adjustable)
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp)
-- [inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter+camco)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron)
 - [Dudubangbang Travel](https://www.pexels.com/@dudubangbang)
 
 Here's something nobody talks about enough: a bigger rig doesn't automatically mean more off-grid capability, but it usually means more roof for solar panels.
 
 A 35-foot fifth wheel can fit 1,200 watts of solar on the roof. A 22-foot travel trailer maxes out around 400-600 watts. That difference matters if you're boondocking regularly. More living space also means more appliances, more lights, more draw on your battery bank. It roughly balances out, but the bigger rig gives you more room to build a capable system.
-
-For serious off-grid full-timing, you want at minimum 400 amp-hours of lithium battery storage and 600+ watts of solar. A [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+victron) like the Victron BMV-712 (around $85-100) gives you real data instead of guessing. Most rigs come with useless factory battery gauges.
 
 If this is the direction you want to go, the Airstream Bambi 16 is the worst possible choice despite being beautifully built. The roof is curved and limited. The 40-foot Class A with a flat roof gives you a solar farm. Size the rig around your lifestyle first, then figure out energy.
 

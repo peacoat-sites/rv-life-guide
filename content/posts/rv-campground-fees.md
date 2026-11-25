@@ -114,10 +114,6 @@ Protecting your rig when you do arrive matters too. A quality [surge protector](
 
 ## Sources
 
-- [portable solar setup](https://www.amazon.com/s?k=rv+solar+panel+kit&tag=contentportfo-20)
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
-- [whole-house water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Yakup Polat](https://www.pexels.com/@yakup-polat-420882786)
 
 | Category | Private Park (Monthly) | BLM/Free Camping (Monthly) |
@@ -130,10 +126,6 @@ Protecting your rig when you do arrive matters too. A quality [surge protector](
 | Solar/battery investment | Not needed | $1,500 to $4,000 (upfront) |
 | **Monthly ongoing total** | **$780 to $900** | **$10 to $80** |
 
-The free camping column looks amazing until you factor in the upfront cost of a real solar system and large battery bank. I run a 400-watt panel setup with a 200Ah lithium battery and a [reliable battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20) to track my usage. That investment took about 18 months of free camping savings to break even. After that, it's pure benefit.
-
 Campground costs are the single line item in full-time RV budgets that catches people most off guard, and they keep climbing. The good news is that with some planning, the right memberships for your travel style, and honest self-assessment about what amenities you actually need, you can control this cost more than almost any other part of the lifestyle. I've camped for under $300 in a month and over $1,800 in a month, sometimes by choice and sometimes not. Knowing what drives those numbers is what keeps you on the right side of the budget.
 
 *Photo: [Yakup Polat](https://www.pexels.com/@yakup-polat-420882786) via Pexels*
-
----

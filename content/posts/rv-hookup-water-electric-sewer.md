@@ -94,12 +94,6 @@ When you disconnect: close both valves, remove the hose from the cleanout first,
 
 ## Sources
 
-- [Progressive Industries EMS-HW30C](https://www.amazon.com/s?k=progressive+industries+surge+protector+rv&tag=contentportfo-20)
-- [pressure regulator](https://www.amazon.com/s?k=rv+water+pressure+regulator&tag=contentportfo-20)
-- [two-stage inline filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [sewer hose support/slinky](https://www.amazon.com/s?k=rv+sewer+hose+support&tag=contentportfo-20)
-- [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20)
-
 | Setup | What You Have | What You Manage |
 |---|---|---|
 | Full hookups (W/E/S) | Water, 30/50-amp electric, sewer | Almost nothing actively |
@@ -108,8 +102,6 @@ When you disconnect: close both valves, remove the hose from the cleanout first,
 | Dry camping / boondocking | Nothing from the campground | Everything: water, power, waste |
 
 Full hookups are the most convenient, but they're also the most expensive and increasingly scarce in popular areas. Learning to manage your tanks well means you can stay comfortably in partial hookup or dry camping situations, which opens up a huge range of locations and saves real money.
-
-If you're serious about extended boondocking, a battery monitor and a small solar setup change the game. You stop guessing about your power state and start making actual decisions. The [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20) is what I use and recommend. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

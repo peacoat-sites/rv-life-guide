@@ -109,10 +109,6 @@ If you're leaning used, here's how to approach it without making an expensive mi
 
 ## Sources
 
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
-- [water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
 - [Anton Massalov](https://www.pexels.com/@antonhansenphotography)
 
 People focus on the monthly payment. That's the mistake.

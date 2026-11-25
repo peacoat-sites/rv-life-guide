@@ -99,12 +99,6 @@ After several years of full-time RV living, it becomes clear what is essential a
 
 ## Sources
 
-- [portable version on Amazon](https://www.amazon.com/s?k=rv+surge+protector)
-- [RV water filter](https://www.amazon.com/s?k=rv+inline+water+filter)
-- [Camco leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks)
-- [Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor)
-- [Flexible and rigid solar panels](https://www.amazon.com/s?k=rv+solar+panels)
-
 RV life is a specific fit, not a universal upgrade.
 
 It works well for people who are genuinely flexible and comfortable with uncertainty. Remote workers with truly portable income. Retired couples or solo travelers with low healthcare overhead. Anyone who prioritizes experiences over stability. People who genuinely find home maintenance more burden than pleasure.

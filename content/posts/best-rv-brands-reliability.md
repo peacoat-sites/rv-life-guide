@@ -116,15 +116,3 @@ If you're just getting started and want a structured approach to the whole lifes
 After 90,000 miles and six years, I still don't have a perfect answer to the reliability question. What I have is a strong sense that the brands willing to build slower, charge more, and stand behind their product after the sale are worth every extra dollar you pay upfront. The cheapest RV on the lot is rarely the cheapest RV in the long run. Buy the best-built unit your budget can handle, inspect it before you commit, and maintain it like your freedom depends on it. Because on the road, it does.
 
 *Photo: [Willian Justen de Vasconcellos](https://www.pexels.com/@willianjusten) via Pexels*
-
-## Sources
-
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
-- [water filter system](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-- [Leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-- [RV living guides](https://www.amazon.com/s?k=rv+living+guide+book&tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299), Complete home security kit with video doorbell, documents visitors and can lower home insurance premiums by up to 20%.

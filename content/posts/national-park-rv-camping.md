@@ -109,19 +109,9 @@ Take those length limits seriously, especially Glacier's Apgar. Rangers will tur
 
 ## Sources
 
-- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv+712+battery+monitor&tag=contentportfo-20)
-- [quality surge protector](https://www.amazon.com/s?k=rv+surge+protector+30+amp&tag=contentportfo-20)
-- [dedicated inline water filter](https://www.amazon.com/s?k=rv+inline+water+filter&tag=contentportfo-20)
-- [100-watt solar panel kit](https://www.amazon.com/s?k=100+watt+rv+solar+panel+kit&tag=contentportfo-20)
-- [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20)
-
 If you've mostly camped with hookups, dry camping in a national park can feel like a step backward. It doesn't have to.
 
-Power management and temperature control are your biggest comfort factors. Most national park stays are a few nights, which is very manageable if you've got a decent battery bank and a few solar panels. Even a starter [100-watt solar panel kit](https://www.amazon.com/s?k=100+watt+rv+solar+panel+kit&tag=contentportfo-20) will help keep your batteries topped off for lighting, USB charging, and a fan.
-
 Temperature control is harder. If you're camping somewhere hot and you rely on air conditioning, dry camping without a generator is a genuine challenge. My honest advice: schedule national park trips for shoulder seasons. May, September, early October. The crowds are thinner, the reservation system is less brutal, the temperatures are manageable, and the light is better for photos. Summer at a national park is peak crowds plus peak heat. It's not the sweet spot unless your kids are out of school and you have no choice.
-
-A set of good [leveling blocks](https://www.amazon.com/s?k=rv+leveling+blocks&tag=contentportfo-20) is non-negotiable for national park camping. Sites are rarely flat. Trying to sleep in an unlevel rig, or run your refrigerator when it's out of level, is the kind of thing that makes people swear off camping. Spend the 30 bucks.
 
 ---
 

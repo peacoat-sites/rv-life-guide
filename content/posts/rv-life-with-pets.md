@@ -80,10 +80,7 @@ Pet insurance deserves a real conversation before you go full-time. The research
 
 ## Sources
 
-- [Doggie Dooley waste disposal system](https://www.amazon.com/s?k=doggie+dooley+waste+disposal)
 - [Helena Lopes](https://www.pexels.com/@helenalopes)
-- part pit. What
-- here is mixed on whether it saves money in aggregate
 
 The thing that took me longest to figure out wasn't a gear problem or a logistics problem. It was understanding that my pets needed a routine even when geography was completely fluid.
 

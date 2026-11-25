@@ -87,11 +87,7 @@ A [surge protector](https://www.amazon.com/s?k=rv+surge+protector) is non-negoti
 
 ## Sources
 
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector)
 - [Ken Cheung](https://www.pexels.com/@ken-cheung-3355734)
-- year than any other city in the United
-- complimentary wifi. Pull
-- plan as your primary connection
 
 After this many seasons, here's what matters and what doesn't.
 

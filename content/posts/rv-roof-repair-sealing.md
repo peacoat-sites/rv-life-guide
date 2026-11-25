@@ -123,7 +123,6 @@ If your membrane is aged and the entire surface looks worn, a liquid RV roof coa
 
 ## Sources
 
-- [Dicor lap sealant is widely available on Amazon](https://www.amazon.com/s?k=dicor+lap+sealant)
 - [Indiana Barriopedro](https://www.pexels.com/@indiana-barriopedro-639081391)
 
 A basic resealing job you do yourself might run $50-150 in materials. A full rubber roof replacement at a dealership or RV repair shop can run $3,000 to $8,000 depending on the rig size. If there's subfloor rot involved, add more.

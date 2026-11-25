@@ -92,8 +92,6 @@ Two useful pieces of gear: a [surge protector](https://www.amazon.com/s?k=rv+sur
 
 ## Sources
 
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector)
-- [whole-rig water filter](https://www.amazon.com/s?k=rv+water+filter+system)
 - [Matheus Bertelli](https://www.pexels.com/@bertellifotografia)
 
 Corps of Engineers parks are the most underrated long-term option in the country and almost never appear on "best RV park" lists because they don't have Instagram-friendly pool complexes. What they do have: beautiful settings (most are lakefront or riverside), low rates ($15-25/night, which works out to $450-750/month at the higher end), and genuine quiet. Most cap stays at 14 days per site, but many have multiple loops, and rangers at some locations are flexible about extended stays if you're not monopolizing a high-demand site. Call the specific site manager, not a central number.

@@ -106,10 +106,6 @@ A [surge protector rated for RV use](https://www.amazon.com/s?k=progressive+indu
 
 ## Sources
 
-- [Camco Tri-Levelers](https://www.amazon.com/s?k=camco+leveling+blocks&tag=contentportfo-20)
-- [battery monitor like the Victron BMV-712](https://www.amazon.com/s?k=victron+bmv-712+battery+monitor&tag=contentportfo-20)
-- [surge protector rated for RV use](https://www.amazon.com/s?k=progressive+industries+rv+surge+protector&tag=contentportfo-20)
-- [RV water filter](https://www.amazon.com/s?k=camco+rv+water+filter&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
 
 I'm going to be honest here because I think people deserve it.

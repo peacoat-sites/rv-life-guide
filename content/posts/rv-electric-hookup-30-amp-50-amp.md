@@ -107,16 +107,11 @@ Most manufacturers rate appliances for 110-120V nominal operation, and consisten
 
 ## Sources
 
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector+50+amp&tag=contentportfo-20)
-- [50 amp surge protector with EMS](https://www.amazon.com/s?k=rv+surge+protector+50+amp+ems&tag=contentportfo-20)
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20)
 - [zvika shmaya](https://www.pexels.com/@zvika-shmaya-1391475)
 
 If you're spending significant time off-grid, the 30 vs. 50 amp question shifts entirely. You're not plugging into a pedestal, so shore power capacity matters less than your battery bank, solar input, and inverter capacity.
 
 What does matter off-grid is understanding your rig's 12-volt DC system versus its 120-volt AC system. Most RVs run lights, fans, and the furnace blower on 12V DC. Your ACs, microwave, and residential fridge run on 120V AC, which off-grid means you need an inverter pulling from your batteries.
-
-A quality [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor+shunt&tag=contentportfo-20) becomes essential because you're managing a finite resource, not a continuous supply. I run a Victron BMV-712 and check it compulsively when boondocking. *(This site may earn a commission on qualifying purchases.)*
 
 Solar panels can offset daytime consumption significantly, but if you're running a 50 amp rig with two ACs off solar and batteries, you're talking about a serious system: 800+ watts of panels, a large lithium battery bank, and a 3,000-watt or larger inverter. That's $5,000 to $15,000 depending on your specs. The 30 or 50 amp label on your shore power connection tells you almost nothing about its off-grid capability. Those are separate systems entirely.
 

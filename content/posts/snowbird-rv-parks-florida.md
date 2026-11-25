@@ -87,11 +87,7 @@ And that heat: even in January you might run your AC in the afternoon. Your roof
 
 ## Sources
 
-- [Progressive Industries surge protectors are on Amazon here](https://www.amazon.com/s?k=Progressive+Industries+surge+protector+RV)
-- [Camco water filters are easy to find on Amazon](https://www.amazon.com/s?k=Camco+TastePURE+water+filter)
-- [They're inexpensive and hold up fine](https://www.amazon.com/s?k=Camco+leveling+blocks+RV)
 - [Arian Fernandez](https://www.pexels.com/@troopper84)
-- something neither of those
 
 The social dynamics of a big Florida snowbird park can be intense. You're living at close quarters with hundreds of other people, many of whom have been coming to the same park for 15 years and have strong opinions about where you park your golf cart and how loud your grandkids are.
 

@@ -93,18 +93,13 @@ Service businesses are arguably even cleaner: mobile dog grooming, mobile notary
 ## Sources
 
 - [Coolworks job board](https://www.coolworks.com)
-- [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20)
-- [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20)
 - [Kampus Production](https://www.pexels.com/@kampus)
-- plan for the past two years
 
 Irregular income is psychologically brutal if you're not prepared for it. This is probably the thing I wish someone had explained to me in year one.
 
 The system that's worked for me: keep a "baseline" savings buffer equivalent to three months of your actual expenses, not some theoretical budget. Treat that buffer as untouchable. Every month I earn above baseline, half goes to taxes, a quarter goes to the buffer if it's depleted, and the rest is genuinely free to spend or invest. I use a separate high-yield savings account (currently at Marcus by Goldman Sachs) just for the tax allocation. That way you're never surprised in April.
 
 Health insurance is the budget line that bites van lifers hardest. If you're self-employed with variable income, ACA marketplace plans deserve careful looking. Income-based subsidies can be significant if your AGI is below 400% of the federal poverty line. HealthSherpa is a better comparison interface than healthcare.gov itself.
-
-On the physical setup side: a decent inverter, a battery monitor so you know your actual power state before a critical work call, and a quality surge protector if you ever plug into shore power at a campground. The [BattleBorn 100Ah LiFePO4 batteries](https://www.amazon.com/s?k=battleborn+100ah+lithium+battery&tag=contentportfo-20) and [Victron BMV-712 battery monitor](https://www.amazon.com/s?k=victron+bmv+712&tag=contentportfo-20) are popular choices for this setup.
 
 ---
 

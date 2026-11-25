@@ -116,22 +116,14 @@ A [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentpor
 
 ## Sources
 
-- [battery monitor](https://www.amazon.com/s?k=rv+battery+monitor&tag=contentportfo-20)
-- [surge protector](https://www.amazon.com/s?k=rv+surge+protector&tag=contentportfo-20)
-- [100-watt portable panels](https://www.amazon.com/s?k=portable+solar+panels+rv&tag=contentportfo-20)
-- [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20)
 - [Los Muertos Crew](https://www.pexels.com/@cristian-rojas)
 
 Math says you need 3,000 watts. Your roof holds 1,800 watts. Now what?
 
 A standard RV roof yields somewhere between 15 and 30 square feet of workable panel space after you subtract vents, AC units, antennas, and roof rails. A 400-watt monocrystalline panel runs about 22 square feet. You see how fast roof real estate disappears.
 
-**Portable ground-deploy panels** work well in open desert camping where you can angle them toward the sun and move them as it tracks. A pair of [100-watt portable panels](https://www.amazon.com/s?k=portable+solar+panels+rv&tag=contentportfo-20) folds up and stores in a basement compartment. They're genuinely useful as a supplement.
-
 **Tilting panel mounts** can increase production 15-25% compared to flat-mounted panels in northern latitudes, especially in winter. If your panels are fixed flat, you're leaving production on the table from November through February.
 
 **A generator as part of the system** is not a failure. I run a Honda EU2200i for 2-3 hours on heavy cloudy days and it tops off the batteries faster than a full day of weak sun. Purists will disagree. Purists also run out of power. A generator is a tool, not a crutch, when it's part of a planned system.
-
-Don't forget a quality [water filter](https://www.amazon.com/s?k=rv+water+filter&tag=contentportfo-20) while you're kitting out the rig. Unrelated to solar, but every new full-timer I've met regrets not installing one sooner. The Camco inline filter is a solid, cheap start.
 
 *Photo: [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) via Pexels*

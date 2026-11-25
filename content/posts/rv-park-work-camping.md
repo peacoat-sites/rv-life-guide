@@ -70,17 +70,13 @@ Get any agreement in writing. Even an email chain works. "Free site in exchange 
 
 ## Sources
 
-- [Check current pricing on Amazon](https://www.amazon.com/s?k=progressive+industries+ems+surge+protector+rv&tag=contentportfo-20)
 - [Poručík Kuna Lama](https://www.pexels.com/@porucik-kuna-lama-609606908)
-- to and how many hosts does the park currently have? That last one matters becaus
 
 Working and living in the same place, surrounded by your employer's guests 24 hours a day, is a specific kind of psychological pressure. Your home is your workplace. The person knocking on your door at 9pm to ask where the nearest Walmart is? You cannot just ignore them the way you'd leave a work email overnight.
 
 Some people genuinely thrive in that environment. I've met work campers who've been doing the same park every summer for nine years and are completely happy. I'm not wired that way. I found that after about six weeks I started dreading walks around the campground because it meant interactions I wasn't mentally prepared for.
 
 The couples dynamic is also real. If one partner is significantly more social or more mechanically inclined than the other, the work often drifts toward the person who handles it better, which creates friction. Worth talking about before you sign a contract.
-
-One practical note: if you're doing this long-term, a good surge protector is non-negotiable when you're plugged into a campground pedestal for months at a time. A quality surge protector like the Progressive Industries EMS-PT30C (around $270) can protect against voltage spikes from aging campground electrical systems. ([Check current pricing on Amazon](https://www.amazon.com/s?k=progressive+industries+ems+surge+protector+rv&tag=contentportfo-20), the site may earn a commission on purchases.) Same logic applies to a quality water filter if you're on hookups for an extended stay. Municipal water quality varies more than most people realize.
 
 ---
 

@@ -120,9 +120,6 @@ Here's what I tell people when they're frustrated with a bad site:
 
 ## Sources
 
-- [Camco RV Level](https://www.amazon.com/s?k=camco+rv+two+way+level&tag=contentportfo-20)
-- [Camco Fasten leveling blocks](https://www.amazon.com/s?k=camco+rv+leveling+blocks&tag=contentportfo-20)
-- [Tri-Lynx Lynx Levelers](https://www.amazon.com/s?k=lynx+levelers+rv&tag=contentportfo-20)
 - [Clément Proust](https://www.pexels.com/@clement-proust-363898785)
 
 | Tool | Useful? | Cost Range | My Take |
