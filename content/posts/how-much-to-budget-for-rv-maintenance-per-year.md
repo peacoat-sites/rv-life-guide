@@ -1,6 +1,7 @@
 ---
 title: "RV Maintenance Budget: What to Plan Annually"
 date: 2026-08-14T19:40:49.937856+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how much to set aside yearly for RV maintenance, repair costs, and seasonal upkeep to keep your motorhome running smoothly."

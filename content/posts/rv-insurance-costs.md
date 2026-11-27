@@ -1,6 +1,7 @@
 ---
 title: "How Much Does RV Insurance Really Cost"
 date: 2026-05-29T00:32:07.456916+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how much RV insurance costs, what factors affect your rates, and how to find the best coverage for your motorhome or travel trailer at an affordable price"
 image: "/img/heroes/7731318.jpg"
@@ -114,9 +115,3 @@ Here's the practical stuff. None of it is complicated, but it does take work.
 - [A good battery monitor](https://amzn.to/3example)
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.

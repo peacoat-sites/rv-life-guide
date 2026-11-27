@@ -1,6 +1,7 @@
 ---
 title: "Campendium vs Freecampsites: Which RV App Saves You More"
 date: 2026-07-18T19:59:34.899371+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare Campendium and Freecampsites to find the best camping app for your budget, features, and travel style. Detailed breakdown inside."

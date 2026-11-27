@@ -1,6 +1,7 @@
 ---
 title: "Sway Control Hitch for RVs: Friction vs Active Systems"
 date: 2026-06-29T20:46:06.892905+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how a sway control hitch improves RV towing safety by reducing trailer sway on highways and winding roads for a smoother, more confident drive."
 image: "/img/heroes/18755796.jpg"

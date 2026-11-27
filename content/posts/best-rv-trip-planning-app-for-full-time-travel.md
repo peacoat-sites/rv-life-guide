@@ -1,6 +1,7 @@
 ---
 title: "Best RV Trip Planning App for Full-Time Travel"
 date: 2026-06-19T20:26:24.256562+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best RV trip planning apps for full-time travelers. Compare top tools for routing, campsite finding, and life on the road."
 image: "/img/heroes/5921677.jpg"

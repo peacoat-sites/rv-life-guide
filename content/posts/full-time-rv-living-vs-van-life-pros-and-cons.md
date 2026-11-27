@@ -1,6 +1,7 @@
 ---
 title: "Van Life Or Full-Time RV: Which Fits Your Budget"
 date: 2026-06-06T20:03:04.095458+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the key differences between full-time RV living and van life. Compare costs, freedom, comfort, and lifestyle to find the best option for your adventure"
 image: "/img/heroes/34142095.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "New Motorhome Sales Are Now Blocked in 7 States. Here Is What to Do"
 date: 2026-07-28T20:11:15.261869+00:00
+googlebot_noindex: true
 draft: false
 description: "New motorhome sales blocked in 7 states. Learn which states are affected and discover your options for purchasing or registering your motorhome legally today."
 image: "/img/heroes/12689473.jpg"

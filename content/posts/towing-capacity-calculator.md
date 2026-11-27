@@ -1,6 +1,7 @@
 ---
 title: "Calculate Your RV's True Towing Capacity"
 date: 2026-05-26T16:25:03.498216+00:00
+googlebot_noindex: true
 draft: false
 description: "Calculate your vehicle's maximum towing capacity instantly. Determine safe towing limits based on your car, truck, or SUV specifications."
 image: "/img/heroes/27099096.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "New Shore Power Safety Rule Is Coming for All New RVs"
 date: 2026-06-15T21:41:16.392939+00:00
+googlebot_noindex: true
 draft: false
 description: "New shore power safety rules are coming for all new RVs. Learn what changes are ahead, how they affect your rig, and what it means for safer campground connecti"
 image: "/img/heroes/13016664.jpg"

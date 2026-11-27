@@ -1,6 +1,7 @@
 ---
 title: "RV Community Social Life: Making Friends on the Road"
 date: 2026-07-15T20:01:31.145992+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how RV travelers build lasting friendships, join communities, and create meaningful social connections while living the nomadic lifestyle."

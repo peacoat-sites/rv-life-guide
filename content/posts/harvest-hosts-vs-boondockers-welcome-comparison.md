@@ -1,6 +1,7 @@
 ---
 title: "Harvest Hosts vs Boondockers Welcome: 5,000 Locations Compared"
 date: 2026-08-07T19:42:09.967107+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare Harvest Hosts and Boondockers Welcome memberships, costs, and available locations to find the best RV camping network for your travels."

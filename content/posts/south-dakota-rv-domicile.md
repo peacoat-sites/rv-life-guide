@@ -1,6 +1,7 @@
 ---
 title: "Why Full-Timers Choose South Dakota as RV Domicile"
 date: 2026-05-25T17:50:58.642951+00:00
+googlebot_noindex: true
 draft: false
 description: "Establish your RV domicile in South Dakota and enjoy low registration costs, no state income tax, and simplified vehicle titling for full-time travelers."
 image: "/img/heroes/35890357.jpg"

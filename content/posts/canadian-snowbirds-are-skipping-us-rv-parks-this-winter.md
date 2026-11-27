@@ -1,6 +1,7 @@
 ---
 title: "Canadian Snowbirds Are Skipping U.S. RV Parks This Winter"
 date: 2026-06-23T20:58:25.627229+00:00
+googlebot_noindex: true
 draft: false
 description: "Canadian snowbirds are ditching U.S. RV parks this winter amid rising tensions and costs. Discover where they're heading instead and what it means for American "
 image: "/img/heroes/6993416.jpg"

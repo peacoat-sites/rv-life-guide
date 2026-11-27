@@ -1,6 +1,7 @@
 ---
 title: "Extend Your Slide Room Life: Essential Maintenance Tips"
 date: 2026-06-25T20:52:06.738353+00:00
+googlebot_noindex: true
 draft: false
 description: "Keep your RV slide room working smoothly with essential maintenance tips covering seals, tracks, lubrication, and common repairs to prevent costly damage."
 image: "/img/heroes/7967392.jpg"

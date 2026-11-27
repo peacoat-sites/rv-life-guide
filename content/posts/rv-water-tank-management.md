@@ -1,6 +1,7 @@
 ---
 title: "Keep Your RV Water Tank Clean and Fresh"
 date: 2026-07-04T20:02:31.723360+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how to fill, sanitize, and conserve your RV fresh water tank for safe drinking water on every trip with these essential management tips."
 image: "/img/heroes/2962089.jpg"

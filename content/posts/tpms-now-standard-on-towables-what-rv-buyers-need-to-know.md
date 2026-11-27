@@ -1,6 +1,7 @@
 ---
 title: "TPMS Now Standard on Towables: What RV Buyers Need to Know"
 date: 2026-07-03T20:06:54.689394+00:00
+googlebot_noindex: true
 draft: false
 description: "TPMS Now Standard on Towables: What RV Buyers Need to Know. Learn about tire pressure monitoring requirements, benefits, and what to expect when buying an RV."
 image: "/img/heroes/33516379.jpg"

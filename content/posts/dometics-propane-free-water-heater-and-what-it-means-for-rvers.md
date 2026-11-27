@@ -1,6 +1,7 @@
 ---
 title: "Dometic's Propane-Free Water Heater and What It Means for RVers"
 date: 2026-07-13T20:04:45.053884+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Dometic's propane-free water heater revolutionizes RV living with safer, more efficient heating. Discover how this innovation benefits your camping experience a"

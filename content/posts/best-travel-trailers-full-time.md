@@ -1,6 +1,7 @@
 ---
 title: "Full-Time Travel Trailers That Actually Work for Living"
 date: 2026-05-23T20:39:07.798914+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best travel trailers for full time living. Compare top models, key features, and expert tips to find your perfect home on wheels today."
 image: "/img/heroes/6367172.jpg"

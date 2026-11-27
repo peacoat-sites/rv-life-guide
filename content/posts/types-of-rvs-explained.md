@@ -1,6 +1,7 @@
 ---
 title: "Types of RVs Explained: Which One Fits Your Lifestyle?"
 date: 2026-05-24T10:28:24.699674+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the different types of RVs available, from motorhomes and travel trailers to fifth wheels and camper vans, to find the perfect fit for your adventures."
 image: "/img/heroes/26771996.jpg"

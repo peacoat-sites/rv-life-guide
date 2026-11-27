@@ -1,6 +1,7 @@
 ---
 title: "Cook Real Meals in Your Tiny RV Kitchen"
 date: 2026-06-25T20:54:25.584541+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover smart meal planning and cooking tips for a small RV kitchen. Save space, reduce waste, and enjoy delicious meals on the road every trip."
 image: "/img/heroes/8154324.jpg"

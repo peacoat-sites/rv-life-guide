@@ -1,6 +1,7 @@
 ---
 title: "RV Refrigerator Not Cooling: Causes and Fixes"
 date: 2026-06-24T20:25:24.680386+00:00
+googlebot_noindex: true
 draft: false
 description: "Fix your RV refrigerator not cooling with these proven troubleshooting steps covering power issues, ventilation, leveling, and common part failures."
 image: "/img/heroes/64613.jpg"

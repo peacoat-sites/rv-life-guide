@@ -1,6 +1,7 @@
 ---
 title: "Choose Your RV Domicile State Strategically"
 date: 2026-05-24T18:32:34.783525+00:00
+googlebot_noindex: true
 draft: false
 description: "Choose your RV domicile state wisely. Compare residency options, tax implications, and registration requirements to find the best state for your needs."
 image: "/img/heroes/17888972.jpg"

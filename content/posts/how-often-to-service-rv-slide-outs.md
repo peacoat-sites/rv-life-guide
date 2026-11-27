@@ -1,6 +1,7 @@
 ---
 title: "Keep Your RV Slide-Outs Working Longer"
 date: 2026-07-01T20:31:54.729079+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how often to service RV slide-outs, what maintenance tasks to perform, and tips to keep your slide mechanism working smoothly for years."
 image: "/img/heroes/13304737.jpg"

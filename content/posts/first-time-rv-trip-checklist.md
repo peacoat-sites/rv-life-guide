@@ -1,6 +1,7 @@
 ---
 title: "47 First Time RV Trip Checklist Items You Can't Skip"
 date: 2026-07-09T20:31:12.544037+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Heading out for your first RV trip? Use this 47-item checklist covering hookups, safety gear, and supplies to avoid costly rookie mistakes."

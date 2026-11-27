@@ -1,6 +1,7 @@
 ---
 title: "Remote Work On The Road: Your RV Internet Setup Guide"
 date: 2026-06-12T20:58:11.853589+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the best RV internet options for remote work, including cellular data plans, mobile hotspots, and satellite solutions to stay connected on the road."
 image: "/img/heroes/11280672.jpg"

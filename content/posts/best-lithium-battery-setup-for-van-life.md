@@ -1,6 +1,7 @@
 ---
 title: "Best Lithium Battery Setup for Van Life: Complete Guide"
 date: 2026-07-21T20:12:37.610148+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to choose the right lithium battery system for your van, including capacity, voltage, and installation considerations for off-grid living."

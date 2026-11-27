@@ -1,6 +1,7 @@
 ---
 title: "How to Homeschool Your Kids While Living Full-Time in an RV"
 date: 2026-06-16T21:38:21.929483+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover how families successfully homeschool while living in an RV full time with practical tips, curriculum ideas, and daily routine strategies."
 image: "/img/heroes/8121123.jpg"

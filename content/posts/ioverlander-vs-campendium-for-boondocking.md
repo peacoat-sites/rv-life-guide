@@ -1,6 +1,7 @@
 ---
 title: "400,000 Boondocking Spots: iOverlander vs Campendium"
 date: 2026-08-13T19:48:43.417850+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare iOverlander and Campendium for finding boondocking sites. Explore features, costs, and which app offers the best free camping locations."

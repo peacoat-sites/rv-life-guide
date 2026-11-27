@@ -1,6 +1,7 @@
 ---
 title: "RV Air Conditioner Repair: $380 Average Cost Guide"
 date: 2026-07-15T19:59:27.461836+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about RV AC repair costs, common problems, and when to DIY vs. call a technician. Real pricing and maintenance tips."

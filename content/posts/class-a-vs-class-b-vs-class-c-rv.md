@@ -1,6 +1,7 @@
 ---
 title: "Which RV Class Fits Your Lifestyle Best"
 date: 2026-05-28T06:53:15.835480+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the key differences between Class A, Class B, and Class C RVs to find the perfect motorhome for your lifestyle, budget, and travel needs."
 image: "/img/heroes/18191469.jpg"

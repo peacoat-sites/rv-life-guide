@@ -1,6 +1,7 @@
 ---
 title: "California Just Banned Ghost Campers. Here Is What RVers Need to Know"
 date: 2026-07-19T19:59:44.836424+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "California Just Banned Ghost Campers. Learn what this new law means for RV owners, including regulations, penalties, and how it affects your camping plans."

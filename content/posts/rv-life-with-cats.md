@@ -1,6 +1,7 @@
 ---
 title: "RV Life With Cats: 46% Of Nomads Make It Work"
 date: 2026-07-29T20:05:45.938896+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how nearly half of RV nomads successfully travel with cats. Essential tips, setup solutions, and real experiences from the road."

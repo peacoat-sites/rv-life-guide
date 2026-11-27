@@ -1,6 +1,7 @@
 ---
 title: "Fifth Wheel Backing Up: Essential Tips for First-Time Drivers"
 date: 2026-07-27T20:13:21.971709+00:00
+googlebot_noindex: true
 draft: false
 description: "Master the fundamentals of backing up a fifth wheel with practical techniques, common mistakes to avoid, and step-by-step guidance for beginners."
 image: "/img/heroes/13870641.jpg"

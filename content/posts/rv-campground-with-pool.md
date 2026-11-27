@@ -1,6 +1,7 @@
 ---
 title: "98 RV Campgrounds With Pools: Find Your Perfect Spot"
 date: 2026-07-24T20:07:39.792735+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover 98 RV campgrounds featuring pools across the country. Compare amenities, rates from $12-$47 per night, and book your next camping adventure."
 image: "/img/heroes/36568259.jpg"

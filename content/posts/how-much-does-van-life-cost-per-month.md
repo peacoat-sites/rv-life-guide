@@ -1,6 +1,7 @@
 ---
 title: "What Van Life Really Costs Each Month"
 date: 2026-06-08T21:10:46.053769+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover the real monthly costs of van life, from fuel and food to insurance and campsites, and find out if full-time van living fits your budget."
 image: "/img/heroes/4572212.jpg"
@@ -107,10 +108,3 @@ The number that will actually matter is yours. Not mine. Not some YouTuber's hig
 ## Sources
 
 - [ArtHouse Studio](https://www.pexels.com/@arthousestudio)
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit with 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, widely used in off-grid and home backup systems.

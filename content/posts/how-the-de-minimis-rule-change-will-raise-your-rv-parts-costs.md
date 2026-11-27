@@ -1,6 +1,7 @@
 ---
 title: "How the De Minimis Rule Change Will Raise Your RV Parts Costs"
 date: 2026-06-27T20:05:03.219374+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how the de minimis rule change affects RV parts imports, why prices are rising, and what you can do to manage higher costs on essential components."
 image: "/img/heroes/36444011.jpg"

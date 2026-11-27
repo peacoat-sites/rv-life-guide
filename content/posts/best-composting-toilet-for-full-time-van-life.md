@@ -1,6 +1,7 @@
 ---
 title: "Best Composting Toilets for Van Life: Tested Options"
 date: 2026-07-24T20:09:52.470645+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find the right composting toilet for full-time van living. Compare top models, capacity, odor control, and maintenance to keep your mobile home fresh."

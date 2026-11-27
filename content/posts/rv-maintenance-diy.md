@@ -1,6 +1,7 @@
 ---
 title: "Keep Your RV Running: Essential DIY Maintenance Tasks"
 date: 2026-06-22T21:30:30.092585+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn essential RV maintenance DIY tips to save money and keep your rig road-ready. Covers roof seals, plumbing, electrical, and more for every skill level."
 image: "/img/heroes/36833085.jpg"
@@ -108,9 +109,3 @@ Leveling blocks deserve a mention here too. Properly leveling your rig isn't jus
 ## Sources
 
 - [Peter Dyllong](https://www.pexels.com/@peter-dyllong-2158803154)
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.

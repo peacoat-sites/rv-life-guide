@@ -1,6 +1,7 @@
 ---
 title: "How to Do Laundry Living in a Van Full Time"
 date: 2026-07-19T20:02:04.306800+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn practical strategies for doing laundry full-time in a van, including budget-friendly methods and space-saving solutions for nomadic living."

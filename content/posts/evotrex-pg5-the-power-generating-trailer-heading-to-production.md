@@ -1,6 +1,7 @@
 ---
 title: "Evotrex PG5: The Power-Generating Trailer Heading to Production"
 date: 2026-08-09T19:23:36.595335+00:00
+googlebot_noindex: true
 draft: false
 description: "Evotrex PG5 power-generating trailer enters production. Discover how this innovative vehicle technology generates electricity while towing, revolutionizing sust"
 image: "/img/heroes/19770630.jpg"

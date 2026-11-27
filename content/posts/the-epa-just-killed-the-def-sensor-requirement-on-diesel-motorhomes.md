@@ -1,6 +1,7 @@
 ---
 title: "The EPA Just Killed the DEF Sensor Requirement on Diesel Motorhomes"
 date: 2026-06-18T21:18:47.808094+00:00
+googlebot_noindex: true
 draft: false
 description: "The EPA has eliminated the DEF sensor requirement for diesel motorhomes. Learn what this regulatory change means for RV owners, maintenance costs, and complianc"
 image: "/img/heroes/7019371.jpg"

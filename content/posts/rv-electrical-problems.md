@@ -1,6 +1,7 @@
 ---
 title: "70% of RV Electrical Problems: Causes and Fixes"
 date: 2026-08-01T20:03:04.599554+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover why 70% of RV electrical failures happen and learn proven solutions to prevent costly breakdowns on the road."

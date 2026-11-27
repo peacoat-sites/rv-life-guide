@@ -1,6 +1,7 @@
 ---
 title: "Grand Design Lineage Series E: A New Class C Built Differently"
 date: 2026-07-16T19:53:45.970747+00:00
+googlebot_noindex: true
 draft: false
 description: "Grand Design Lineage Series E offers innovative Class C motorhome design. Explore unique features, floor plans, and specifications that set this model apart fro"
 image: "/img/heroes/14766762.jpg"

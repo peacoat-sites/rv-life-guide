@@ -1,6 +1,7 @@
 ---
 title: "The CURT Suspension Bolt Recall Hitting a Dozen RV Brands"
 date: 2026-07-20T20:17:47.875635+00:00
+googlebot_noindex: true
 draft: false
 description: "The CURT Suspension Bolt Recall Hitting a Dozen RV Brands: Learn which RV manufacturers are affected, safety risks, and what owners need to do now."
 image: "/img/heroes/25284586.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Extended RV Warranties: When They Actually Pay Off"
 date: 2026-07-02T20:15:07.782077+00:00
+googlebot_noindex: true
 draft: false
 description: "Wondering if an RV extended warranty is worth it? We break down costs, coverage, and when it makes sense to buy one for your motorhome or trailer."
 image: "/img/heroes/30131061.jpg"

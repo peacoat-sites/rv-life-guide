@@ -1,6 +1,7 @@
 ---
 title: "RV Depreciation Rate: How Much Your Motorhome Loses in Value"
 date: 2026-08-02T20:03:00.850834+00:00
+googlebot_noindex: true
 lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand how RVs depreciate over time, what factors affect resale value, and how to minimize losses when selling your motorhome."
