@@ -1,4 +1,3 @@
-{{/* Contextual in-article tool card: matches page keywords to data/tools.json */}}
 {{ $tools := .Site.Data.tools }}
 {{ if $tools }}
   {{ $hay := lower (printf "%s %s %s" .Title (delimit (.Params.categories | default slice) " ") (delimit (.Params.tags | default slice) " ")) }}
@@ -10,12 +9,15 @@
     {{ end }}
     {{ if gt $score $bestScore }}{{ $bestScore = $score }}{{ $best = . }}{{ end }}
   {{ end }}
-  {{ if and $best (ge $bestScore 1) }}
+  {{ if not $best }}{{ $best = index $tools (mod (hash.FNV32a .RelPermalink) (len $tools)) }}{{ end }}
+  {{ $title := $best.label }}
+  {{ with site.GetPage (strings.TrimSuffix "/" $best.url) }}{{ $title = replaceRE `\s*[:,(].*$` "" .Title }}{{ end }}
+  {{ if $best }}
   <aside class="rt-card" aria-label="Related tool">
     <div class="rt-ic" aria-hidden="true">{{ $best.icon }}</div>
     <div class="rt-main">
       <span class="rt-kicker">Free interactive tool</span>
-      <div class="rt-title">{{ $best.label }}</div>
+      <div class="rt-title">{{ $title }}</div>
       <p class="rt-sub">{{ $best.desc | default "A free interactive tool. Get results tailored to your situation in under a minute." }}</p>
     </div>
     <a href="{{ $best.url }}" class="rt-cta">Open tool &rarr;</a>

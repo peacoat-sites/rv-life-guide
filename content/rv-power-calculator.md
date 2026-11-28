@@ -26,9 +26,9 @@ The choice of battery chemistry dramatically changes your system sizing. Traditi
 
 The upfront cost of lithium is significantly higher, often 3-4 times the price per amp-hour. But over the lifetime of a full-time RVing setup, lithium usually wins on cost per cycle. If you're a weekend warrior who stays mostly at hookups, AGM makes more financial sense. If you're boondocking frequently or living full-time, lithium is worth the investment.
 
-## Common Consumption Patterns We've Seen
+## A Typical Boondocking Power Budget
 
-In our own 34-foot fifth wheel, we average about 2.5 kWh per day when boondocking, no air conditioning, a 12V compressor fridge running continuously, LED lights, laptop charging, and a fan. That works out to a 400Ah lithium battery bank and 600W of solar. Add air conditioning (even a small 5,000 BTU window unit draws 500W running) and you're looking at a completely different system, most solar RVers simply run a generator for AC.
+As an illustration, a mid-size fifth wheel boondocking without air conditioning, with a 12V compressor fridge running continuously, LED lights, laptop charging, and a fan, might use about 2.5 kWh per day. A budget like that is commonly paired with roughly a 400Ah lithium battery bank and 600W of solar. Add air conditioning (even a small 5,000 BTU window unit draws 500W running) and you're looking at a completely different system, most solar RVers simply run a generator for AC.
 
 {{< rv-power-calc >}}
 

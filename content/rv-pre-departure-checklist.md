@@ -11,13 +11,13 @@ author_slug: "tony-reeves"
 affiliate_disclosure: false
 ---
 
-In six-plus years of full-time RVing, we've driven away from campgrounds with the slideout partially extended, the steps still down, and the shore power cord dragging behind us. Not all at once, thank goodness, but each of those incidents happened when we were rushing, distracted, or just convinced that we'd "definitely" already checked that item. The fix wasn't more careful thinking. The fix was a checklist we actually used every single time.
+Driving away with the slideout partially extended, the steps still down, or the shore power cord still plugged in is one of the most common and most avoidable RV mistakes. It almost always happens when someone is rushing, distracted, or sure they "definitely" already checked that item. Careful thinking doesn't prevent it. A checklist used the same way every single time does.
 
 A solid pre-departure routine does two things: it catches the things you forgot, and it builds the muscle memory that eventually makes most items automatic. Experienced RVers still use checklists because the stakes are high. A deployed step that catches on a curb can tear apart the underside of your rig. An unsecured awning at 65 mph can shred in minutes and damage the roof. Forgetting to retract a slideout and then trying to drive is an expensive lesson in both body damage and embarrassment.
 
 ## The Most Commonly Forgotten Items
 
-After talking to hundreds of RVers at campgrounds and in online communities, a few items show up again and again as the culprits behind "I can't believe I forgot that" moments:
+In RV forums and owner groups, the same few items come up again and again as the culprits behind "I can't believe I forgot that" moments:
 
 **The TV antenna.** Particularly on older rigs with crank-up antennas. You raised it for better reception two nights ago, satellite dish looked fine, and now you're about to drive under a low canopy. Lowered-antenna is item number one for a reason.
 
