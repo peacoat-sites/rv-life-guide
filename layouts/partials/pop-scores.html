@@ -1,0 +1,3 @@
+{{- $pop := dict -}}
+{{- with site.Data.popular -}}{{- with .pages -}}{{- $pop = . -}}{{- end -}}{{- end -}}
+{{- return $pop -}}

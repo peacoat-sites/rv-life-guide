@@ -12,6 +12,33 @@
 
     <div class="articles-wrap">
       <div class="articles-main">
+        {{ if or (eq .Kind "term") (eq .Kind "section") }}
+        {{ $pop := partialCached "pop-scores.html" site "pop" }}
+        {{ $top := slice }}
+        {{ range partial "rank-posts.html" .Pages }}{{ if and (lt (len $top) 3) (gt (index $pop .RelPermalink | default 0) 0) }}{{ $top = $top | append . }}{{ end }}{{ end }}
+        {{ if ge (len $top) 2 }}
+        {{ $lbl := cond (eq .Kind "term") (partial "topic-label.html" .Title) "" }}
+        <div class="list-popular">
+          <h2 class="list-popular-title">Most popular{{ with $lbl }} in {{ . }}{{ end }}</h2>
+          <div class="articles-grid">
+            {{ range $top }}
+            <a href="{{ .Permalink }}" class="article-card">
+              {{ if .Params.image }}<div class="article-card-image"><img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy"></div>{{ end }}
+              <div class="article-card-body">
+                <h3 class="article-title">{{ .Title }}</h3>
+                <div class="article-meta"><span>{{ .ReadingTime }} min read</span><span class="card-read-more">Read more</span></div>
+              </div>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+        <h2 class="list-popular-title">All {{ with $lbl }}{{ . }} {{ end }}guides, newest first</h2>
+        <style>
+        .list-popular{margin:0 0 30px;padding:18px 18px 6px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}
+        .list-popular-title{font-size:1.05rem;font-weight:700;margin:0 0 14px;color:var(--heading,#1e293b)}
+        </style>
+        {{ end }}
+        {{ end }}
         <div class="articles-grid">
           {{ range .Pages.ByPublishDate.Reverse }}
           <a href="{{ .Permalink }}" class="article-card">

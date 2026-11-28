@@ -1,22 +1,10 @@
 {{ define "main" }}
 
-{{/* Partition articles — prioritize quality/depth content (moats, worked examples) */}}
-{{ $allPages := where .Site.RegularPages "Section" "posts" }}
-
-{{/* Separate featured-depth articles (moats, quality pieces) from regular articles */}}
-{{ $depthArticles := where $allPages "Params.featured_depth" true }}
-{{ $regularArticles := where $allPages "Params.featured_depth" "!=" true }}
-
-{{/* Sort both by date (newest first) */}}
-{{ $depthSorted := $depthArticles.ByDate.Reverse }}
-{{ $regularSorted := $regularArticles.ByDate.Reverse }}
-
-{{/* Featured carousel: depth articles first, then recent regular articles */}}
-{{ $carousel := union $depthSorted $regularSorted }}
-
-{{ $featured := index $carousel 0 }}
-{{ $second   := index $carousel 1 }}
-{{ $rest     := after 2 $carousel }}
+{{ $pop := partialCached "pop-scores.html" site "pop" }}
+{{ $ranked := partialCached "popular-posts.html" site "all" }}
+{{ $carousel := slice }}
+{{ range where $ranked "Params.featured_depth" true }}{{ $carousel = $carousel | append . }}{{ end }}
+{{ range where $ranked "Params.featured_depth" "!=" true }}{{ $carousel = $carousel | append . }}{{ end }}
 
 <!-- ── ANIMATED GRADIENT HERO ───────────────────────────────────────────── -->
 <section class="hero hero-authority">
@@ -163,12 +151,14 @@
           {{ if hasSuffix $display " Pm" }}{{ $display = printf "%s PM" (strings.TrimSuffix " Pm" $display) }}{{ end }}
           {{ if hasSuffix $display " Rv" }}{{ $display = printf "%s RV" (strings.TrimSuffix " Rv" $display) }}{{ end }}
           {{ $display = replace $display "pm " "PM " }}{{ $display = replace $display "seo " "SEO " }}{{ $display = replace $display "rv " "RV " }}{{ $display = replace $display "diy " "DIY " }}{{ $display = replace $display "llc " "LLC " }}{{ $display = replace $display "ui " "UI " }}{{ $display = replace $display "ux " "UX " }}{{ $display = replace $display "api " "API " }}{{ $display = replace $display "hvac " "HVAC " }}{{ $display = replace $display "ac " "AC " }}
-          {{ $catList = $catList | append (dict "name" $name "display" $display "pages" $pages "count" (len $pages)) }}
+          {{ $ranked := partial "rank-posts.html" $pages.Pages }}
+          {{ $score := 0 }}{{ range $ranked }}{{ $score = add $score (index $pop .RelPermalink | default 0) }}{{ end }}
+          {{ $catList = $catList | append (dict "name" $name "display" $display "pages" $pages "ranked" $ranked "count" (len $pages) "key" (add (mul $score 1000) (len $pages))) }}
         {{ end }}
-        {{ $catList = sort $catList "count" "desc" }}
+        {{ $catList = sort $catList "key" "desc" }}
         {{ $tools := .Site.Data.tools }}
         {{ $renderable := slice }}
-        {{ range $catList }}{{ if ge (len .pages.Pages) 2 }}{{ $renderable = $renderable | append . }}{{ end }}{{ end }}
+        {{ range $catList }}{{ if and (ge (len .pages.Pages) 2) (gt (len .ranked) 0) }}{{ $renderable = $renderable | append . }}{{ end }}{{ end }}
         {{ $placed := 0 }}{{ $G := len $renderable }}{{ $T := len $tools }}
         <style>
         .hte-card{display:flex;align-items:center;gap:16px;margin:6px 0 30px;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}
@@ -187,6 +177,8 @@
           {{ $catName := $cat.name }}
           {{ $catDisplay := $cat.display }}
           {{ $sorted := $cat.pages.Pages.ByPublishDate.Reverse }}
+          {{ $lead := $cat.ranked }}
+          {{ range where $sorted "Params.googlebot_noindex" true }}{{ if lt (len $lead) 4 }}{{ $lead = $lead | append . }}{{ end }}{{ end }}
           <section class="topic-group">
             <div class="topic-group-header">
               <h2 class="topic-group-title">{{ $catDisplay }}</h2>
@@ -195,7 +187,7 @@
               {{ end }}
             </div>
             <div class="articles-grid">
-              {{ range $i, $p := first 4 $sorted }}
+              {{ range $i, $p := first 4 $lead }}
               <a href="{{ $p.Permalink }}" class="article-card{{ if eq $i 0 }} article-card-lead{{ end }}">
                 {{ if $p.Params.image }}
                 <div class="article-card-image">
@@ -256,7 +248,7 @@
         <div class="widget">
           <div class="widget-title">Recent Articles</div>
           <div class="ra-list">
-            {{ range first 6 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+            {{ range first 6 (where (where .Site.RegularPages "Section" "posts").ByDate.Reverse "Params.googlebot_noindex" "!=" true) }}
             <a href="{{ .RelPermalink }}" class="ra-card">
               {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" loading="lazy" />{{ end }}
               <div class="ra-body">

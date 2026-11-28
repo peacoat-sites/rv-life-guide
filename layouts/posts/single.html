@@ -207,34 +207,7 @@
       </a>
     </div>
     {{ end }}
-    <!-- Related Articles widget — reliable recent-posts fallback -->
-    <div class="widget">
-      <div class="widget-title">Related Articles</div>
-      <div class="related-articles">
-        {{- $currentPermalink := .Permalink -}}
-        {{- $allPosts := where .Site.RegularPages "Section" "posts" -}}
-        {{- $sameCat := slice -}}
-        {{- if .Params.categories -}}
-          {{- $cat := index .Params.categories 0 -}}
-          {{- $sameCat = where $allPosts ".Params.categories" "intersect" (slice $cat) -}}
-        {{- end -}}
-        {{- $candidates := $sameCat | first 8 -}}
-        {{- if lt (len $candidates) 4 -}}
-          {{- $candidates = $allPosts | first 8 -}}
-        {{- end -}}
-        {{- range $candidates -}}
-          {{- if ne .Permalink $currentPermalink -}}
-          <a href="{{ .Permalink }}" class="ra-card">
-            {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" />{{ end }}
-            <div class="ra-body">
-              <h4 class="ra-title">{{ .Title }}</h4>
-              <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
-            </div>
-          </a>
-          {{- end -}}
-        {{- end -}}
-      </div>
-    </div>
+    {{ partial "popular-sidebar.html" . }}
 
     <!-- Sidebar Ad -->
     {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}

@@ -1,0 +1,17 @@
+{{- $pop := partialCached "pop-scores.html" site "pop" -}}
+{{- $rel := where (where (site.RegularPages.Related .) "Type" "posts") "Params.googlebot_noindex" "!=" true -}}
+{{- $rows := slice -}}
+{{- range $i, $p := first 12 $rel -}}
+{{- $k := sub 100 $i -}}
+{{- if gt (index $pop $p.RelPermalink | default 0) 0 -}}{{- $k = add $k 5 -}}{{- end -}}
+{{- $rows = $rows | append (dict "k" $k "p" $p) -}}
+{{- end -}}
+{{- $out := slice -}}
+{{- $seen := slice .RelPermalink -}}
+{{- range sort $rows "k" "desc" -}}
+{{- if lt (len $out) 7 -}}{{- $out = $out | append .p -}}{{- $seen = $seen | append .p.RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- range partialCached "popular-posts.html" site "all" -}}
+{{- if and (lt (len $out) 7) (not (in $seen .RelPermalink)) -}}{{- $out = $out | append . -}}{{- $seen = $seen | append .RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- return $out -}}

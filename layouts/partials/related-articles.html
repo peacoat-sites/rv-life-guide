@@ -1,8 +1,4 @@
-{{ $currentPage := . }}
-{{ $related := where .Site.RegularPages "Type" "posts" }}
-{{ $related = where $related "Permalink" "ne" $currentPage.Permalink }}
-{{ $related = first 6 $related }}
-{{ with $related }}
+{{ with after 1 (partialCached "related-list.html" . .RelPermalink) }}
 <section class="related-articles-inline">
   <h3>Related Articles</h3>
   <div class="rai-grid">

@@ -1,8 +1,5 @@
-{{- $pool := where (where .Site.RegularPages "Type" "posts") "Permalink" "ne" .Permalink -}}
-{{- $cat := "" -}}{{- with .Params.categories -}}{{- $cat = index . 0 -}}{{- end -}}
-{{- if $cat -}}{{- $cp := where $pool "Params.categories" "intersect" (slice $cat) -}}{{- if gt (len $cp) 0 -}}{{- $pool = $cp -}}{{- end -}}{{- end -}}
-{{- if gt (len $pool) 0 -}}
-{{- $p := index $pool 0 -}}
+{{- with partialCached "related-list.html" . .RelPermalink -}}
+{{- $p := index . 0 -}}
 <aside class="next-read" aria-label="Read next">
   <span class="nr-kicker">Read next</span>
   <a href="{{ $p.Permalink }}" class="nr-card">

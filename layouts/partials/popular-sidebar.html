@@ -1,0 +1,19 @@
+{{- $skip := slice .RelPermalink -}}
+{{- range partialCached "related-list.html" . .RelPermalink -}}{{- $skip = $skip | append .RelPermalink -}}{{- end -}}
+{{- $list := first 8 (where (partialCached "popular-posts.html" site "all") "RelPermalink" "not in" $skip) -}}
+{{- with $list -}}
+<div class="widget">
+  <div class="widget-title">{{ if partialCached "pop-scores.html" site "pop" }}Popular guides{{ else }}More guides{{ end }}</div>
+  <div class="related-articles">
+    {{- range . -}}
+    <a href="{{ .Permalink }}" class="ra-card">
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="ra-thumb" loading="lazy" />{{ end }}
+      <div class="ra-body">
+        <h4 class="ra-title">{{ .Title }}</h4>
+        <span class="ra-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+      </div>
+    </a>
+    {{- end -}}
+  </div>
+</div>
+{{- end -}}

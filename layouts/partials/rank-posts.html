@@ -1,0 +1,9 @@
+{{- $pop := partialCached "pop-scores.html" site "pop" -}}
+{{- $rows := slice -}}
+{{- range where . "Params.googlebot_noindex" "!=" true -}}
+{{- $s := index $pop .RelPermalink | default 0 -}}
+{{- $rows = $rows | append (dict "k" (add (mul (float $s) 10000000000.0) (float .Date.Unix)) "p" .) -}}
+{{- end -}}
+{{- $out := slice -}}
+{{- range sort $rows "k" "desc" -}}{{- $out = $out | append .p -}}{{- end -}}
+{{- return $out -}}
